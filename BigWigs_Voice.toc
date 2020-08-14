@@ -1,0 +1,15 @@
+## Interface: 80300
+## Title: BigWigs |cffff0000+|r|cffffffffVoice|r 한국어
+## Version: v8.3.0.3
+## Notes: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
+## Notes-koKR: 보스 스킬을 음성으로 읽어주는 BigWigs 용 플러그인 (한국어)
+## Author: Funkydude, Sehra, 변하지롱-불타는군단
+
+## X-BigWigs-LoadOn-CoreEnabled: 1
+## Dependencies: BigWigs
+## LoadOnDemand: 1
+
+## X-Category: Raid
+## X-License: All Rights Reserved: You are free to modify
+
+Core.lua
