@@ -1,3 +1,33 @@
+# v9.0.2-6 (2020-12-25)
+
+Added voice for BigWigs v199.1 and LittleWigs v9.0.16
+
+- 대영주 데나리우스 (나스리아 성채 10넴)
+  - id:330042 str:명령: 대학살
+  - id:333979 str:사악한 환영
+  - id:338738 str:거울을 지나
+  - id:344776 str:복수의 비명
+  - id:hymn_stacks str:나스리아의 찬가
+
+- 저편 (쫄 스킬)
+  - id:328740 str:암흑의 연꽃
+  - id:331548 str:금속 아귀
+  - id:331846 str:컹-컹
+  - id:331927 str:통제 불능
+  - id:332605 str:사술
+  - id:332612 str:치유의 물결
+  - id:332671 str:칼날폭풍
+  - id:332678 str:상처 출혈
+  - id:332706 str:치유
+  - id:333227 str:영원한 분노
+  - id:333787 str:분노
+  - id:334051 str:분출하는 어둠
+  - id:soporific_shimmerdust str:최면성 반짝먼지
+
+- 속죄의 전당 (쫄 스킬)
+  - id:325799 str:속사
+
+
 # v9.0.2-5 (2020-12-24)
 
 Added voice for LittleWigs v9.0.14
