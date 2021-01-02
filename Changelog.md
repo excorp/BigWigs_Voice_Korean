@@ -1,3 +1,18 @@
+# v9.0.2-7 (2021-01-02)
+
+Added voice for BigWigs v200 and LittleWigs v9.0.17
+
+- 진흙살이 누르가쉬
+  - id:338858 str:돌주먹
+  - id:338863 str:바위 발구르기
+  - id:338864 str:대지의 작렬
+  - id:338867 str:빗발치는 바위
+  - id:338868 str:깊은 잠
+
+- 킨타라 (승천의 첨탑)
+  - id:331251 str:신실한 연대
+
+
 # v9.0.2-6 (2020-12-25)
 
 Added voice for BigWigs v199.1 and LittleWigs v9.0.16
