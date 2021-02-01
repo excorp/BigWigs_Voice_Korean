@@ -1,4 +1,4 @@
-# v9.0.3-8 (2021-02-01)
+# v9.0.2-8 (2021-02-01)
 
 Added voice for BigWigs v210 and LittleWigs v9.0.24
 
