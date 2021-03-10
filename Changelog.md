@@ -1,3 +1,23 @@
+# v9.0.5-1 (2021-03-11)
+
+Added voice for BigWigs v218 and LittleWigs v9.0.31
+
+- 태양왕의 구원 (나스리아 성채 3넴)
+  - id:341473 str:진홍빛 질풍
+
+- 돌 군단 장군 (나스리아 성채 9넴)
+  - id:343898 str:영혼오염 입상
+
+- 미스트콜러 (티르너 사이드의 안개 2넴)
+  - id:321891 str:얼음땡 시선 집중
+
+- 트레도바 (티르너 사이드의 안개 3넴)
+  - id:326309 str:부패의 산
+
+- 역병몰락지 쫄
+  - id:summon_stealthlings str:새끼 은신거미
+  
+
 # v9.0.2-10 (2021-02-18)
 
 Added voice for BigWigs v215 and LittleWigs v9.0.29
