@@ -1,3 +1,28 @@
+# v9.0.5-2 (2021-06-08)
+
+Added voice for BigWigs v222.5 and LittleWigs v9.0.35
+
+- 나스리아 성채 쫄
+  - id:341146 str:연발 죄악의 화살
+
+- 미스트콜러 (티르너 사이드의 안개 2넴)
+  - id:341709 str:얼음땡
+
+- 승천의 첨탑 쫄
+  - id:317661 str:사악한 맹독
+  - id:317936 str:이탈자의 교리
+  - id:317963 str:지식의 무게
+  - id:317985 str:몰아치는 일격
+  - id:327332 str:무기 정수 주입
+  - id:327413 str:반항의 주먹
+  - id:327648 str:영원한 불화
+  - id:327655 str:무기 주입
+  - id:328288 str:무기 축복
+  - id:328295 str:상급 복원
+  - id:328458 str:점점 여리게
+  - id:328462 str:충전된 창
+
+
 # v9.0.5-1 (2021-03-11)
 
 Added voice for BigWigs v218 and LittleWigs v9.0.31
