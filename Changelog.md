@@ -1,3 +1,13 @@
+# v9.2-5 (2022-03-24)
+
+Added voice for BigWigs v239.2
+
+- 되찾는 자 할론드루스
+  - id:360114 str:찰나의 균열
+  - id:368363 str:조각난 분광경
+  - id:368969 str:불안정한 폭탄
+
+
 # v9.2-4 (2022-03-22)
 
 Added voice for BigWigs v238.1
