@@ -3,6 +3,10 @@ local name, addon = ...
 local zonetable = {}
 
 -- dungeons
+zonetable[36] = "Classsic\\Dungeons\\Deadmines" -- 
+zonetable[756] = "Classsic\\Dungeons\\Deadmines" -- 
+zonetable[33] = "Classsic\\Dungeons\\ShadowfangKeep" -- 
+
 zonetable[558] = "BurningCrusade\\Dungeons\\AuchenaiCrypts" -- Auchenai Crypts
 zonetable[543] = "BurningCrusade\\Dungeons\\HellfireRamparts" -- Hellfire Ramparts
 zonetable[585] = "BurningCrusade\\Dungeons\\MagistersTerrace" -- Magisters' Terrace
@@ -108,7 +112,21 @@ zonetable[2286] = "Shadowlands\\Dungeons\\TheNecroticWake" -- The Necrotic Wake
 zonetable[2293] = "Shadowlands\\Dungeons\\TheaterOfPain" -- Theater of Pain
 zonetable[2441] = "Shadowlands\\Dungeons\\TazaveshTheVeiledMarket" -- Tazavesh the Veiled Market
 
+zonetable[2526] = "Dragonflight\\Dungeons\\AlgetharAcademy" -- Algeth'ar Academy
+zonetable[2520] = "Dragonflight\\Dungeons\\BrackenhideHollow" -- Brackenhide Hollow 
+zonetable[2527] = "Dragonflight\\Dungeons\\HallsOfInfusion" -- Halls of Infusion 
+zonetable[2519] = "Dragonflight\\Dungeons\\Neltharus" -- Neltharus
+zonetable[2521] = "Dragonflight\\Dungeons\\RubyLifePools" -- Ruby Life Pools 
+zonetable[2515] = "Dragonflight\\Dungeons\\TheAzureVault" -- The Azure Vault 
+zonetable[2516] = "Dragonflight\\Dungeons\\TheNokhudOffensive" -- The Nokhud Offensive 
+zonetable[2451] = "Dragonflight\\Dungeons\\UldamanLegacyOfTyr" -- Uldaman: Legacy of Tyr
+
 -- raid
+zonetable[509] = "Classic\\Raids\\AQ20" -- Ruins of Ahn'Qiraj
+zonetable[531] = "Classic\\Raids\\AQ40" -- Ahn'Qiraj
+zonetable[469] = "Classic\\Raids\\BlackwingLair" -- 
+zonetable[409] = "Classic\\Raids\\MoltenCore" -- 
+
 zonetable[564] = "BurningCrusade\\Raids\\BlackTemple" -- Black Temple
 zonetable[534] = "BurningCrusade\\Raids\\Hyjal" -- Hyjal Summit
 zonetable[532] = "BurningCrusade\\Raids\\Karazhan" -- Karazhan
@@ -174,6 +192,13 @@ zonetable[2450] = "Shadowlands\\Raids\\SanctumOfDomination" -- Sanctum of Domina
 zonetable[2481] = "Shadowlands\\Raids\\SepulcherOfTheFirstOnes" -- Sepulcher of the First Ones
 zonetable[2222] = "Shadowlands\\Raids\\Shadowlands" -- Shadowlands
 -- zonetable[-1647] = "Shadowlands\\Raids\\Shadowlands" -- Shadowlands (Fake Menu)
+
+zonetable[-2022] = "Dragonflight\\Raids\\DragonIsles" -- 
+zonetable[-2023] = "Dragonflight\\Raids\\DragonIsles" -- 
+zonetable[-2024] = "Dragonflight\\Raids\\DragonIsles" -- 
+zonetable[-2025] = "Dragonflight\\Raids\\DragonIsles" -- 
+zonetable[2522] = "Dragonflight\\Raids\\VaultOfTheIncarnates" -- Vault of the Incarnates
+
 
 local currentZone = ""
 local EventFrame = CreateFrame("frame", "EventFrame")
