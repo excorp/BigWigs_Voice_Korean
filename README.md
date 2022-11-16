@@ -15,6 +15,6 @@ The addon itself is a few lines of code, the main work is in adding the appropri
 
  
 
-음성 파일은 구글 Cloud TTS API를 이용해서 만들었으며, WeveNet-B , speed 1.3으로 만들었습니다.
+음성 파일은 구글 Cloud TTS API를 이용해서 만들었으며, WeveNet-A , speed 1.3으로 만들었습니다.
 
  
