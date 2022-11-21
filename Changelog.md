@@ -1,3 +1,10 @@
+# v10.0.0-4 (2022-11-21)
+
+Dragonflight/Dungeons/HallsOfInfusion/385181.mp3 -> 385187.mp3 
+
+애드온 폴더 이름 변경 (BigWigs_Voice -> BigWigs_Voice_KRgeelong)
+
+
 # v10.0.0-3 (2022-11-16)
 
 오늘날짜까지 bigwigs,littlewigs 변경사항 반영

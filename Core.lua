@@ -227,9 +227,9 @@ local format = format
 local Timer = C_Timer.After
 addon.SendMessage = BigWigsLoader.SendMessage
 
-local path = "Interface\\AddOns\\BigWigs_Voice\\Sounds\\%s\\%s.mp3"
-local pathCommon = "Interface\\AddOns\\BigWigs_Voice\\Sounds\\Common\\%s.mp3"
-local pathYou = "Interface\\AddOns\\BigWigs_Voice\\Sounds\\Common\\you.mp3"
+local path = "Interface\\AddOns\\BigWigs_Voice_KRgeelong\\Sounds\\%s\\%s.mp3"
+local pathCommon = "Interface\\AddOns\\BigWigs_Voice_KRgeelong\\Sounds\\Common\\%s.mp3"
+local pathYou = "Interface\\AddOns\\BigWigs_Voice_KRgeelong\\Sounds\\Common\\you.mp3"
 local function handler(event, module, key, sound, isOnMe)
 	local success = false
 	if isOnMe then

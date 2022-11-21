@@ -1537,7 +1537,7 @@ Dragonflight/Dungeons/HallsOfInfusion/383840.mp3 용해식 방벽
 Dragonflight/Dungeons/HallsOfInfusion/384014.mp3 전하 쇄도
 Dragonflight/Dungeons/HallsOfInfusion/384351.mp3 불꽃 세례
 Dragonflight/Dungeons/HallsOfInfusion/384524.mp3 티탄의 주먹
-Dragonflight/Dungeons/HallsOfInfusion/385181.mp3 제압의 개굴개굴
+Dragonflight/Dungeons/HallsOfInfusion/385187.mp3 제압의 개굴개굴
 Dragonflight/Dungeons/HallsOfInfusion/385442.mp3 맹독 부패물
 Dragonflight/Dungeons/HallsOfInfusion/385531.mp3 복부 격돌
 Dragonflight/Dungeons/HallsOfInfusion/385551.mp3 꿀꺽
