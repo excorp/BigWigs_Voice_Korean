@@ -1,7 +1,7 @@
-# v10.0.0-4 (2022-11-21)
+# v10.0.2-1 (2022-11-21)
 
+API 버전 변경
 Dragonflight/Dungeons/HallsOfInfusion/385181.mp3 -> 385187.mp3 
-
 애드온 폴더 이름 변경 (BigWigs_Voice -> BigWigs_Voice_KRgeelong)
 
 
