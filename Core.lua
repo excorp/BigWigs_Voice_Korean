@@ -260,7 +260,7 @@ local function handler(event, module, key, sound, isOnMe)
 end
 
 BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
-BigWigsAPI.RegisterVoicePack("korean")
+BigWigsAPI.RegisterVoicePack("KRgeelong")
 
 -- print("빅윅 보이스 로딩됨");
 getCurrentZone()
