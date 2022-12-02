@@ -1603,6 +1603,7 @@ Dragonflight/Dungeons/TheAzureVault/386746.mp3 연약함
 Dragonflight/Dungeons/TheAzureVault/386781.mp3 서리 폭탄
 Dragonflight/Dungeons/TheAzureVault/387151.mp3 얼음의 압도자
 Dragonflight/Dungeons/TheAzureVault/388008.mp3 절대 영점
+Dragonflight/Dungeons/TheNokhudOffensive/373395.mp3 소름끼치는 외침
 Dragonflight/Dungeons/TheNokhudOffensive/375937.mp3 분쇄 일격
 Dragonflight/Dungeons/TheNokhudOffensive/375943.mp3 지각 변동
 Dragonflight/Dungeons/TheNokhudOffensive/376660.mp3 강철의 창
@@ -1614,6 +1615,8 @@ Dragonflight/Dungeons/TheNokhudOffensive/382628.mp3 마력의 쇄도
 Dragonflight/Dungeons/TheNokhudOffensive/382670.mp3 강풍 화살
 Dragonflight/Dungeons/TheNokhudOffensive/382836.mp3 야수 공격
 Dragonflight/Dungeons/TheNokhudOffensive/384316.mp3 벼락
+Dragonflight/Dungeons/TheNokhudOffensive/384336.mp3 전투 발구르기
+Dragonflight/Dungeons/TheNokhudOffensive/384365.mp3 방해의 고함
 Dragonflight/Dungeons/TheNokhudOffensive/384620.mp3 전하 폭풍
 Dragonflight/Dungeons/TheNokhudOffensive/384686.mp3 에너지 쇄도
 Dragonflight/Dungeons/TheNokhudOffensive/384808.mp3 수호자의 바람
@@ -1628,6 +1631,8 @@ Dragonflight/Dungeons/TheNokhudOffensive/388283.mp3 분출
 Dragonflight/Dungeons/TheNokhudOffensive/388817.mp3 바위 조각
 Dragonflight/Dungeons/TheNokhudOffensive/392198.mp3 선조의 유대
 Dragonflight/Dungeons/TheNokhudOffensive/394875.mp3 마력의 쇄도
+Dragonflight/Dungeons/TheNokhudOffensive/395035.mp3 영혼 붕괴
+Dragonflight/Dungeons/TheNokhudOffensive/397394.mp3 죽음의 천둥
 Dragonflight/Dungeons/UldamanLegacyOfTyr/368990.mp3 정화의 불길
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369043.mp3 주입
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369061.mp3 이글거리는 손뼉

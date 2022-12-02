@@ -1,21 +1,35 @@
-# v10.0.2-3 (2022-11-231)
+# v10.0.2-4 (2022-12-02)
 
 추가된 음성 반영
 
-RubyLifePools/372047 강철 탄막
-RubyLifePools/372087 이글거리는 질주
-RubyLifePools/372696 굴착 폭발
-RubyLifePools/372743 얼음의 보호막
-RubyLifePools/373614 연소
-RubyLifePools/373692 지옥불
-RubyLifePools/373693 살아있는 폭탄
-RubyLifePools/385313 불행한 일격
-RubyLifePools/391723 화염 숨결
-RubyLifePools/391726 폭풍 숨결
-RubyLifePools/392395 천둥의 턱
-RubyLifePools/392640 구르는 천둥
+- TheNokhudOffensive
+  - 373395 소름끼치는 외침
+  - 384336 전투 발구르기
+  - 384365 방해의 고함
+  - 395035 영혼 붕괴
+  - 397394 죽음의 천둥
 
-TheNokhudOffensive/386320 파괴공작원 소환
+
+# v10.0.2-3 (2022-11-23)
+
+추가된 음성 반영
+
+- RubyLifePools
+  - 372047 강철 탄막
+  - 372087 이글거리는 질주
+  - 372696 굴착 폭발
+  - 372743 얼음의 보호막
+  - 373614 연소
+  - 373692 지옥불
+  - 373693 살아있는 폭탄
+  - 385313 불행한 일격
+  - 391723 화염 숨결
+  - 391726 폭풍 숨결
+  - 392395 천둥의 턱
+  - 392640 구르는 천둥
+
+TheNokhudOffensive
+  - 386320 파괴공작원 소환
 
 
 # v10.0.2-2 (2022-11-21)
