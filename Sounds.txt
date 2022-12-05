@@ -1,4 +1,3 @@
-
 BattleForAzeroth/Dungeons/AtalDazar/249919.mp3 꼬챙이 꿰기
 BattleForAzeroth/Dungeons/AtalDazar/250036.mp3 어둠의 유해
 BattleForAzeroth/Dungeons/AtalDazar/250050.mp3 샤드라의 메아리
@@ -1490,11 +1489,11 @@ Dragonflight/Dungeons/AlgetharAcademy/389011.mp3 압도적인 힘
 Dragonflight/Dungeons/AlgetharAcademy/389033.mp3 덩굴손 독소
 Dragonflight/Dungeons/AlgetharAcademy/389481.mp3 이글거리는 불꽃의 골대
 Dragonflight/Dungeons/AlgetharAcademy/389483.mp3 맹렬한 바람의 골대
-Dragonflight/Dungeons/AlgetharAcademy/389501.mp3 붉은용군단 충성의 핀
-Dragonflight/Dungeons/AlgetharAcademy/389512.mp3 청동용군단 충성의 핀
-Dragonflight/Dungeons/AlgetharAcademy/389516.mp3 검은용군단 충성의 핀
-Dragonflight/Dungeons/AlgetharAcademy/389521.mp3 푸른용군단 충성의 핀
-Dragonflight/Dungeons/AlgetharAcademy/389536.mp3 녹색용군단 충성의 핀
+Dragonflight/Dungeons/AlgetharAcademy/389501.mp3 유연 5% 증가
+Dragonflight/Dungeons/AlgetharAcademy/389512.mp3 가속 5% 증가
+Dragonflight/Dungeons/AlgetharAcademy/389516.mp3 치명 5% 증가
+Dragonflight/Dungeons/AlgetharAcademy/389521.mp3 특화 584 증가
+Dragonflight/Dungeons/AlgetharAcademy/389536.mp3 받는치유 10% 증가
 Dragonflight/Dungeons/AlgetharAcademy/390912.mp3 폭발 씨앗
 Dragonflight/Dungeons/AlgetharAcademy/391977.mp3 과잉 쇄도
 Dragonflight/Dungeons/AlgetharAcademy/396640.mp3 치유의 손길
