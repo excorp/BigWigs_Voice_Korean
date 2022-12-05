@@ -1,3 +1,4 @@
+
 BattleForAzeroth/Dungeons/AtalDazar/249919.mp3 꼬챙이 꿰기
 BattleForAzeroth/Dungeons/AtalDazar/250036.mp3 어둠의 유해
 BattleForAzeroth/Dungeons/AtalDazar/250050.mp3 샤드라의 메아리
@@ -1586,11 +1587,15 @@ Dragonflight/Dungeons/RubyLifePools/381517.mp3 변화의 바람
 Dragonflight/Dungeons/RubyLifePools/381525.mp3 우렁찬 불꽃숨결
 Dragonflight/Dungeons/RubyLifePools/381862.mp3 지옥핵
 Dragonflight/Dungeons/RubyLifePools/396044.mp3 우박 폭탄
+Dragonflight/Dungeons/TheAzureVault/370766.mp3 결정화 파열
+Dragonflight/Dungeons/TheAzureVault/371358.mp3 금단의 지식
 Dragonflight/Dungeons/TheAzureVault/372222.mp3 비전 가르기
 Dragonflight/Dungeons/TheAzureVault/374364.mp3 지맥 새싹
 Dragonflight/Dungeons/TheAzureVault/374567.mp3 폭발의 낙인
 Dragonflight/Dungeons/TheAzureVault/374720.mp3 흡수의 땅 울리기
 Dragonflight/Dungeons/TheAzureVault/374789.mp3 마력 깃든 강타
+Dragonflight/Dungeons/TheAzureVault/375596.mp3 불규칙적인 성장
+Dragonflight/Dungeons/TheAzureVault/377488.mp3 얼음 속박
 Dragonflight/Dungeons/TheAzureVault/384132.mp3 압도적인 마력
 Dragonflight/Dungeons/TheAzureVault/384223.mp3 용족 환영 소환
 Dragonflight/Dungeons/TheAzureVault/384699.mp3 수정의 포효
@@ -1598,9 +1603,11 @@ Dragonflight/Dungeons/TheAzureVault/384978.mp3 용의 강타
 Dragonflight/Dungeons/TheAzureVault/385075.mp3 비전력 분출
 Dragonflight/Dungeons/TheAzureVault/385399.mp3 방출된 파괴
 Dragonflight/Dungeons/TheAzureVault/385578.mp3 고대 구체
+Dragonflight/Dungeons/TheAzureVault/386546.mp3 깨어나는 파멸
 Dragonflight/Dungeons/TheAzureVault/386660.mp3 분출의 균열
 Dragonflight/Dungeons/TheAzureVault/386746.mp3 연약함
 Dragonflight/Dungeons/TheAzureVault/386781.mp3 서리 폭탄
+Dragonflight/Dungeons/TheAzureVault/387067.mp3 비전 가격
 Dragonflight/Dungeons/TheAzureVault/387151.mp3 얼음의 압도자
 Dragonflight/Dungeons/TheAzureVault/388008.mp3 절대 영점
 Dragonflight/Dungeons/TheNokhudOffensive/373395.mp3 소름끼치는 외침
@@ -1614,6 +1621,7 @@ Dragonflight/Dungeons/TheNokhudOffensive/376892.mp3 우지직거리는 지각 �
 Dragonflight/Dungeons/TheNokhudOffensive/382628.mp3 마력의 쇄도
 Dragonflight/Dungeons/TheNokhudOffensive/382670.mp3 강풍 화살
 Dragonflight/Dungeons/TheNokhudOffensive/382836.mp3 야수 공격
+Dragonflight/Dungeons/TheNokhudOffensive/383823.mp3 부족 결집
 Dragonflight/Dungeons/TheNokhudOffensive/384316.mp3 벼락
 Dragonflight/Dungeons/TheNokhudOffensive/384336.mp3 전투 발구르기
 Dragonflight/Dungeons/TheNokhudOffensive/384365.mp3 방해의 고함
@@ -1627,6 +1635,7 @@ Dragonflight/Dungeons/TheNokhudOffensive/386063.mp3 공포를 자아내는 포�
 Dragonflight/Dungeons/TheNokhudOffensive/386490.mp3 분해
 Dragonflight/Dungeons/TheNokhudOffensive/386530.mp3 용학살자 창
 Dragonflight/Dungeons/TheNokhudOffensive/386547.mp3 격퇴
+Dragonflight/Dungeons/TheNokhudOffensive/387411.mp3 연발 죽음의 화살
 Dragonflight/Dungeons/TheNokhudOffensive/388283.mp3 분출
 Dragonflight/Dungeons/TheNokhudOffensive/388817.mp3 바위 조각
 Dragonflight/Dungeons/TheNokhudOffensive/392198.mp3 선조의 유대
