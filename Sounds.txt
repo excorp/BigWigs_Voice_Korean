@@ -1551,6 +1551,10 @@ Dragonflight/Dungeons/HallsOfInfusion/388882.mp3 범람
 Dragonflight/Dungeons/HallsOfInfusion/389179.mp3 동력 과부하
 Dragonflight/Dungeons/HallsOfInfusion/389446.mp3 무효화 파동
 Dragonflight/Dungeons/HallsOfInfusion/390290.mp3 범람의 치유
+Dragonflight/Dungeons/Neltharus/372201.mp3 그을리는 숨결
+Dragonflight/Dungeons/Neltharus/372223.mp3 치유의 점토
+Dragonflight/Dungeons/Neltharus/372296.mp3 불타는 포격
+Dragonflight/Dungeons/Neltharus/373084.mp3 그을리는 포화
 Dragonflight/Dungeons/Neltharus/373424.mp3 속박의 창
 Dragonflight/Dungeons/Neltharus/373733.mp3 용의 강타
 Dragonflight/Dungeons/Neltharus/373742.mp3 마그마의 물결
@@ -1564,12 +1568,19 @@ Dragonflight/Dungeons/Neltharus/375068.mp3 용암 투척
 Dragonflight/Dungeons/Neltharus/375251.mp3 용암 분사
 Dragonflight/Dungeons/Neltharus/375439.mp3 불타는 돌진
 Dragonflight/Dungeons/Neltharus/375890.mp3 용암 분출
+Dragonflight/Dungeons/Neltharus/376186.mp3 분출의 분쇄
+Dragonflight/Dungeons/Neltharus/376200.mp3 불타는 폭발
 Dragonflight/Dungeons/Neltharus/376780.mp3 용암 보호막
 Dragonflight/Dungeons/Neltharus/377018.mp3 녹아내린 황금
 Dragonflight/Dungeons/Neltharus/377204.mp3 용의 가마솥
 Dragonflight/Dungeons/Neltharus/377477.mp3 타오르는 불씨
 Dragonflight/Dungeons/Neltharus/377522.mp3 불타는 추적
+Dragonflight/Dungeons/Neltharus/378282.mp3 용암 핵
+Dragonflight/Dungeons/Neltharus/381663.mp3 백열의 폭풍
+Dragonflight/Dungeons/Neltharus/382708.mp3 화산의 수호
+Dragonflight/Dungeons/Neltharus/383651.mp3 녹아내린 군대
 Dragonflight/Dungeons/Neltharus/388523.mp3 족쇄
+Dragonflight/Dungeons/Neltharus/395427.mp3 불타는 포효
 Dragonflight/Dungeons/Neltharus/magical_implements.mp3 금덩이에서 아이템을 획득하세요
 Dragonflight/Dungeons/RubyLifePools/372107.mp3 타오르는 바위
 Dragonflight/Dungeons/RubyLifePools/372682.mp3 원시의 한기
@@ -1650,6 +1661,7 @@ Dragonflight/Dungeons/UldamanLegacyOfTyr/369365.mp3 돌의 저주
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369366.mp3 돌에 갇힘
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369400.mp3 대지의 수호물
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369411.mp3 음파 폭발
+Dragonflight/Dungeons/UldamanLegacyOfTyr/369465.mp3 빗발치는 돌
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369563.mp3 거친 회전베기
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369573.mp3 무거운 화살
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369602.mp3 방어의 보루
@@ -1675,6 +1687,7 @@ Dragonflight/Dungeons/UldamanLegacyOfTyr/376049.mp3 폭풍 날개
 Dragonflight/Dungeons/UldamanLegacyOfTyr/376208.mp3 시간의 흐름 되돌리기
 Dragonflight/Dungeons/UldamanLegacyOfTyr/376325.mp3 영원의 지대
 Dragonflight/Dungeons/UldamanLegacyOfTyr/377405.mp3 시간의 천공
+Dragonflight/Dungeons/UldamanLegacyOfTyr/381593.mp3 천둥 손뼉
 Dragonflight/Raids/VaultOfTheIncarnates/-24899.mp3 서리숨결 거미
 Dragonflight/Raids/VaultOfTheIncarnates/-25129.mp3 원시술사 지원군
 Dragonflight/Raids/VaultOfTheIncarnates/370307.mp3 화염의 군대
@@ -1707,6 +1720,7 @@ Dragonflight/Raids/VaultOfTheIncarnates/374430.mp3 격렬한 지각 변동
 Dragonflight/Raids/VaultOfTheIncarnates/374623.mp3 냉기의 구속
 Dragonflight/Raids/VaultOfTheIncarnates/374624.mp3 얼어붙는 폭풍우
 Dragonflight/Raids/VaultOfTheIncarnates/374691.mp3 지진 파열
+Dragonflight/Raids/VaultOfTheIncarnates/374779.mp3 원시 방벽
 Dragonflight/Raids/VaultOfTheIncarnates/374861.mp3 원시 전환
 Dragonflight/Raids/VaultOfTheIncarnates/375457.mp3 싸늘한 격분
 Dragonflight/Raids/VaultOfTheIncarnates/375475.mp3 분쇄 물어뜯기
