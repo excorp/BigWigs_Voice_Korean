@@ -1701,6 +1701,7 @@ Dragonflight/Raids/VaultOfTheIncarnates/371983.mp3 격퇴의 일격
 Dragonflight/Raids/VaultOfTheIncarnates/372027.mp3 절단의 불길
 Dragonflight/Raids/VaultOfTheIncarnates/372030.mp3 끈적이는 그물
 Dragonflight/Raids/VaultOfTheIncarnates/372044.mp3 거미줄에 휘감김
+Dragonflight/Raids/VaultOfTheIncarnates/372056.mp3 분쇄
 Dragonflight/Raids/VaultOfTheIncarnates/372082.mp3 휘감는 그물
 Dragonflight/Raids/VaultOfTheIncarnates/372158.mp3 파열의 일격
 Dragonflight/Raids/VaultOfTheIncarnates/372458.mp3 절대 영점
@@ -1720,7 +1721,6 @@ Dragonflight/Raids/VaultOfTheIncarnates/374430.mp3 격렬한 지각 변동
 Dragonflight/Raids/VaultOfTheIncarnates/374623.mp3 냉기의 구속
 Dragonflight/Raids/VaultOfTheIncarnates/374624.mp3 얼어붙는 폭풍우
 Dragonflight/Raids/VaultOfTheIncarnates/374691.mp3 지진 파열
-Dragonflight/Raids/VaultOfTheIncarnates/374779.mp3 원시 방벽
 Dragonflight/Raids/VaultOfTheIncarnates/374861.mp3 원시 전환
 Dragonflight/Raids/VaultOfTheIncarnates/375457.mp3 싸늘한 격분
 Dragonflight/Raids/VaultOfTheIncarnates/375475.mp3 분쇄 물어뜯기
@@ -1766,6 +1766,7 @@ Dragonflight/Raids/VaultOfTheIncarnates/385553.mp3 폭풍 화살
 Dragonflight/Raids/VaultOfTheIncarnates/385569.mp3 거센 폭풍우
 Dragonflight/Raids/VaultOfTheIncarnates/385574.mp3 뇌우의 날개
 Dragonflight/Raids/VaultOfTheIncarnates/385812.mp3 공중 베기
+Dragonflight/Raids/VaultOfTheIncarnates/386223.mp3 폭풍방패
 Dragonflight/Raids/VaultOfTheIncarnates/386289.mp3 불꽃 소집
 Dragonflight/Raids/VaultOfTheIncarnates/386370.mp3 전율 소집
 Dragonflight/Raids/VaultOfTheIncarnates/386375.mp3 폭풍 소집
@@ -1971,6 +1972,7 @@ Legion/Dungeons/CourtOfStars/219488.mp3 직선포
 Legion/Dungeons/CourtOfStars/224333.mp3 회오리 바람
 Legion/Dungeons/CourtOfStars/224377.mp3 떠도는 불씨
 Legion/Dungeons/CourtOfStars/225100.mp3 충전소
+Legion/Dungeons/CourtOfStars/397892.mp3 고통의 절규
 Legion/Dungeons/CourtOfStars/announce_buff_items.mp3 강화 효과 아이템 알리기
 Legion/Dungeons/CourtOfStars/spy_helper.mp3 스파이 발견
 Legion/Dungeons/DarkheartThicket/191325.mp3 타락의 숨결
@@ -4200,14 +4202,22 @@ WarlordsOfDraenor/Dungeons/IronDocks/173514.mp3 용암 타격
 WarlordsOfDraenor/Dungeons/IronDocks/178124.mp3 탈옥
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/-9680.mp3 뼈의 의식
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152801.mp3 공허의 소용돌이
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152818.mp3 어둠의 치유
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152964.mp3 공허 진동
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153067.mp3 공허의 파멸
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153153.mp3 어둠의 교감
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153240.mp3 단검 낙하
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153268.mp3 납골당 발굴
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153395.mp3 몸통 박치기
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153804.mp3 흡입
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/154175.mp3 몸통 박치기
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/154350.mp3 죽음의 징조
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/154442.mp3 적개심
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/156718.mp3 괴저 폭발
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/164974.mp3 어둠의 월식
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/394512.mp3 공허 방출
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/398151.mp3 사악한 집중
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/398206.mp3 죽음의 작렬
 WarlordsOfDraenor/Dungeons/Skyreach/153794.mp3 방어구 관통
 WarlordsOfDraenor/Dungeons/Skyreach/153810.mp3 태양의 섬광 소환
 WarlordsOfDraenor/Dungeons/Skyreach/153954.mp3 Cast Down
