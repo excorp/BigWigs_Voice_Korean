@@ -1597,6 +1597,7 @@ Dragonflight/Dungeons/RubyLifePools/381517.mp3 변화의 바람
 Dragonflight/Dungeons/RubyLifePools/381525.mp3 우렁찬 불꽃숨결
 Dragonflight/Dungeons/RubyLifePools/381862.mp3 지옥핵
 Dragonflight/Dungeons/RubyLifePools/396044.mp3 우박 폭탄
+Dragonflight/Dungeons/TheAzureVault/370764.mp3 관통 파편
 Dragonflight/Dungeons/TheAzureVault/370766.mp3 결정화 파열
 Dragonflight/Dungeons/TheAzureVault/371358.mp3 금단의 지식
 Dragonflight/Dungeons/TheAzureVault/372222.mp3 비전 가르기
@@ -1605,6 +1606,7 @@ Dragonflight/Dungeons/TheAzureVault/374567.mp3 폭발의 낙인
 Dragonflight/Dungeons/TheAzureVault/374720.mp3 흡수의 땅 울리기
 Dragonflight/Dungeons/TheAzureVault/374789.mp3 마력 깃든 강타
 Dragonflight/Dungeons/TheAzureVault/375596.mp3 불규칙적인 성장
+Dragonflight/Dungeons/TheAzureVault/375649.mp3 주입된 땅
 Dragonflight/Dungeons/TheAzureVault/377488.mp3 얼음 속박
 Dragonflight/Dungeons/TheAzureVault/384132.mp3 압도적인 마력
 Dragonflight/Dungeons/TheAzureVault/384223.mp3 용족 환영 소환
@@ -1619,7 +1621,9 @@ Dragonflight/Dungeons/TheAzureVault/386746.mp3 연약함
 Dragonflight/Dungeons/TheAzureVault/386781.mp3 서리 폭탄
 Dragonflight/Dungeons/TheAzureVault/387067.mp3 비전 가격
 Dragonflight/Dungeons/TheAzureVault/387151.mp3 얼음의 압도자
+Dragonflight/Dungeons/TheAzureVault/387564.mp3 신비한 증기
 Dragonflight/Dungeons/TheAzureVault/388008.mp3 절대 영점
+Dragonflight/Dungeons/TheAzureVault/397726.mp3 울음
 Dragonflight/Dungeons/TheNokhudOffensive/373395.mp3 소름끼치는 외침
 Dragonflight/Dungeons/TheNokhudOffensive/375937.mp3 분쇄 일격
 Dragonflight/Dungeons/TheNokhudOffensive/375943.mp3 지각 변동
