@@ -1719,13 +1719,13 @@ Dragonflight/Raids/VaultOfTheIncarnates/373678.mp3 살을 에는 추위
 Dragonflight/Raids/VaultOfTheIncarnates/374023.mp3 이글거리는 살육
 Dragonflight/Raids/VaultOfTheIncarnates/374038.mp3 유성 도끼
 Dragonflight/Raids/VaultOfTheIncarnates/374112.mp3 얼어붙는 숨결
+Dragonflight/Raids/VaultOfTheIncarnates/374215.mp3 천둥번개
 Dragonflight/Raids/VaultOfTheIncarnates/374321.mp3 자갈 부수기
 Dragonflight/Raids/VaultOfTheIncarnates/374427.mp3 지면 파쇄
 Dragonflight/Raids/VaultOfTheIncarnates/374430.mp3 격렬한 지각 변동
 Dragonflight/Raids/VaultOfTheIncarnates/374623.mp3 냉기의 구속
 Dragonflight/Raids/VaultOfTheIncarnates/374624.mp3 얼어붙는 폭풍우
 Dragonflight/Raids/VaultOfTheIncarnates/374691.mp3 지진 파열
-Dragonflight/Raids/VaultOfTheIncarnates/374861.mp3 원시 전환
 Dragonflight/Raids/VaultOfTheIncarnates/375457.mp3 싸늘한 격분
 Dragonflight/Raids/VaultOfTheIncarnates/375475.mp3 분쇄 물어뜯기
 Dragonflight/Raids/VaultOfTheIncarnates/375485.mp3 소작의 섬광불꽃
@@ -1792,16 +1792,22 @@ Dragonflight/Raids/VaultOfTheIncarnates/390715.mp3 화염 균열
 Dragonflight/Raids/VaultOfTheIncarnates/390920.mp3 충격의 파열
 Dragonflight/Raids/VaultOfTheIncarnates/391019.mp3 혹한의 기류
 Dragonflight/Raids/VaultOfTheIncarnates/391056.mp3 좁혀드는 대지
+Dragonflight/Raids/VaultOfTheIncarnates/391268.mp3 대지의 밀침
 Dragonflight/Raids/VaultOfTheIncarnates/391285.mp3 천둥충격 갑옷
+Dragonflight/Raids/VaultOfTheIncarnates/391425.mp3 얼음 폭풍우
 Dragonflight/Raids/VaultOfTheIncarnates/391592.mp3 주입된 낙진
 Dragonflight/Raids/VaultOfTheIncarnates/391686.mp3 전도성 표식
 Dragonflight/Raids/VaultOfTheIncarnates/391696.mp3 치명적인 해류
 Dragonflight/Raids/VaultOfTheIncarnates/391989.mp3 폭풍 충전
 Dragonflight/Raids/VaultOfTheIncarnates/392194.mp3 대지팡이 강화
+Dragonflight/Raids/VaultOfTheIncarnates/393296.mp3 냉기의 일침
+Dragonflight/Raids/VaultOfTheIncarnates/393309.mp3 화염의 일침
+Dragonflight/Raids/VaultOfTheIncarnates/393429.mp3 폭풍의 일침
 Dragonflight/Raids/VaultOfTheIncarnates/393780.mp3 불덩이 작렬
 Dragonflight/Raids/VaultOfTheIncarnates/394582.mp3 집중된 충전
 Dragonflight/Raids/VaultOfTheIncarnates/394583.mp3 전하 분산
 Dragonflight/Raids/VaultOfTheIncarnates/394584.mp3 반전
+Dragonflight/Raids/VaultOfTheIncarnates/394719.mp3 구슬 번개
 Dragonflight/Raids/VaultOfTheIncarnates/394906.mp3 불타는 상처
 Dragonflight/Raids/VaultOfTheIncarnates/394917.mp3 화염 도약
 Dragonflight/Raids/VaultOfTheIncarnates/395501.mp3 역풍
@@ -1814,9 +1820,11 @@ Dragonflight/Raids/VaultOfTheIncarnates/396023.mp3 소각의 포효
 Dragonflight/Raids/VaultOfTheIncarnates/396037.mp3 쇄도하는 작렬
 Dragonflight/Raids/VaultOfTheIncarnates/396094.mp3 상급 화염 균열
 Dragonflight/Raids/VaultOfTheIncarnates/396241.mp3 원시의 동화
+Dragonflight/Raids/VaultOfTheIncarnates/396264.mp3 폭발하는 바위 분쇄
 Dragonflight/Raids/VaultOfTheIncarnates/397382.mp3 조각나는 수의
 Dragonflight/Raids/VaultOfTheIncarnates/397387.mp3 불길의 보호막
 Dragonflight/Raids/VaultOfTheIncarnates/399713.mp3 자기 충전
+Dragonflight/Raids/VaultOfTheIncarnates/400473.mp3 정기의 분노
 Dragonflight/Raids/VaultOfTheIncarnates/ascend.mp3 올라감
 Legion/Dungeons/ArtifactScenarios/202081.mp3 시선 고정
 Legion/Dungeons/ArtifactScenarios/231443.mp3 암흑 탄막
