@@ -1596,6 +1596,10 @@ Dragonflight/Dungeons/RubyLifePools/381516.mp3 방해의 소나기구름
 Dragonflight/Dungeons/RubyLifePools/381517.mp3 변화의 바람
 Dragonflight/Dungeons/RubyLifePools/381525.mp3 우렁찬 불꽃숨결
 Dragonflight/Dungeons/RubyLifePools/381862.mp3 지옥핵
+Dragonflight/Dungeons/RubyLifePools/385536.mp3 불꽃의 춤
+Dragonflight/Dungeons/RubyLifePools/392451.mp3 섬광불꽃
+Dragonflight/Dungeons/RubyLifePools/392486.mp3 번개 폭풍
+Dragonflight/Dungeons/RubyLifePools/392569.mp3 용암의 피
 Dragonflight/Dungeons/RubyLifePools/396044.mp3 우박 폭탄
 Dragonflight/Dungeons/TheAzureVault/370764.mp3 관통 파편
 Dragonflight/Dungeons/TheAzureVault/370766.mp3 결정화 파열
@@ -1624,6 +1628,7 @@ Dragonflight/Dungeons/TheAzureVault/387151.mp3 얼음의 압도자
 Dragonflight/Dungeons/TheAzureVault/387564.mp3 신비한 증기
 Dragonflight/Dungeons/TheAzureVault/388008.mp3 절대 영점
 Dragonflight/Dungeons/TheAzureVault/397726.mp3 울음
+Dragonflight/Dungeons/TheNokhudOffensive/334610.mp3 먹잇감 사냥
 Dragonflight/Dungeons/TheNokhudOffensive/373395.mp3 소름끼치는 외침
 Dragonflight/Dungeons/TheNokhudOffensive/375937.mp3 분쇄 일격
 Dragonflight/Dungeons/TheNokhudOffensive/375943.mp3 지각 변동
@@ -1645,11 +1650,21 @@ Dragonflight/Dungeons/TheNokhudOffensive/384808.mp3 수호자의 바람
 Dragonflight/Dungeons/TheNokhudOffensive/385339.mp3 대지 분열자
 Dragonflight/Dungeons/TheNokhudOffensive/385434.mp3 정령 도약
 Dragonflight/Dungeons/TheNokhudOffensive/385916.mp3 땅의 발구르기
+Dragonflight/Dungeons/TheNokhudOffensive/386015.mp3 돌풍 소환
+Dragonflight/Dungeons/TheNokhudOffensive/386024.mp3 돌개바람
+Dragonflight/Dungeons/TheNokhudOffensive/386028.mp3 천둥벼락
 Dragonflight/Dungeons/TheNokhudOffensive/386063.mp3 공포를 자아내는 포효
 Dragonflight/Dungeons/TheNokhudOffensive/386490.mp3 분해
 Dragonflight/Dungeons/TheNokhudOffensive/386530.mp3 용학살자 창
 Dragonflight/Dungeons/TheNokhudOffensive/386547.mp3 격퇴
+Dragonflight/Dungeons/TheNokhudOffensive/386694.mp3 폭풍쇄도
+Dragonflight/Dungeons/TheNokhudOffensive/387125.mp3 천둥의 일격
+Dragonflight/Dungeons/TheNokhudOffensive/387127.mp3 연쇄 번개
 Dragonflight/Dungeons/TheNokhudOffensive/387411.mp3 연발 죽음의 화살
+Dragonflight/Dungeons/TheNokhudOffensive/387440.mp3 더럽혀진 포효
+Dragonflight/Dungeons/TheNokhudOffensive/387596.mp3 돌풍
+Dragonflight/Dungeons/TheNokhudOffensive/387614.mp3 망자의 찬가
+Dragonflight/Dungeons/TheNokhudOffensive/387629.mp3 부패하는 바람
 Dragonflight/Dungeons/TheNokhudOffensive/388283.mp3 분출
 Dragonflight/Dungeons/TheNokhudOffensive/388817.mp3 바위 조각
 Dragonflight/Dungeons/TheNokhudOffensive/392198.mp3 선조의 유대
