@@ -2000,6 +2000,8 @@ Legion/Dungeons/CourtOfStars/224333.mp3 회오리 바람
 Legion/Dungeons/CourtOfStars/224377.mp3 떠도는 불씨
 Legion/Dungeons/CourtOfStars/225100.mp3 충전소
 Legion/Dungeons/CourtOfStars/397892.mp3 고통의 절규
+Legion/Dungeons/CourtOfStars/397897.mp3 분쇄의 도약
+Legion/Dungeons/CourtOfStars/397907.mp3 파멸의 예언
 Legion/Dungeons/CourtOfStars/announce_buff_items.mp3 강화 효과 아이템 알리기
 Legion/Dungeons/CourtOfStars/spy_helper.mp3 스파이 발견
 Legion/Dungeons/DarkheartThicket/191325.mp3 타락의 숨결
