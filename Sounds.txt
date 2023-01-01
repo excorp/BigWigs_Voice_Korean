@@ -3002,10 +3002,13 @@ MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/396020.mp3 금빛 방벽
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/396073.mp3 토막잠
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/397785.mp3 씻어내기
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/397797.mp3 타락한 소용돌이
+MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/397878.mp3 타락의 물결
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/397881.mp3 몰려드는 쇄도
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/397889.mp3 엄습하는 해일
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/397899.mp3 팽이 차기
+MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/397911.mp3 파멸의 손길
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/397914.mp3 더럽혀진 안개
+MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/397931.mp3 어둠의 발톱
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/398300.mp3 의심의 불길
 MistsOfPandaria/Raids/EndlessSpring/117052.mp3 샤의 타락
 MistsOfPandaria/Raids/EndlessSpring/117309.mp3 정화의 물
