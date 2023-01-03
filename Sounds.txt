@@ -4242,6 +4242,7 @@ WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/-9680.mp3 뼈의 의식
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152792.mp3 공허의 폭발
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152801.mp3 공허의 소용돌이
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152818.mp3 어둠의 치유
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152819.mp3 어둠의 권능: 약화
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152964.mp3 공허 진동
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152979.mp3 영혼 찢기
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153067.mp3 공허의 파멸
@@ -4259,6 +4260,7 @@ WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/154442.mp3 적개심
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/156718.mp3 괴저 폭발
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/164974.mp3 어둠의 월식
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/394512.mp3 공허 방출
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/398150.mp3 지배
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/398151.mp3 사악한 집중
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/398206.mp3 죽음의 작렬
 WarlordsOfDraenor/Dungeons/Skyreach/153794.mp3 방어구 관통
