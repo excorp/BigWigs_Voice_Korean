@@ -2990,6 +2990,8 @@ MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106113.mp3 무의 손길
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106653.mp3 샤 잔여물
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106823.mp3 용격
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106841.mp3 옥룡격
+MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106856.mp3 용각
+MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106864.mp3 옥룡각
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/107110.mp3 옥의 화염
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/115167.mp3 타락의 물
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/117665.mp3 현실의 경계
@@ -3000,6 +3002,7 @@ MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/396001.mp3 영역 과시
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/396018.mp3 분노의 난동
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/396020.mp3 금빛 방벽
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/396073.mp3 토막잠
+MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/396907.mp3 옥의 화염 숨결
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/397785.mp3 씻어내기
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/397797.mp3 타락한 소용돌이
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/397878.mp3 타락의 물결
@@ -4236,14 +4239,19 @@ WarlordsOfDraenor/Dungeons/IronDocks/173480.mp3 용암 탄막
 WarlordsOfDraenor/Dungeons/IronDocks/173514.mp3 용암 타격
 WarlordsOfDraenor/Dungeons/IronDocks/178124.mp3 탈옥
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/-9680.mp3 뼈의 의식
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152792.mp3 공허의 폭발
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152801.mp3 공허의 소용돌이
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152818.mp3 어둠의 치유
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152964.mp3 공허 진동
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152979.mp3 영혼 찢기
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153067.mp3 공허의 파멸
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153094.mp3 검은 별의 속삭임
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153153.mp3 어둠의 교감
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153224.mp3 그림자 불길
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153240.mp3 단검 낙하
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153268.mp3 납골당 발굴
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153395.mp3 몸통 박치기
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153623.mp3 차원 이동
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153804.mp3 흡입
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/154175.mp3 몸통 박치기
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/154350.mp3 죽음의 징조
