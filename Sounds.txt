@@ -72,6 +72,7 @@ BattleForAzeroth/Dungeons/Freehold/274383.mp3 쥐덫
 BattleForAzeroth/Dungeons/Freehold/274400.mp3 결투사 질주
 BattleForAzeroth/Dungeons/Freehold/274507.mp3 미끄러운 거품
 BattleForAzeroth/Dungeons/Freehold/274555.mp3 우둘투둘한 이빨
+BattleForAzeroth/Dungeons/Freehold/crusher.mp3 바위 투척
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/296510.mp3 으스스한 엉금이
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/297146.mp3 어둠의 낙인
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/297237.mp3 끝없는 허기의 토템
@@ -353,7 +354,6 @@ BattleForAzeroth/Dungeons/SiegeOfBoralus/275835.mp3 따가운 독 칠하기
 BattleForAzeroth/Dungeons/SiegeOfBoralus/276068.mp3 굽이치는 파도
 BattleForAzeroth/Dungeons/SiegeOfBoralus/277965.mp3 묵직한 폭탄
 BattleForAzeroth/Dungeons/SiegeOfBoralus/279761.mp3 묵직한 베기
-BattleForAzeroth/Dungeons/SiegeOfBoralus/crusher.mp3 바위 투척
 BattleForAzeroth/Dungeons/SiegeOfBoralus/demolishing.mp3 파괴의 공포 추가됨
 BattleForAzeroth/Dungeons/TempleOfSethraliss/258908.mp3 폭풍의 칼날
 BattleForAzeroth/Dungeons/TempleOfSethraliss/263246.mp3 번개 보호막
@@ -1640,7 +1640,7 @@ Dragonflight/Dungeons/TheNokhudOffensive/334610.mp3 먹잇감 사냥
 Dragonflight/Dungeons/TheNokhudOffensive/373395.mp3 소름끼치는 외침
 Dragonflight/Dungeons/TheNokhudOffensive/375937.mp3 분쇄 일격
 Dragonflight/Dungeons/TheNokhudOffensive/375943.mp3 지각 변동
-Dragonflight/Dungeons/TheNokhudOffensive/376660.mp3 강철의 창
+Dragonflight/Dungeons/TheNokhudOffensive/376634.mp3 강철의 창
 Dragonflight/Dungeons/TheNokhudOffensive/376683.mp3 강철의 쇄도
 Dragonflight/Dungeons/TheNokhudOffensive/376827.mp3 전도성 강타
 Dragonflight/Dungeons/TheNokhudOffensive/376864.mp3 정전기의 창
