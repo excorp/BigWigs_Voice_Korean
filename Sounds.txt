@@ -1635,6 +1635,7 @@ Dragonflight/Dungeons/TheAzureVault/387067.mp3 비전 가격
 Dragonflight/Dungeons/TheAzureVault/387151.mp3 얼음의 압도자
 Dragonflight/Dungeons/TheAzureVault/387564.mp3 신비한 증기
 Dragonflight/Dungeons/TheAzureVault/388008.mp3 절대 영점
+Dragonflight/Dungeons/TheAzureVault/396991.mp3 야수의 포효
 Dragonflight/Dungeons/TheAzureVault/397726.mp3 울음
 Dragonflight/Dungeons/TheNokhudOffensive/334610.mp3 먹잇감 사냥
 Dragonflight/Dungeons/TheNokhudOffensive/373395.mp3 소름끼치는 외침
@@ -1679,6 +1680,7 @@ Dragonflight/Dungeons/TheNokhudOffensive/388817.mp3 바위 조각
 Dragonflight/Dungeons/TheNokhudOffensive/392198.mp3 선조의 유대
 Dragonflight/Dungeons/TheNokhudOffensive/394875.mp3 마력의 쇄도
 Dragonflight/Dungeons/TheNokhudOffensive/395035.mp3 영혼 붕괴
+Dragonflight/Dungeons/TheNokhudOffensive/395669.mp3 여진
 Dragonflight/Dungeons/TheNokhudOffensive/397394.mp3 죽음의 천둥
 Dragonflight/Dungeons/UldamanLegacyOfTyr/368990.mp3 정화의 불길
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369043.mp3 주입
