@@ -1,3 +1,4 @@
+
 BattleForAzeroth/Dungeons/AtalDazar/249919.mp3 꼬챙이 꿰기
 BattleForAzeroth/Dungeons/AtalDazar/250036.mp3 어둠의 유해
 BattleForAzeroth/Dungeons/AtalDazar/250050.mp3 샤드라의 메아리
@@ -1718,6 +1719,13 @@ Dragonflight/Dungeons/UldamanLegacyOfTyr/376208.mp3 시간의 흐름 되돌리�
 Dragonflight/Dungeons/UldamanLegacyOfTyr/376325.mp3 영원의 지대
 Dragonflight/Dungeons/UldamanLegacyOfTyr/377405.mp3 시간의 천공
 Dragonflight/Dungeons/UldamanLegacyOfTyr/381593.mp3 천둥 손뼉
+Dragonflight/Raids/DragonIsles/389431.mp3 저해의 화염
+Dragonflight/Raids/DragonIsles/389514.mp3 용암 숨결
+Dragonflight/Raids/DragonIsles/389725.mp3 용암 분출
+Dragonflight/Raids/DragonIsles/389960.mp3 속박의 얼음
+Dragonflight/Raids/DragonIsles/390635.mp3 파괴의 비
+Dragonflight/Raids/DragonIsles/391026.mp3 동결
+Dragonflight/Raids/DragonIsles/391247.mp3 화염 주입
 Dragonflight/Raids/VaultOfTheIncarnates/-24899.mp3 서리숨결 거미
 Dragonflight/Raids/VaultOfTheIncarnates/-25129.mp3 원시술사 지원군
 Dragonflight/Raids/VaultOfTheIncarnates/370307.mp3 화염의 군대
@@ -1749,6 +1757,7 @@ Dragonflight/Raids/VaultOfTheIncarnates/374215.mp3 천둥번개
 Dragonflight/Raids/VaultOfTheIncarnates/374321.mp3 자갈 부수기
 Dragonflight/Raids/VaultOfTheIncarnates/374427.mp3 지면 파쇄
 Dragonflight/Raids/VaultOfTheIncarnates/374430.mp3 격렬한 지각 변동
+Dragonflight/Raids/VaultOfTheIncarnates/374622.mp3 폭풍의 도래
 Dragonflight/Raids/VaultOfTheIncarnates/374623.mp3 냉기의 구속
 Dragonflight/Raids/VaultOfTheIncarnates/374624.mp3 얼어붙는 폭풍우
 Dragonflight/Raids/VaultOfTheIncarnates/374691.mp3 지진 파열
