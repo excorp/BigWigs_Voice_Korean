@@ -1,4 +1,5 @@
 
+
 BattleForAzeroth/Dungeons/AtalDazar/249919.mp3 꼬챙이 꿰기
 BattleForAzeroth/Dungeons/AtalDazar/250036.mp3 어둠의 유해
 BattleForAzeroth/Dungeons/AtalDazar/250050.mp3 샤드라의 메아리
@@ -4280,12 +4281,15 @@ WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/154175.mp3 몸통 박치기
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/154350.mp3 죽음의 징조
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/154442.mp3 적개심
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/156718.mp3 괴저 폭발
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/164907.mp3 공허의 습격
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/164974.mp3 어둠의 월식
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/165578.mp3 시체 숨결
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/394512.mp3 공허 방출
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/398150.mp3 지배
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/398151.mp3 사악한 집중
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/398206.mp3 죽음의 작렬
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/submerge.mp3 위치 재배치
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/summon_worms.mp3 청소부 벌레 소환
 WarlordsOfDraenor/Dungeons/Skyreach/153794.mp3 방어구 관통
 WarlordsOfDraenor/Dungeons/Skyreach/153810.mp3 태양의 섬광 소환
 WarlordsOfDraenor/Dungeons/Skyreach/153954.mp3 Cast Down
