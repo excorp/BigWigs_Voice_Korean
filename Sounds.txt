@@ -1596,14 +1596,17 @@ Dragonflight/Dungeons/RubyLifePools/372735.mp3 지층 내려치기
 Dragonflight/Dungeons/RubyLifePools/372851.mp3 냉기폭풍
 Dragonflight/Dungeons/RubyLifePools/372858.mp3 이글거리는 강타
 Dragonflight/Dungeons/RubyLifePools/372863.mp3 화염결속의 의식
+Dragonflight/Dungeons/RubyLifePools/372988.mp3 얼음 보루
 Dragonflight/Dungeons/RubyLifePools/373017.mp3 울부짖는 불길
 Dragonflight/Dungeons/RubyLifePools/373046.mp3 새끼용 깨우기
 Dragonflight/Dungeons/RubyLifePools/373087.mp3 연소
 Dragonflight/Dungeons/RubyLifePools/373680.mp3 서리 과부하
+Dragonflight/Dungeons/RubyLifePools/373972.mp3 영광의 빛
 Dragonflight/Dungeons/RubyLifePools/381512.mp3 폭풍격돌
 Dragonflight/Dungeons/RubyLifePools/381516.mp3 방해의 소나기구름
 Dragonflight/Dungeons/RubyLifePools/381517.mp3 변화의 바람
 Dragonflight/Dungeons/RubyLifePools/381525.mp3 우렁찬 불꽃숨결
+Dragonflight/Dungeons/RubyLifePools/381602.mp3 화염액
 Dragonflight/Dungeons/RubyLifePools/381862.mp3 지옥핵
 Dragonflight/Dungeons/RubyLifePools/385536.mp3 불꽃의 춤
 Dragonflight/Dungeons/RubyLifePools/392394.mp3 화염 아귀
@@ -3015,6 +3018,7 @@ MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106841.mp3 옥룡격
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106856.mp3 용각
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106864.mp3 옥룡각
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/107110.mp3 옥의 화염
+MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/114646.mp3 음산한 응시
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/115167.mp3 타락의 물
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/117665.mp3 현실의 경계
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/118540.mp3 옥룡진
