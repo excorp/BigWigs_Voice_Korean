@@ -1540,6 +1540,7 @@ Dragonflight/Dungeons/HallsOfInfusion/375327.mp3 땅의 숨결
 Dragonflight/Dungeons/HallsOfInfusion/375348.mp3 몰아치는 숨결
 Dragonflight/Dungeons/HallsOfInfusion/375351.mp3 대양의 숨결
 Dragonflight/Dungeons/HallsOfInfusion/375384.mp3 지축을 울리는 대지
+Dragonflight/Dungeons/HallsOfInfusion/377341.mp3 물결의 분화
 Dragonflight/Dungeons/HallsOfInfusion/377402.mp3 물의 방벽
 Dragonflight/Dungeons/HallsOfInfusion/383840.mp3 용해식 방벽
 Dragonflight/Dungeons/HallsOfInfusion/384014.mp3 전하 쇄도
@@ -2004,12 +2005,14 @@ Legion/Dungeons/CourtOfStars/209512.mp3 분열의 에너지
 Legion/Dungeons/CourtOfStars/209602.mp3 칼날 쇄도
 Legion/Dungeons/CourtOfStars/209628.mp3 꿰뚫는 강풍
 Legion/Dungeons/CourtOfStars/209676.mp3 날카로운 소용돌이
+Legion/Dungeons/CourtOfStars/210261.mp3 경보 소리
 Legion/Dungeons/CourtOfStars/211299.mp3 이글거리는 시선
 Legion/Dungeons/CourtOfStars/211391.mp3 지옥화염 웅덩이
 Legion/Dungeons/CourtOfStars/211401.mp3 떠도는 불씨
 Legion/Dungeons/CourtOfStars/211464.mp3 지옥 폭발
 Legion/Dungeons/CourtOfStars/211470.mp3 홀리기
 Legion/Dungeons/CourtOfStars/212031.mp3 충전 폭발
+Legion/Dungeons/CourtOfStars/212773.mp3 진압
 Legion/Dungeons/CourtOfStars/212784.mp3 눈 폭풍
 Legion/Dungeons/CourtOfStars/214688.mp3 흡혈박쥐 떼
 Legion/Dungeons/CourtOfStars/214690.mp3 신경 마비
@@ -3018,6 +3021,7 @@ MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106841.mp3 옥룡격
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106856.mp3 용각
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106864.mp3 옥룡각
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/107110.mp3 옥의 화염
+MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/110125.mp3 무너진 결의
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/114646.mp3 음산한 응시
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/115167.mp3 타락의 물
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/117665.mp3 현실의 경계
@@ -3028,6 +3032,8 @@ MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/396001.mp3 영역 과시
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/396018.mp3 분노의 난동
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/396020.mp3 금빛 방벽
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/396073.mp3 토막잠
+MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/396150.mp3 우월감
+MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/396152.mp3 열등감
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/396907.mp3 옥의 화염 숨결
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/397785.mp3 씻어내기
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/397797.mp3 타락한 소용돌이
