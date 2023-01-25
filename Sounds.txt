@@ -2097,6 +2097,7 @@ Legion/Dungeons/HallsOfValor/193235.mp3 춤추는 칼날
 Legion/Dungeons/HallsOfValor/193659.mp3 지옥화염 쇄도
 Legion/Dungeons/HallsOfValor/193668.mp3 흉포한 칼날
 Legion/Dungeons/HallsOfValor/193702.mp3 지옥불꽃
+Legion/Dungeons/HallsOfValor/193783.mp3 아그라마르의 아이기스
 Legion/Dungeons/HallsOfValor/193826.mp3 라그나로크
 Legion/Dungeons/HallsOfValor/196543.mp3 불안한 울음소리
 Legion/Dungeons/HallsOfValor/196838.mp3 피의 향기
@@ -4271,7 +4272,6 @@ WarlordsOfDraenor/Dungeons/IronDocks/173384.mp3 짓밟는 돌진
 WarlordsOfDraenor/Dungeons/IronDocks/173480.mp3 용암 탄막
 WarlordsOfDraenor/Dungeons/IronDocks/173514.mp3 용암 타격
 WarlordsOfDraenor/Dungeons/IronDocks/178124.mp3 탈옥
-WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/-9680.mp3 뼈의 의식
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152792.mp3 공허의 폭발
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152801.mp3 공허의 소용돌이
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/152818.mp3 어둠의 치유
