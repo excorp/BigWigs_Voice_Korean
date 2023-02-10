@@ -1478,7 +1478,6 @@ Dragonflight/Dungeons/AlgetharAcademy/385958.mp3 비전 방출
 Dragonflight/Dungeons/AlgetharAcademy/386173.mp3 마나 폭탄
 Dragonflight/Dungeons/AlgetharAcademy/386544.mp3 비전 보주
 Dragonflight/Dungeons/AlgetharAcademy/387843.mp3 천공 폭탄
-Dragonflight/Dungeons/AlgetharAcademy/387862.mp3 방해의 파동
 Dragonflight/Dungeons/AlgetharAcademy/387910.mp3 천공의 돌개바람
 Dragonflight/Dungeons/AlgetharAcademy/387955.mp3 천신의 방패
 Dragonflight/Dungeons/AlgetharAcademy/388392.mp3 단조로운 강의
@@ -1490,6 +1489,7 @@ Dragonflight/Dungeons/AlgetharAcademy/388822.mp3 힘의 공백
 Dragonflight/Dungeons/AlgetharAcademy/388863.mp3 마나 공허
 Dragonflight/Dungeons/AlgetharAcademy/388886.mp3 비전의 비
 Dragonflight/Dungeons/AlgetharAcademy/388901.mp3 비전 균열
+Dragonflight/Dungeons/AlgetharAcademy/388911.mp3 절단 베기
 Dragonflight/Dungeons/AlgetharAcademy/388923.mp3 밀려드는 분출
 Dragonflight/Dungeons/AlgetharAcademy/388976.mp3 균열 숨결
 Dragonflight/Dungeons/AlgetharAcademy/388984.mp3 점성 매복
@@ -2011,6 +2011,7 @@ Legion/Dungeons/CourtOfStars/211391.mp3 지옥화염 웅덩이
 Legion/Dungeons/CourtOfStars/211401.mp3 떠도는 불씨
 Legion/Dungeons/CourtOfStars/211464.mp3 지옥 폭발
 Legion/Dungeons/CourtOfStars/211470.mp3 홀리기
+Legion/Dungeons/CourtOfStars/211473.mp3 어둠 베기
 Legion/Dungeons/CourtOfStars/212031.mp3 충전 폭발
 Legion/Dungeons/CourtOfStars/212773.mp3 진압
 Legion/Dungeons/CourtOfStars/212784.mp3 눈 폭풍
