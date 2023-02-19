@@ -2087,7 +2087,6 @@ Legion/Dungeons/EyeOfAzshara/197502.mp3 회복
 Legion/Dungeons/EyeOfAzshara/225089.mp3 번개 조련봉
 Legion/Dungeons/HallsOfValor/191284.mp3 용맹의 뿔피리
 Legion/Dungeons/HallsOfValor/191508.mp3 빛 분출
-Legion/Dungeons/HallsOfValor/191976.mp3 굽이치는 번개
 Legion/Dungeons/HallsOfValor/192018.mp3 빛의 방패
 Legion/Dungeons/HallsOfValor/192048.mp3 빛 축출
 Legion/Dungeons/HallsOfValor/192158.mp3 신성화
@@ -2110,6 +2109,7 @@ Legion/Dungeons/HallsOfValor/198745.mp3 보호의 빛
 Legion/Dungeons/HallsOfValor/198888.mp3 번개 숨결
 Legion/Dungeons/HallsOfValor/198931.mp3 치유의 빛
 Legion/Dungeons/HallsOfValor/198934.mp3 치유의 룬
+Legion/Dungeons/HallsOfValor/198959.mp3 아로새기기
 Legion/Dungeons/HallsOfValor/199050.mp3 필멸자 절단
 Legion/Dungeons/HallsOfValor/199090.mp3 요동치는 발구르기
 Legion/Dungeons/HallsOfValor/199210.mp3 관통 사격
@@ -2119,6 +2119,7 @@ Legion/Dungeons/HallsOfValor/199805.mp3 파지직
 Legion/Dungeons/HallsOfValor/200901.mp3 폭풍의 눈
 Legion/Dungeons/HallsOfValor/200969.mp3 선조 소환
 Legion/Dungeons/HallsOfValor/200988.mp3 빛의 창
+Legion/Dungeons/HallsOfValor/201215.mp3 폭풍으로 벼려낸 파멸자 소환
 Legion/Dungeons/HallsOfValor/210875.mp3 응집된 파동
 Legion/Dungeons/HallsOfValor/215430.mp3 천둥의 일격
 Legion/Dungeons/HallsOfValor/215433.mp3 신성한 광휘
