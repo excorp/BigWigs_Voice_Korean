@@ -1507,10 +1507,16 @@ Dragonflight/Dungeons/AlgetharAcademy/391977.mp3 과잉 쇄도
 Dragonflight/Dungeons/AlgetharAcademy/396640.mp3 치유의 손길
 Dragonflight/Dungeons/AlgetharAcademy/396721.mp3 풍요
 Dragonflight/Dungeons/AlgetharAcademy/396812.mp3 신비한 작렬
+Dragonflight/Dungeons/BrackenhideHollow/367484.mp3 흉포한 발톱난타
 Dragonflight/Dungeons/BrackenhideHollow/367500.mp3 흉측한 폭소
+Dragonflight/Dungeons/BrackenhideHollow/368287.mp3 독성 덫
+Dragonflight/Dungeons/BrackenhideHollow/373897.mp3 부패하는 뿌리
 Dragonflight/Dungeons/BrackenhideHollow/373917.mp3 부패의 일격
+Dragonflight/Dungeons/BrackenhideHollow/373943.mp3 발구르기
 Dragonflight/Dungeons/BrackenhideHollow/373944.mp3 부패파열 토템
 Dragonflight/Dungeons/BrackenhideHollow/373960.mp3 쇠약해지는 힘
+Dragonflight/Dungeons/BrackenhideHollow/374057.mp3 토템 소환
+Dragonflight/Dungeons/BrackenhideHollow/374544.mp3 부패 폭발
 Dragonflight/Dungeons/BrackenhideHollow/376170.mp3 질식의 부식구름
 Dragonflight/Dungeons/BrackenhideHollow/376811.mp3 부패 분무
 Dragonflight/Dungeons/BrackenhideHollow/376934.mp3 휘감는 덩굴
@@ -1524,11 +1530,18 @@ Dragonflight/Dungeons/BrackenhideHollow/378029.mp3 난도질 광란
 Dragonflight/Dungeons/BrackenhideHollow/381444.mp3 흉포한 돌진
 Dragonflight/Dungeons/BrackenhideHollow/381470.mp3 기만의 사술 토템
 Dragonflight/Dungeons/BrackenhideHollow/381694.mp3 부패한 감각
+Dragonflight/Dungeons/BrackenhideHollow/382435.mp3 부패부여의 토템
+Dragonflight/Dungeons/BrackenhideHollow/382555.mp3 분노의 폭풍
+Dragonflight/Dungeons/BrackenhideHollow/382712.mp3 괴저 숨결
+Dragonflight/Dungeons/BrackenhideHollow/383399.mp3 썩어가는 쇄도
 Dragonflight/Dungeons/BrackenhideHollow/384353.mp3 복부 사격
 Dragonflight/Dungeons/BrackenhideHollow/384416.mp3 고기 던지기
 Dragonflight/Dungeons/BrackenhideHollow/384633.mp3 주인의 부름
 Dragonflight/Dungeons/BrackenhideHollow/384827.mp3 하이에나 부르기
+Dragonflight/Dungeons/BrackenhideHollow/385029.mp3 비명
 Dragonflight/Dungeons/BrackenhideHollow/385359.mp3 덩굴 덫
+Dragonflight/Dungeons/BrackenhideHollow/385832.mp3 피에 굶주린 돌진
+Dragonflight/Dungeons/BrackenhideHollow/388046.mp3 격렬한 돌개바람
 Dragonflight/Dungeons/BrackenhideHollow/388060.mp3 고약한 숨결
 Dragonflight/Dungeons/HallsOfInfusion/374045.mp3 추방
 Dragonflight/Dungeons/HallsOfInfusion/374080.mp3 돌풍 작렬
