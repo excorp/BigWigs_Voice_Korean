@@ -1638,6 +1638,7 @@ Dragonflight/Dungeons/TheAzureVault/374720.mp3 흡수의 땅 울리기
 Dragonflight/Dungeons/TheAzureVault/374789.mp3 마력 깃든 강타
 Dragonflight/Dungeons/TheAzureVault/375596.mp3 불규칙적인 성장
 Dragonflight/Dungeons/TheAzureVault/375649.mp3 주입된 땅
+Dragonflight/Dungeons/TheAzureVault/375652.mp3 거센 분출
 Dragonflight/Dungeons/TheAzureVault/377488.mp3 얼음 속박
 Dragonflight/Dungeons/TheAzureVault/384132.mp3 압도적인 마력
 Dragonflight/Dungeons/TheAzureVault/384223.mp3 용족 환영 소환
@@ -1654,6 +1655,7 @@ Dragonflight/Dungeons/TheAzureVault/387067.mp3 비전 가격
 Dragonflight/Dungeons/TheAzureVault/387151.mp3 얼음의 압도자
 Dragonflight/Dungeons/TheAzureVault/387564.mp3 신비한 증기
 Dragonflight/Dungeons/TheAzureVault/388008.mp3 절대 영점
+Dragonflight/Dungeons/TheAzureVault/391118.mp3 비전냉기 숨결
 Dragonflight/Dungeons/TheAzureVault/396991.mp3 야수의 포효
 Dragonflight/Dungeons/TheAzureVault/397726.mp3 울음
 Dragonflight/Dungeons/TheNokhudOffensive/334610.mp3 먹잇감 사냥
@@ -2112,17 +2114,20 @@ Legion/Dungeons/HallsOfValor/193668.mp3 흉포한 칼날
 Legion/Dungeons/HallsOfValor/193702.mp3 지옥불꽃
 Legion/Dungeons/HallsOfValor/193783.mp3 아그라마르의 아이기스
 Legion/Dungeons/HallsOfValor/193826.mp3 라그나로크
+Legion/Dungeons/HallsOfValor/196512.mp3 광기어린 발톱
 Legion/Dungeons/HallsOfValor/196543.mp3 불안한 울음소리
 Legion/Dungeons/HallsOfValor/196838.mp3 피의 향기
-Legion/Dungeons/HallsOfValor/197556.mp3 포악한 도약
+Legion/Dungeons/HallsOfValor/197558.mp3 포악한 도약
 Legion/Dungeons/HallsOfValor/197961.mp3 룬 낙인
 Legion/Dungeons/HallsOfValor/198077.mp3 산산조각난 창
 Legion/Dungeons/HallsOfValor/198263.mp3 빛나는 폭풍우
 Legion/Dungeons/HallsOfValor/198745.mp3 보호의 빛
 Legion/Dungeons/HallsOfValor/198888.mp3 번개 숨결
+Legion/Dungeons/HallsOfValor/198892.mp3 짜릿한 폭풍
 Legion/Dungeons/HallsOfValor/198931.mp3 치유의 빛
 Legion/Dungeons/HallsOfValor/198934.mp3 치유의 룬
 Legion/Dungeons/HallsOfValor/198959.mp3 아로새기기
+Legion/Dungeons/HallsOfValor/199034.mp3 발키라의 도약
 Legion/Dungeons/HallsOfValor/199050.mp3 필멸자 절단
 Legion/Dungeons/HallsOfValor/199090.mp3 요동치는 발구르기
 Legion/Dungeons/HallsOfValor/199210.mp3 관통 사격
