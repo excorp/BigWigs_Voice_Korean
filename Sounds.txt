@@ -1,5 +1,3 @@
-
-
 BattleForAzeroth/Dungeons/AtalDazar/249919.mp3 꼬챙이 꿰기
 BattleForAzeroth/Dungeons/AtalDazar/250036.mp3 어둠의 유해
 BattleForAzeroth/Dungeons/AtalDazar/250050.mp3 샤드라의 메아리
@@ -1549,30 +1547,41 @@ Dragonflight/Dungeons/HallsOfInfusion/374339.mp3 사기의 외침
 Dragonflight/Dungeons/HallsOfInfusion/374389.mp3 꼴깍이 뿔두꺼비 독소
 Dragonflight/Dungeons/HallsOfInfusion/374563.mp3 눈부심
 Dragonflight/Dungeons/HallsOfInfusion/374724.mp3 타오르는 섭입
+Dragonflight/Dungeons/HallsOfInfusion/374741.mp3 용암 으깨기
+Dragonflight/Dungeons/HallsOfInfusion/374823.mp3 미풍의 부름
+Dragonflight/Dungeons/HallsOfInfusion/375079.mp3 휘몰아치는 격노
 Dragonflight/Dungeons/HallsOfInfusion/375327.mp3 땅의 숨결
 Dragonflight/Dungeons/HallsOfInfusion/375348.mp3 몰아치는 숨결
 Dragonflight/Dungeons/HallsOfInfusion/375351.mp3 대양의 숨결
 Dragonflight/Dungeons/HallsOfInfusion/375384.mp3 지축을 울리는 대지
+Dragonflight/Dungeons/HallsOfInfusion/376171.mp3 원기의 파도
 Dragonflight/Dungeons/HallsOfInfusion/377341.mp3 물결의 분화
 Dragonflight/Dungeons/HallsOfInfusion/377402.mp3 물의 방벽
 Dragonflight/Dungeons/HallsOfInfusion/383840.mp3 용해식 방벽
 Dragonflight/Dungeons/HallsOfInfusion/384014.mp3 전하 쇄도
 Dragonflight/Dungeons/HallsOfInfusion/384351.mp3 불꽃 세례
 Dragonflight/Dungeons/HallsOfInfusion/384524.mp3 티탄의 주먹
+Dragonflight/Dungeons/HallsOfInfusion/385141.mp3 천둥폭풍
 Dragonflight/Dungeons/HallsOfInfusion/385187.mp3 제압의 개굴개굴
 Dragonflight/Dungeons/HallsOfInfusion/385442.mp3 맹독 부패물
 Dragonflight/Dungeons/HallsOfInfusion/385531.mp3 복부 격돌
 Dragonflight/Dungeons/HallsOfInfusion/385551.mp3 꿀꺽
+Dragonflight/Dungeons/HallsOfInfusion/385743.mp3 분노의 허기
 Dragonflight/Dungeons/HallsOfInfusion/385963.mp3 냉기 충격
 Dragonflight/Dungeons/HallsOfInfusion/386559.mp3 쇄도하는 빙하
 Dragonflight/Dungeons/HallsOfInfusion/386757.mp3 우박폭풍
 Dragonflight/Dungeons/HallsOfInfusion/387504.mp3 격동의 돌풍
 Dragonflight/Dungeons/HallsOfInfusion/387559.mp3 주입된 물방울
 Dragonflight/Dungeons/HallsOfInfusion/388424.mp3 폭풍의 분노
+Dragonflight/Dungeons/HallsOfInfusion/388760.mp3 거친 파도
 Dragonflight/Dungeons/HallsOfInfusion/388882.mp3 범람
 Dragonflight/Dungeons/HallsOfInfusion/389179.mp3 동력 과부하
 Dragonflight/Dungeons/HallsOfInfusion/389446.mp3 무효화 파동
+Dragonflight/Dungeons/HallsOfInfusion/389875.mp3 역류
+Dragonflight/Dungeons/HallsOfInfusion/390111.mp3 냉기의 회오리바람
 Dragonflight/Dungeons/HallsOfInfusion/390290.mp3 범람의 치유
+Dragonflight/Dungeons/HallsOfInfusion/391610.mp3 구속의 바람
+Dragonflight/Dungeons/HallsOfInfusion/391613.mp3 진흙 곰팡이
 Dragonflight/Dungeons/Neltharus/372201.mp3 그을리는 숨결
 Dragonflight/Dungeons/Neltharus/372223.mp3 치유의 점토
 Dragonflight/Dungeons/Neltharus/372296.mp3 불타는 포격
@@ -2046,7 +2055,7 @@ Legion/Dungeons/CourtOfStars/225100.mp3 충전소
 Legion/Dungeons/CourtOfStars/397892.mp3 고통의 절규
 Legion/Dungeons/CourtOfStars/397897.mp3 분쇄의 도약
 Legion/Dungeons/CourtOfStars/397907.mp3 파멸의 예언
-Legion/Dungeons/CourtOfStars/announce_buff_items.mp3 강화 효과 아이템 알리기
+Legion/Dungeons/CourtOfStars/announce_buff_items.mp3 버프 아이템 알림 
 Legion/Dungeons/CourtOfStars/spy_helper.mp3 스파이 발견
 Legion/Dungeons/DarkheartThicket/191325.mp3 타락의 숨결
 Legion/Dungeons/DarkheartThicket/198379.mp3 원시의 광란
@@ -2105,6 +2114,7 @@ Legion/Dungeons/HallsOfValor/191508.mp3 빛 분출
 Legion/Dungeons/HallsOfValor/192018.mp3 빛의 방패
 Legion/Dungeons/HallsOfValor/192048.mp3 빛 축출
 Legion/Dungeons/HallsOfValor/192158.mp3 신성화
+Legion/Dungeons/HallsOfValor/192288.mp3 타오르는 빛
 Legion/Dungeons/HallsOfValor/192307.mp3 신성화
 Legion/Dungeons/HallsOfValor/192563.mp3 정화의 불꽃
 Legion/Dungeons/HallsOfValor/193092.mp3 유혈의 휩쓸기
@@ -2244,6 +2254,7 @@ Legion/Dungeons/NeltharionsLair/183088.mp3 산사태
 Legion/Dungeons/NeltharionsLair/188114.mp3 산산조각
 Legion/Dungeons/NeltharionsLair/188169.mp3 칼날 파편
 Legion/Dungeons/NeltharionsLair/192800.mp3 숨막히는 먼지
+Legion/Dungeons/NeltharionsLair/193375.mp3 심연의 외침
 Legion/Dungeons/NeltharionsLair/193585.mp3 구속됨
 Legion/Dungeons/NeltharionsLair/198428.mp3 산의 공격
 Legion/Dungeons/NeltharionsLair/198496.mp3 가르기
@@ -4310,6 +4321,7 @@ WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/153804.mp3 흡입
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/154175.mp3 몸통 박치기
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/154350.mp3 죽음의 징조
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/154442.mp3 적개심
+WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/154469.mp3 뼈의 의식
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/156718.mp3 괴저 폭발
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/164907.mp3 공허의 습격
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/164974.mp3 어둠의 월식
