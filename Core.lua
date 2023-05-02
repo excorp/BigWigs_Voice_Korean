@@ -198,6 +198,7 @@ zonetable[-2023] = "Dragonflight\\Raids\\DragonIsles" --
 zonetable[-2024] = "Dragonflight\\Raids\\DragonIsles" -- 
 zonetable[-2025] = "Dragonflight\\Raids\\DragonIsles" -- 
 zonetable[2522] = "Dragonflight\\Raids\\VaultOfTheIncarnates" -- Vault of the Incarnates
+zonetable[2569] = "Dragonflight\\Raids\\Aberrus" -- Aberrus
 
 
 local currentZone = ""
