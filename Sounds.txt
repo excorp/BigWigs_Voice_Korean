@@ -1279,6 +1279,7 @@ Cataclysm/Dungeons/VortexPinnacle/411002.mp3 난기류
 Cataclysm/Dungeons/VortexPinnacle/411005.mp3 폭발하는 회오리
 Cataclysm/Dungeons/VortexPinnacle/411012.mp3 싸늘한 숨결
 Cataclysm/Dungeons/VortexPinnacle/411910.mp3 치유의 샘
+Cataclysm/Dungeons/VortexPinnacle/413151.mp3 폭풍우 소환
 Cataclysm/Dungeons/VortexPinnacle/413275.mp3 한랭 전선
 Cataclysm/Dungeons/VortexPinnacle/413295.mp3 하강기류
 Cataclysm/Dungeons/VortexPinnacle/413385.mp3 마법 흡수장 과부하
@@ -1289,7 +1290,7 @@ Cataclysm/Dungeons/VortexPinnacle/86911.mp3 불안정한 마법 흡수장
 Cataclysm/Dungeons/VortexPinnacle/86930.mp3 우월자의 폭풍
 Cataclysm/Dungeons/VortexPinnacle/87618.mp3 전하 응집
 Cataclysm/Dungeons/VortexPinnacle/87622.mp3 연쇄 번개
-Cataclysm/Dungeons/VortexPinnacle/87759.mp3 충격파
+Cataclysm/Dungeons/VortexPinnacle/87761.mp3 집결
 Cataclysm/Dungeons/VortexPinnacle/87762.mp3 번개 채찍
 Cataclysm/Dungeons/VortexPinnacle/87772.mp3 보호의 손길
 Cataclysm/Dungeons/VortexPinnacle/87779.mp3 상급 치유
@@ -1792,30 +1793,71 @@ Dragonflight/Dungeons/UldamanLegacyOfTyr/377500.mp3 가속화
 Dragonflight/Dungeons/UldamanLegacyOfTyr/381593.mp3 천둥 손뼉
 Dragonflight/Dungeons/UldamanLegacyOfTyr/382578.mp3 티르의 축복
 Dragonflight/Dungeons/UldamanLegacyOfTyr/386104.mp3 잊힌 티르의 고서
+Dragonflight/Raids/Aberrus/-26217.mp3 Magma Mystic
+Dragonflight/Raids/Aberrus/-26221.mp3 Zaqali Wallclimbers
+Dragonflight/Raids/Aberrus/397383.mp3 용암 보호막
+Dragonflight/Raids/Aberrus/397386.mp3 용암 화살
 Dragonflight/Raids/Aberrus/400430.mp3 지옥 광선
 Dragonflight/Raids/Aberrus/400777.mp3 충만한 강타
+Dragonflight/Raids/Aberrus/401010.mp3 타락
+Dragonflight/Raids/Aberrus/401108.mp3 불사조 돌진
+Dragonflight/Raids/Aberrus/401215.mp3 성간의 공허
+Dragonflight/Raids/Aberrus/401258.mp3 무거운 곤봉
 Dragonflight/Raids/Aberrus/401319.mp3 지옥강철 학살
+Dragonflight/Raids/Aberrus/401330.mp3 타오르는 발톱
+Dragonflight/Raids/Aberrus/401381.mp3 이글거리는 집중
+Dragonflight/Raids/Aberrus/401383.mp3 억압의 포효
+Dragonflight/Raids/Aberrus/401401.mp3 이글거리는 창
 Dragonflight/Raids/Aberrus/401419.mp3 장로의 도관
+Dragonflight/Raids/Aberrus/401500.mp3 작열하는 폭탄
+Dragonflight/Raids/Aberrus/401680.mp3 대규모 파열
 Dragonflight/Raids/Aberrus/401809.mp3 타락의 어둠
+Dragonflight/Raids/Aberrus/401810.mp3 빛나는 쇄도
+Dragonflight/Raids/Aberrus/401867.mp3 화산 보호막
+Dragonflight/Raids/Aberrus/401951.mp3 망각
+Dragonflight/Raids/Aberrus/401998.mp3 재앙의 일격
+Dragonflight/Raids/Aberrus/402050.mp3 불타는 숨결
+Dragonflight/Raids/Aberrus/402115.mp3 메아리치는 균열
 Dragonflight/Raids/Aberrus/402421.mp3 타오르는 흉터
 Dragonflight/Raids/Aberrus/402617.mp3 타오르는 열기
+Dragonflight/Raids/Aberrus/402902.mp3 뒤틀린 대지
+Dragonflight/Raids/Aberrus/402994.mp3 타오르는 타액
+Dragonflight/Raids/Aberrus/403049.mp3 어둠의 보호막
 Dragonflight/Raids/Aberrus/403101.mp3 타오르는 폭발
 Dragonflight/Raids/Aberrus/403326.mp3 멸종의 날개
 Dragonflight/Raids/Aberrus/403459.mp3 응결되는 공허
+Dragonflight/Raids/Aberrus/403520.mp3 무의 포옹
 Dragonflight/Raids/Aberrus/403543.mp3 용암 파도
+Dragonflight/Raids/Aberrus/403625.mp3 영겁의 소멸
+Dragonflight/Raids/Aberrus/403671.mp3 제압의 발구르기
+Dragonflight/Raids/Aberrus/403740.mp3 점화의 포효
+Dragonflight/Raids/Aberrus/403771.mp3 우주의 승천
 Dragonflight/Raids/Aberrus/403978.mp3 화염 폭풍
+Dragonflight/Raids/Aberrus/403997.mp3 정신의 파편
 Dragonflight/Raids/Aberrus/404010.mp3 불안정한 불씨
+Dragonflight/Raids/Aberrus/404027.mp3 공허 폭탄
+Dragonflight/Raids/Aberrus/404288.mp3 무한한 강압
+Dragonflight/Raids/Aberrus/404403.mp3 황폐의 꽃
+Dragonflight/Raids/Aberrus/404456.mp3 심연의 숨결
+Dragonflight/Raids/Aberrus/404472.mp3 거대한 격돌
+Dragonflight/Raids/Aberrus/404713.mp3 우레와 같은 포효
 Dragonflight/Raids/Aberrus/404732.mp3 불타는 유성
 Dragonflight/Raids/Aberrus/404743.mp3 공포의 발톱
+Dragonflight/Raids/Aberrus/404754.mp3 작렬하는 비명
+Dragonflight/Raids/Aberrus/404846.mp3 소각의 아귀
 Dragonflight/Raids/Aberrus/404896.mp3 소용돌이치는 화염
 Dragonflight/Raids/Aberrus/404942.mp3 이글거리는 발톱
-Dragonflight/Raids/Aberrus/404957.mp3 유산탄
 Dragonflight/Raids/Aberrus/405036.mp3 암영의 폭발
 Dragonflight/Raids/Aberrus/405084.mp3 잔존하는 암영
 Dragonflight/Raids/Aberrus/405091.mp3 이글거리는 분노
 Dragonflight/Raids/Aberrus/405316.mp3 고대의 분노
+Dragonflight/Raids/Aberrus/405375.mp3 격렬한 분출
+Dragonflight/Raids/Aberrus/405392.mp3 파열
 Dragonflight/Raids/Aberrus/405394.mp3 암흑불길 오염
+Dragonflight/Raids/Aberrus/405433.mp3 암영 말살
 Dragonflight/Raids/Aberrus/405437.mp3 암울한 겁화
+Dragonflight/Raids/Aberrus/405486.mp3 몰아치는 세례
+Dragonflight/Raids/Aberrus/405492.mp3 불안정한 분출
 Dragonflight/Raids/Aberrus/405592.mp3 부품 회수
 Dragonflight/Raids/Aberrus/405642.mp3 맹렬한 황혼
 Dragonflight/Raids/Aberrus/405645.mp3 휘몰아치는 열기
@@ -1823,17 +1865,49 @@ Dragonflight/Raids/Aberrus/405736.mp3 용숨결 덫
 Dragonflight/Raids/Aberrus/405812.mp3 골렘 되살리기
 Dragonflight/Raids/Aberrus/405821.mp3 이글거리는 격돌
 Dragonflight/Raids/Aberrus/405914.mp3 쇠약의 약점
+Dragonflight/Raids/Aberrus/406227.mp3 깊은 숨결
+Dragonflight/Raids/Aberrus/406311.mp3 마력 깃든 강타
 Dragonflight/Raids/Aberrus/406333.mp3 암흑용암 작렬
+Dragonflight/Raids/Aberrus/406358.mp3 분쇄의 돌진
 Dragonflight/Raids/Aberrus/406530.mp3 균열화상
 Dragonflight/Raids/Aberrus/406678.mp3 전술적 파괴
+Dragonflight/Raids/Aberrus/406712.mp3 용암
+Dragonflight/Raids/Aberrus/406725.mp3 유산탄
 Dragonflight/Raids/Aberrus/406783.mp3 암흑불길 폭발
 Dragonflight/Raids/Aberrus/406851.mp3 파멸의 불꽃
+Dragonflight/Raids/Aberrus/406989.mp3 불타는 대지
+Dragonflight/Raids/Aberrus/407017.mp3 강력한 강풍
 Dragonflight/Raids/Aberrus/407069.mp3 고뇌의 광선
 Dragonflight/Raids/Aberrus/407196.mp3 공포의 균열
+Dragonflight/Raids/Aberrus/407221.mp3 몰아치는 어둠
+Dragonflight/Raids/Aberrus/407302.mp3 주입된 폭발
+Dragonflight/Raids/Aberrus/407327.mp3 불안정한 정수
 Dragonflight/Raids/Aberrus/407547.mp3 불타오르는 칼날베기
+Dragonflight/Raids/Aberrus/407552.mp3 시간 변칙
+Dragonflight/Raids/Aberrus/407576.mp3 별의 섬광
 Dragonflight/Raids/Aberrus/407597.mp3 대지의 분쇄
 Dragonflight/Raids/Aberrus/407640.mp3 어둠의 합일
+Dragonflight/Raids/Aberrus/407790.mp3 어둠 분리
+Dragonflight/Raids/Aberrus/407917.mp3 칠흑의 파괴
+Dragonflight/Raids/Aberrus/407919.mp3 분리된 현실
+Dragonflight/Raids/Aberrus/407936.mp3 현실 분리
 Dragonflight/Raids/Aberrus/408193.mp3 융합 분출
+Dragonflight/Raids/Aberrus/408358.mp3 재앙적인 분출
+Dragonflight/Raids/Aberrus/408429.mp3 공허의 습격
+Dragonflight/Raids/Aberrus/408620.mp3 작열하는 포효
+Dragonflight/Raids/Aberrus/408839.mp3 작열하는 열기
+Dragonflight/Raids/Aberrus/408959.mp3 파괴의 도약
+Dragonflight/Raids/Aberrus/409093.mp3 타오르는 숨결
+Dragonflight/Raids/Aberrus/409275.mp3 용암 분출
+Dragonflight/Raids/Aberrus/409359.mp3 필사적인 제물
+Dragonflight/Raids/Aberrus/409385.mp3 어둠과 불길
+Dragonflight/Raids/Aberrus/410070.mp3 암흑불길 방출
+Dragonflight/Raids/Aberrus/410351.mp3 불타는 곤봉
+Dragonflight/Raids/Aberrus/410516.mp3 재앙적인 격돌
+Dragonflight/Raids/Aberrus/410966.mp3 화산 심장 박동
+Dragonflight/Raids/Aberrus/411182.mp3 폭발성 용암
+Dragonflight/Raids/Aberrus/411241.mp3 공허 발톱
+Dragonflight/Raids/Aberrus/411633.mp3 불타는 사슬
 Dragonflight/Raids/DragonIsles/389431.mp3 저해의 화염
 Dragonflight/Raids/DragonIsles/389514.mp3 용암 숨결
 Dragonflight/Raids/DragonIsles/389725.mp3 용암 분출
@@ -4539,7 +4613,6 @@ WarlordsOfDraenor/Raids/BlackrockFoundry/174731.mp3 점화된 폭탄 더미
 WarlordsOfDraenor/Raids/BlackrockFoundry/174773.mp3 매연
 WarlordsOfDraenor/Raids/BlackrockFoundry/175583.mp3 살아있는 불길
 WarlordsOfDraenor/Raids/BlackrockFoundry/175594.mp3 불붙음
-WarlordsOfDraenor/Raids/BlackrockFoundry/175624.mp3 극심한 치명상
 WarlordsOfDraenor/Raids/BlackrockFoundry/175643.mp3 회전 칼날
 WarlordsOfDraenor/Raids/BlackrockFoundry/175765.mp3 내려치기 강타
 WarlordsOfDraenor/Raids/BlackrockFoundry/175993.mp3 육중한 힘
