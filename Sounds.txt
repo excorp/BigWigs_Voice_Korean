@@ -488,6 +488,7 @@ BattleForAzeroth/Dungeons/Underrot/272592.mp3 심연의 손길
 BattleForAzeroth/Dungeons/Underrot/272609.mp3 광기의 눈길
 BattleForAzeroth/Dungeons/Underrot/273285.mp3 불안정한 깍지
 BattleForAzeroth/Dungeons/Underrot/278961.mp3 부패하는 정신
+BattleForAzeroth/Dungeons/Underrot/413044.mp3 암흑의 메아리
 BattleForAzeroth/Dungeons/WaycrestManor/260508.mp3 분쇄
 BattleForAzeroth/Dungeons/WaycrestManor/260512.mp3 영혼 거두기
 BattleForAzeroth/Dungeons/WaycrestManor/260541.mp3 불타는 덤불
@@ -1758,6 +1759,8 @@ Dragonflight/Dungeons/UldamanLegacyOfTyr/368990.mp3 정화의 불길
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369043.mp3 주입
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369061.mp3 이글거리는 손뼉
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369110.mp3 불안정한 불씨
+Dragonflight/Dungeons/UldamanLegacyOfTyr/369328.mp3 지진
+Dragonflight/Dungeons/UldamanLegacyOfTyr/369335.mp3 분열의 강타
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369337.mp3 까다로운 지형
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369365.mp3 돌의 저주
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369366.mp3 돌에 갇힘
@@ -1793,8 +1796,6 @@ Dragonflight/Dungeons/UldamanLegacyOfTyr/377500.mp3 가속화
 Dragonflight/Dungeons/UldamanLegacyOfTyr/381593.mp3 천둥 손뼉
 Dragonflight/Dungeons/UldamanLegacyOfTyr/382578.mp3 티르의 축복
 Dragonflight/Dungeons/UldamanLegacyOfTyr/386104.mp3 잊힌 티르의 고서
-Dragonflight/Raids/Aberrus/-26217.mp3 Magma Mystic
-Dragonflight/Raids/Aberrus/-26221.mp3 Zaqali Wallclimbers
 Dragonflight/Raids/Aberrus/397383.mp3 용암 보호막
 Dragonflight/Raids/Aberrus/397386.mp3 용암 화살
 Dragonflight/Raids/Aberrus/400430.mp3 지옥 광선
@@ -1820,26 +1821,29 @@ Dragonflight/Raids/Aberrus/402050.mp3 불타는 숨결
 Dragonflight/Raids/Aberrus/402115.mp3 메아리치는 균열
 Dragonflight/Raids/Aberrus/402421.mp3 타오르는 흉터
 Dragonflight/Raids/Aberrus/402617.mp3 타오르는 열기
-Dragonflight/Raids/Aberrus/402902.mp3 뒤틀린 대지
 Dragonflight/Raids/Aberrus/402994.mp3 타오르는 타액
 Dragonflight/Raids/Aberrus/403049.mp3 어둠의 보호막
 Dragonflight/Raids/Aberrus/403101.mp3 타오르는 폭발
+Dragonflight/Raids/Aberrus/403203.mp3 화염 베기
 Dragonflight/Raids/Aberrus/403326.mp3 멸종의 날개
 Dragonflight/Raids/Aberrus/403459.mp3 응결되는 공허
 Dragonflight/Raids/Aberrus/403520.mp3 무의 포옹
 Dragonflight/Raids/Aberrus/403543.mp3 용암 파도
 Dragonflight/Raids/Aberrus/403625.mp3 영겁의 소멸
 Dragonflight/Raids/Aberrus/403671.mp3 제압의 발구르기
+Dragonflight/Raids/Aberrus/403699.mp3 어둠의 쐐기
 Dragonflight/Raids/Aberrus/403740.mp3 점화의 포효
 Dragonflight/Raids/Aberrus/403771.mp3 우주의 승천
 Dragonflight/Raids/Aberrus/403978.mp3 화염 폭풍
-Dragonflight/Raids/Aberrus/403997.mp3 정신의 파편
 Dragonflight/Raids/Aberrus/404010.mp3 불안정한 불씨
 Dragonflight/Raids/Aberrus/404027.mp3 공허 폭탄
+Dragonflight/Raids/Aberrus/404218.mp3 공허 균열
 Dragonflight/Raids/Aberrus/404288.mp3 무한한 강압
+Dragonflight/Raids/Aberrus/404382.mp3 자칼리 지원군
 Dragonflight/Raids/Aberrus/404403.mp3 황폐의 꽃
 Dragonflight/Raids/Aberrus/404456.mp3 심연의 숨결
 Dragonflight/Raids/Aberrus/404472.mp3 거대한 격돌
+Dragonflight/Raids/Aberrus/404687.mp3 방벽 반발 작용
 Dragonflight/Raids/Aberrus/404713.mp3 우레와 같은 포효
 Dragonflight/Raids/Aberrus/404732.mp3 불타는 유성
 Dragonflight/Raids/Aberrus/404743.mp3 공포의 발톱
@@ -1870,6 +1874,7 @@ Dragonflight/Raids/Aberrus/406311.mp3 마력 깃든 강타
 Dragonflight/Raids/Aberrus/406333.mp3 암흑용암 작렬
 Dragonflight/Raids/Aberrus/406358.mp3 분쇄의 돌진
 Dragonflight/Raids/Aberrus/406530.mp3 균열화상
+Dragonflight/Raids/Aberrus/406585.mp3 이그나라의 격노
 Dragonflight/Raids/Aberrus/406678.mp3 전술적 파괴
 Dragonflight/Raids/Aberrus/406712.mp3 용암
 Dragonflight/Raids/Aberrus/406725.mp3 유산탄
@@ -1899,12 +1904,12 @@ Dragonflight/Raids/Aberrus/408839.mp3 작열하는 열기
 Dragonflight/Raids/Aberrus/408959.mp3 파괴의 도약
 Dragonflight/Raids/Aberrus/409093.mp3 타오르는 숨결
 Dragonflight/Raids/Aberrus/409275.mp3 용암 분출
-Dragonflight/Raids/Aberrus/409359.mp3 필사적인 제물
 Dragonflight/Raids/Aberrus/409385.mp3 어둠과 불길
 Dragonflight/Raids/Aberrus/410070.mp3 암흑불길 방출
 Dragonflight/Raids/Aberrus/410351.mp3 불타는 곤봉
 Dragonflight/Raids/Aberrus/410516.mp3 재앙적인 격돌
-Dragonflight/Raids/Aberrus/410966.mp3 화산 심장 박동
+Dragonflight/Raids/Aberrus/410625.mp3 존재의 말살
+Dragonflight/Raids/Aberrus/410953.mp3 화산 심장
 Dragonflight/Raids/Aberrus/411182.mp3 폭발성 용암
 Dragonflight/Raids/Aberrus/411241.mp3 공허 발톱
 Dragonflight/Raids/Aberrus/411633.mp3 불타는 사슬
