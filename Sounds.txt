@@ -1853,7 +1853,6 @@ Dragonflight/Raids/Aberrus/404896.mp3 소용돌이치는 화염
 Dragonflight/Raids/Aberrus/404942.mp3 이글거리는 발톱
 Dragonflight/Raids/Aberrus/405036.mp3 암영의 폭발
 Dragonflight/Raids/Aberrus/405084.mp3 잔존하는 암영
-Dragonflight/Raids/Aberrus/405091.mp3 이글거리는 분노
 Dragonflight/Raids/Aberrus/405316.mp3 고대의 분노
 Dragonflight/Raids/Aberrus/405375.mp3 격렬한 분출
 Dragonflight/Raids/Aberrus/405392.mp3 파열
@@ -5044,3 +5043,7 @@ WrathOfTheLichKing/Raids/Ulduar/64733.mp3 파멸의 불길
 WrathOfTheLichKing/Raids/Ulduar/64771.mp3 방어구 융해
 WrathOfTheLichKing/Raids/Ulduar/65121.mp3 타오르는 빛
 WrathOfTheLichKing/Raids/Ulduar/65133.mp3 폭풍 구름
+BattleForAzeroth/Dungeons/Freehold/256552.mp3 퍼덕이는 상어
+BattleForAzeroth/Dungeons/Freehold/413136.mp3 단도 소용돌이
+Dragonflight/Dungeons/HallsOfInfusion/393432.mp3 질풍창
+Dragonflight/Dungeons/Neltharus/384597.mp3 타오르는 베기
