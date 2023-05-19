@@ -34,6 +34,7 @@ BattleForAzeroth/Dungeons/Freehold/256358.mp3 상어 던지기
 BattleForAzeroth/Dungeons/Freehold/256363.mp3 갈퀴 강타
 BattleForAzeroth/Dungeons/Freehold/256405.mp3 상어 회오리
 BattleForAzeroth/Dungeons/Freehold/256489.mp3 재무장
+BattleForAzeroth/Dungeons/Freehold/256552.mp3 퍼덕이는 상어
 BattleForAzeroth/Dungeons/Freehold/256589.mp3 통 강타
 BattleForAzeroth/Dungeons/Freehold/256979.mp3 화약 발사
 BattleForAzeroth/Dungeons/Freehold/257272.mp3 불쾌한 폭격
@@ -74,6 +75,7 @@ BattleForAzeroth/Dungeons/Freehold/274383.mp3 쥐덫
 BattleForAzeroth/Dungeons/Freehold/274400.mp3 결투사 질주
 BattleForAzeroth/Dungeons/Freehold/274507.mp3 미끄러운 거품
 BattleForAzeroth/Dungeons/Freehold/274555.mp3 우둘투둘한 이빨
+BattleForAzeroth/Dungeons/Freehold/413136.mp3 단도 소용돌이
 BattleForAzeroth/Dungeons/Freehold/crusher.mp3 바위 투척
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/296510.mp3 으스스한 엉금이
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/297146.mp3 어둠의 낙인
@@ -1567,6 +1569,8 @@ Dragonflight/Dungeons/BrackenhideHollow/384353.mp3 복부 사격
 Dragonflight/Dungeons/BrackenhideHollow/384416.mp3 고기 던지기
 Dragonflight/Dungeons/BrackenhideHollow/384633.mp3 주인의 부름
 Dragonflight/Dungeons/BrackenhideHollow/384827.mp3 하이에나 부르기
+Dragonflight/Dungeons/BrackenhideHollow/384847.mp3 갓 잡은 물고기
+Dragonflight/Dungeons/BrackenhideHollow/384854.mp3 물고기 때리기!
 Dragonflight/Dungeons/BrackenhideHollow/385029.mp3 비명
 Dragonflight/Dungeons/BrackenhideHollow/385359.mp3 덩굴 덫
 Dragonflight/Dungeons/BrackenhideHollow/385832.mp3 피에 굶주린 돌진
@@ -1617,9 +1621,11 @@ Dragonflight/Dungeons/HallsOfInfusion/391471.mp3 정화의 포자
 Dragonflight/Dungeons/HallsOfInfusion/391610.mp3 구속의 바람
 Dragonflight/Dungeons/HallsOfInfusion/391613.mp3 진흙 곰팡이
 Dragonflight/Dungeons/HallsOfInfusion/391634.mp3 극심한 한기
+Dragonflight/Dungeons/HallsOfInfusion/393432.mp3 질풍창
 Dragonflight/Dungeons/HallsOfInfusion/395694.mp3 정기의 집중
 Dragonflight/Dungeons/Neltharus/372201.mp3 그을리는 숨결
 Dragonflight/Dungeons/Neltharus/372223.mp3 치유의 점토
+Dragonflight/Dungeons/Neltharus/372225.mp3 용뼈 도끼
 Dragonflight/Dungeons/Neltharus/372296.mp3 불타는 포격
 Dragonflight/Dungeons/Neltharus/372311.mp3 용암 주먹
 Dragonflight/Dungeons/Neltharus/372561.mp3 구속의 창
@@ -1636,6 +1642,7 @@ Dragonflight/Dungeons/Neltharus/375056.mp3 불타는 집중
 Dragonflight/Dungeons/Neltharus/375068.mp3 용암 투척
 Dragonflight/Dungeons/Neltharus/375251.mp3 용암 분사
 Dragonflight/Dungeons/Neltharus/375439.mp3 불타는 돌진
+Dragonflight/Dungeons/Neltharus/375535.mp3 용암 파도
 Dragonflight/Dungeons/Neltharus/375890.mp3 용암 분출
 Dragonflight/Dungeons/Neltharus/376186.mp3 분출의 분쇄
 Dragonflight/Dungeons/Neltharus/376200.mp3 불타는 폭발
@@ -1651,6 +1658,7 @@ Dragonflight/Dungeons/Neltharus/381663.mp3 백열의 폭풍
 Dragonflight/Dungeons/Neltharus/382708.mp3 화산의 수호
 Dragonflight/Dungeons/Neltharus/383651.mp3 녹아내린 군대
 Dragonflight/Dungeons/Neltharus/384161.mp3 발화의 티끌
+Dragonflight/Dungeons/Neltharus/384597.mp3 타오르는 베기
 Dragonflight/Dungeons/Neltharus/388523.mp3 족쇄
 Dragonflight/Dungeons/Neltharus/391457.mp3 용암 강화
 Dragonflight/Dungeons/Neltharus/391762.mp3 용 궤짝의 저주
@@ -2420,6 +2428,7 @@ Legion/Dungeons/NeltharionsLair/188169.mp3 칼날 파편
 Legion/Dungeons/NeltharionsLair/192800.mp3 숨막히는 먼지
 Legion/Dungeons/NeltharionsLair/193375.mp3 심연의 외침
 Legion/Dungeons/NeltharionsLair/193585.mp3 구속됨
+Legion/Dungeons/NeltharionsLair/198024.mp3 수정 대지
 Legion/Dungeons/NeltharionsLair/198428.mp3 산의 공격
 Legion/Dungeons/NeltharionsLair/198496.mp3 가르기
 Legion/Dungeons/NeltharionsLair/198564.mp3 산의 태세
@@ -5043,7 +5052,3 @@ WrathOfTheLichKing/Raids/Ulduar/64733.mp3 파멸의 불길
 WrathOfTheLichKing/Raids/Ulduar/64771.mp3 방어구 융해
 WrathOfTheLichKing/Raids/Ulduar/65121.mp3 타오르는 빛
 WrathOfTheLichKing/Raids/Ulduar/65133.mp3 폭풍 구름
-BattleForAzeroth/Dungeons/Freehold/256552.mp3 퍼덕이는 상어
-BattleForAzeroth/Dungeons/Freehold/413136.mp3 단도 소용돌이
-Dragonflight/Dungeons/HallsOfInfusion/393432.mp3 질풍창
-Dragonflight/Dungeons/Neltharus/384597.mp3 타오르는 베기
