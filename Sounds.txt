@@ -1629,6 +1629,7 @@ Dragonflight/Dungeons/Neltharus/372225.mp3 용뼈 도끼
 Dragonflight/Dungeons/Neltharus/372296.mp3 불타는 포격
 Dragonflight/Dungeons/Neltharus/372311.mp3 용암 주먹
 Dragonflight/Dungeons/Neltharus/372561.mp3 구속의 창
+Dragonflight/Dungeons/Neltharus/372971.mp3 반향의 내려치기
 Dragonflight/Dungeons/Neltharus/373084.mp3 그을리는 포화
 Dragonflight/Dungeons/Neltharus/373424.mp3 속박의 창
 Dragonflight/Dungeons/Neltharus/373733.mp3 용의 강타
@@ -1652,10 +1653,12 @@ Dragonflight/Dungeons/Neltharus/377204.mp3 용의 가마솥
 Dragonflight/Dungeons/Neltharus/377477.mp3 타오르는 불씨
 Dragonflight/Dungeons/Neltharus/377522.mp3 불타는 추적
 Dragonflight/Dungeons/Neltharus/378282.mp3 용암 핵
+Dragonflight/Dungeons/Neltharus/378818.mp3 용암의 불길
 Dragonflight/Dungeons/Neltharus/378827.mp3 폭발성 혼합물
 Dragonflight/Dungeons/Neltharus/379406.mp3 용암 던지기
 Dragonflight/Dungeons/Neltharus/381663.mp3 백열의 폭풍
 Dragonflight/Dungeons/Neltharus/382708.mp3 화산의 수호
+Dragonflight/Dungeons/Neltharus/382791.mp3 용암 보호막
 Dragonflight/Dungeons/Neltharus/383651.mp3 녹아내린 군대
 Dragonflight/Dungeons/Neltharus/384161.mp3 발화의 티끌
 Dragonflight/Dungeons/Neltharus/384597.mp3 타오르는 베기
@@ -1773,6 +1776,7 @@ Dragonflight/Dungeons/UldamanLegacyOfTyr/369337.mp3 까다로운 지형
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369365.mp3 돌의 저주
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369366.mp3 돌에 갇힘
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369400.mp3 대지의 수호물
+Dragonflight/Dungeons/UldamanLegacyOfTyr/369409.mp3 베어내기
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369411.mp3 음파 폭발
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369465.mp3 빗발치는 돌
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369563.mp3 거친 회전베기
@@ -1801,6 +1805,9 @@ Dragonflight/Dungeons/UldamanLegacyOfTyr/376208.mp3 시간의 흐름 되돌리�
 Dragonflight/Dungeons/UldamanLegacyOfTyr/376325.mp3 영원의 지대
 Dragonflight/Dungeons/UldamanLegacyOfTyr/377405.mp3 시간의 천공
 Dragonflight/Dungeons/UldamanLegacyOfTyr/377500.mp3 가속화
+Dragonflight/Dungeons/UldamanLegacyOfTyr/377724.mp3 구조적 약점
+Dragonflight/Dungeons/UldamanLegacyOfTyr/377732.mp3 뾰족한 이빨
+Dragonflight/Dungeons/UldamanLegacyOfTyr/377738.mp3 고대의 힘
 Dragonflight/Dungeons/UldamanLegacyOfTyr/381593.mp3 천둥 손뼉
 Dragonflight/Dungeons/UldamanLegacyOfTyr/382578.mp3 티르의 축복
 Dragonflight/Dungeons/UldamanLegacyOfTyr/386104.mp3 잊힌 티르의 고서

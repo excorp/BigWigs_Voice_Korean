@@ -234,12 +234,12 @@ local pathYou = "Interface\\AddOns\\BigWigs_Voice_KRgeelong\\Sounds\\Common\\you
 local function handler(event, module, key, sound, isOnMe)
 	local success = false
 	if isOnMe then
-		success = PlaySoundFile(pathYou, "Master")
+		success = PlaySoundFile(pathYou, "SFX")
 		if success then
 			Timer(0.3, function () 
-				local success = PlaySoundFile(format(path, currentZone, tostring(key)), "Master")
+				local success = PlaySoundFile(format(path, currentZone, tostring(key)), "SFX")
 				if not success then
-					success = PlaySoundFile(format(pathCommon, tostring(key)), "Master")
+					success = PlaySoundFile(format(pathCommon, tostring(key)), "SFX")
 					if not success then
 						addon:SendMessage("BigWigs_Sound", module, key, sound)
 					end
@@ -249,10 +249,10 @@ local function handler(event, module, key, sound, isOnMe)
 		end
 	end
 	
-	success = PlaySoundFile(format(path, currentZone, tostring(key)), "Master")	
+	success = PlaySoundFile(format(path, currentZone, tostring(key)), "SFX")	
 	-- print(format(path, currentZone, tostring(key)));
 	if not success then
-		success = PlaySoundFile(format(pathCommon, tostring(key)), "Master")
+		success = PlaySoundFile(format(pathCommon, tostring(key)), "SFX")
 		-- print(format(pathCommon, tostring(key)));
 		if not success then
 			addon:SendMessage("BigWigs_Sound", module, key, sound)
