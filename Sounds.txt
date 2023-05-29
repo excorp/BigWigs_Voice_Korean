@@ -1874,7 +1874,7 @@ Dragonflight/Raids/Aberrus/403625.mp3 영겁의 소멸
 Dragonflight/Raids/Aberrus/403671.mp3 제압의 발구르기
 Dragonflight/Raids/Aberrus/403699.mp3 어둠의 쐐기
 Dragonflight/Raids/Aberrus/403740.mp3 점화의 포효
-Dragonflight/Raids/Aberrus/403771.mp3 우주의 승천
+Dragonflight/Raids/Aberrus/403741.mp3 우주의 승천
 Dragonflight/Raids/Aberrus/403978.mp3 화염 폭풍
 Dragonflight/Raids/Aberrus/404010.mp3 불안정한 불씨
 Dragonflight/Raids/Aberrus/404027.mp3 공허 폭탄
@@ -1889,6 +1889,7 @@ Dragonflight/Raids/Aberrus/404713.mp3 우레와 같은 포효
 Dragonflight/Raids/Aberrus/404732.mp3 불타는 유성
 Dragonflight/Raids/Aberrus/404743.mp3 공포의 발톱
 Dragonflight/Raids/Aberrus/404754.mp3 작렬하는 비명
+Dragonflight/Raids/Aberrus/404769.mp3 공허한 일격
 Dragonflight/Raids/Aberrus/404846.mp3 소각의 아귀
 Dragonflight/Raids/Aberrus/404896.mp3 소용돌이치는 화염
 Dragonflight/Raids/Aberrus/404942.mp3 이글거리는 발톱
@@ -1913,6 +1914,7 @@ Dragonflight/Raids/Aberrus/406227.mp3 깊은 숨결
 Dragonflight/Raids/Aberrus/406311.mp3 마력 깃든 강타
 Dragonflight/Raids/Aberrus/406333.mp3 암흑용암 작렬
 Dragonflight/Raids/Aberrus/406358.mp3 분쇄의 돌진
+Dragonflight/Raids/Aberrus/406428.mp3 망각의 티끌
 Dragonflight/Raids/Aberrus/406530.mp3 균열화상
 Dragonflight/Raids/Aberrus/406585.mp3 이그나라의 격노
 Dragonflight/Raids/Aberrus/406678.mp3 전술적 파괴
@@ -1921,7 +1923,7 @@ Dragonflight/Raids/Aberrus/406725.mp3 유산탄
 Dragonflight/Raids/Aberrus/406783.mp3 암흑불길 폭발
 Dragonflight/Raids/Aberrus/406851.mp3 파멸의 불꽃
 Dragonflight/Raids/Aberrus/406989.mp3 불타는 대지
-Dragonflight/Raids/Aberrus/407017.mp3 강력한 강풍
+Dragonflight/Raids/Aberrus/407009.mp3 강력한 강풍
 Dragonflight/Raids/Aberrus/407069.mp3 고뇌의 광선
 Dragonflight/Raids/Aberrus/407196.mp3 공포의 균열
 Dragonflight/Raids/Aberrus/407221.mp3 몰아치는 어둠
@@ -5118,15 +5120,3 @@ WrathOfTheLichKing/Raids/Ulduar/64733.mp3 파멸의 불길
 WrathOfTheLichKing/Raids/Ulduar/64771.mp3 방어구 융해
 WrathOfTheLichKing/Raids/Ulduar/65121.mp3 타오르는 빛
 WrathOfTheLichKing/Raids/Ulduar/65133.mp3 폭풍 구름
-
-
-deleted:      Sounds/Dragonflight/Raids/Aberrus/403771.mp3 우주의 승천
-deleted:      Sounds/Dragonflight/Raids/Aberrus/407017.mp3 강력한 강풍
-
-
-Sounds/Dragonflight/Raids/Aberrus/403741.mp3 우주의 승천
-Sounds/Dragonflight/Raids/Aberrus/404769.mp3 공허한 일격
-Sounds/Dragonflight/Raids/Aberrus/406428.mp3 망각의 티끌
-Sounds/Dragonflight/Raids/Aberrus/407009.mp3 강력한 강풍
-
-
