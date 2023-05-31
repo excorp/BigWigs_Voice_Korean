@@ -215,14 +215,13 @@ local function getCurrentZone()
 end
 
 EventFrame:RegisterEvent("PLAYER_ENTERING_WORLD")
-
 EventFrame:SetScript("OnEvent", function(self, event, ...)
 	if(event == "PLAYER_ENTERING_WORLD") then
 		getCurrentZone()
 	end
 end)
 
-
+local channel = BigWigs_Voice_DB.channel or "Master"
 local tostring = tostring
 local format = format
 local Timer = C_Timer.After
@@ -234,12 +233,12 @@ local pathYou = "Interface\\AddOns\\BigWigs_Voice_KRgeelong\\Sounds\\Common\\you
 local function handler(event, module, key, sound, isOnMe)
 	local success = false
 	if isOnMe then
-		success = PlaySoundFile(pathYou, "SFX")
+		success = PlaySoundFile(pathYou, channel)
 		if success then
 			Timer(0.3, function () 
-				local success = PlaySoundFile(format(path, currentZone, tostring(key)), "SFX")
+				local success = PlaySoundFile(format(path, currentZone, tostring(key)), channel)
 				if not success then
-					success = PlaySoundFile(format(pathCommon, tostring(key)), "SFX")
+					success = PlaySoundFile(format(pathCommon, tostring(key)), channel)
 					if not success then
 						addon:SendMessage("BigWigs_Sound", module, key, sound)
 					end
@@ -249,11 +248,9 @@ local function handler(event, module, key, sound, isOnMe)
 		end
 	end
 	
-	success = PlaySoundFile(format(path, currentZone, tostring(key)), "SFX")	
-	-- print(format(path, currentZone, tostring(key)));
+	success = PlaySoundFile(format(path, currentZone, tostring(key)), channel)
 	if not success then
-		success = PlaySoundFile(format(pathCommon, tostring(key)), "SFX")
-		-- print(format(pathCommon, tostring(key)));
+		success = PlaySoundFile(format(pathCommon, tostring(key)), channel)
 		if not success then
 			addon:SendMessage("BigWigs_Sound", module, key, sound)
 		end
@@ -263,5 +260,12 @@ end
 BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 BigWigsAPI.RegisterVoicePack("KRgeelong")
 
--- print("빅윅 보이스 로딩됨");
 getCurrentZone()
+
+local public = {}
+function public:SendMessage(msg, ...)
+	if msg == "channel_changed" then
+		channel = BigWigs_Voice_DB.channel.value
+	end
+end
+BigWigsVoice = setmetatable({}, { __index = public, __newindex = function() end, __metatable = false })
