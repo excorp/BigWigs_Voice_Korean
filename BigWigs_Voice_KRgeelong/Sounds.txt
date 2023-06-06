@@ -490,6 +490,7 @@ BattleForAzeroth/Dungeons/Underrot/272457.mp3 충격파
 BattleForAzeroth/Dungeons/Underrot/272592.mp3 심연의 손길
 BattleForAzeroth/Dungeons/Underrot/272609.mp3 광기의 눈길
 BattleForAzeroth/Dungeons/Underrot/273285.mp3 불안정한 깍지
+BattleForAzeroth/Dungeons/Underrot/278755.mp3 참혹한 절망
 BattleForAzeroth/Dungeons/Underrot/278961.mp3 부패하는 정신
 BattleForAzeroth/Dungeons/Underrot/413044.mp3 암흑의 메아리
 BattleForAzeroth/Dungeons/WaycrestManor/260508.mp3 분쇄
@@ -1675,7 +1676,7 @@ Dragonflight/Dungeons/Neltharus/388523.mp3 족쇄
 Dragonflight/Dungeons/Neltharus/391457.mp3 용암 강화
 Dragonflight/Dungeons/Neltharus/391762.mp3 용 궤짝의 저주
 Dragonflight/Dungeons/Neltharus/395427.mp3 불타는 포효
-Dragonflight/Dungeons/Neltharus/magical_implements.mp3 금덩이에서 아이템을 획득하세요
+Dragonflight/Dungeons/Neltharus/magical_implements.mp3 마법 도구 획득
 Dragonflight/Dungeons/RubyLifePools/372047.mp3 강철 탄막
 Dragonflight/Dungeons/RubyLifePools/372087.mp3 이글거리는 질주
 Dragonflight/Dungeons/RubyLifePools/372107.mp3 타오르는 바위
@@ -1910,7 +1911,9 @@ Dragonflight/Raids/Aberrus/405736.mp3 용숨결 덫
 Dragonflight/Raids/Aberrus/405812.mp3 골렘 되살리기
 Dragonflight/Raids/Aberrus/405821.mp3 이글거리는 격돌
 Dragonflight/Raids/Aberrus/405914.mp3 쇠약의 약점
+Dragonflight/Raids/Aberrus/406210.mp3 치유의 꽃
 Dragonflight/Raids/Aberrus/406227.mp3 깊은 숨결
+Dragonflight/Raids/Aberrus/406282.mp3 꿈의 폭발
 Dragonflight/Raids/Aberrus/406311.mp3 마력 깃든 강타
 Dragonflight/Raids/Aberrus/406333.mp3 암흑용암 작렬
 Dragonflight/Raids/Aberrus/406358.mp3 분쇄의 돌진
@@ -1942,8 +1945,10 @@ Dragonflight/Raids/Aberrus/408193.mp3 융합 분출
 Dragonflight/Raids/Aberrus/408358.mp3 재앙적인 분출
 Dragonflight/Raids/Aberrus/408429.mp3 공허의 습격
 Dragonflight/Raids/Aberrus/408620.mp3 작열하는 포효
+Dragonflight/Raids/Aberrus/408811.mp3 전열 정비
 Dragonflight/Raids/Aberrus/408839.mp3 작열하는 열기
 Dragonflight/Raids/Aberrus/408959.mp3 파괴의 도약
+Dragonflight/Raids/Aberrus/408975.mp3 춤추는 강철
 Dragonflight/Raids/Aberrus/409093.mp3 타오르는 숨결
 Dragonflight/Raids/Aberrus/409275.mp3 용암 분출
 Dragonflight/Raids/Aberrus/409385.mp3 어둠과 불길
@@ -1954,7 +1959,11 @@ Dragonflight/Raids/Aberrus/410625.mp3 존재의 말살
 Dragonflight/Raids/Aberrus/410953.mp3 화산 심장
 Dragonflight/Raids/Aberrus/411182.mp3 폭발성 용암
 Dragonflight/Raids/Aberrus/411241.mp3 공허 발톱
+Dragonflight/Raids/Aberrus/411439.mp3 파열의 일격
 Dragonflight/Raids/Aberrus/411633.mp3 불타는 사슬
+Dragonflight/Raids/Aberrus/411808.mp3 점액 사출
+Dragonflight/Raids/Aberrus/411892.mp3 끈끈이 담즙
+Dragonflight/Raids/Aberrus/412498.mp3 고이는 웅덩이
 Dragonflight/Raids/DragonIsles/383496.mp3 강화 폭풍
 Dragonflight/Raids/DragonIsles/385137.mp3 바위 숨결
 Dragonflight/Raids/DragonIsles/385270.mp3 파열의 전율
@@ -2482,6 +2491,7 @@ Legion/Dungeons/NeltharionsLair/186576.mp3 석화의 구름
 Legion/Dungeons/NeltharionsLair/186616.mp3 석화
 Legion/Dungeons/NeltharionsLair/188114.mp3 산산조각
 Legion/Dungeons/NeltharionsLair/188169.mp3 칼날 파편
+Legion/Dungeons/NeltharionsLair/188587.mp3 검댕돌껍질
 Legion/Dungeons/NeltharionsLair/192800.mp3 숨막히는 먼지
 Legion/Dungeons/NeltharionsLair/193375.mp3 심연의 외침
 Legion/Dungeons/NeltharionsLair/193505.mp3 균열
