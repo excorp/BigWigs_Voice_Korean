@@ -1,4 +1,3 @@
-
 BattleForAzeroth/Dungeons/AtalDazar/249919.mp3 꼬챙이 꿰기
 BattleForAzeroth/Dungeons/AtalDazar/250036.mp3 어둠의 유해
 BattleForAzeroth/Dungeons/AtalDazar/250050.mp3 샤드라의 메아리
@@ -482,6 +481,7 @@ BattleForAzeroth/Dungeons/Underrot/265668.mp3 부패의 파도
 BattleForAzeroth/Dungeons/Underrot/266106.mp3 날카로운 음파
 BattleForAzeroth/Dungeons/Underrot/266107.mp3 피에 대한 갈증
 BattleForAzeroth/Dungeons/Underrot/266209.mp3 사악한 광기
+BattleForAzeroth/Dungeons/Underrot/266265.mp3 사악한 포옹
 BattleForAzeroth/Dungeons/Underrot/269301.mp3 부패한 피
 BattleForAzeroth/Dungeons/Underrot/269310.mp3 정화의 빛
 BattleForAzeroth/Dungeons/Underrot/269843.mp3 썩은 방출
@@ -1278,6 +1278,7 @@ Cataclysm/Dungeons/Stonecore/92426.mp3 마비
 Cataclysm/Dungeons/ThroneTides/76207.mp3 노예 만들기
 Cataclysm/Dungeons/ThroneTides/76230.mp3 정신의 안개
 Cataclysm/Dungeons/VortexPinnacle/410870.mp3 회오리바람
+Cataclysm/Dungeons/VortexPinnacle/410873.mp3 맹렬한 바람
 Cataclysm/Dungeons/VortexPinnacle/410999.mp3 압축 폭발
 Cataclysm/Dungeons/VortexPinnacle/411001.mp3 치명적인 전류
 Cataclysm/Dungeons/VortexPinnacle/411002.mp3 난기류
@@ -1546,6 +1547,7 @@ Dragonflight/Dungeons/BrackenhideHollow/367500.mp3 흉측한 폭소
 Dragonflight/Dungeons/BrackenhideHollow/367503.mp3 메마른 폭발
 Dragonflight/Dungeons/BrackenhideHollow/368081.mp3 메마름
 Dragonflight/Dungeons/BrackenhideHollow/368287.mp3 독성 덫
+Dragonflight/Dungeons/BrackenhideHollow/372141.mp3 메말라가는 중!
 Dragonflight/Dungeons/BrackenhideHollow/372711.mp3 타락 주입
 Dragonflight/Dungeons/BrackenhideHollow/373897.mp3 부패하는 뿌리
 Dragonflight/Dungeons/BrackenhideHollow/373917.mp3 부패의 일격
@@ -1554,6 +1556,7 @@ Dragonflight/Dungeons/BrackenhideHollow/373943.mp3 발구르기
 Dragonflight/Dungeons/BrackenhideHollow/373944.mp3 부패파열 토템
 Dragonflight/Dungeons/BrackenhideHollow/373960.mp3 쇠약해지는 힘
 Dragonflight/Dungeons/BrackenhideHollow/374057.mp3 토템 소환
+Dragonflight/Dungeons/BrackenhideHollow/374245.mp3 부패하는 개울
 Dragonflight/Dungeons/BrackenhideHollow/374544.mp3 부패 폭발
 Dragonflight/Dungeons/BrackenhideHollow/374569.mp3 폭발
 Dragonflight/Dungeons/BrackenhideHollow/376170.mp3 질식의 부식구름
@@ -1917,6 +1920,7 @@ Dragonflight/Raids/Aberrus/406282.mp3 꿈의 폭발
 Dragonflight/Raids/Aberrus/406311.mp3 마력 깃든 강타
 Dragonflight/Raids/Aberrus/406333.mp3 암흑용암 작렬
 Dragonflight/Raids/Aberrus/406358.mp3 분쇄의 돌진
+Dragonflight/Raids/Aberrus/406399.mp3 하늘빛 힘의 지역
 Dragonflight/Raids/Aberrus/406428.mp3 망각의 티끌
 Dragonflight/Raids/Aberrus/406530.mp3 균열화상
 Dragonflight/Raids/Aberrus/406585.mp3 이그나라의 격노
@@ -1963,6 +1967,8 @@ Dragonflight/Raids/Aberrus/411439.mp3 파열의 일격
 Dragonflight/Raids/Aberrus/411633.mp3 불타는 사슬
 Dragonflight/Raids/Aberrus/411808.mp3 점액 사출
 Dragonflight/Raids/Aberrus/411892.mp3 끈끈이 담즙
+Dragonflight/Raids/Aberrus/411900.mp3 암울한 액체
+Dragonflight/Raids/Aberrus/411905.mp3 불꽃 가열
 Dragonflight/Raids/Aberrus/412498.mp3 고이는 웅덩이
 Dragonflight/Raids/DragonIsles/383496.mp3 강화 폭풍
 Dragonflight/Raids/DragonIsles/385137.mp3 바위 숨결
@@ -2483,6 +2489,7 @@ Legion/Dungeons/MawOfSouls/202088.mp3 오물 포화
 Legion/Dungeons/MawOfSouls/216197.mp3 밀려드는 물길
 Legion/Dungeons/MawOfSouls/227233.mp3 타락한 고함
 Legion/Dungeons/NeltharionsLair/183088.mp3 산사태
+Legion/Dungeons/NeltharionsLair/183407.mp3 산성 물질 튀기기
 Legion/Dungeons/NeltharionsLair/183465.mp3 끈적이는 담즙
 Legion/Dungeons/NeltharionsLair/183526.mp3 전쟁 북
 Legion/Dungeons/NeltharionsLair/183539.mp3 가시 돋친 혀
@@ -2519,6 +2526,7 @@ Legion/Dungeons/NeltharionsLair/210150.mp3 독성 구역질
 Legion/Dungeons/NeltharionsLair/216407.mp3 용암 분출
 Legion/Dungeons/NeltharionsLair/226287.mp3 으깨기
 Legion/Dungeons/NeltharionsLair/226296.mp3 관통 파편
+Legion/Dungeons/NeltharionsLair/226388.mp3 썩은 수액
 Legion/Dungeons/NeltharionsLair/226406.mp3 잿불 휩쓸기
 Legion/Dungeons/SeatOfTheTriumvirate/244433.mp3 본그림자 전환
 Legion/Dungeons/SeatOfTheTriumvirate/244579.mp3 척살
