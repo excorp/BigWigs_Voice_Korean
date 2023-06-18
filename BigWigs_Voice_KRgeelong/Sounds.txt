@@ -468,10 +468,12 @@ BattleForAzeroth/Dungeons/Underrot/260879.mp3 피의 화살
 BattleForAzeroth/Dungeons/Underrot/260894.mp3 퍼지는 부식
 BattleForAzeroth/Dungeons/Underrot/264603.mp3 피의 거울
 BattleForAzeroth/Dungeons/Underrot/264757.mp3 핏빛 연회
+BattleForAzeroth/Dungeons/Underrot/265016.mp3 피의 수확
 BattleForAzeroth/Dungeons/Underrot/265019.mp3 맹렬한 분쇄
 BattleForAzeroth/Dungeons/Underrot/265081.mp3 전투의 외침
 BattleForAzeroth/Dungeons/Underrot/265089.mp3 어둠의 복원
 BattleForAzeroth/Dungeons/Underrot/265091.mp3 그훈의 선물
+BattleForAzeroth/Dungeons/Underrot/265377.mp3 갈고리 올가미
 BattleForAzeroth/Dungeons/Underrot/265433.mp3 메마름의 저주
 BattleForAzeroth/Dungeons/Underrot/265487.mp3 연발 어둠의 화살
 BattleForAzeroth/Dungeons/Underrot/265523.mp3 영혼 흡수의 토템 소환
@@ -1569,6 +1571,7 @@ Dragonflight/Dungeons/BrackenhideHollow/377950.mp3 상급 치유의 급류
 Dragonflight/Dungeons/BrackenhideHollow/377965.mp3 피의 광란
 Dragonflight/Dungeons/BrackenhideHollow/378022.mp3 섭취하는 중
 Dragonflight/Dungeons/BrackenhideHollow/378029.mp3 난도질 광란
+Dragonflight/Dungeons/BrackenhideHollow/378054.mp3 메말라가는 중!
 Dragonflight/Dungeons/BrackenhideHollow/378208.mp3 도살의 표적
 Dragonflight/Dungeons/BrackenhideHollow/381444.mp3 흉포한 돌진
 Dragonflight/Dungeons/BrackenhideHollow/381470.mp3 기만의 사술 토템
@@ -1931,6 +1934,7 @@ Dragonflight/Raids/Aberrus/406783.mp3 암흑불길 폭발
 Dragonflight/Raids/Aberrus/406851.mp3 파멸의 불꽃
 Dragonflight/Raids/Aberrus/406989.mp3 불타는 대지
 Dragonflight/Raids/Aberrus/407009.mp3 강력한 강풍
+Dragonflight/Raids/Aberrus/407036.mp3 공허 은신
 Dragonflight/Raids/Aberrus/407069.mp3 고뇌의 광선
 Dragonflight/Raids/Aberrus/407196.mp3 공포의 균열
 Dragonflight/Raids/Aberrus/407221.mp3 몰아치는 어둠
