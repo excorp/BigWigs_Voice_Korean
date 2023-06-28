@@ -1584,6 +1584,7 @@ Dragonflight/Dungeons/BrackenhideHollow/383399.mp3 썩어가는 쇄도
 Dragonflight/Dungeons/BrackenhideHollow/383875.mp3 반쯤 소화됨
 Dragonflight/Dungeons/BrackenhideHollow/384353.mp3 복부 사격
 Dragonflight/Dungeons/BrackenhideHollow/384416.mp3 고기 던지기
+Dragonflight/Dungeons/BrackenhideHollow/384577.mp3 마비시키는 이빨
 Dragonflight/Dungeons/BrackenhideHollow/384633.mp3 주인의 부름
 Dragonflight/Dungeons/BrackenhideHollow/384827.mp3 하이에나 부르기
 Dragonflight/Dungeons/BrackenhideHollow/384847.mp3 갓 잡은 물고기
@@ -1644,6 +1645,7 @@ Dragonflight/Dungeons/Neltharus/372223.mp3 치유의 점토
 Dragonflight/Dungeons/Neltharus/372225.mp3 용뼈 도끼
 Dragonflight/Dungeons/Neltharus/372296.mp3 불타는 포격
 Dragonflight/Dungeons/Neltharus/372311.mp3 용암 주먹
+Dragonflight/Dungeons/Neltharus/372461.mp3 주입된 용암
 Dragonflight/Dungeons/Neltharus/372561.mp3 구속의 창
 Dragonflight/Dungeons/Neltharus/372971.mp3 반향의 내려치기
 Dragonflight/Dungeons/Neltharus/373084.mp3 그을리는 포화
@@ -1651,6 +1653,7 @@ Dragonflight/Dungeons/Neltharus/373424.mp3 속박의 창
 Dragonflight/Dungeons/Neltharus/373733.mp3 용의 강타
 Dragonflight/Dungeons/Neltharus/373742.mp3 마그마의 물결
 Dragonflight/Dungeons/Neltharus/374365.mp3 불안정한 변종
+Dragonflight/Dungeons/Neltharus/374451.mp3 불타는 사슬
 Dragonflight/Dungeons/Neltharus/374533.mp3 고열 휘두르기
 Dragonflight/Dungeons/Neltharus/374635.mp3 제련소의 힘
 Dragonflight/Dungeons/Neltharus/374839.mp3 불타는 아이기스
