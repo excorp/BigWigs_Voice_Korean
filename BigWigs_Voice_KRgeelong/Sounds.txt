@@ -1598,6 +1598,78 @@ Dragonflight/Dungeons/BrackenhideHollow/385832.mp3 피에 굶주린 돌진
 Dragonflight/Dungeons/BrackenhideHollow/388046.mp3 격렬한 돌개바람
 Dragonflight/Dungeons/BrackenhideHollow/388060.mp3 고약한 숨결
 Dragonflight/Dungeons/BrackenhideHollow/390968.mp3 허기진 광란
+Dragonflight/Dungeons/DawnOfTheInfinite/400641.mp3 분단의 일격
+Dragonflight/Dungeons/DawnOfTheInfinite/400642.mp3 서약의 돌 착취
+Dragonflight/Dungeons/DawnOfTheInfinite/400681.mp3 티르의 불꽃
+Dragonflight/Dungeons/DawnOfTheInfinite/401248.mp3 티탄의 강타
+Dragonflight/Dungeons/DawnOfTheInfinite/401421.mp3 모래의 울림
+Dragonflight/Dungeons/DawnOfTheInfinite/401482.mp3 무한의 절멸
+Dragonflight/Dungeons/DawnOfTheInfinite/401667.mp3 시간 정지장
+Dragonflight/Dungeons/DawnOfTheInfinite/403891.mp3 더 많은 골칫거리!
+Dragonflight/Dungeons/DawnOfTheInfinite/404364.mp3 용의 숨결
+Dragonflight/Dungeons/DawnOfTheInfinite/404916.mp3 모래 돌풍
+Dragonflight/Dungeons/DawnOfTheInfinite/405279.mp3 낯익은 얼굴
+Dragonflight/Dungeons/DawnOfTheInfinite/405431.mp3 시간의 파편
+Dragonflight/Dungeons/DawnOfTheInfinite/405696.mp3 퇴색된 시간
+Dragonflight/Dungeons/DawnOfTheInfinite/406481.mp3 시간의 덫
+Dragonflight/Dungeons/DawnOfTheInfinite/406543.mp3 훔친 시간
+Dragonflight/Dungeons/DawnOfTheInfinite/406886.mp3 부식성 주입
+Dragonflight/Dungeons/DawnOfTheInfinite/407124.mp3 집결의 외침
+Dragonflight/Dungeons/DawnOfTheInfinite/407125.mp3 파열의 강타
+Dragonflight/Dungeons/DawnOfTheInfinite/407147.mp3 스며드는 역병
+Dragonflight/Dungeons/DawnOfTheInfinite/407159.mp3 역병 회수
+Dragonflight/Dungeons/DawnOfTheInfinite/407205.mp3 불안정한 박격포
+Dragonflight/Dungeons/DawnOfTheInfinite/407406.mp3 부식
+Dragonflight/Dungeons/DawnOfTheInfinite/407535.mp3 고블린 공병 배치
+Dragonflight/Dungeons/DawnOfTheInfinite/407891.mp3 치유의 물결
+Dragonflight/Dungeons/DawnOfTheInfinite/407978.mp3 괴저의 바람
+Dragonflight/Dungeons/DawnOfTheInfinite/408029.mp3 괴저의 냉기
+Dragonflight/Dungeons/DawnOfTheInfinite/408141.mp3 소각의 역병숨결
+Dragonflight/Dungeons/DawnOfTheInfinite/408183.mp3 티탄의 강화
+Dragonflight/Dungeons/DawnOfTheInfinite/409261.mp3 멸종의 작렬
+Dragonflight/Dungeons/DawnOfTheInfinite/409456.mp3 대지의 쇄도
+Dragonflight/Dungeons/DawnOfTheInfinite/409635.mp3 짓이기는 발산
+Dragonflight/Dungeons/DawnOfTheInfinite/410234.mp3 칼날폭풍
+Dragonflight/Dungeons/DawnOfTheInfinite/410904.mp3 무한의 보주
+Dragonflight/Dungeons/DawnOfTheInfinite/411994.mp3 시간 용해
+Dragonflight/Dungeons/DawnOfTheInfinite/412012.mp3 시간 베기
+Dragonflight/Dungeons/DawnOfTheInfinite/412027.mp3 시간의 화상
+Dragonflight/Dungeons/DawnOfTheInfinite/412063.mp3 시간 해체
+Dragonflight/Dungeons/DawnOfTheInfinite/412129.mp3 사색의 보주
+Dragonflight/Dungeons/DawnOfTheInfinite/412136.mp3 시간의 일격
+Dragonflight/Dungeons/DawnOfTheInfinite/412215.mp3 장막의 모래폭풍
+Dragonflight/Dungeons/DawnOfTheInfinite/412378.mp3 어지러운 모래
+Dragonflight/Dungeons/DawnOfTheInfinite/412806.mp3 역병 분출
+Dragonflight/Dungeons/DawnOfTheInfinite/412922.mp3 구속 손아귀
+Dragonflight/Dungeons/DawnOfTheInfinite/413013.mp3 시간 절단
+Dragonflight/Dungeons/DawnOfTheInfinite/413024.mp3 티탄의 보루
+Dragonflight/Dungeons/DawnOfTheInfinite/413105.mp3 영겁의 분쇄
+Dragonflight/Dungeons/DawnOfTheInfinite/413529.mp3 풀어지는 시간
+Dragonflight/Dungeons/DawnOfTheInfinite/413544.mp3 피워내기
+Dragonflight/Dungeons/DawnOfTheInfinite/413607.mp3 부식성 연발 사격
+Dragonflight/Dungeons/DawnOfTheInfinite/413621.mp3 영속의 저주
+Dragonflight/Dungeons/DawnOfTheInfinite/413622.mp3 무한한 분노
+Dragonflight/Dungeons/DawnOfTheInfinite/414184.mp3 말살의 대격변
+Dragonflight/Dungeons/DawnOfTheInfinite/414303.mp3 되감기
+Dragonflight/Dungeons/DawnOfTheInfinite/414307.mp3 광휘
+Dragonflight/Dungeons/DawnOfTheInfinite/414535.mp3 바위 쇄편 세례
+Dragonflight/Dungeons/DawnOfTheInfinite/415437.mp3 무기력
+Dragonflight/Dungeons/DawnOfTheInfinite/415769.mp3 시간 파열
+Dragonflight/Dungeons/DawnOfTheInfinite/415770.mp3 무한의 연발 화살
+Dragonflight/Dungeons/DawnOfTheInfinite/415773.mp3 시간의 폭발
+Dragonflight/Dungeons/DawnOfTheInfinite/416139.mp3 시간의 숨결
+Dragonflight/Dungeons/DawnOfTheInfinite/416152.mp3 무한의 수호자 소환
+Dragonflight/Dungeons/DawnOfTheInfinite/416264.mp3 무한의 타락
+Dragonflight/Dungeons/DawnOfTheInfinite/417481.mp3 시간배열 변위
+Dragonflight/Dungeons/DawnOfTheInfinite/418047.mp3 얼라이언스를 위하여!
+Dragonflight/Dungeons/DawnOfTheInfinite/418054.mp3 충격파
+Dragonflight/Dungeons/DawnOfTheInfinite/418059.mp3 필사의 일격
+Dragonflight/Dungeons/DawnOfTheInfinite/418062.mp3 전투의 함성
+Dragonflight/Dungeons/DawnOfTheInfinite/418200.mp3 무한의 화상
+Dragonflight/Dungeons/DawnOfTheInfinite/418346.mp3 타락한 정신
+Dragonflight/Dungeons/DawnOfTheInfinite/419351.mp3 청동 발산
+Dragonflight/Dungeons/DawnOfTheInfinite/419511.mp3 시간의 연결
+Dragonflight/Dungeons/DawnOfTheInfinite/419516.mp3 시간 분출
 Dragonflight/Dungeons/HallsOfInfusion/374045.mp3 추방
 Dragonflight/Dungeons/HallsOfInfusion/374073.mp3 지진 격돌
 Dragonflight/Dungeons/HallsOfInfusion/374339.mp3 사기의 외침
