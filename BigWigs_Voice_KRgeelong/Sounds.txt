@@ -1626,10 +1626,13 @@ Dragonflight/Dungeons/DawnOfTheInfinite/407978.mp3 괴저의 바람
 Dragonflight/Dungeons/DawnOfTheInfinite/408029.mp3 괴저의 냉기
 Dragonflight/Dungeons/DawnOfTheInfinite/408141.mp3 소각의 역병숨결
 Dragonflight/Dungeons/DawnOfTheInfinite/408183.mp3 티탄의 강화
+Dragonflight/Dungeons/DawnOfTheInfinite/408227.mp3 충격파
 Dragonflight/Dungeons/DawnOfTheInfinite/409261.mp3 멸종의 작렬
 Dragonflight/Dungeons/DawnOfTheInfinite/409456.mp3 대지의 쇄도
 Dragonflight/Dungeons/DawnOfTheInfinite/409635.mp3 짓이기는 발산
 Dragonflight/Dungeons/DawnOfTheInfinite/410234.mp3 칼날폭풍
+Dragonflight/Dungeons/DawnOfTheInfinite/410254.mp3 일격
+Dragonflight/Dungeons/DawnOfTheInfinite/410496.mp3 전쟁의 함성
 Dragonflight/Dungeons/DawnOfTheInfinite/410904.mp3 무한의 보주
 Dragonflight/Dungeons/DawnOfTheInfinite/411994.mp3 시간 용해
 Dragonflight/Dungeons/DawnOfTheInfinite/412012.mp3 시간 베기
@@ -1661,6 +1664,7 @@ Dragonflight/Dungeons/DawnOfTheInfinite/416139.mp3 시간의 숨결
 Dragonflight/Dungeons/DawnOfTheInfinite/416152.mp3 무한의 수호자 소환
 Dragonflight/Dungeons/DawnOfTheInfinite/416264.mp3 무한의 타락
 Dragonflight/Dungeons/DawnOfTheInfinite/417481.mp3 시간배열 변위
+Dragonflight/Dungeons/DawnOfTheInfinite/418046.mp3 호드를 위하여!
 Dragonflight/Dungeons/DawnOfTheInfinite/418047.mp3 얼라이언스를 위하여!
 Dragonflight/Dungeons/DawnOfTheInfinite/418054.mp3 충격파
 Dragonflight/Dungeons/DawnOfTheInfinite/418059.mp3 필사의 일격
