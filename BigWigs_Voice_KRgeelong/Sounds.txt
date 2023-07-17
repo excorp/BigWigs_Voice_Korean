@@ -1288,6 +1288,7 @@ Cataclysm/Dungeons/VortexPinnacle/411005.mp3 폭발하는 회오리
 Cataclysm/Dungeons/VortexPinnacle/411012.mp3 싸늘한 숨결
 Cataclysm/Dungeons/VortexPinnacle/411910.mp3 치유의 샘
 Cataclysm/Dungeons/VortexPinnacle/413151.mp3 폭풍우 소환
+Cataclysm/Dungeons/VortexPinnacle/413264.mp3 하늘붕괴 신성
 Cataclysm/Dungeons/VortexPinnacle/413275.mp3 한랭 전선
 Cataclysm/Dungeons/VortexPinnacle/413295.mp3 하강기류
 Cataclysm/Dungeons/VortexPinnacle/413385.mp3 마법 흡수장 과부하
