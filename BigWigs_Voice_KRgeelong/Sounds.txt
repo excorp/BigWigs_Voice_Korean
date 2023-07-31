@@ -1647,7 +1647,7 @@ Dragonflight/Dungeons/DawnOfTheInfinite/412806.mp3 역병 분출
 Dragonflight/Dungeons/DawnOfTheInfinite/412922.mp3 구속 손아귀
 Dragonflight/Dungeons/DawnOfTheInfinite/413013.mp3 시간 절단
 Dragonflight/Dungeons/DawnOfTheInfinite/413024.mp3 티탄의 보루
-Dragonflight/Dungeons/DawnOfTheInfinite/413105.mp3 영겁의 분쇄
+Dragonflight/Dungeons/DawnOfTheInfinite/413142.mp3 영겁의 분쇄
 Dragonflight/Dungeons/DawnOfTheInfinite/413529.mp3 풀어지는 시간
 Dragonflight/Dungeons/DawnOfTheInfinite/413544.mp3 피워내기
 Dragonflight/Dungeons/DawnOfTheInfinite/413607.mp3 부식성 연발 사격
@@ -1664,6 +1664,7 @@ Dragonflight/Dungeons/DawnOfTheInfinite/415773.mp3 시간의 폭발
 Dragonflight/Dungeons/DawnOfTheInfinite/416139.mp3 시간의 숨결
 Dragonflight/Dungeons/DawnOfTheInfinite/416152.mp3 무한의 수호자 소환
 Dragonflight/Dungeons/DawnOfTheInfinite/416264.mp3 무한의 타락
+Dragonflight/Dungeons/DawnOfTheInfinite/417011.mp3 성스러운 빛
 Dragonflight/Dungeons/DawnOfTheInfinite/417481.mp3 시간배열 변위
 Dragonflight/Dungeons/DawnOfTheInfinite/418046.mp3 호드를 위하여!
 Dragonflight/Dungeons/DawnOfTheInfinite/418047.mp3 얼라이언스를 위하여!
@@ -1672,6 +1673,7 @@ Dragonflight/Dungeons/DawnOfTheInfinite/418059.mp3 필사의 일격
 Dragonflight/Dungeons/DawnOfTheInfinite/418062.mp3 전투의 함성
 Dragonflight/Dungeons/DawnOfTheInfinite/418200.mp3 무한의 화상
 Dragonflight/Dungeons/DawnOfTheInfinite/418346.mp3 타락한 정신
+Dragonflight/Dungeons/DawnOfTheInfinite/418684.mp3 드워프 폭탄병 투입
 Dragonflight/Dungeons/DawnOfTheInfinite/419351.mp3 청동 발산
 Dragonflight/Dungeons/DawnOfTheInfinite/419511.mp3 시간의 연결
 Dragonflight/Dungeons/DawnOfTheInfinite/419516.mp3 시간 분출
@@ -1999,7 +2001,6 @@ Dragonflight/Raids/Aberrus/405821.mp3 이글거리는 격돌
 Dragonflight/Raids/Aberrus/405914.mp3 쇠약의 약점
 Dragonflight/Raids/Aberrus/406210.mp3 치유의 꽃
 Dragonflight/Raids/Aberrus/406227.mp3 깊은 숨결
-Dragonflight/Raids/Aberrus/406282.mp3 꿈의 폭발
 Dragonflight/Raids/Aberrus/406311.mp3 마력 깃든 강타
 Dragonflight/Raids/Aberrus/406333.mp3 암흑용암 작렬
 Dragonflight/Raids/Aberrus/406358.mp3 분쇄의 돌진
@@ -2040,6 +2041,8 @@ Dragonflight/Raids/Aberrus/408975.mp3 춤추는 강철
 Dragonflight/Raids/Aberrus/409093.mp3 타오르는 숨결
 Dragonflight/Raids/Aberrus/409275.mp3 용암 분출
 Dragonflight/Raids/Aberrus/409385.mp3 어둠과 불길
+Dragonflight/Raids/Aberrus/409576.mp3 어둠의 결속
+Dragonflight/Raids/Aberrus/409612.mp3 암영 격류
 Dragonflight/Raids/Aberrus/410070.mp3 암흑불길 방출
 Dragonflight/Raids/Aberrus/410351.mp3 불타는 곤봉
 Dragonflight/Raids/Aberrus/410516.mp3 재앙적인 격돌
@@ -2054,6 +2057,7 @@ Dragonflight/Raids/Aberrus/411892.mp3 끈끈이 담즙
 Dragonflight/Raids/Aberrus/411900.mp3 암울한 액체
 Dragonflight/Raids/Aberrus/411905.mp3 불꽃 가열
 Dragonflight/Raids/Aberrus/412498.mp3 고이는 웅덩이
+Dragonflight/Raids/Aberrus/418113.mp3 꿈의 폭발
 Dragonflight/Raids/DragonIsles/383496.mp3 강화 폭풍
 Dragonflight/Raids/DragonIsles/385137.mp3 바위 숨결
 Dragonflight/Raids/DragonIsles/385270.mp3 파열의 전율
@@ -2592,6 +2596,7 @@ Legion/Dungeons/NeltharionsLair/198024.mp3 수정 대지
 Legion/Dungeons/NeltharionsLair/198428.mp3 산의 공격
 Legion/Dungeons/NeltharionsLair/198496.mp3 가르기
 Legion/Dungeons/NeltharionsLair/198564.mp3 산의 태세
+Legion/Dungeons/NeltharionsLair/198963.mp3 불쾌한 하늘
 Legion/Dungeons/NeltharionsLair/199178.mp3 가시 박힌 혀
 Legion/Dungeons/NeltharionsLair/199246.mp3 굶주림
 Legion/Dungeons/NeltharionsLair/199775.mp3 광란
