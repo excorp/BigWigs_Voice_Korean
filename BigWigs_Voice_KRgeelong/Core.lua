@@ -120,7 +120,7 @@ zonetable[2521] = "Dragonflight\\Dungeons\\RubyLifePools" -- Ruby Life Pools
 zonetable[2515] = "Dragonflight\\Dungeons\\TheAzureVault" -- The Azure Vault 
 zonetable[2516] = "Dragonflight\\Dungeons\\TheNokhudOffensive" -- The Nokhud Offensive 
 zonetable[2451] = "Dragonflight\\Dungeons\\UldamanLegacyOfTyr" -- Uldaman: Legacy of Tyr
-zonetable[2579] = "Dragonflight\\Dungeons\\DawnOfTheInfinite" -- Uldaman: Legacy of Tyr
+zonetable[2579] = "Dragonflight\\Dungeons\\DawnOfTheInfinite" -- Dawn of The Infinite 
 
 -- raid
 zonetable[509] = "Classic\\Raids\\AQ20" -- Ruins of Ahn'Qiraj
@@ -200,6 +200,7 @@ zonetable[-2024] = "Dragonflight\\Raids\\DragonIsles" --
 zonetable[-2025] = "Dragonflight\\Raids\\DragonIsles" -- 
 zonetable[2522] = "Dragonflight\\Raids\\VaultOfTheIncarnates" -- Vault of the Incarnates
 zonetable[2569] = "Dragonflight\\Raids\\Aberrus" -- Aberrus
+zonetable[2549] = "Dragonflight\\Raids\\Amirdrassil" -- Amirdrassil
 
 
 local currentZone = ""

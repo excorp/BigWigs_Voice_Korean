@@ -13,21 +13,26 @@ BattleForAzeroth/Dungeons/AtalDazar/253583.mp3 화염 마법부여
 BattleForAzeroth/Dungeons/AtalDazar/253721.mp3 부적의 보루
 BattleForAzeroth/Dungeons/AtalDazar/255041.mp3 공포의 비명소리
 BattleForAzeroth/Dungeons/AtalDazar/255371.mp3 공포스러운 얼굴
+BattleForAzeroth/Dungeons/AtalDazar/255421.mp3 집어삼키기
 BattleForAzeroth/Dungeons/AtalDazar/255434.mp3 톱날 이빨
 BattleForAzeroth/Dungeons/AtalDazar/255558.mp3 오염된 피
 BattleForAzeroth/Dungeons/AtalDazar/255567.mp3 광포한 돌진
 BattleForAzeroth/Dungeons/AtalDazar/255577.mp3 수혈
 BattleForAzeroth/Dungeons/AtalDazar/255579.mp3 황금빛 발톱
 BattleForAzeroth/Dungeons/AtalDazar/255582.mp3 녹아내린 황금
+BattleForAzeroth/Dungeons/AtalDazar/255626.mp3 고름 분출
 BattleForAzeroth/Dungeons/AtalDazar/256849.mp3 공룡의 힘
 BattleForAzeroth/Dungeons/AtalDazar/257407.mp3 추격
-BattleForAzeroth/Dungeons/AtalDazar/258709.mp3 타락한 황금
 BattleForAzeroth/Dungeons/AtalDazar/259187.mp3 영혼 분리
+BattleForAzeroth/Dungeons/AtalDazar/259205.mp3 황금 영혼
+BattleForAzeroth/Dungeons/AtalDazar/259531.mp3 부활
 BattleForAzeroth/Dungeons/AtalDazar/259572.mp3 고약한 악취
 BattleForAzeroth/Dungeons/AtalDazar/260666.mp3 수혈
+BattleForAzeroth/Dungeons/AtalDazar/277072.mp3 타락한 황금
 BattleForAzeroth/Dungeons/Freehold/255952.mp3 돌지이이이인
 BattleForAzeroth/Dungeons/Freehold/256005.mp3 불쾌한 폭격
 BattleForAzeroth/Dungeons/Freehold/256016.mp3 썩은내 범벅
+BattleForAzeroth/Dungeons/Freehold/256056.mp3 앵무새 생성
 BattleForAzeroth/Dungeons/Freehold/256060.mp3 활력의 맥주
 BattleForAzeroth/Dungeons/Freehold/256106.mp3 아제라이트 화약 발사
 BattleForAzeroth/Dungeons/Freehold/256358.mp3 상어 던지기
@@ -518,6 +523,7 @@ BattleForAzeroth/Dungeons/WaycrestManor/264105.mp3 룬 징표
 BattleForAzeroth/Dungeons/WaycrestManor/264150.mp3 산산조각
 BattleForAzeroth/Dungeons/WaycrestManor/264390.mp3 마력 속박
 BattleForAzeroth/Dungeons/WaycrestManor/264396.mp3 망령의 부적
+BattleForAzeroth/Dungeons/WaycrestManor/264407.mp3 끔찍한 얼굴
 BattleForAzeroth/Dungeons/WaycrestManor/264456.mp3 추적 폭탄
 BattleForAzeroth/Dungeons/WaycrestManor/264520.mp3 절단의 독뱀
 BattleForAzeroth/Dungeons/WaycrestManor/264525.mp3 파편 덫
@@ -530,6 +536,7 @@ BattleForAzeroth/Dungeons/WaycrestManor/265005.mp3 흡수된 시종
 BattleForAzeroth/Dungeons/WaycrestManor/265346.mp3 창백한 응시
 BattleForAzeroth/Dungeons/WaycrestManor/265352.mp3 두꺼비 역병
 BattleForAzeroth/Dungeons/WaycrestManor/265368.mp3 영혼 주입 방어
+BattleForAzeroth/Dungeons/WaycrestManor/265372.mp3 어둠의 회전베기
 BattleForAzeroth/Dungeons/WaycrestManor/265407.mp3 만찬 종
 BattleForAzeroth/Dungeons/WaycrestManor/265741.mp3 영혼의 정수 흡수
 BattleForAzeroth/Dungeons/WaycrestManor/265759.mp3 가시 쐐기
@@ -537,6 +544,7 @@ BattleForAzeroth/Dungeons/WaycrestManor/265760.mp3 가시 포격
 BattleForAzeroth/Dungeons/WaycrestManor/265876.mp3 황폐의 화살 세례
 BattleForAzeroth/Dungeons/WaycrestManor/265880.mp3 공포의 징표
 BattleForAzeroth/Dungeons/WaycrestManor/265881.mp3 부패시키는 손길
+BattleForAzeroth/Dungeons/WaycrestManor/266036.mp3 정수 흡수
 BattleForAzeroth/Dungeons/WaycrestManor/266181.mp3 공포 정수
 BattleForAzeroth/Dungeons/WaycrestManor/266198.mp3 연금술 불
 BattleForAzeroth/Dungeons/WaycrestManor/266225.mp3 어둠에 물든 번개
@@ -547,6 +555,7 @@ BattleForAzeroth/Dungeons/WaycrestManor/268202.mp3 죽음의 렌즈
 BattleForAzeroth/Dungeons/WaycrestManor/268278.mp3 파괴의 화음
 BattleForAzeroth/Dungeons/WaycrestManor/268306.mp3 불협의 카덴차
 BattleForAzeroth/Dungeons/WaycrestManor/271174.mp3 토하기
+BattleForAzeroth/Dungeons/WaycrestManor/278444.mp3 감염
 BattleForAzeroth/Dungeons/WaycrestManor/278474.mp3 입상 재구축
 BattleForAzeroth/Raids/Azeroth/260908.mp3 폭풍 날개
 BattleForAzeroth/Raids/Azeroth/261088.mp3 소용돌이 충돌
@@ -1297,8 +1306,41 @@ Cataclysm/Dungeons/Stonecore/80801.mp3 용암 웅덩이
 Cataclysm/Dungeons/Stonecore/86881.mp3 수정 탄막
 Cataclysm/Dungeons/Stonecore/92265.mp3 수정 폭풍
 Cataclysm/Dungeons/Stonecore/92426.mp3 마비
+Cataclysm/Dungeons/ThroneTides/426645.mp3 산성 탄막
+Cataclysm/Dungeons/ThroneTides/426663.mp3 포악한 추격
+Cataclysm/Dungeons/ThroneTides/426684.mp3 불안정한 화살
+Cataclysm/Dungeons/ThroneTides/426741.mp3 껍질파괴자
+Cataclysm/Dungeons/ThroneTides/426783.mp3 정신의 채찍
+Cataclysm/Dungeons/ThroneTides/426808.mp3 무위의 작렬
+Cataclysm/Dungeons/ThroneTides/427456.mp3 수액 깨우기
+Cataclysm/Dungeons/ThroneTides/427668.mp3 부패의 충격파
+Cataclysm/Dungeons/ThroneTides/427670.mp3 파괴의 발톱
+Cataclysm/Dungeons/ThroneTides/427672.mp3 거품이 나오는 균열
+Cataclysm/Dungeons/ThroneTides/427771.mp3 간헐천
+Cataclysm/Dungeons/ThroneTides/428054.mp3 충격 작렬
+Cataclysm/Dungeons/ThroneTides/428263.mp3 물화살
+Cataclysm/Dungeons/ThroneTides/428293.mp3 질풍 삼지창
+Cataclysm/Dungeons/ThroneTides/428374.mp3 집중된 뇌우
+Cataclysm/Dungeons/ThroneTides/428407.mp3 말소의 세례
+Cataclysm/Dungeons/ThroneTides/428530.mp3 진흙 분출
+Cataclysm/Dungeons/ThroneTides/428542.mp3 분쇄의 심연
+Cataclysm/Dungeons/ThroneTides/428594.mp3 믿음의 폭우
+Cataclysm/Dungeons/ThroneTides/428668.mp3 정화의 흐름
+Cataclysm/Dungeons/ThroneTides/428868.mp3 부패의 포효
+Cataclysm/Dungeons/ThroneTides/428889.mp3 추악한 화살
+Cataclysm/Dungeons/ThroneTides/429021.mp3 분쇄
+Cataclysm/Dungeons/ThroneTides/429037.mp3 세찬 폭풍 토템
+Cataclysm/Dungeons/ThroneTides/429048.mp3 화염 충격
+Cataclysm/Dungeons/ThroneTides/429051.mp3 대지격노
+Cataclysm/Dungeons/ThroneTides/429172.mp3 공포의 환영
+Cataclysm/Dungeons/ThroneTides/75683.mp3 용오름
+Cataclysm/Dungeons/ThroneTides/75992.mp3 번개 쇄도
 Cataclysm/Dungeons/ThroneTides/76207.mp3 노예 만들기
 Cataclysm/Dungeons/ThroneTides/76230.mp3 정신의 안개
+Cataclysm/Dungeons/ThroneTides/76590.mp3 지면 강타
+Cataclysm/Dungeons/ThroneTides/76634.mp3 팽창
+Cataclysm/Dungeons/ThroneTides/76813.mp3 치유의 물결
+Cataclysm/Dungeons/ThroneTides/76820.mp3 사술
 Cataclysm/Dungeons/VortexPinnacle/410870.mp3 회오리바람
 Cataclysm/Dungeons/VortexPinnacle/410873.mp3 맹렬한 바람
 Cataclysm/Dungeons/VortexPinnacle/410999.mp3 압축 폭발
@@ -1707,6 +1749,7 @@ Dragonflight/Dungeons/BrackenhideHollow/390968.mp3 허기진 광란
 Dragonflight/Dungeons/DawnOfTheInfinite/400641.mp3 분단의 일격
 Dragonflight/Dungeons/DawnOfTheInfinite/400642.mp3 서약의 돌 착취
 Dragonflight/Dungeons/DawnOfTheInfinite/400681.mp3 티르의 불꽃
+Dragonflight/Dungeons/DawnOfTheInfinite/401200.mp3 시선 고정
 Dragonflight/Dungeons/DawnOfTheInfinite/401248.mp3 티탄의 강타
 Dragonflight/Dungeons/DawnOfTheInfinite/401421.mp3 모래의 울림
 Dragonflight/Dungeons/DawnOfTheInfinite/401482.mp3 무한의 절멸
@@ -1739,7 +1782,6 @@ Dragonflight/Dungeons/DawnOfTheInfinite/409456.mp3 대지의 쇄도
 Dragonflight/Dungeons/DawnOfTheInfinite/409635.mp3 짓이기는 발산
 Dragonflight/Dungeons/DawnOfTheInfinite/410235.mp3 칼날폭풍
 Dragonflight/Dungeons/DawnOfTheInfinite/410254.mp3 일격
-Dragonflight/Dungeons/DawnOfTheInfinite/410496.mp3 전쟁의 함성
 Dragonflight/Dungeons/DawnOfTheInfinite/410904.mp3 무한의 보주
 Dragonflight/Dungeons/DawnOfTheInfinite/411300.mp3 연발 생선 화살
 Dragonflight/Dungeons/DawnOfTheInfinite/411994.mp3 시간 용해
@@ -1748,6 +1790,8 @@ Dragonflight/Dungeons/DawnOfTheInfinite/412027.mp3 시간의 화상
 Dragonflight/Dungeons/DawnOfTheInfinite/412063.mp3 시간 해체
 Dragonflight/Dungeons/DawnOfTheInfinite/412129.mp3 사색의 보주
 Dragonflight/Dungeons/DawnOfTheInfinite/412136.mp3 시간의 일격
+Dragonflight/Dungeons/DawnOfTheInfinite/412156.mp3 폭탄 투하
+Dragonflight/Dungeons/DawnOfTheInfinite/412200.mp3 전하 충만 초강력 작렬
 Dragonflight/Dungeons/DawnOfTheInfinite/412215.mp3 장막의 모래폭풍
 Dragonflight/Dungeons/DawnOfTheInfinite/412378.mp3 어지러운 모래
 Dragonflight/Dungeons/DawnOfTheInfinite/412806.mp3 역병 분출
@@ -1778,7 +1822,6 @@ Dragonflight/Dungeons/DawnOfTheInfinite/418046.mp3 호드를 위하여!
 Dragonflight/Dungeons/DawnOfTheInfinite/418047.mp3 얼라이언스를 위하여!
 Dragonflight/Dungeons/DawnOfTheInfinite/418054.mp3 충격파
 Dragonflight/Dungeons/DawnOfTheInfinite/418059.mp3 필사의 일격
-Dragonflight/Dungeons/DawnOfTheInfinite/418062.mp3 전투의 함성
 Dragonflight/Dungeons/DawnOfTheInfinite/418200.mp3 무한의 화상
 Dragonflight/Dungeons/DawnOfTheInfinite/418346.mp3 타락한 정신
 Dragonflight/Dungeons/DawnOfTheInfinite/418684.mp3 드워프 폭탄병 투입
@@ -1990,6 +2033,7 @@ Dragonflight/Dungeons/TheNokhudOffensive/395035.mp3 영혼 붕괴
 Dragonflight/Dungeons/TheNokhudOffensive/395669.mp3 여진
 Dragonflight/Dungeons/TheNokhudOffensive/397394.mp3 죽음의 천둥
 Dragonflight/Dungeons/UldamanLegacyOfTyr/368990.mp3 정화의 불길
+Dragonflight/Dungeons/UldamanLegacyOfTyr/369038.mp3 티탄 수호물
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369043.mp3 주입
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369061.mp3 이글거리는 손뼉
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369110.mp3 불안정한 불씨
@@ -2394,23 +2438,42 @@ Legion/Dungeons/AssaultOnVioletHold/205088.mp3 타오르는 지옥불
 Legion/Dungeons/AssaultOnVioletHold/205233.mp3 처형
 Legion/Dungeons/AssaultOnVioletHold/210879.mp3 파괴의 씨앗
 Legion/Dungeons/BlackRookHold/194956.mp3 영혼 수확
+Legion/Dungeons/BlackRookHold/194966.mp3 영혼의 메아리
+Legion/Dungeons/BlackRookHold/195254.mp3 소용돌이치는 낫
+Legion/Dungeons/BlackRookHold/196078.mp3 영혼 부름
 Legion/Dungeons/BlackRookHold/196587.mp3 영혼 대폭발
+Legion/Dungeons/BlackRookHold/196916.mp3 글레이브 투척
+Legion/Dungeons/BlackRookHold/196930.mp3 영혼 탐닉
+Legion/Dungeons/BlackRookHold/197418.mp3 복수의 칼부림
+Legion/Dungeons/BlackRookHold/197478.mp3 암흑 질주
+Legion/Dungeons/BlackRookHold/197546.mp3 잔혹한 글레이브
+Legion/Dungeons/BlackRookHold/197696.mp3 안광
 Legion/Dungeons/BlackRookHold/197797.mp3 비전 공세
 Legion/Dungeons/BlackRookHold/197974.mp3 해골분쇄 강타
 Legion/Dungeons/BlackRookHold/198073.mp3 지축붕괴 발구르기
 Legion/Dungeons/BlackRookHold/198079.mp3 증오의 눈길
 Legion/Dungeons/BlackRookHold/198245.mp3 잔혹한 비장의 주먹
 Legion/Dungeons/BlackRookHold/198446.mp3 지옥 토사물
+Legion/Dungeons/BlackRookHold/198635.mp3 흔들림 없는 절단
 Legion/Dungeons/BlackRookHold/198641.mp3 소용돌이 칼날
 Legion/Dungeons/BlackRookHold/198820.mp3 어둠의 폭발
+Legion/Dungeons/BlackRookHold/199143.mp3 최면 구름
+Legion/Dungeons/BlackRookHold/199193.mp3 공포의 군주의 간계
+Legion/Dungeons/BlackRookHold/200084.mp3 영혼의 칼날
+Legion/Dungeons/BlackRookHold/200105.mp3 영혼 희생
 Legion/Dungeons/BlackRookHold/200248.mp3 비전 공세
 Legion/Dungeons/BlackRookHold/200261.mp3 뼈파괴 일격
 Legion/Dungeons/BlackRookHold/200291.mp3 칼춤
 Legion/Dungeons/BlackRookHold/200343.mp3 화살 포화
+Legion/Dungeons/BlackRookHold/200913.mp3 소화불량
+Legion/Dungeons/BlackRookHold/201733.mp3 독침벌레 떼
 Legion/Dungeons/BlackRookHold/202019.mp3 연발 어둠의 화살
 Legion/Dungeons/BlackRookHold/203163.mp3 박쥐 공격!
+Legion/Dungeons/BlackRookHold/204896.mp3 생명력 흡수
+Legion/Dungeons/BlackRookHold/214001.mp3 까마귀 강하
 Legion/Dungeons/BlackRookHold/214003.mp3 최후의 일격
 Legion/Dungeons/BlackRookHold/225573.mp3 암흑의 치유
+Legion/Dungeons/BlackRookHold/225908.mp3 영혼 중독
 Legion/Dungeons/BlackRookHold/227913.mp3 지옥광란
 Legion/Dungeons/CathedralOfEternalNight/233155.mp3 흡혈벌레 떼
 Legion/Dungeons/CathedralOfEternalNight/233196.mp3 악마의 융기
@@ -2491,24 +2554,40 @@ Legion/Dungeons/CourtOfStars/397907.mp3 파멸의 예언
 Legion/Dungeons/CourtOfStars/announce_buff_items.mp3 버프 아이템 알림
 Legion/Dungeons/CourtOfStars/spy_helper.mp3 스파이 발견
 Legion/Dungeons/DarkheartThicket/191325.mp3 타락의 숨결
+Legion/Dungeons/DarkheartThicket/196354.mp3 치명적인 도약
+Legion/Dungeons/DarkheartThicket/196376.mp3 치명적인 상처
 Legion/Dungeons/DarkheartThicket/198379.mp3 원시의 광란
-Legion/Dungeons/DarkheartThicket/198408.mp3 일몰
+Legion/Dungeons/DarkheartThicket/198477.mp3 시선 고정
+Legion/Dungeons/DarkheartThicket/198904.mp3 독성 줄기
+Legion/Dungeons/DarkheartThicket/198910.mp3 끔찍한 버섯
 Legion/Dungeons/DarkheartThicket/199345.mp3 하강 기류
+Legion/Dungeons/DarkheartThicket/199389.mp3 지축붕괴 표효
 Legion/Dungeons/DarkheartThicket/199460.mp3 떨어지는 바위
 Legion/Dungeons/DarkheartThicket/200050.mp3 대재앙의 악몽
+Legion/Dungeons/DarkheartThicket/200182.mp3 고름 도려내기
 Legion/Dungeons/DarkheartThicket/200185.mp3 악몽 화살
 Legion/Dungeons/DarkheartThicket/200238.mp3 약자 포식
+Legion/Dungeons/DarkheartThicket/200243.mp3 깨어 있는 악몽
 Legion/Dungeons/DarkheartThicket/200289.mp3 더해가는 망상
 Legion/Dungeons/DarkheartThicket/200580.mp3 광기의 포효
+Legion/Dungeons/DarkheartThicket/200630.mp3 불안한 비명
 Legion/Dungeons/DarkheartThicket/200658.mp3 유성우
 Legion/Dungeons/DarkheartThicket/200684.mp3 악몽의 독소
 Legion/Dungeons/DarkheartThicket/200768.mp3 밀어붙이는 돌진
+Legion/Dungeons/DarkheartThicket/201129.mp3 뿌리 폭발
 Legion/Dungeons/DarkheartThicket/201226.mp3 피의 공격
 Legion/Dungeons/DarkheartThicket/201272.mp3 피폭탄
+Legion/Dungeons/DarkheartThicket/201365.mp3 검은영혼 흡수
 Legion/Dungeons/DarkheartThicket/201399.mp3 공포의 불지옥
-Legion/Dungeons/DarkheartThicket/204646.mp3 분쇄의 손아귀
+Legion/Dungeons/DarkheartThicket/201839.mp3 고독의 저주
+Legion/Dungeons/DarkheartThicket/204243.mp3 고통의 눈
+Legion/Dungeons/DarkheartThicket/204246.mp3 고통의 공포
+Legion/Dungeons/DarkheartThicket/204574.mp3 조여오는 뿌리
+Legion/Dungeons/DarkheartThicket/204611.mp3 분쇄의 손아귀
 Legion/Dungeons/DarkheartThicket/204666.mp3 부서진 대지
 Legion/Dungeons/DarkheartThicket/204667.mp3 악몽의 숨결
+Legion/Dungeons/DarkheartThicket/212464.mp3 일몰
+Legion/Dungeons/DarkheartThicket/212786.mp3 뿌리 들기
 Legion/Dungeons/DarkheartThicket/218759.mp3 타락 웅덩이
 Legion/Dungeons/DarkheartThicket/225562.mp3 피의 탈태
 Legion/Dungeons/EyeOfAzshara/191855.mp3 맹독 상처
@@ -2708,6 +2787,7 @@ Legion/Dungeons/NeltharionsLair/198963.mp3 불쾌한 하늘
 Legion/Dungeons/NeltharionsLair/199178.mp3 가시 박힌 혀
 Legion/Dungeons/NeltharionsLair/199246.mp3 굶주림
 Legion/Dungeons/NeltharionsLair/199775.mp3 광란
+Legion/Dungeons/NeltharionsLair/199817.mp3 하수인 부르기
 Legion/Dungeons/NeltharionsLair/200154.mp3 불타는 증오
 Legion/Dungeons/NeltharionsLair/200404.mp3 마그마의 물결
 Legion/Dungeons/NeltharionsLair/200551.mp3 수정 가시
@@ -3475,6 +3555,12 @@ MistsOfPandaria/Dungeons/ScarletHalls/114259.mp3 개 부르기
 MistsOfPandaria/Dungeons/ScarletMonastery/113134.mp3 대규모 부활
 MistsOfPandaria/Dungeons/ScarletMonastery/114460.mp3 불타는 대지
 MistsOfPandaria/Dungeons/ScarletMonastery/115297.mp3 영혼 도려내기
+MistsOfPandaria/Dungeons/ScarletMonastery/414844.mp3 호박 숨결
+MistsOfPandaria/Dungeons/ScarletMonastery/415047.mp3 덩굴의 행진
+MistsOfPandaria/Dungeons/ScarletMonastery/415262.mp3 음험한 폭소
+MistsOfPandaria/Dungeons/ScarletMonastery/415864.mp3 버들 인간의 어둠
+MistsOfPandaria/Dungeons/ScarletMonastery/418228.mp3 버들 인간의 보호
+MistsOfPandaria/Dungeons/ScarletMonastery/423626.mp3 뜨거운 머리
 MistsOfPandaria/Dungeons/ShadoPanMonastery/102573.mp3 번개 숨결
 MistsOfPandaria/Dungeons/ShadoPanMonastery/106434.mp3 선풍각
 MistsOfPandaria/Dungeons/ShadoPanMonastery/106872.mp3 혼란의 강타
@@ -4800,20 +4886,50 @@ WarlordsOfDraenor/Dungeons/Skyreach/156793.mp3 네 바람
 WarlordsOfDraenor/Dungeons/Skyreach/159382.mp3 깃털
 WarlordsOfDraenor/Dungeons/Skyreach/165731.mp3 꿰뚫는 돌격
 WarlordsOfDraenor/Dungeons/Skyreach/167757.mp3 시선 고정
+WarlordsOfDraenor/Dungeons/TheEverbloom/-10098.mp3 추가 몹 생성
 WarlordsOfDraenor/Dungeons/TheEverbloom/164275.mp3 부서지기 쉬운 껍질
 WarlordsOfDraenor/Dungeons/TheEverbloom/164294.mp3 급성장하는 식물
+WarlordsOfDraenor/Dungeons/TheEverbloom/164357.mp3 메마른 숨
+WarlordsOfDraenor/Dungeons/TheEverbloom/164438.mp3 충전
+WarlordsOfDraenor/Dungeons/TheEverbloom/164886.mp3 공포꽃잎 독소
+WarlordsOfDraenor/Dungeons/TheEverbloom/164887.mp3 치유의 물
+WarlordsOfDraenor/Dungeons/TheEverbloom/164965.mp3 숨막히는 덩굴
+WarlordsOfDraenor/Dungeons/TheEverbloom/165123.mp3 독 주입
+WarlordsOfDraenor/Dungeons/TheEverbloom/165213.mp3 격노한 식물
 WarlordsOfDraenor/Dungeons/TheEverbloom/166492.mp3 화염초
 WarlordsOfDraenor/Dungeons/TheEverbloom/166726.mp3 얼어붙은 비
+WarlordsOfDraenor/Dungeons/TheEverbloom/167977.mp3 가시나무 덤불
 WarlordsOfDraenor/Dungeons/TheEverbloom/168041.mp3 가시덤불 피부
 WarlordsOfDraenor/Dungeons/TheEverbloom/168082.mp3 부흥의 물
 WarlordsOfDraenor/Dungeons/TheEverbloom/168105.mp3 급류
 WarlordsOfDraenor/Dungeons/TheEverbloom/168885.mp3 기생충 성장
+WarlordsOfDraenor/Dungeons/TheEverbloom/169120.mp3 생명의 샘
 WarlordsOfDraenor/Dungeons/TheEverbloom/169179.mp3 육중한 일격
 WarlordsOfDraenor/Dungeons/TheEverbloom/169233.mp3 흡입
+WarlordsOfDraenor/Dungeons/TheEverbloom/169240.mp3 휘감기
 WarlordsOfDraenor/Dungeons/TheEverbloom/169248.mp3 먹어치우기
-WarlordsOfDraenor/Dungeons/TheEverbloom/169251.mp3 휘감기
+WarlordsOfDraenor/Dungeons/TheEverbloom/169376.mp3 맹독 침
+WarlordsOfDraenor/Dungeons/TheEverbloom/169382.mp3 가스 공세
+WarlordsOfDraenor/Dungeons/TheEverbloom/169494.mp3 살아있는 나뭇잎
 WarlordsOfDraenor/Dungeons/TheEverbloom/169613.mp3 발생력
+WarlordsOfDraenor/Dungeons/TheEverbloom/169878.mp3 산성 숨결
+WarlordsOfDraenor/Dungeons/TheEverbloom/169929.mp3 목재 강타
+WarlordsOfDraenor/Dungeons/TheEverbloom/170132.mp3 휘감기
+WarlordsOfDraenor/Dungeons/TheEverbloom/172578.mp3 좌충우돌 소용돌이
+WarlordsOfDraenor/Dungeons/TheEverbloom/172643.mp3 하강
 WarlordsOfDraenor/Dungeons/TheEverbloom/173080.mp3 시선 고정
+WarlordsOfDraenor/Dungeons/TheEverbloom/426500.mp3 옹이진 뿌리
+WarlordsOfDraenor/Dungeons/TheEverbloom/426845.mp3 차가운 융합
+WarlordsOfDraenor/Dungeons/TheEverbloom/426974.mp3 공간 분열
+WarlordsOfDraenor/Dungeons/TheEverbloom/427223.mp3 불씨화살 연사
+WarlordsOfDraenor/Dungeons/TheEverbloom/427459.mp3 독한 꽃
+WarlordsOfDraenor/Dungeons/TheEverbloom/427498.mp3 몰아치는 격노
+WarlordsOfDraenor/Dungeons/TheEverbloom/427509.mp3 현세의 격노
+WarlordsOfDraenor/Dungeons/TheEverbloom/427510.mp3 맹독 돌진
+WarlordsOfDraenor/Dungeons/TheEverbloom/427899.mp3 불씨화살 폭풍
+WarlordsOfDraenor/Dungeons/TheEverbloom/428082.mp3 빙하 융합
+WarlordsOfDraenor/Dungeons/TheEverbloom/428139.mp3 공간 압축
+WarlordsOfDraenor/Dungeons/TheEverbloom/428823.mp3 신록의 분출
 WarlordsOfDraenor/Dungeons/UpperBlackrockSpire/154448.mp3 파편 회오리
 WarlordsOfDraenor/Dungeons/UpperBlackrockSpire/154996.mp3 휘몰아치는 불
 WarlordsOfDraenor/Dungeons/UpperBlackrockSpire/155037.mp3 분출
@@ -5141,6 +5257,7 @@ WrathOfTheLichKing/Dungeons/Ahnkahet/59513.mp3 흡혈의 은총
 WrathOfTheLichKing/Dungeons/AzjolNerub/53472.mp3 강타
 WrathOfTheLichKing/Dungeons/DrakTharonKeep/48878.mp3 관통의 베기
 WrathOfTheLichKing/Dungeons/DrakTharonKeep/49034.mp3 눈보라
+WrathOfTheLichKing/Dungeons/DrakTharonKeep/59416.mp3 랩터 부르기
 WrathOfTheLichKing/Dungeons/DrakTharonKeep/59971.mp3 불의 비
 WrathOfTheLichKing/Dungeons/Gundrak/55098.mp3 변신
 WrathOfTheLichKing/Dungeons/Gundrak/55817.mp3 엑크 잔류물
@@ -5174,8 +5291,10 @@ WrathOfTheLichKing/Dungeons/TheNexus/47731.mp3 동물
 WrathOfTheLichKing/Dungeons/TheNexus/47779.mp3 비전 격류
 WrathOfTheLichKing/Dungeons/TheNexus/48095.mp3 극심한 추위
 WrathOfTheLichKing/Dungeons/TheNexus/8599.mp3 격노
+WrathOfTheLichKing/Dungeons/TheOculus/50774.mp3 천둥 발구르기
 WrathOfTheLichKing/Dungeons/TheOculus/51021.mp3 비전 광선
 WrathOfTheLichKing/Dungeons/TheOculus/51103.mp3 냉기폭탄
+WrathOfTheLichKing/Dungeons/TheOculus/51110.mp3 강화된 신비한 폭발
 WrathOfTheLichKing/Dungeons/TheOculus/51121.mp3 시한 폭탄
 WrathOfTheLichKing/Dungeons/TheVioletHold/54102.mp3 마력의 구슬 소환
 WrathOfTheLichKing/Dungeons/TheVioletHold/54160.mp3 신비의 마법 강화
@@ -5200,6 +5319,7 @@ WrathOfTheLichKing/Dungeons/UtgardeKeep/42730.mp3 불행의 일격
 WrathOfTheLichKing/Dungeons/UtgardeKeep/48400.mp3 서리 무덤
 WrathOfTheLichKing/Dungeons/UtgardePinnacle/48276.mp3 검의 의식
 WrathOfTheLichKing/Dungeons/UtgardePinnacle/49106.mp3 공포
+WrathOfTheLichKing/Dungeons/UtgardePinnacle/59301.mp3 파멸
 WrathOfTheLichKing/Dungeons/UtgardePinnacle/59322.mp3 소용돌이
 WrathOfTheLichKing/Raids/Citadel/68981.mp3 냉혹한 겨울
 WrathOfTheLichKing/Raids/Citadel/69057.mp3 뼈 가시 무덤
