@@ -7,6 +7,7 @@ BattleForAzeroth/Dungeons/AtalDazar/250258.mp3 맹독 도약
 BattleForAzeroth/Dungeons/AtalDazar/250585.mp3 맹독 웅덩이
 BattleForAzeroth/Dungeons/AtalDazar/252687.mp3 독니 일격
 BattleForAzeroth/Dungeons/AtalDazar/252781.mp3 불안정한 사술
+BattleForAzeroth/Dungeons/AtalDazar/253239.mp3 무자비한 돌격
 BattleForAzeroth/Dungeons/AtalDazar/253517.mp3 치유의 전언
 BattleForAzeroth/Dungeons/AtalDazar/253544.mp3 브원삼디의 어깨덧옷
 BattleForAzeroth/Dungeons/AtalDazar/253583.mp3 화염 마법부여
@@ -22,6 +23,7 @@ BattleForAzeroth/Dungeons/AtalDazar/255579.mp3 황금빛 발톱
 BattleForAzeroth/Dungeons/AtalDazar/255582.mp3 녹아내린 황금
 BattleForAzeroth/Dungeons/AtalDazar/255626.mp3 고름 분출
 BattleForAzeroth/Dungeons/AtalDazar/256849.mp3 공룡의 힘
+BattleForAzeroth/Dungeons/AtalDazar/256882.mp3 마구잡이 난타
 BattleForAzeroth/Dungeons/AtalDazar/257407.mp3 추격
 BattleForAzeroth/Dungeons/AtalDazar/259187.mp3 영혼 분리
 BattleForAzeroth/Dungeons/AtalDazar/259205.mp3 황금 영혼
@@ -2215,6 +2217,8 @@ Dragonflight/Raids/Aberrus/412498.mp3 고이는 웅덩이
 Dragonflight/Raids/Aberrus/418113.mp3 꿈의 폭발
 Dragonflight/Raids/Amirdrassil/410223.mp3 암흑불길 숨결
 Dragonflight/Raids/Amirdrassil/412761.mp3 현신
+Dragonflight/Raids/Amirdrassil/413443.mp3 생명 수호물
+Dragonflight/Raids/Amirdrassil/414186.mp3 태우기
 Dragonflight/Raids/Amirdrassil/414340.mp3 흠뻑 젖은 칼날
 Dragonflight/Raids/Amirdrassil/414367.mp3 모여드는 고통
 Dragonflight/Raids/Amirdrassil/414770.mp3 끓어오르는 고통
@@ -2222,6 +2226,7 @@ Dragonflight/Raids/Amirdrassil/414888.mp3 끓어오르는 창
 Dragonflight/Raids/Amirdrassil/415623.mp3 심장 정지
 Dragonflight/Raids/Amirdrassil/416048.mp3 암영 파괴
 Dragonflight/Raids/Amirdrassil/416996.mp3 뒤틀린 톱날
+Dragonflight/Raids/Amirdrassil/417431.mp3 피랄라스의 이빨
 Dragonflight/Raids/Amirdrassil/417443.mp3 피랄라스의 징표
 Dragonflight/Raids/Amirdrassil/417455.mp3 꿈 분쇄
 Dragonflight/Raids/Amirdrassil/417632.mp3 불타는 대지
@@ -2236,17 +2241,14 @@ Dragonflight/Raids/Amirdrassil/419048.mp3 참혹한 최후
 Dragonflight/Raids/Amirdrassil/419054.mp3 불타는 맹독
 Dragonflight/Raids/Amirdrassil/419123.mp3 빗발치는 화염
 Dragonflight/Raids/Amirdrassil/419144.mp3 타락
-Dragonflight/Raids/Amirdrassil/419462.mp3 육체의 굴욕
 Dragonflight/Raids/Amirdrassil/419504.mp3 사나운 불길
 Dragonflight/Raids/Amirdrassil/419506.mp3 화염폭풍
 Dragonflight/Raids/Amirdrassil/420236.mp3 별똥별
 Dragonflight/Raids/Amirdrassil/420415.mp3 불꽃꼬리 충돌
 Dragonflight/Raids/Amirdrassil/420422.mp3 야생불
 Dragonflight/Raids/Amirdrassil/420525.mp3 눈먼 분노
-Dragonflight/Raids/Amirdrassil/420540.mp3 화신: 달빛야수
 Dragonflight/Raids/Amirdrassil/420544.mp3 불타오르는 추격
 Dragonflight/Raids/Amirdrassil/420554.mp3 신록의 행렬
-Dragonflight/Raids/Amirdrassil/420671.mp3 유독한 개화
 Dragonflight/Raids/Amirdrassil/420846.mp3 연속체
 Dragonflight/Raids/Amirdrassil/420858.mp3 독성 투창
 Dragonflight/Raids/Amirdrassil/420907.mp3 녹빛의 비
@@ -2262,13 +2264,11 @@ Dragonflight/Raids/Amirdrassil/421082.mp3 지옥 가열
 Dragonflight/Raids/Amirdrassil/421207.mp3 꾸물거리는 불길
 Dragonflight/Raids/Amirdrassil/421292.mp3 옥죄는 덤불
 Dragonflight/Raids/Amirdrassil/421316.mp3 이글거리는 불꽃
-Dragonflight/Raids/Amirdrassil/421318.mp3 이글거리는 역류
 Dragonflight/Raids/Amirdrassil/421325.mp3 잿빛 부름
 Dragonflight/Raids/Amirdrassil/421343.mp3 저주의 낙인
 Dragonflight/Raids/Amirdrassil/421398.mp3 화염 광선
 Dragonflight/Raids/Amirdrassil/421455.mp3 과열
 Dragonflight/Raids/Amirdrassil/421532.mp3 이글거리는 땅
-Dragonflight/Raids/Amirdrassil/421570.mp3 도약
 Dragonflight/Raids/Amirdrassil/421594.mp3 이글거리는 질식
 Dragonflight/Raids/Amirdrassil/421616.mp3 화산 쏟아내기
 Dragonflight/Raids/Amirdrassil/421656.mp3 상처 소작
@@ -2277,16 +2277,15 @@ Dragonflight/Raids/Amirdrassil/421703.mp3 뱀의 분노
 Dragonflight/Raids/Amirdrassil/421840.mp3 뿌리 뽑힌 고뇌
 Dragonflight/Raids/Amirdrassil/421858.mp3 점화된 정수
 Dragonflight/Raids/Amirdrassil/421898.mp3 불타는 전염병
-Dragonflight/Raids/Amirdrassil/421937.mp3 암흑불길 보주
 Dragonflight/Raids/Amirdrassil/421939.mp3 작열하는 깃털
 Dragonflight/Raids/Amirdrassil/421969.mp3 불길의 파도
 Dragonflight/Raids/Amirdrassil/421972.mp3 절제된 불길
 Dragonflight/Raids/Amirdrassil/422000.mp3 불타는 격노
 Dragonflight/Raids/Amirdrassil/422023.mp3 어둠의 불타는 대지
 Dragonflight/Raids/Amirdrassil/422026.mp3 고통 어린 비명
+Dragonflight/Raids/Amirdrassil/422032.mp3 칼도레이의 영혼
 Dragonflight/Raids/Amirdrassil/422039.mp3 암흑불길 회전베기
 Dragonflight/Raids/Amirdrassil/422053.mp3 암흑 가시
-Dragonflight/Raids/Amirdrassil/422115.mp3 화신: 화염의 나무
 Dragonflight/Raids/Amirdrassil/422172.mp3 화염의 세계
 Dragonflight/Raids/Amirdrassil/422277.mp3 정수 삼키기
 Dragonflight/Raids/Amirdrassil/422325.mp3 불타는 나무
@@ -2297,14 +2296,13 @@ Dragonflight/Raids/Amirdrassil/422524.mp3 황폐의 암흑불길
 Dragonflight/Raids/Amirdrassil/422577.mp3 타오르는 후폭풍
 Dragonflight/Raids/Amirdrassil/422614.mp3 작열하는 뿌리
 Dragonflight/Raids/Amirdrassil/422691.mp3 용암 분출
+Dragonflight/Raids/Amirdrassil/422721.mp3 극단적인 번성
 Dragonflight/Raids/Amirdrassil/422776.mp3 고문의 징표
 Dragonflight/Raids/Amirdrassil/422837.mp3 종말의 포효
 Dragonflight/Raids/Amirdrassil/422935.mp3 영원한 화염폭풍
 Dragonflight/Raids/Amirdrassil/423117.mp3 대재앙의 아귀
-Dragonflight/Raids/Amirdrassil/423195.mp3 꽃차례
 Dragonflight/Raids/Amirdrassil/423260.mp3 이글거리는 버섯
 Dragonflight/Raids/Amirdrassil/423265.mp3 불타는 싹틔우기
-Dragonflight/Raids/Amirdrassil/423420.mp3 날쌘 돌진
 Dragonflight/Raids/Amirdrassil/423494.mp3 불꽃의 해일
 Dragonflight/Raids/Amirdrassil/423551.mp3 변덕스러운 돌풍
 Dragonflight/Raids/Amirdrassil/423717.mp3 피워내기
@@ -2321,7 +2319,6 @@ Dragonflight/Raids/Amirdrassil/424582.mp3 잔존하는 불씨
 Dragonflight/Raids/Amirdrassil/424665.mp3 화염의 씨앗
 Dragonflight/Raids/Amirdrassil/424970.mp3 독소 토양
 Dragonflight/Raids/Amirdrassil/425114.mp3 곰의 분노
-Dragonflight/Raids/Amirdrassil/425370.mp3 극단적인 번성
 Dragonflight/Raids/Amirdrassil/425483.mp3 소각됨
 Dragonflight/Raids/Amirdrassil/425492.mp3 지옥불 아귀
 Dragonflight/Raids/Amirdrassil/425816.mp3 타오르는 꽃가루
@@ -2330,10 +2327,8 @@ Dragonflight/Raids/Amirdrassil/425885.mp3 뒤쫓는 지옥불
 Dragonflight/Raids/Amirdrassil/426056.mp3 급소 파열
 Dragonflight/Raids/Amirdrassil/426206.mp3 이글거리는 가시
 Dragonflight/Raids/Amirdrassil/426249.mp3 이글거리는 응결체
-Dragonflight/Raids/Amirdrassil/426256.mp3 이글거리는 응결체
 Dragonflight/Raids/Amirdrassil/426387.mp3 이글거리는 덤불가시
 Dragonflight/Raids/Amirdrassil/426390.mp3 부식성 꽃가루
-Dragonflight/Raids/Amirdrassil/426519.mp3 방직공의 번뇌
 Dragonflight/Raids/Amirdrassil/426524.mp3 화염의 맹위
 Dragonflight/Raids/Amirdrassil/426725.mp3 좁혀드는 파괴
 Dragonflight/Raids/Amirdrassil/426855.mp3 만개
@@ -2341,9 +2336,16 @@ Dragonflight/Raids/Amirdrassil/427252.mp3 떨어지는 잿불
 Dragonflight/Raids/Amirdrassil/427299.mp3 돌발 불길
 Dragonflight/Raids/Amirdrassil/427306.mp3 잿더미 감옥
 Dragonflight/Raids/Amirdrassil/427343.mp3 불의 소용돌이
+Dragonflight/Raids/Amirdrassil/427722.mp3 방직공의 번뇌
+Dragonflight/Raids/Amirdrassil/428471.mp3 각성의 화살
+Dragonflight/Raids/Amirdrassil/428896.mp3 잿빛 파멸
+Dragonflight/Raids/Amirdrassil/429032.mp3 영원한 불길
 Dragonflight/Raids/Amirdrassil/429108.mp3 육중한 격돌
 Dragonflight/Raids/Amirdrassil/429615.mp3 다가오는 베틀
+Dragonflight/Raids/Amirdrassil/429798.mp3 신록의 분쇄
 Dragonflight/Raids/Amirdrassil/429866.mp3 암흑불길 분출
+Dragonflight/Raids/Amirdrassil/429973.mp3 이글거리는 역류
+Dragonflight/Raids/Amirdrassil/430563.mp3 찰나의 꽃
 Dragonflight/Raids/DragonIsles/383496.mp3 강화 폭풍
 Dragonflight/Raids/DragonIsles/385137.mp3 바위 숨결
 Dragonflight/Raids/DragonIsles/385270.mp3 파열의 전율
@@ -2599,6 +2601,7 @@ Legion/Dungeons/BlackRookHold/200248.mp3 비전 공세
 Legion/Dungeons/BlackRookHold/200261.mp3 뼈파괴 일격
 Legion/Dungeons/BlackRookHold/200291.mp3 칼춤
 Legion/Dungeons/BlackRookHold/200343.mp3 화살 포화
+Legion/Dungeons/BlackRookHold/200784.mp3 고대의 물약 "마시기"
 Legion/Dungeons/BlackRookHold/200913.mp3 소화불량
 Legion/Dungeons/BlackRookHold/201733.mp3 독침벌레 떼
 Legion/Dungeons/BlackRookHold/202019.mp3 연발 어둠의 화살
@@ -5033,25 +5036,15 @@ WarlordsOfDraenor/Dungeons/TheEverbloom/164887.mp3 치유의 물
 WarlordsOfDraenor/Dungeons/TheEverbloom/164965.mp3 숨막히는 덩굴
 WarlordsOfDraenor/Dungeons/TheEverbloom/165123.mp3 맹독 파열
 WarlordsOfDraenor/Dungeons/TheEverbloom/165213.mp3 격노한 식물
-WarlordsOfDraenor/Dungeons/TheEverbloom/166492.mp3 화염초
-WarlordsOfDraenor/Dungeons/TheEverbloom/166726.mp3 얼어붙은 비
-WarlordsOfDraenor/Dungeons/TheEverbloom/167977.mp3 가시나무 덤불
-WarlordsOfDraenor/Dungeons/TheEverbloom/168041.mp3 가시덤불 피부
 WarlordsOfDraenor/Dungeons/TheEverbloom/168082.mp3 활력
-WarlordsOfDraenor/Dungeons/TheEverbloom/168105.mp3 급류
-WarlordsOfDraenor/Dungeons/TheEverbloom/168885.mp3 기생충 성장
-WarlordsOfDraenor/Dungeons/TheEverbloom/169120.mp3 생명의 샘
 WarlordsOfDraenor/Dungeons/TheEverbloom/169179.mp3 육중한 일격
 WarlordsOfDraenor/Dungeons/TheEverbloom/169233.mp3 흡입
-WarlordsOfDraenor/Dungeons/TheEverbloom/169240.mp3 휘감기
 WarlordsOfDraenor/Dungeons/TheEverbloom/169248.mp3 먹어치우기
 WarlordsOfDraenor/Dungeons/TheEverbloom/169376.mp3 맹독 침
 WarlordsOfDraenor/Dungeons/TheEverbloom/169382.mp3 가스 공세
 WarlordsOfDraenor/Dungeons/TheEverbloom/169494.mp3 살아있는 나뭇잎
 WarlordsOfDraenor/Dungeons/TheEverbloom/169613.mp3 발생력
-WarlordsOfDraenor/Dungeons/TheEverbloom/169878.mp3 산성 숨결
 WarlordsOfDraenor/Dungeons/TheEverbloom/169929.mp3 목재 강타
-WarlordsOfDraenor/Dungeons/TheEverbloom/170132.mp3 휘감기
 WarlordsOfDraenor/Dungeons/TheEverbloom/172578.mp3 좌충우돌 소용돌이
 WarlordsOfDraenor/Dungeons/TheEverbloom/172643.mp3 하강
 WarlordsOfDraenor/Dungeons/TheEverbloom/173080.mp3 시선 고정
