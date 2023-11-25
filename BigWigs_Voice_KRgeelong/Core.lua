@@ -1,215 +1,253 @@
-local name, addon = ...
+local _, addon   = ...
 
-local zonetable = {}
+addon.isVanilla  = WOW_PROJECT_ID == WOW_PROJECT_CLASSIC
+addon.isWrath    = WOW_PROJECT_ID == WOW_PROJECT_WRATH_CLASSIC
+addon.isTBC      = WOW_PROJECT_ID == WOW_PROJECT_BURNING_CRUSADE_CLASSIC
+addon.isClassic  = addon.isVanilla or addon.isWrath or addon.isTBC
+addon.isRetail   = WOW_PROJECT_ID == WOW_PROJECT_MAINLINE
 
--- dungeons
-zonetable[36] = "Classsic\\Dungeons\\Deadmines" -- 
-zonetable[756] = "Classsic\\Dungeons\\Deadmines" -- 
-zonetable[33] = "Classsic\\Dungeons\\ShadowfangKeep" -- 
+local zonetable  = {}
 
-zonetable[558] = "BurningCrusade\\Dungeons\\AuchenaiCrypts" -- Auchenai Crypts
-zonetable[543] = "BurningCrusade\\Dungeons\\HellfireRamparts" -- Hellfire Ramparts
-zonetable[585] = "BurningCrusade\\Dungeons\\MagistersTerrace" -- Magisters' Terrace
-zonetable[557] = "BurningCrusade\\Dungeons\\ManaTombs" -- Mana-Tombs
-zonetable[560] = "BurningCrusade\\Dungeons\\OldHillsbradFoothills" -- Old Hillsbrad Foothills
-zonetable[556] = "BurningCrusade\\Dungeons\\SethekkHalls" -- Sethekk Halls
-zonetable[555] = "BurningCrusade\\Dungeons\\ShadowLabyrinth" -- Shadow Labyrinth
-zonetable[552] = "BurningCrusade\\Dungeons\\TheArcatraz" -- The Arcatraz
-zonetable[269] = "BurningCrusade\\Dungeons\\TheBlackMorass" -- The Black Morass
-zonetable[542] = "BurningCrusade\\Dungeons\\TheBloodFurnace" -- The Blood Furnace
-zonetable[553] = "BurningCrusade\\Dungeons\\TheBotanica" -- The Botanica
-zonetable[554] = "BurningCrusade\\Dungeons\\TheMechanar" -- The Mechanar
-zonetable[540] = "BurningCrusade\\Dungeons\\TheShatteredHalls" -- The Shattered Halls
-zonetable[547] = "BurningCrusade\\Dungeons\\TheSlavePens" -- The Slave Pens
-zonetable[545] = "BurningCrusade\\Dungeons\\TheSteamvault" -- The Steamvault
-zonetable[546] = "BurningCrusade\\Dungeons\\TheUnderbog" -- The Underbog
+-- 클래식/리테일에 따라 다름
+zonetable[533]   = addon.isVanilla and "Classic\\Raids\\Naxxramas" or "WrathOfTheLichKing\\Raids\\Naxxramas"
+zonetable[249]   = addon.isVanilla and "Classic\\Raids\\Onyxia" or "WrathOfTheLichKing\\Raids\\Northrend"
+zonetable[568]   = addon.isClassic and "BurningCrusade\\Raids\\ZulAman" or "Cataclysm\\Dungeons\\ZulAman"
+zonetable[531]   = addon.isRetail and "Classic\\Raids\\AQ40" or "Classic\\Raids\\AhnQirajTemple"
+zonetable[509]   = addon.isRetail and "Classic\\Raids\\AQ20" or "Classic\\Raids\\AhnQirajRuins"
 
-zonetable[619] = "WrathOfTheLichKing\\Dungeons\\Ahnkahet" -- Ahn'kahet: The Old Kingdom
-zonetable[601] = "WrathOfTheLichKing\\Dungeons\\AzjolNerub" -- Azjol-Nerub
-zonetable[600] = "WrathOfTheLichKing\\Dungeons\\DrakTharonKeep" -- Drak'Tharon Keep
-zonetable[604] = "WrathOfTheLichKing\\Dungeons\\Gundrak" -- Gundrak
-zonetable[602] = "WrathOfTheLichKing\\Dungeons\\HallsOfLightning" -- Halls of Lightning
-zonetable[668] = "WrathOfTheLichKing\\Dungeons\\HallsOfReflection" -- Halls of Reflection
-zonetable[599] = "WrathOfTheLichKing\\Dungeons\\HallsOfStone" -- Halls of Stone
-zonetable[658] = "WrathOfTheLichKing\\Dungeons\\PitOfSaron" -- Pit of Saron
-zonetable[595] = "WrathOfTheLichKing\\Dungeons\\TheCullingOfStratholme" -- The Culling of Stratholme
-zonetable[632] = "WrathOfTheLichKing\\Dungeons\\TheForgeOfSouls" -- The Forge of Souls
-zonetable[576] = "WrathOfTheLichKing\\Dungeons\\TheNexus" -- The Nexus
-zonetable[578] = "WrathOfTheLichKing\\Dungeons\\TheOculus" -- The Oculus
-zonetable[608] = "WrathOfTheLichKing\\Dungeons\\TheVioletHold" -- The Violet Hold
-zonetable[650] = "WrathOfTheLichKing\\Dungeons\\TrialOfTheChampion" -- Trial of the Champion
-zonetable[574] = "WrathOfTheLichKing\\Dungeons\\UtgardeKeep" -- Utgarde Keep
-zonetable[575] = "WrathOfTheLichKing\\Dungeons\\UtgardePinnacle" -- Utgarde Pinnacle
+zonetable[2522]  = "Dragonflight\\Raids\\VaultOfTheIncarnates"
+zonetable[-2022] = "Dragonflight\\Raids\\DragonIsles"
+zonetable[-2024] = "Dragonflight\\Raids\\DragonIsles"
+zonetable[-2085] = "Dragonflight\\Raids\\DragonIsles"
+zonetable[-2023] = "Dragonflight\\Raids\\DragonIsles"
+zonetable[-2200] = "Dragonflight\\Raids\\DragonIsles"
+zonetable[2569]  = "Dragonflight\\Raids\\Aberrus"
+zonetable[2549]  = "Dragonflight\\Raids\\Amirdrassil"
 
-zonetable[645] = "Cataclysm\\Dungeons\\BlackrockCaverns" -- Blackrock Caverns
-zonetable[938] = "Cataclysm\\Dungeons\\EndTime" -- End Time
-zonetable[670] = "Cataclysm\\Dungeons\\GrimBatol" -- Grim Batol
-zonetable[644] = "Cataclysm\\Dungeons\\HallsOfOrigination" -- Halls of Origination
-zonetable[755] = "Cataclysm\\Dungeons\\LostCity" -- Lost City of the Tol'vir
-zonetable[725] = "Cataclysm\\Dungeons\\Stonecore" -- The Stonecore
-zonetable[657] = "Cataclysm\\Dungeons\\VortexPinnacle" -- The Vortex Pinnacle
-zonetable[643] = "Cataclysm\\Dungeons\\ThroneTides" -- Throne of the Tides
-zonetable[939] = "Cataclysm\\Dungeons\\WellOfEternity" -- Well of Eternity
-zonetable[568] = "Cataclysm\\Dungeons\\ZulAman" -- Zul'Aman
-zonetable[859] = "Cataclysm\\Dungeons\\ZulGurub" -- Zul'Gurub
--- zonetable[940] = "Cataclysm\\Dungeons\\" -- Hour of Twilight
+zonetable[-895]  = "BattleForAzeroth\\Raids\\Azeroth"
+zonetable[-863]  = "BattleForAzeroth\\Raids\\Azeroth"
+zonetable[-896]  = "BattleForAzeroth\\Raids\\Azeroth"
+zonetable[-862]  = "BattleForAzeroth\\Raids\\Azeroth"
+zonetable[-864]  = "BattleForAzeroth\\Raids\\Azeroth"
+zonetable[-942]  = "BattleForAzeroth\\Raids\\Azeroth"
+zonetable[-14]   = "BattleForAzeroth\\Raids\\Azeroth"
+zonetable[2070]  = "BattleForAzeroth\\Raids\\BattleOfDazaralor"
+zonetable[2217]  = "BattleForAzeroth\\Raids\\Nyalotha"
+zonetable[2096]  = "BattleForAzeroth\\Raids\\CrucibleOfStorms"
+zonetable[2164]  = "BattleForAzeroth\\Raids\\EternalPalace"
+zonetable[1861]  = "BattleForAzeroth\\Raids\\Uldir"
 
-zonetable[962] = "MistsOfPandaria\\Dungeons\\GateOfTheSettingSun" -- Gate of the Setting Sun
-zonetable[994] = "MistsOfPandaria\\Dungeons\\MogushanPalace" -- Mogu'Shan Palace
-zonetable[959] = "MistsOfPandaria\\Dungeons\\ShadoPanMonastery" -- Shado-pan Monastery
-zonetable[1011] = "MistsOfPandaria\\Dungeons\\SiegeOfNiuzaoTemple" -- Siege of Niuzao Temple
-zonetable[961] = "MistsOfPandaria\\Dungeons\\StormstoutBrewery" -- Stormstout Brewery
-zonetable[960] = "MistsOfPandaria\\Dungeons\\TempleOfTheJadeSerpent" -- Temple of the Jade Serpent
-zonetable[1112] = "MistsOfPandaria\\Dungeons\\BlackTempleSolo" -- Pursuing the Black Harvest
-zonetable[1004] = "MistsOfPandaria\\Dungeons\\ScarletMonastery" -- Scarlet Monastery
-zonetable[1001] = "MistsOfPandaria\\Dungeons\\ScarletHalls" -- Scarlet Halls
+zonetable[580]   = "BurningCrusade\\Raids\\Sunwell"
+zonetable[564]   = "BurningCrusade\\Raids\\BlackTemple"
+zonetable[550]   = "BurningCrusade\\Raids\\TheEye"
+zonetable[-104]  = "BurningCrusade\\Raids\\Outland"
+zonetable[565]   = "BurningCrusade\\Raids\\Outland"
+zonetable[-100]  = "BurningCrusade\\Raids\\Outland"
+zonetable[544]   = "BurningCrusade\\Raids\\Outland"
+zonetable[532]   = "BurningCrusade\\Raids\\Karazhan"
+zonetable[534]   = "BurningCrusade\\Raids\\Hyjal"
+zonetable[548]   = "BurningCrusade\\Raids\\Serpentshrine"
 
-zonetable[1182] = "WarlordsOfDraenor\\Dungeons\\Auchindoun" -- Auchindoun
-zonetable[1175] = "WarlordsOfDraenor\\Dungeons\\BloodmaulSlagMines" -- Bloodmaul Slag Mines
-zonetable[1208] = "WarlordsOfDraenor\\Dungeons\\GrimrailDepot" -- Grimrail Depot
-zonetable[1195] = "WarlordsOfDraenor\\Dungeons\\IronDocks" -- Iron Docks
-zonetable[1176] = "WarlordsOfDraenor\\Dungeons\\ShadowmoonBurialGrounds" -- Shadowmoon Burial Grounds
-zonetable[1209] = "WarlordsOfDraenor\\Dungeons\\Skyreach" -- Skyreach
-zonetable[1279] = "WarlordsOfDraenor\\Dungeons\\TheEverbloom" -- The Everbloom
-zonetable[1358] = "WarlordsOfDraenor\\Dungeons\\UpperBlackrockSpire" -- Upper Blackrock Spire
+zonetable[967]   = "Cataclysm\\Raids\\DragonSoul"
+zonetable[671]   = "Cataclysm\\Raids\\Bastion"
+zonetable[720]   = "Cataclysm\\Raids\\Firelands"
+zonetable[757]   = "Cataclysm\\Raids\\Baradin"
+zonetable[669]   = "Cataclysm\\Raids\\Blackwing"
+zonetable[754]   = "Cataclysm\\Raids\\Throne"
 
-zonetable[1501] = "Legion\\Dungeons\\BlackRookHold" -- Black Rook Hold
-zonetable[1677] = "Legion\\Dungeons\\CathedralOfEternalNight" -- Cathedral of Eternal Night
-zonetable[1571] = "Legion\\Dungeons\\CourtOfStars" -- Court of Stars
-zonetable[1466] = "Legion\\Dungeons\\DarkheartThicket" -- Darkheart Thicket
-zonetable[1456] = "Legion\\Dungeons\\EyeOfAzshara" -- Eye of Azshara
-zonetable[1477] = "Legion\\Dungeons\\HallsOfValor" -- Halls of Valor
-zonetable[1492] = "Legion\\Dungeons\\MawOfSouls" -- Maw of Souls
-zonetable[1458] = "Legion\\Dungeons\\NeltharionsLair" -- Neltharion's Lair
-zonetable[1651] = "Legion\\Dungeons\\Karazhan" -- Return to Karazhan
-zonetable[1753] = "Legion\\Dungeons\\SeatOfTheTriumvirate" -- Seat of the Triumvirate
-zonetable[1516] = "Legion\\Dungeons\\TheArcway" -- The Arcway
-zonetable[1493] = "Legion\\Dungeons\\VaultOfTheWardens" -- Vault of the Wardens
-zonetable[1544] = "Legion\\Dungeons\\AssaultOnVioletHold" -- Violet Hold
-zonetable[1716] = "Legion\\Dungeons\\ArtifactScenarios" -- Broken Shore Mage Tower
+zonetable[469]   = "Classic\\Raids\\BlackwingLair"
+zonetable[409]   = "Classic\\Raids\\MoltenCore"
+zonetable[-1447] = "Classic\\Raids\\World"
+zonetable[-1440] = "Classic\\Raids\\World"
+zonetable[-1419] = "Classic\\Raids\\World"
+zonetable[-1425] = "Classic\\Raids\\World"
+zonetable[-1431] = "Classic\\Raids\\World"
+zonetable[-1444] = "Classic\\Raids\\World"
+zonetable[309]   = "Classic\\Raids\\ZulGurub"
 
-zonetable[1763] = "BattleForAzeroth\\Dungeons\\AtalDazar" -- Atal'Dazar
-zonetable[1754] = "BattleForAzeroth\\Dungeons\\Freehold" -- Freehold
-zonetable[1762] = "BattleForAzeroth\\Dungeons\\KingsRest" -- Kings' Rest
-zonetable[2097] = "BattleForAzeroth\\Dungeons\\Mechagon" -- Operation: Mechagon
-zonetable[1864] = "BattleForAzeroth\\Dungeons\\ShrineOfTheStorm" -- Shrine of the Storm
-zonetable[1822] = "BattleForAzeroth\\Dungeons\\SiegeOfBoralus" -- Siege of Boralus
-zonetable[1877] = "BattleForAzeroth\\Dungeons\\TempleOfSethraliss" -- Temple of Sethraliss
-zonetable[1594] = "BattleForAzeroth\\Dungeons\\TheMotherlodel" -- The MOTHERLODE!!
-zonetable[1841] = "BattleForAzeroth\\Dungeons\\Underrot" -- The Underrot
-zonetable[1771] = "BattleForAzeroth\\Dungeons\\TolDagor" -- Tol Dagor
-zonetable[1862] = "BattleForAzeroth\\Dungeons\\WaycrestManor" -- Waycrest Manor
-zonetable[2212] = "BattleForAzeroth\\Dungeons\\HorrificVisionOfOrgrimmar" -- Horrific Vision of Orgrimmar
-zonetable[2213] = "BattleForAzeroth\\Dungeons\\HorrificVisionOfStormwind" -- Horrific Vision of Stormwind
+zonetable[1676]  = "Legion\\Raids\\TombOfSargeras"
+zonetable[-650]  = "Legion\\Raids\\BrokenIsles"
+zonetable[-680]  = "Legion\\Raids\\BrokenIsles"
+zonetable[-646]  = "Legion\\Raids\\BrokenIsles"
+zonetable[-630]  = "Legion\\Raids\\BrokenIsles"
+zonetable[-634]  = "Legion\\Raids\\BrokenIsles"
+zonetable[-641]  = "Legion\\Raids\\BrokenIsles"
+zonetable[1520]  = "Legion\\Raids\\Nightmare"
+zonetable[1648]  = "Legion\\Raids\\TrialOfValor"
+zonetable[1779]  = "Legion\\Raids\\ArgusInvasionPoints"
+zonetable[1712]  = "Legion\\Raids\\Antorus"
+zonetable[1530]  = "Legion\\Raids\\Nighthold"
 
-zonetable[2291] = "Shadowlands\\Dungeons\\DeOtherSide" -- De Other Side
-zonetable[2287] = "Shadowlands\\Dungeons\\HallsOfAtonement" -- Halls of Atonement
-zonetable[2290] = "Shadowlands\\Dungeons\\MistsOfTirnaScithe" -- Mists of Tirna Scithe
-zonetable[2289] = "Shadowlands\\Dungeons\\Plaguefall" -- Plaguefall
-zonetable[2284] = "Shadowlands\\Dungeons\\SanguineDepths" -- Sanguine Depths
-zonetable[2285] = "Shadowlands\\Dungeons\\SpiresOfAscension" -- Spires of Ascension
-zonetable[2286] = "Shadowlands\\Dungeons\\TheNecroticWake" -- The Necrotic Wake
-zonetable[2293] = "Shadowlands\\Dungeons\\TheaterOfPain" -- Theater of Pain
-zonetable[2441] = "Shadowlands\\Dungeons\\TazaveshTheVeiledMarket" -- Tazavesh the Veiled Market
+zonetable[1098]  = "MistsOfPandaria\\Raids\\ThroneOfThunder"
+zonetable[996]   = "MistsOfPandaria\\Raids\\EndlessSpring"
+zonetable[-507]  = "MistsOfPandaria\\Raids\\Pandaria"
+zonetable[-379]  = "MistsOfPandaria\\Raids\\Pandaria"
+zonetable[-376]  = "MistsOfPandaria\\Raids\\Pandaria"
+zonetable[-554]  = "MistsOfPandaria\\Raids\\Pandaria"
+zonetable[-504]  = "MistsOfPandaria\\Raids\\Pandaria"
+zonetable[1008]  = "MistsOfPandaria\\Raids\\Mogushan"
+zonetable[1009]  = "MistsOfPandaria\\Raids\\HeartOfFear"
+zonetable[1136]  = "MistsOfPandaria\\Raids\\SiegeOfOrgrimmar"
 
-zonetable[2526] = "Dragonflight\\Dungeons\\AlgetharAcademy" -- Algeth'ar Academy
-zonetable[2520] = "Dragonflight\\Dungeons\\BrackenhideHollow" -- Brackenhide Hollow 
-zonetable[2527] = "Dragonflight\\Dungeons\\HallsOfInfusion" -- Halls of Infusion 
-zonetable[2519] = "Dragonflight\\Dungeons\\Neltharus" -- Neltharus
-zonetable[2521] = "Dragonflight\\Dungeons\\RubyLifePools" -- Ruby Life Pools 
-zonetable[2515] = "Dragonflight\\Dungeons\\TheAzureVault" -- The Azure Vault 
-zonetable[2516] = "Dragonflight\\Dungeons\\TheNokhudOffensive" -- The Nokhud Offensive 
-zonetable[2451] = "Dragonflight\\Dungeons\\UldamanLegacyOfTyr" -- Uldaman: Legacy of Tyr
-zonetable[2579] = "Dragonflight\\Dungeons\\DawnOfTheInfinite" -- Dawn of The Infinite 
+zonetable[2296]  = "Shadowlands\\Raids\\CastleNathria"
+zonetable[2450]  = "Shadowlands\\Raids\\SanctumOfDomination"
+zonetable[2481]  = "Shadowlands\\Raids\\SepulcherOfTheFirstOnes"
+zonetable[-1536] = "Shadowlands\\Raids\\Shadowlands"
+zonetable[-1525] = "Shadowlands\\Raids\\Shadowlands"
+zonetable[-1565] = "Shadowlands\\Raids\\Shadowlands"
+zonetable[-1533] = "Shadowlands\\Raids\\Shadowlands"
 
--- raid
-zonetable[509] = "Classic\\Raids\\AQ20" -- Ruins of Ahn'Qiraj
-zonetable[531] = "Classic\\Raids\\AQ40" -- Ahn'Qiraj
-zonetable[469] = "Classic\\Raids\\BlackwingLair" -- 
-zonetable[409] = "Classic\\Raids\\MoltenCore" -- 
+zonetable[1228]  = "WarlordsOfDraenor\\Raids\\Highmaul"
+zonetable[1448]  = "WarlordsOfDraenor\\Raids\\HellfireCitadel"
+zonetable[1205]  = "WarlordsOfDraenor\\Raids\\BlackrockFoundry"
+zonetable[-543]  = "WarlordsOfDraenor\\Raids\\Draenor"
+zonetable[-542]  = "WarlordsOfDraenor\\Raids\\Draenor"
+zonetable[-534]  = "WarlordsOfDraenor\\Raids\\Draenor"
 
-zonetable[564] = "BurningCrusade\\Raids\\BlackTemple" -- Black Temple
-zonetable[534] = "BurningCrusade\\Raids\\Hyjal" -- Hyjal Summit
-zonetable[532] = "BurningCrusade\\Raids\\Karazhan" -- Karazhan
-zonetable[548] = "BurningCrusade\\Raids\\Serpentshrine" -- Serpentshrine Cavern
-zonetable[580] = "BurningCrusade\\Raids\\Sunwell" -- Sunwell Plateau
-zonetable[565] = "BurningCrusade\\Raids\\TheEye" -- Gruul's Lair
-zonetable[544] = "BurningCrusade\\Raids\\TheEye" -- Magtheridon's Lair
-zonetable[550] = "BurningCrusade\\Raids\\TheEye" -- Tempest Keep
-zonetable[530] = "BurningCrusade\\Raids\\Outland" -- Outland
--- zonetable[-101] = "BurningCrusade\\Raids\\Outland" -- Outland (Fake Menu)
+zonetable[603]   = "WrathOfTheLichKing\\Raids\\Ulduar"
+zonetable[616]   = "WrathOfTheLichKing\\Raids\\Northrend"
+zonetable[724]   = "WrathOfTheLichKing\\Raids\\Northrend"
+zonetable[615]   = "WrathOfTheLichKing\\Raids\\Northrend"
+zonetable[624]   = "WrathOfTheLichKing\\Raids\\Northrend"
+zonetable[649]   = "WrathOfTheLichKing\\Raids\\Coliseum"
+zonetable[631]   = "WrathOfTheLichKing\\Raids\\Citadel"
 
-zonetable[631] = "WrathOfTheLichKing\\Raids\\Citadel" -- Icecrown Citadel
-zonetable[533] = "WrathOfTheLichKing\\Raids\\Naxxramas" -- Naxxramas
-zonetable[603] = "WrathOfTheLichKing\\Raids\\Ulduar" -- Ulduar
-zonetable[649] = "WrathOfTheLichKing\\Raids\\Coliseum" -- Trial of the Crusader
-zonetable[249] = "WrathOfTheLichKing\\Raids\\Northrend" -- Onyxia's Lair
-zonetable[616] = "WrathOfTheLichKing\\Raids\\Northrend" -- The Eye of Eternity
-zonetable[615] = "WrathOfTheLichKing\\Raids\\Northrend" -- The Obsidian Sanctum
-zonetable[724] = "WrathOfTheLichKing\\Raids\\Northrend" -- The Ruby Sanctum
-zonetable[624] = "WrathOfTheLichKing\\Raids\\Northrend" -- Vault of Archavon
+zonetable[2286]  = "Shadowlands\\Dungeons\\TheNecroticWake"
+zonetable[2285]  = "Shadowlands\\Dungeons\\SpiresOfAscension"
+zonetable[2291]  = "Shadowlands\\Dungeons\\DeOtherSide"
+zonetable[2290]  = "Shadowlands\\Dungeons\\MistsOfTirnaScithe"
+zonetable[2284]  = "Shadowlands\\Dungeons\\SanguineDepths"
+zonetable[2293]  = "Shadowlands\\Dungeons\\TheaterOfPain"
+zonetable[2289]  = "Shadowlands\\Dungeons\\Plaguefall"
+zonetable[2441]  = "Shadowlands\\Dungeons\\TazaveshTheVeiledMarket"
+zonetable[2287]  = "Shadowlands\\Dungeons\\HallsOfAtonement"
 
-zonetable[757] = "Cataclysm\\Raids\\Baradin" -- Baradin Hold
-zonetable[669] = "Cataclysm\\Raids\\Blackwing" -- Blackwing Descent
-zonetable[967] = "Cataclysm\\Raids\\DragonSoul" -- Dragon Soul
-zonetable[720] = "Cataclysm\\Raids\\Firelands" -- Firelands
-zonetable[671] = "Cataclysm\\Raids\\Bastion" -- The Bastion of Twilight
-zonetable[754] = "Cataclysm\\Raids\\Throne" -- Throne of the Four Winds
+zonetable[1516]  = "Legion\\Dungeons\\TheArcway"
+zonetable[1493]  = "Legion\\Dungeons\\VaultOfTheWardens"
+zonetable[1544]  = "Legion\\Dungeons\\AssaultOnVioletHold"
+zonetable[1501]  = "Legion\\Dungeons\\BlackRookHold"
+zonetable[1571]  = "Legion\\Dungeons\\CourtOfStars"
+zonetable[1458]  = "Legion\\Dungeons\\NeltharionsLair"
+zonetable[1702]  = "Legion\\Dungeons\\ArtifactScenarios"
+zonetable[1616]  = "Legion\\Dungeons\\ArtifactScenarios"
+zonetable[1710]  = "Legion\\Dungeons\\ArtifactScenarios"
+zonetable[1673]  = "Legion\\Dungeons\\ArtifactScenarios"
+zonetable[1698]  = "Legion\\Dungeons\\ArtifactScenarios"
+zonetable[1684]  = "Legion\\Dungeons\\ArtifactScenarios"
+zonetable[1703]  = "Legion\\Dungeons\\ArtifactScenarios"
+zonetable[1492]  = "Legion\\Dungeons\\MawOfSouls"
+zonetable[1677]  = "Legion\\Dungeons\\CathedralOfEternalNight"
+zonetable[1651]  = "Legion\\Dungeons\\Karazhan"
+zonetable[1466]  = "Legion\\Dungeons\\DarkheartThicket"
+zonetable[1753]  = "Legion\\Dungeons\\SeatOfTheTriumvirate"
+zonetable[1456]  = "Legion\\Dungeons\\EyeOfAzshara"
+zonetable[1477]  = "Legion\\Dungeons\\HallsOfValor"
 
-zonetable[1009] = "MistsOfPandaria\\Raids\\HeartOfFear" -- Heart of Fear
-zonetable[1008] = "MistsOfPandaria\\Raids\\Mogushan" -- Mogu'shan Vaults
-zonetable[1136] = "MistsOfPandaria\\Raids\\SiegeOfOrgrimmar" -- Siege of Orgrimmar
-zonetable[996] = "MistsOfPandaria\\Raids\\EndlessSpring" -- Terrace of Endless Spring
-zonetable[1098] = "MistsOfPandaria\\Raids\\ThroneOfThunder" -- Throne of Thunder
-zonetable[870] = "MistsOfPandaria\\Raids\\Pandaria" -- Pandaria
--- zonetable[-424] = "MistsOfPandaria\\Raids\\Pandaria" -- Pandaria (Fake Menu)
+zonetable[2516]  = "Dragonflight\\Dungeons\\TheNokhudOffensive"
+zonetable[2526]  = "Dragonflight\\Dungeons\\AlgetharAcademy"
+zonetable[2515]  = "Dragonflight\\Dungeons\\TheAzureVault"
+zonetable[2519]  = "Dragonflight\\Dungeons\\Neltharus"
+zonetable[2520]  = "Dragonflight\\Dungeons\\BrackenhideHollow"
+zonetable[2527]  = "Dragonflight\\Dungeons\\HallsOfInfusion"
+zonetable[2451]  = "Dragonflight\\Dungeons\\UldamanLegacyOfTyr"
+zonetable[2521]  = "Dragonflight\\Dungeons\\RubyLifePools"
+zonetable[2579]  = "Dragonflight\\Dungeons\\DawnOfTheInfinite"
 
-zonetable[1205] = "WarlordsOfDraenor\\Raids\\BlackrockFoundry" -- Blackrock Foundry
-zonetable[1448] = "WarlordsOfDraenor\\Raids\\HellfireCitadel" -- Hellfire Citadel
-zonetable[1228] = "WarlordsOfDraenor\\Raids\\Highmaul" -- Highmaul
-zonetable[1116] = "WarlordsOfDraenor\\Raids\\Draenor" -- Draenor
--- zonetable[-572] = "WarlordsOfDraenor\\Raids\\Draenor" -- Draenor (Fake Menu)
+zonetable[36]    = "Classic\\Dungeons\\Deadmines"
+zonetable[756]   = "Classic\\Dungeons\\Deadmines"
+zonetable[33]    = "Classic\\Dungeons\\ShadowfangKeep"
 
-zonetable[1712] = "Legion\\Raids\\Antorus" -- Antorus, the Burning Throne
-zonetable[1520] = "Legion\\Raids\\Nightmare" -- The Emerald Nightmare
-zonetable[1530] = "Legion\\Raids\\Nighthold" -- The Nighthold
-zonetable[1676] = "Legion\\Raids\\TombOfSargeras" -- Tomb of Sargeras
-zonetable[1648] = "Legion\\Raids\\TrialOfValor" -- Trial of Valor
-zonetable[1669] = "Legion\\Raids\\ArgusInvasionPoints" -- Argus Invasion Points
-zonetable[1220] = "Legion\\Raids\\BrokenIsles" -- Broken Isles
--- zonetable[-619] = "Legion\\Raids\\BrokenIsles" -- Broken Isles (Fake Menu)
+zonetable[1877]  = "BattleForAzeroth\\Dungeons\\TempleOfSethraliss"
+zonetable[2213]  = "BattleForAzeroth\\Dungeons\\HorrificVisionOfStormwind"
+zonetable[1754]  = "BattleForAzeroth\\Dungeons\\Freehold"
+zonetable[1862]  = "BattleForAzeroth\\Dungeons\\WaycrestManor"
+zonetable[1864]  = "BattleForAzeroth\\Dungeons\\ShrineOfTheStorm"
+zonetable[2212]  = "BattleForAzeroth\\Dungeons\\HorrificVisionOfOrgrimmar"
+zonetable[2097]  = "BattleForAzeroth\\Dungeons\\Mechagon"
+zonetable[1841]  = "BattleForAzeroth\\Dungeons\\Underrot"
+zonetable[1822]  = "BattleForAzeroth\\Dungeons\\SiegeOfBoralus"
+zonetable[1771]  = "BattleForAzeroth\\Dungeons\\TolDagor"
+zonetable[1762]  = "BattleForAzeroth\\Dungeons\\KingsRest"
+zonetable[1763]  = "BattleForAzeroth\\Dungeons\\AtalDazar"
+zonetable[1594]  = "BattleForAzeroth\\Dungeons\\TheMotherlode"
 
-zonetable[2070] = "BattleForAzeroth\\Raids\\BattleOfDazaralor" -- Battle of Dazar'alor
-zonetable[2096] = "BattleForAzeroth\\Raids\\CrucibleOfStorms" -- Crucible of Storms
-zonetable[2217] = "BattleForAzeroth\\Raids\\Nyalotha" -- Ny'alotha
-zonetable[2164] = "BattleForAzeroth\\Raids\\EternalPalace" -- The Eternal Palace
-zonetable[1861] = "BattleForAzeroth\\Raids\\Uldir" -- Uldir
-zonetable[1642] = "BattleForAzeroth\\Raids\\Azeroth" -- Zandalar
-zonetable[1643] = "BattleForAzeroth\\Raids\\Azeroth" -- Kul Tiras
--- zonetable[-947] = "BattleForAzeroth\\Raids\\Azeroth" -- Azeroth (Fake Menu)
+zonetable[543]   = "BurningCrusade\\Dungeons\\HellfireRamparts"
+zonetable[269]   = "BurningCrusade\\Dungeons\\TheBlackMorass"
+zonetable[585]   = "BurningCrusade\\Dungeons\\MagistersTerrace"
+zonetable[558]   = "BurningCrusade\\Dungeons\\AuchenaiCrypts"
+zonetable[557]   = "BurningCrusade\\Dungeons\\ManaTombs"
+zonetable[555]   = "BurningCrusade\\Dungeons\\ShadowLabyrinth"
+zonetable[552]   = "BurningCrusade\\Dungeons\\TheArcatraz"
+zonetable[545]   = "BurningCrusade\\Dungeons\\TheSteamvault"
+zonetable[542]   = "BurningCrusade\\Dungeons\\TheBloodFurnace"
+zonetable[560]   = "BurningCrusade\\Dungeons\\OldHillsbradFoothills"
+zonetable[556]   = "BurningCrusade\\Dungeons\\SethekkHalls"
+zonetable[546]   = "BurningCrusade\\Dungeons\\TheUnderbog"
+zonetable[540]   = "BurningCrusade\\Dungeons\\TheShatteredHalls"
+zonetable[553]   = "BurningCrusade\\Dungeons\\TheBotanica"
+zonetable[547]   = "BurningCrusade\\Dungeons\\TheSlavePens"
+zonetable[554]   = "BurningCrusade\\Dungeons\\TheMechanar"
 
-zonetable[2296] = "Shadowlands\\Raids\\CastleNathria" -- Castle Nathria
-zonetable[2450] = "Shadowlands\\Raids\\SanctumOfDomination" -- Sanctum of Domination
-zonetable[2481] = "Shadowlands\\Raids\\SepulcherOfTheFirstOnes" -- Sepulcher of the First Ones
-zonetable[2222] = "Shadowlands\\Raids\\Shadowlands" -- Shadowlands
--- zonetable[-1647] = "Shadowlands\\Raids\\Shadowlands" -- Shadowlands (Fake Menu)
+zonetable[601]   = "WrathOfTheLichKing\\Dungeons\\AzjolNerub"
+zonetable[604]   = "WrathOfTheLichKing\\Dungeons\\Gundrak"
+zonetable[619]   = "WrathOfTheLichKing\\Dungeons\\Ahnkahet"
+zonetable[608]   = "WrathOfTheLichKing\\Dungeons\\TheVioletHold"
+zonetable[632]   = "WrathOfTheLichKing\\Dungeons\\TheForgeOfSouls"
+zonetable[574]   = "WrathOfTheLichKing\\Dungeons\\UtgardeKeep"
+zonetable[595]   = "WrathOfTheLichKing\\Dungeons\\TheCullingOfStratholme"
+zonetable[668]   = "WrathOfTheLichKing\\Dungeons\\HallsOfReflection"
+zonetable[576]   = "WrathOfTheLichKing\\Dungeons\\TheNexus"
+zonetable[575]   = "WrathOfTheLichKing\\Dungeons\\UtgardePinnacle"
+zonetable[658]   = "WrathOfTheLichKing\\Dungeons\\PitOfSaron"
+zonetable[600]   = "WrathOfTheLichKing\\Dungeons\\DrakTharonKeep"
+zonetable[650]   = "WrathOfTheLichKing\\Dungeons\\TrialOfTheChampion"
+zonetable[599]   = "WrathOfTheLichKing\\Dungeons\\HallsOfStone"
+zonetable[602]   = "WrathOfTheLichKing\\Dungeons\\HallsOfLightning"
+zonetable[578]   = "WrathOfTheLichKing\\Dungeons\\TheOculus"
 
-zonetable[-2022] = "Dragonflight\\Raids\\DragonIsles" -- 
-zonetable[-2023] = "Dragonflight\\Raids\\DragonIsles" -- 
-zonetable[-2024] = "Dragonflight\\Raids\\DragonIsles" -- 
-zonetable[-2025] = "Dragonflight\\Raids\\DragonIsles" -- 
-zonetable[2522] = "Dragonflight\\Raids\\VaultOfTheIncarnates" -- Vault of the Incarnates
-zonetable[2569] = "Dragonflight\\Raids\\Aberrus" -- Aberrus
-zonetable[2549] = "Dragonflight\\Raids\\Amirdrassil" -- Amirdrassil
+zonetable[1279]  = "WarlordsOfDraenor\\Dungeons\\TheEverbloom"
+zonetable[1175]  = "WarlordsOfDraenor\\Dungeons\\BloodmaulSlagMines"
+zonetable[1195]  = "WarlordsOfDraenor\\Dungeons\\IronDocks"
+zonetable[1208]  = "WarlordsOfDraenor\\Dungeons\\GrimrailDepot"
+zonetable[1209]  = "WarlordsOfDraenor\\Dungeons\\Skyreach"
+zonetable[1176]  = "WarlordsOfDraenor\\Dungeons\\ShadowmoonBurialGrounds"
+zonetable[1182]  = "WarlordsOfDraenor\\Dungeons\\Auchindoun"
+zonetable[1358]  = "WarlordsOfDraenor\\Dungeons\\UpperBlackrockSpire"
+
+zonetable[960]   = "MistsOfPandaria\\Dungeons\\TempleOfTheJadeSerpent"
+zonetable[1004]  = "MistsOfPandaria\\Dungeons\\ScarletMonastery"
+zonetable[959]   = "MistsOfPandaria\\Dungeons\\ShadoPanMonastery"
+zonetable[994]   = "MistsOfPandaria\\Dungeons\\MogushanPalace"
+zonetable[1112]  = "MistsOfPandaria\\Dungeons\\BlackTempleSolo"
+zonetable[962]   = "MistsOfPandaria\\Dungeons\\GateOfTheSettingSun"
+zonetable[1011]  = "MistsOfPandaria\\Dungeons\\SiegeOfNiuzaoTemple"
+zonetable[961]   = "MistsOfPandaria\\Dungeons\\StormstoutBrewery"
+zonetable[1001]  = "MistsOfPandaria\\Dungeons\\ScarletHalls"
+
+zonetable[938]   = "Cataclysm\\Dungeons\\EndTime"
+zonetable[645]   = "Cataclysm\\Dungeons\\BlackrockCaverns"
+zonetable[939]   = "Cataclysm\\Dungeons\\WellOfEternity"
+zonetable[755]   = "Cataclysm\\Dungeons\\LostCity"
+zonetable[859]   = "Cataclysm\\Dungeons\\ZulGurub"
+zonetable[670]   = "Cataclysm\\Dungeons\\GrimBatol"
+zonetable[657]   = "Cataclysm\\Dungeons\\VortexPinnacle"
+zonetable[940]   = "Cataclysm\\Dungeons\\HourOfTwilight"
+zonetable[643]   = "Cataclysm\\Dungeons\\ThroneTides"
+zonetable[725]   = "Cataclysm\\Dungeons\\Stonecore"
+zonetable[644]   = "Cataclysm\\Dungeons\\HallsOfOrigination"
 
 
 local currentZone = ""
 local EventFrame = CreateFrame("frame", "EventFrame")
 
-local function getCurrentZone() 
-	name, instanceType, difficultyID, difficultyName, maxPlayers, dynamicDifficulty, isDynamic, instanceID, instanceGroupSize, LfgDungeonID = GetInstanceInfo()
+local function getCurrentZone()
+	local _, _, _, _, _, _, _, instanceID = GetInstanceInfo()
 	if zonetable[instanceID] == nil then
-		currentZone = "Common"
+		local mapId = GetBestMapForUnit("player")
+		if mapId then
+			instanceID = -mapId
+		end
+		currentZone = zonetable[instanceID] or "Common"
 	else
 		currentZone = zonetable[instanceID]
 	end
@@ -217,28 +255,48 @@ local function getCurrentZone()
 end
 
 EventFrame:RegisterEvent("PLAYER_ENTERING_WORLD")
-EventFrame:SetScript("OnEvent", function(self, event, ...)
-	if(event == "PLAYER_ENTERING_WORLD") then
+EventFrame:RegisterEvent("ZONE_CHANGED")
+EventFrame:SetScript("OnEvent", function(self, event)
+	if event == "PLAYER_ENTERING_WORLD" or event == "ZONE_CHANGED" then
 		getCurrentZone()
 	end
 end)
 
-local channel = BigWigs_Voice_DB.channel or "Master"
-local tostring = tostring
-local format = format
-local Timer = C_Timer.After
-addon.SendMessage = BigWigsLoader.SendMessage
+addon.SendMessage   = BigWigsLoader.SendMessage
 
-local path = "Interface\\AddOns\\BigWigs_Voice_KRgeelong\\Sounds\\%s\\%s.mp3"
-local pathCommon = "Interface\\AddOns\\BigWigs_Voice_KRgeelong\\Sounds\\Common\\%s.mp3"
-local pathYou = "Interface\\AddOns\\BigWigs_Voice_KRgeelong\\Sounds\\Common\\you.mp3"
+local modname       = "KRgeelong"
+local basepath      = "Interface\\AddOns\\BigWigs_Voice_" .. modname .. "\\Sounds\\"
+local path          = basepath .. "%s\\%s.mp3"
+local pathCommon    = basepath .. "Common\\%s.mp3"
+local pathYou       = basepath .. "Common\\you.mp3"
+
+local channel       = BigWigs_Voice_DB.channel or "Master"
+local playSoundType = BigWigs_Voice_DB.playSoundType or {
+	["warning"] = true,
+	["alarm"]   = true,
+	["alert"]   = true,
+	["info"]    = false,
+	["long"]    = false,
+	["etc"]     = true,
+}
+
 local function handler(event, module, key, sound, isOnMe)
 	local success = false
+
+	local isPlay = playSoundType[sound]
+	if isPlay == nil then
+		isPlay = playSoundType.etc
+	end
+	if isPlay == false then
+		addon:SendMessage("BigWigs_Sound", module, key, sound)
+		return
+	end
+
 	if isOnMe then
 		success = PlaySoundFile(pathYou, channel)
 		if success then
-			Timer(0.3, function () 
-				local success = PlaySoundFile(format(path, currentZone, tostring(key)), channel)
+			C_Timer.After(0.3, function()
+				success = PlaySoundFile(format(path, currentZone, tostring(key)), channel)
 				if not success then
 					success = PlaySoundFile(format(pathCommon, tostring(key)), channel)
 					if not success then
@@ -249,7 +307,7 @@ local function handler(event, module, key, sound, isOnMe)
 			return
 		end
 	end
-	
+
 	success = PlaySoundFile(format(path, currentZone, tostring(key)), channel)
 	if not success then
 		success = PlaySoundFile(format(pathCommon, tostring(key)), channel)
@@ -260,14 +318,16 @@ local function handler(event, module, key, sound, isOnMe)
 end
 
 BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
-BigWigsAPI.RegisterVoicePack("KRgeelong")
+BigWigsAPI.RegisterVoicePack(modname)
 
 getCurrentZone()
 
 local public = {}
 function public:SendMessage(msg, ...)
-	if msg == "channel_changed" then
-		channel = BigWigs_Voice_DB.channel.value
+	if msg == "conf_changed" then
+		channel = BigWigs_Voice_DB.channel
+		playSoundType = BigWigs_Voice_DB.playSoundType
 	end
 end
+
 BigWigsVoice = setmetatable({}, { __index = public, __newindex = function() end, __metatable = false })
