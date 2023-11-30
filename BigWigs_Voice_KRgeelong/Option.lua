@@ -1,3 +1,5 @@
+local addonName, addon = ...
+
 local optionsPanel
 local dropdown
 
@@ -30,15 +32,13 @@ local function Dropdown_OnValueChanged(self, value)
         return
     end
 
-    BigWigs_Voice_DB.channel = selected.value
+    BigWigs_Voice_DB.channel = selected
     if BigWigsVoice then
-        BigWigsVoice:SendMessage("conf_changed")
+        BigWigsVoice:SendMessage("channel_changed")
     end
 
     UIDropDownMenu_SetSelectedValue(dropdown, selected.value)
     UIDropDownMenu_SetText(dropdown, selected.text)
-
-    print("빅윅 보이스: 현재 음성 출력 채널은 '" .. selected.text .. "' 입니다")
 end
 
 local function Dropdown_Initialize(self)
@@ -103,7 +103,7 @@ local function CreateOptionsPanel()
     optionsPanel.dropdown = dropdown
     InterfaceOptions_AddCategory(optionsPanel)
 
-    Dropdown_OnValueChanged(dropdown, BigWigs_Voice_DB.channel)
+    Dropdown_OnValueChanged(dropdown, BigWigs_Voice_DB.channel.value)
 
     -- warning, alarm, alert, info, long -> 각각 체크박스를 넣어서 특정 등급에 대한 소리를 안나게 해주자. 기본은 체크되어 있는걸로 하고
     local checkbox
@@ -127,7 +127,7 @@ end
 local function InitializeAddon()
     if not BigWigs_Voice_DB then
         BigWigs_Voice_DB = {
-            channel = dropdownValues[1].value,
+            channel = dropdownValues[1],
         }
     end
     if not BigWigs_Voice_DB.playSoundType then
@@ -135,19 +135,19 @@ local function InitializeAddon()
             warning = true,
             alarm   = true,
             alert   = true,
-            info    = false,
-            long    = false,
+            info    = true,
+            long    = true,
             etc     = true,
         }
     end
     CreateOptionsPanel()
+    BigWigsVoice:SendMessage("conf_changed")
 end
 
-local frame = CreateFrame("Frame")
-frame:RegisterEvent("PLAYER_LOGIN")
-frame:SetScript("OnEvent", function(self, event)
-    if event == "PLAYER_LOGIN" then
-        InitializeAddon()
-        self:UnregisterEvent("PLAYER_LOGIN")
+addon.RegisterEvent("ADDON_LOADED", function(self, event, name)
+    if name ~= addonName then
+        return
     end
+    InitializeAddon()
+    self:UnregisterEvent("ADDON_LOADED")
 end)

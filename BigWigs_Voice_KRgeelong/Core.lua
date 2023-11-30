@@ -1,4 +1,5 @@
-local _, addon   = ...
+local _, addon = ...
+
 
 addon.isVanilla  = WOW_PROJECT_ID == WOW_PROJECT_CLASSIC
 addon.isWrath    = WOW_PROJECT_ID == WOW_PROJECT_WRATH_CLASSIC
@@ -238,12 +239,13 @@ zonetable[644]   = "Cataclysm\\Dungeons\\HallsOfOrigination"
 
 
 local currentZone = ""
-local EventFrame = CreateFrame("frame", "EventFrame")
+addon.EventFrame = CreateFrame("frame", "EventFrame")
+local EventFrame = addon.EventFrame
 
 local function getCurrentZone()
 	local _, _, _, _, _, _, _, instanceID = GetInstanceInfo()
 	if zonetable[instanceID] == nil then
-		local mapId = GetBestMapForUnit("player")
+		local mapId = C_Map.GetBestMapForUnit("player")
 		if mapId then
 			instanceID = -mapId
 		end
@@ -251,16 +253,7 @@ local function getCurrentZone()
 	else
 		currentZone = zonetable[instanceID]
 	end
-	-- print(instanceID .. "=> " .. currentZone);
 end
-
-EventFrame:RegisterEvent("PLAYER_ENTERING_WORLD")
-EventFrame:RegisterEvent("ZONE_CHANGED")
-EventFrame:SetScript("OnEvent", function(self, event)
-	if event == "PLAYER_ENTERING_WORLD" or event == "ZONE_CHANGED" then
-		getCurrentZone()
-	end
-end)
 
 addon.SendMessage   = BigWigsLoader.SendMessage
 
@@ -270,13 +263,13 @@ local path          = basepath .. "%s\\%s.mp3"
 local pathCommon    = basepath .. "Common\\%s.mp3"
 local pathYou       = basepath .. "Common\\you.mp3"
 
-local channel       = BigWigs_Voice_DB.channel or "Master"
-local playSoundType = BigWigs_Voice_DB.playSoundType or {
+local channel       = "Master"
+local playSoundType = {
 	["warning"] = true,
 	["alarm"]   = true,
 	["alert"]   = true,
-	["info"]    = false,
-	["long"]    = false,
+	["info"]    = true,
+	["long"]    = true,
 	["etc"]     = true,
 }
 
@@ -287,6 +280,7 @@ local function handler(event, module, key, sound, isOnMe)
 	if isPlay == nil then
 		isPlay = playSoundType.etc
 	end
+	-- DevTool:AddData({ event = event, module = module, key = key, sound = sound, isplay = isPlay, isplay2 = playSoundType[sound], conf = playSoundType })
 	if isPlay == false then
 		addon:SendMessage("BigWigs_Sound", module, key, sound)
 		return
@@ -320,13 +314,36 @@ end
 BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 BigWigsAPI.RegisterVoicePack(modname)
 
-getCurrentZone()
+addon.eventMap = {}
+EventFrame:SetScript("OnEvent", function(self, event, ...)
+	if not addon.eventMap[event] then
+		return
+	end
+	addon.eventMap[event](self, event, ...)
+end)
+
+addon.RegisterEvent = function(event, func)
+	addon.eventMap[event] = func
+	addon.EventFrame:RegisterEvent(event)
+end
+
+addon.RegisterEvent("PLAYER_ENTERING_WORLD", function(self, event, ...)
+	getCurrentZone()
+end)
+
+addon.RegisterEvent("ZONE_CHANGED", function(self, event)
+	getCurrentZone()
+end)
 
 local public = {}
 function public:SendMessage(msg, ...)
-	if msg == "conf_changed" then
-		channel = BigWigs_Voice_DB.channel
-		playSoundType = BigWigs_Voice_DB.playSoundType
+	if msg == "channel_changed" then
+		if BigWigs_Voice_DB.channel then
+			print("빅윅 보이스: 현재 음성 출력 채널은 '" .. BigWigs_Voice_DB.channel.text .. "' 입니다")
+			channel = BigWigs_Voice_DB.channel.value
+		end
+	elseif msg == "conf_changed" then
+		playSoundType = BigWigs_Voice_DB.playSoundType or playSoundType
 	end
 end
 
