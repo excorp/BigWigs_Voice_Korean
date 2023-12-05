@@ -65,6 +65,7 @@ zonetable[-1425] = "Classic\\Raids\\World"
 zonetable[-1431] = "Classic\\Raids\\World"
 zonetable[-1444] = "Classic\\Raids\\World"
 zonetable[309]   = "Classic\\Raids\\ZulGurub"
+zonetable[48]    = "Classic\\Raids\\BlackfathomDeeps"
 
 zonetable[1676]  = "Legion\\Raids\\TombOfSargeras"
 zonetable[-650]  = "Legion\\Raids\\BrokenIsles"
