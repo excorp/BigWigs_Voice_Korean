@@ -7,7 +7,6 @@
 
 ## X-BigWigs-LoadOn-CoreEnabled: 1
 ## Dependencies: BigWigs
-## LoadOnDemand: 1
 
 ## X-Category: Raid
 ## X-License: All Rights Reserved: You are free to modify

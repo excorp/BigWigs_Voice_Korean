@@ -1790,6 +1790,7 @@ Dragonflight/Dungeons/DawnOfTheInfinite/410904.mp3 무한의 보주
 Dragonflight/Dungeons/DawnOfTheInfinite/411300.mp3 연발 생선 화살
 Dragonflight/Dungeons/DawnOfTheInfinite/411407.mp3 거품 세례
 Dragonflight/Dungeons/DawnOfTheInfinite/411952.mp3 천고의 원조
+Dragonflight/Dungeons/DawnOfTheInfinite/411958.mp3 돌화살
 Dragonflight/Dungeons/DawnOfTheInfinite/411994.mp3 시간 용해
 Dragonflight/Dungeons/DawnOfTheInfinite/412012.mp3 시간 베기
 Dragonflight/Dungeons/DawnOfTheInfinite/412027.mp3 시간의 화상
@@ -2614,6 +2615,7 @@ Legion/Dungeons/BlackRookHold/198641.mp3 소용돌이 칼날
 Legion/Dungeons/BlackRookHold/198820.mp3 어둠의 폭발
 Legion/Dungeons/BlackRookHold/199143.mp3 최면 구름
 Legion/Dungeons/BlackRookHold/199193.mp3 공포의 군주의 간계
+Legion/Dungeons/BlackRookHold/199368.mp3 레이븐크레스트의 유산
 Legion/Dungeons/BlackRookHold/200084.mp3 영혼의 칼날
 Legion/Dungeons/BlackRookHold/200105.mp3 영혼 희생
 Legion/Dungeons/BlackRookHold/200248.mp3 비전 공세
