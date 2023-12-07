@@ -1566,9 +1566,16 @@ Classic/Raids/BlackfathomDeeps/407095.mp3 방어구 씹기
 Classic/Raids/BlackfathomDeeps/407568.mp3 얼음의 화살
 Classic/Raids/BlackfathomDeeps/407653.mp3 갈래 번개
 Classic/Raids/BlackfathomDeeps/407791.mp3 아쿠마이의 분노
-Classic/Raids/BlackfathomDeeps/411973.mp3 검은심연의 저주
+Classic/Raids/BlackfathomDeeps/411956.mp3 검은심연의 저주
 Classic/Raids/BlackfathomDeeps/412072.mp3 어둠의 일격
 Classic/Raids/BlackfathomDeeps/412456.mp3 멀록 대행진
+Classic/Raids/BlackfathomDeeps/414691.mp3 타락한 질풍의 토템
+Classic/Raids/BlackfathomDeeps/414763.mp3 타락한 번개 보호막의 토템
+Classic/Raids/BlackfathomDeeps/419636.mp3 타락한 타오르는 격노의 토템
+Classic/Raids/BlackfathomDeeps/425265.mp3 어둠의 사슬
+Classic/Raids/BlackfathomDeeps/425460.mp3 꿈 포식자
+Classic/Raids/BlackfathomDeeps/429168.mp3 부식성 폭발
+Classic/Raids/BlackfathomDeeps/429356.mp3 공허의 폭발
 Classic/Raids/BlackwingLair/14515.mp3 정신 지배
 Classic/Raids/BlackwingLair/18173.mp3 불타는 아드레날린
 Classic/Raids/BlackwingLair/22539.mp3 암흑의 불길
@@ -2244,6 +2251,7 @@ Dragonflight/Raids/Amirdrassil/419048.mp3 참혹한 최후
 Dragonflight/Raids/Amirdrassil/419054.mp3 불타는 맹독
 Dragonflight/Raids/Amirdrassil/419123.mp3 빗발치는 화염
 Dragonflight/Raids/Amirdrassil/419144.mp3 타락
+Dragonflight/Raids/Amirdrassil/419462.mp3 육체의 굴욕
 Dragonflight/Raids/Amirdrassil/419504.mp3 사나운 불길
 Dragonflight/Raids/Amirdrassil/419506.mp3 화염폭풍
 Dragonflight/Raids/Amirdrassil/420236.mp3 별똥별
@@ -2341,6 +2349,7 @@ Dragonflight/Raids/Amirdrassil/426390.mp3 부식성 꽃가루
 Dragonflight/Raids/Amirdrassil/426524.mp3 화염의 맹위
 Dragonflight/Raids/Amirdrassil/426725.mp3 좁혀드는 파괴
 Dragonflight/Raids/Amirdrassil/426855.mp3 만개
+Dragonflight/Raids/Amirdrassil/427201.mp3 나선 분출
 Dragonflight/Raids/Amirdrassil/427252.mp3 떨어지는 잿불
 Dragonflight/Raids/Amirdrassil/427299.mp3 돌발 불길
 Dragonflight/Raids/Amirdrassil/427306.mp3 잿더미 감옥
@@ -2350,7 +2359,7 @@ Dragonflight/Raids/Amirdrassil/428400.mp3 폭발하는 핵
 Dragonflight/Raids/Amirdrassil/428471.mp3 각성의 화살
 Dragonflight/Raids/Amirdrassil/428896.mp3 잿빛 파멸
 Dragonflight/Raids/Amirdrassil/428963.mp3 타오르는 시련
-Dragonflight/Raids/Amirdrassil/428968.mp3 어둠의 우리
+Dragonflight/Raids/Amirdrassil/428970.mp3 어둠의 우리
 Dragonflight/Raids/Amirdrassil/428971.mp3 타오르는 폭발
 Dragonflight/Raids/Amirdrassil/429032.mp3 영원한 불길
 Dragonflight/Raids/Amirdrassil/429108.mp3 육중한 격돌
