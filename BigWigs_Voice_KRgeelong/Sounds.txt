@@ -529,7 +529,6 @@ BattleForAzeroth/Dungeons/WaycrestManor/264407.mp3 끔찍한 얼굴
 BattleForAzeroth/Dungeons/WaycrestManor/264456.mp3 추적 폭탄
 BattleForAzeroth/Dungeons/WaycrestManor/264520.mp3 절단의 독뱀
 BattleForAzeroth/Dungeons/WaycrestManor/264525.mp3 파편 덫
-BattleForAzeroth/Dungeons/WaycrestManor/264556.mp3 찢는 일격
 BattleForAzeroth/Dungeons/WaycrestManor/264694.mp3 썩은 방출
 BattleForAzeroth/Dungeons/WaycrestManor/264734.mp3 전부 먹어치우기
 BattleForAzeroth/Dungeons/WaycrestManor/264923.mp3 방망이질
@@ -558,7 +557,6 @@ BattleForAzeroth/Dungeons/WaycrestManor/268278.mp3 파괴의 화음
 BattleForAzeroth/Dungeons/WaycrestManor/268306.mp3 불협의 카덴차
 BattleForAzeroth/Dungeons/WaycrestManor/271174.mp3 토하기
 BattleForAzeroth/Dungeons/WaycrestManor/278444.mp3 감염
-BattleForAzeroth/Dungeons/WaycrestManor/278474.mp3 입상 재구축
 BattleForAzeroth/Raids/Azeroth/260908.mp3 폭풍 날개
 BattleForAzeroth/Raids/Azeroth/261088.mp3 소용돌이 충돌
 BattleForAzeroth/Raids/Azeroth/261467.mp3 어미의 부름
@@ -1526,10 +1524,28 @@ Classic/Dungeons/ShadowfangKeep/93689.mp3 독 촉매
 Classic/Dungeons/ShadowfangKeep/93707.mp3 피에 굶주린 구울 소환
 Classic/Dungeons/ShadowfangKeep/93757.mp3 어둠의 대천사 형상
 Classic/Dungeons/ShadowfangKeep/93844.mp3 부정의 권능
+Classic/Raids/AQ20/14297.mp3 암흑 폭풍
+Classic/Raids/AQ20/17742.mp3 질병 구름
+Classic/Raids/AQ20/24340.mp3 유성
+Classic/Raids/AQ20/25176.mp3 오시리안의 힘
+Classic/Raids/AQ20/25177.mp3 화염 약점
+Classic/Raids/AQ20/25178.mp3 냉기 약점
+Classic/Raids/AQ20/25180.mp3 자연 약점
+Classic/Raids/AQ20/25181.mp3 비전 약점
+Classic/Raids/AQ20/25183.mp3 암흑 약점
+Classic/Raids/AQ20/25189.mp3 회오리 바람
+Classic/Raids/AQ20/25195.mp3 언어의 저주
+Classic/Raids/AQ20/25462.mp3 거대화
+Classic/Raids/AQ20/25471.mp3 공격 명령
 Classic/Raids/AQ20/25646.mp3 죽음의 상처
 Classic/Raids/AQ20/25656.mp3 모래 함정
+Classic/Raids/AQ20/25685.mp3 마력 충전
 Classic/Raids/AQ20/25698.mp3 폭파
+Classic/Raids/AQ20/25725.mp3 마비
+Classic/Raids/AQ20/26550.mp3 번개 구름
+Classic/Raids/AQ20/26556.mp3 역병
 Classic/Raids/AQ20/8269.mp3 광기
+Classic/Raids/AQ20/8732.mp3 천둥벼락
 Classic/Raids/AQ40/25698.mp3 폭파
 Classic/Raids/AQ40/25786.mp3 맹독 안개
 Classic/Raids/AQ40/25832.mp3 벌레 소환
@@ -1542,11 +1558,6 @@ Classic/Raids/AQ40/720.mp3 휘감기
 Classic/Raids/AQ40/7393.mp3 형제 치유
 Classic/Raids/AQ40/800.mp3 쌍둥이 순간이동
 Classic/Raids/AQ40/8269.mp3 광기
-Classic/Raids/AhnQirajRuins/25646.mp3 죽음의 상처
-Classic/Raids/AhnQirajRuins/25656.mp3 모래 함정
-Classic/Raids/AhnQirajRuins/25698.mp3 폭파
-Classic/Raids/AhnQirajRuins/25725.mp3 마비
-Classic/Raids/AhnQirajRuins/8269.mp3 광기
 Classic/Raids/AhnQirajTemple/25698.mp3 폭파
 Classic/Raids/AhnQirajTemple/25786.mp3 맹독 안개
 Classic/Raids/AhnQirajTemple/25989.mp3 독소
@@ -1567,8 +1578,10 @@ Classic/Raids/BlackfathomDeeps/407568.mp3 얼음의 화살
 Classic/Raids/BlackfathomDeeps/407653.mp3 갈래 번개
 Classic/Raids/BlackfathomDeeps/407791.mp3 아쿠마이의 분노
 Classic/Raids/BlackfathomDeeps/411956.mp3 검은심연의 저주
+Classic/Raids/BlackfathomDeeps/411959.mp3 공포
 Classic/Raids/BlackfathomDeeps/412072.mp3 어둠의 일격
 Classic/Raids/BlackfathomDeeps/412456.mp3 멀록 대행진
+Classic/Raids/BlackfathomDeeps/413664.mp3 거품광선
 Classic/Raids/BlackfathomDeeps/414691.mp3 타락한 질풍의 토템
 Classic/Raids/BlackfathomDeeps/414763.mp3 타락한 번개 보호막의 토템
 Classic/Raids/BlackfathomDeeps/419636.mp3 타락한 타오르는 격노의 토템
@@ -1582,16 +1595,23 @@ Classic/Raids/BlackwingLair/22539.mp3 암흑의 불길
 Classic/Raids/BlackwingLair/22686.mp3 우레와 같은 울부짖음
 Classic/Raids/BlackwingLair/23023.mp3 거대한 불길
 Classic/Raids/BlackwingLair/23174.mp3 오색 돌연변이
+Classic/Raids/MoltenCore/13880.mp3 뜨거운 용암
+Classic/Raids/MoltenCore/19408.mp3 공황
 Classic/Raids/MoltenCore/19428.mp3 거대한 불길
 Classic/Raids/MoltenCore/19451.mp3 격노
 Classic/Raids/MoltenCore/19659.mp3 마나 점화
 Classic/Raids/MoltenCore/19695.mp3 불지옥
+Classic/Raids/MoltenCore/19702.mp3 파멸의 예언
+Classic/Raids/MoltenCore/19703.mp3 루시프론의 저주
+Classic/Raids/MoltenCore/19713.mp3 샤즈라의 저주
 Classic/Raids/MoltenCore/19714.mp3 마법 접지
 Classic/Raids/MoltenCore/19715.mp3 마법 차단
 Classic/Raids/MoltenCore/19717.mp3 불의 비
 Classic/Raids/MoltenCore/20475.mp3 살아있는 폭탄
+Classic/Raids/MoltenCore/20604.mp3 정신 지배
 Classic/Raids/MoltenCore/20619.mp3 마법 반사
 Classic/Raids/MoltenCore/21075.mp3 피해 보호막
+Classic/Raids/MoltenCore/23138.mp3 샤즈라의 문
 Classic/Raids/Naxxramas/27808.mp3 냉기 작렬
 Classic/Raids/Naxxramas/27819.mp3 마나 폭발
 Classic/Raids/Naxxramas/28089.mp3 극성 변환
@@ -1607,6 +1627,8 @@ Classic/Raids/Naxxramas/28863.mp3 공허의 지대
 Classic/Raids/Naxxramas/29185.mp3 타락한 마음
 Classic/Raids/Naxxramas/29213.mp3 역병술사의 저주
 Classic/Raids/Onyxia/17086.mp3 화염 숨결
+Classic/Raids/Onyxia/18392.mp3 화염구
+Classic/Raids/Onyxia/18431.mp3 우레와 같은 울부짖음
 Classic/Raids/Onyxia/18435.mp3 화염 숨결
 Classic/Raids/World/21056.mp3 카자크의 징표
 Classic/Raids/World/22067.mp3 반사
@@ -1641,7 +1663,7 @@ Classic/Raids/ZulGurub/24300.mp3 생명력 흡수
 Classic/Raids/ZulGurub/24306.mp3 진도의 망상
 Classic/Raids/ZulGurub/24314.mp3 위협의 눈
 Classic/Raids/ZulGurub/24318.mp3 광기
-Classic/Raids/ZulGurub/24322.mp3 피의 착취
+Classic/Raids/ZulGurub/24324.mp3 피의 착취
 Classic/Raids/ZulGurub/24327.mp3 정신 이상 유발
 Classic/Raids/ZulGurub/24646.mp3 화신
 Classic/Raids/ZulGurub/24699.mp3 소멸
@@ -2244,11 +2266,10 @@ Dragonflight/Raids/Amirdrassil/417634.mp3 격노의 불지옥
 Dragonflight/Raids/Amirdrassil/417653.mp3 불타는 자연의 군대
 Dragonflight/Raids/Amirdrassil/417807.mp3 불길 발화
 Dragonflight/Raids/Amirdrassil/418187.mp3 환생
-Dragonflight/Raids/Amirdrassil/418520.mp3 끓어오르는 파편
 Dragonflight/Raids/Amirdrassil/418637.mp3 분노의 돌진
+Dragonflight/Raids/Amirdrassil/418655.mp3 그슬린 가시덤불
 Dragonflight/Raids/Amirdrassil/418720.mp3 변이 폭탄
 Dragonflight/Raids/Amirdrassil/419048.mp3 참혹한 최후
-Dragonflight/Raids/Amirdrassil/419054.mp3 불타는 맹독
 Dragonflight/Raids/Amirdrassil/419123.mp3 빗발치는 화염
 Dragonflight/Raids/Amirdrassil/419144.mp3 타락
 Dragonflight/Raids/Amirdrassil/419462.mp3 육체의 굴욕
@@ -2288,6 +2309,7 @@ Dragonflight/Raids/Amirdrassil/421672.mp3 뱀의 격노
 Dragonflight/Raids/Amirdrassil/421703.mp3 뱀의 분노
 Dragonflight/Raids/Amirdrassil/421840.mp3 뿌리 뽑힌 고뇌
 Dragonflight/Raids/Amirdrassil/421858.mp3 점화된 정수
+Dragonflight/Raids/Amirdrassil/421859.mp3 점화된 정수
 Dragonflight/Raids/Amirdrassil/421898.mp3 불타는 전염병
 Dragonflight/Raids/Amirdrassil/421937.mp3 암흑불길 보주
 Dragonflight/Raids/Amirdrassil/421939.mp3 작열하는 깃털
@@ -2358,6 +2380,7 @@ Dragonflight/Raids/Amirdrassil/427722.mp3 방직공의 번뇌
 Dragonflight/Raids/Amirdrassil/428400.mp3 폭발하는 핵
 Dragonflight/Raids/Amirdrassil/428471.mp3 각성의 화살
 Dragonflight/Raids/Amirdrassil/428896.mp3 잿빛 파멸
+Dragonflight/Raids/Amirdrassil/428946.mp3 잿빛 질식
 Dragonflight/Raids/Amirdrassil/428963.mp3 타오르는 시련
 Dragonflight/Raids/Amirdrassil/428970.mp3 어둠의 우리
 Dragonflight/Raids/Amirdrassil/428971.mp3 타오르는 폭발
@@ -5561,6 +5584,8 @@ WrathOfTheLichKing/Raids/Naxxramas/55543.mp3 분열의 외침
 WrathOfTheLichKing/Raids/Naxxramas/55593.mp3 괴저 오라
 WrathOfTheLichKing/Raids/Naxxramas/55699.mp3 빙결
 WrathOfTheLichKing/Raids/Northrend/17086.mp3 화염 숨결
+WrathOfTheLichKing/Raids/Northrend/18392.mp3 화염구
+WrathOfTheLichKing/Raids/Northrend/18431.mp3 우레와 같은 울부짖음
 WrathOfTheLichKing/Raids/Northrend/18435.mp3 화염 숨결
 WrathOfTheLichKing/Raids/Northrend/57491.mp3 화염 지진해일
 WrathOfTheLichKing/Raids/Northrend/58793.mp3 알 부화

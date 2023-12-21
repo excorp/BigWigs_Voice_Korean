@@ -14,7 +14,6 @@ zonetable[533]   = addon.isVanilla and "Classic\\Raids\\Naxxramas" or "WrathOfTh
 zonetable[249]   = addon.isVanilla and "Classic\\Raids\\Onyxia" or "WrathOfTheLichKing\\Raids\\Northrend"
 zonetable[568]   = addon.isClassic and "BurningCrusade\\Raids\\ZulAman" or "Cataclysm\\Dungeons\\ZulAman"
 zonetable[531]   = addon.isRetail and "Classic\\Raids\\AQ40" or "Classic\\Raids\\AhnQirajTemple"
-zonetable[509]   = addon.isRetail and "Classic\\Raids\\AQ20" or "Classic\\Raids\\AhnQirajRuins"
 
 zonetable[2522]  = "Dragonflight\\Raids\\VaultOfTheIncarnates"
 zonetable[-2022] = "Dragonflight\\Raids\\DragonIsles"
@@ -66,6 +65,7 @@ zonetable[-1431] = "Classic\\Raids\\World"
 zonetable[-1444] = "Classic\\Raids\\World"
 zonetable[309]   = "Classic\\Raids\\ZulGurub"
 zonetable[48]    = "Classic\\Raids\\BlackfathomDeeps"
+zonetable[509]   = "Classic\\Raids\\AQ20"
 
 zonetable[1676]  = "Legion\\Raids\\TombOfSargeras"
 zonetable[-650]  = "Legion\\Raids\\BrokenIsles"
