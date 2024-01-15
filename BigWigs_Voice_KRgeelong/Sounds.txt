@@ -1537,11 +1537,13 @@ Classic/Raids/AQ20/25189.mp3 회오리 바람
 Classic/Raids/AQ20/25195.mp3 언어의 저주
 Classic/Raids/AQ20/25462.mp3 거대화
 Classic/Raids/AQ20/25471.mp3 공격 명령
+Classic/Raids/AQ20/25599.mp3 천둥 충돌
 Classic/Raids/AQ20/25646.mp3 죽음의 상처
 Classic/Raids/AQ20/25656.mp3 모래 함정
 Classic/Raids/AQ20/25685.mp3 마력 충전
 Classic/Raids/AQ20/25698.mp3 폭파
 Classic/Raids/AQ20/25725.mp3 마비
+Classic/Raids/AQ20/26527.mp3 광기
 Classic/Raids/AQ20/26550.mp3 번개 구름
 Classic/Raids/AQ20/26556.mp3 역병
 Classic/Raids/AQ20/8269.mp3 광기
@@ -1635,6 +1637,7 @@ Classic/Raids/Naxxramas/28794.mp3 불의 비
 Classic/Raids/Naxxramas/28863.mp3 공허의 지대
 Classic/Raids/Naxxramas/29185.mp3 타락한 마음
 Classic/Raids/Naxxramas/29213.mp3 역병술사의 저주
+Classic/Raids/Naxxramas/29484.mp3 거미줄 뿌리기
 Classic/Raids/Onyxia/17086.mp3 화염 숨결
 Classic/Raids/Onyxia/18392.mp3 화염구
 Classic/Raids/Onyxia/18431.mp3 우레와 같은 울부짖음
@@ -1687,6 +1690,7 @@ Common/371447.mp3 원생형태 방벽
 Common/372634.mp3 혼돈의 정수
 Common/add.mp3 쫄 add
 Common/adds.mp3 쫄 adds
+Common/berserk.mp3 광폭화
 Common/stages.mp3 단계 전환
 Common/you.mp3 당신에게
 Dragonflight/Dungeons/AlgetharAcademy/374352.mp3 마력 폭탄
@@ -1864,6 +1868,7 @@ Dragonflight/Dungeons/DawnOfTheInfinite/416152.mp3 무한의 수호자 소환
 Dragonflight/Dungeons/DawnOfTheInfinite/416264.mp3 무한의 타락
 Dragonflight/Dungeons/DawnOfTheInfinite/417002.mp3 신성화
 Dragonflight/Dungeons/DawnOfTheInfinite/417011.mp3 성스러운 빛
+Dragonflight/Dungeons/DawnOfTheInfinite/417413.mp3 시간의 흉터
 Dragonflight/Dungeons/DawnOfTheInfinite/417481.mp3 시간배열 변위
 Dragonflight/Dungeons/DawnOfTheInfinite/418046.mp3 호드를 위하여!
 Dragonflight/Dungeons/DawnOfTheInfinite/418047.mp3 얼라이언스를 위하여!
@@ -2303,7 +2308,6 @@ Dragonflight/Raids/Amirdrassil/420948.mp3 날쌘 돌진
 Dragonflight/Raids/Amirdrassil/421022.mp3 고통의 발톱
 Dragonflight/Raids/Amirdrassil/421024.mp3 에메랄드의 바람
 Dragonflight/Raids/Amirdrassil/421029.mp3 용의 노래
-Dragonflight/Raids/Amirdrassil/421032.mp3 매료의 대단원
 Dragonflight/Raids/Amirdrassil/421038.mp3 불씨 충만
 Dragonflight/Raids/Amirdrassil/421082.mp3 지옥 가열
 Dragonflight/Raids/Amirdrassil/421207.mp3 꾸물거리는 불길
@@ -2382,6 +2386,7 @@ Dragonflight/Raids/Amirdrassil/426256.mp3 이글거리는 응결체
 Dragonflight/Raids/Amirdrassil/426368.mp3 어둠불꽃 회전베기
 Dragonflight/Raids/Amirdrassil/426387.mp3 이글거리는 덤불가시
 Dragonflight/Raids/Amirdrassil/426390.mp3 부식성 꽃가루
+Dragonflight/Raids/Amirdrassil/426519.mp3 방직공의 번뇌
 Dragonflight/Raids/Amirdrassil/426524.mp3 화염의 맹위
 Dragonflight/Raids/Amirdrassil/426725.mp3 좁혀드는 파괴
 Dragonflight/Raids/Amirdrassil/426855.mp3 만개
@@ -2390,7 +2395,6 @@ Dragonflight/Raids/Amirdrassil/427252.mp3 떨어지는 잿불
 Dragonflight/Raids/Amirdrassil/427299.mp3 돌발 불길
 Dragonflight/Raids/Amirdrassil/427306.mp3 잿더미 감옥
 Dragonflight/Raids/Amirdrassil/427343.mp3 불의 소용돌이
-Dragonflight/Raids/Amirdrassil/427722.mp3 방직공의 번뇌
 Dragonflight/Raids/Amirdrassil/428400.mp3 폭발하는 핵
 Dragonflight/Raids/Amirdrassil/428471.mp3 각성의 화살
 Dragonflight/Raids/Amirdrassil/428896.mp3 잿빛 파멸
@@ -5525,6 +5529,7 @@ WrathOfTheLichKing/Dungeons/UtgardePinnacle/59301.mp3 파멸
 WrathOfTheLichKing/Dungeons/UtgardePinnacle/59322.mp3 소용돌이
 WrathOfTheLichKing/Raids/Citadel/68981.mp3 냉혹한 겨울
 WrathOfTheLichKing/Raids/Citadel/69057.mp3 뼈 가시 무덤
+WrathOfTheLichKing/Raids/Citadel/69076.mp3 뼈 폭풍
 WrathOfTheLichKing/Raids/Citadel/69138.mp3 냉기화염
 WrathOfTheLichKing/Raids/Citadel/69200.mp3 노여워하는 영혼
 WrathOfTheLichKing/Raids/Citadel/69279.mp3 가스 포자
@@ -5608,10 +5613,10 @@ WrathOfTheLichKing/Raids/Northrend/58835.mp3 황혼의 고문
 WrathOfTheLichKing/Raids/Northrend/58965.mp3 숨막히는 구름
 WrathOfTheLichKing/Raids/Northrend/59127.mp3 어둠의 균열
 WrathOfTheLichKing/Raids/Northrend/66684.mp3 불타는 잿더미
-WrathOfTheLichKing/Raids/Northrend/74562.mp3 맹렬한 발화
-WrathOfTheLichKing/Raids/Northrend/74648.mp3 유성 충돌
-WrathOfTheLichKing/Raids/Northrend/74769.mp3 황혼 절단기
-WrathOfTheLichKing/Raids/Northrend/74792.mp3 영혼 소진
+WrathOfTheLichKing/Raids/RubySanctum/74562.mp3 맹렬한 발화
+WrathOfTheLichKing/Raids/RubySanctum/74648.mp3 유성 충돌
+WrathOfTheLichKing/Raids/RubySanctum/74769.mp3 황혼 절단기
+WrathOfTheLichKing/Raids/RubySanctum/74792.mp3 영혼 소진
 WrathOfTheLichKing/Raids/Ulduar/61869.mp3 과부하
 WrathOfTheLichKing/Raids/Ulduar/61887.mp3 번개 덩굴
 WrathOfTheLichKing/Raids/Ulduar/61968.mp3 순간 빙결
@@ -5661,4 +5666,3 @@ WrathOfTheLichKing/Raids/Ulduar/64733.mp3 파멸의 불길
 WrathOfTheLichKing/Raids/Ulduar/64771.mp3 방어구 융해
 WrathOfTheLichKing/Raids/Ulduar/65121.mp3 타오르는 빛
 WrathOfTheLichKing/Raids/Ulduar/65133.mp3 폭풍 구름
-Common/berserk.mp3 광폭화

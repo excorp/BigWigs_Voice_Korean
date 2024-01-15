@@ -108,11 +108,11 @@ zonetable[-534]  = "WarlordsOfDraenor\\Raids\\Draenor"
 
 zonetable[603]   = "WrathOfTheLichKing\\Raids\\Ulduar"
 zonetable[616]   = "WrathOfTheLichKing\\Raids\\Northrend"
-zonetable[724]   = "WrathOfTheLichKing\\Raids\\Northrend"
 zonetable[615]   = "WrathOfTheLichKing\\Raids\\Northrend"
 zonetable[624]   = "WrathOfTheLichKing\\Raids\\Northrend"
 zonetable[649]   = "WrathOfTheLichKing\\Raids\\Coliseum"
 zonetable[631]   = "WrathOfTheLichKing\\Raids\\Citadel"
+zonetable[724]   = "WrathOfTheLichKing\\Raids\\RubySanctum"
 
 zonetable[2286]  = "Shadowlands\\Dungeons\\TheNecroticWake"
 zonetable[2285]  = "Shadowlands\\Dungeons\\SpiresOfAscension"
