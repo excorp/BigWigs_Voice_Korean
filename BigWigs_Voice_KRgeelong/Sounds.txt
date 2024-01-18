@@ -1166,8 +1166,10 @@ BurningCrusade/Raids/BlackTemple/40506.mp3 악마 형상
 BurningCrusade/Raids/BlackTemple/40508.mp3 지옥 산성 숨결
 BurningCrusade/Raids/BlackTemple/40585.mp3 암흑의 보호막
 BurningCrusade/Raids/BlackTemple/40604.mp3 지옥 분노
+BurningCrusade/Raids/BlackTemple/40611.mp3 태우기
 BurningCrusade/Raids/BlackTemple/40683.mp3 광기
 BurningCrusade/Raids/BlackTemple/40695.mp3 속박됨
+BurningCrusade/Raids/BlackTemple/40841.mp3 불꽃 충돌
 BurningCrusade/Raids/BlackTemple/40880.mp3 변화의 오라: 암흑
 BurningCrusade/Raids/BlackTemple/40882.mp3 변화의 오라: 화염
 BurningCrusade/Raids/BlackTemple/40883.mp3 변화의 오라: 자연
@@ -5231,6 +5233,7 @@ WarlordsOfDraenor/Raids/BlackrockFoundry/174731.mp3 점화된 폭탄 더미
 WarlordsOfDraenor/Raids/BlackrockFoundry/174773.mp3 매연
 WarlordsOfDraenor/Raids/BlackrockFoundry/175583.mp3 살아있는 불길
 WarlordsOfDraenor/Raids/BlackrockFoundry/175594.mp3 불붙음
+WarlordsOfDraenor/Raids/BlackrockFoundry/175624.mp3 극심한 치명상
 WarlordsOfDraenor/Raids/BlackrockFoundry/175643.mp3 회전 칼날
 WarlordsOfDraenor/Raids/BlackrockFoundry/175765.mp3 내려치기 강타
 WarlordsOfDraenor/Raids/BlackrockFoundry/175993.mp3 육중한 힘
@@ -5613,10 +5616,20 @@ WrathOfTheLichKing/Raids/Northrend/58835.mp3 황혼의 고문
 WrathOfTheLichKing/Raids/Northrend/58965.mp3 숨막히는 구름
 WrathOfTheLichKing/Raids/Northrend/59127.mp3 어둠의 균열
 WrathOfTheLichKing/Raids/Northrend/66684.mp3 불타는 잿더미
+WrathOfTheLichKing/Raids/RubySanctum/40504.mp3 회전베기
+WrathOfTheLichKing/Raids/RubySanctum/74367.mp3 갑옷 쪼개기
+WrathOfTheLichKing/Raids/RubySanctum/74384.mp3 위협의 포효
+WrathOfTheLichKing/Raids/RubySanctum/74403.mp3 화염 숨결
+WrathOfTheLichKing/Raids/RubySanctum/74453.mp3 화염 봉화
+WrathOfTheLichKing/Raids/RubySanctum/74502.mp3 무력의 낙인
+WrathOfTheLichKing/Raids/RubySanctum/74509.mp3 격퇴의 물결
 WrathOfTheLichKing/Raids/RubySanctum/74562.mp3 맹렬한 발화
 WrathOfTheLichKing/Raids/RubySanctum/74648.mp3 유성 충돌
 WrathOfTheLichKing/Raids/RubySanctum/74769.mp3 황혼 절단기
 WrathOfTheLichKing/Raids/RubySanctum/74792.mp3 영혼 소진
+WrathOfTheLichKing/Raids/RubySanctum/74826.mp3 유체
+WrathOfTheLichKing/Raids/RubySanctum/75125.mp3 칼날 폭풍
+WrathOfTheLichKing/Raids/RubySanctum/78722.mp3 격노
 WrathOfTheLichKing/Raids/Ulduar/61869.mp3 과부하
 WrathOfTheLichKing/Raids/Ulduar/61887.mp3 번개 덩굴
 WrathOfTheLichKing/Raids/Ulduar/61968.mp3 순간 빙결
