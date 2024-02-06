@@ -1323,6 +1323,7 @@ Cataclysm/Dungeons/ThroneTides/428054.mp3 충격 작렬
 Cataclysm/Dungeons/ThroneTides/428263.mp3 물화살
 Cataclysm/Dungeons/ThroneTides/428293.mp3 질풍 삼지창
 Cataclysm/Dungeons/ThroneTides/428374.mp3 집중된 뇌우
+Cataclysm/Dungeons/ThroneTides/428404.mp3 말소의 어둠
 Cataclysm/Dungeons/ThroneTides/428407.mp3 말소의 세례
 Cataclysm/Dungeons/ThroneTides/428530.mp3 진흙 분출
 Cataclysm/Dungeons/ThroneTides/428542.mp3 분쇄의 심연
@@ -1528,6 +1529,7 @@ Classic/Dungeons/ShadowfangKeep/93757.mp3 어둠의 대천사 형상
 Classic/Dungeons/ShadowfangKeep/93844.mp3 부정의 권능
 Classic/Raids/AQ20/14297.mp3 암흑 폭풍
 Classic/Raids/AQ20/17742.mp3 질병 구름
+Classic/Raids/AQ20/22997.mp3 역병
 Classic/Raids/AQ20/24340.mp3 유성
 Classic/Raids/AQ20/25176.mp3 오시리안의 힘
 Classic/Raids/AQ20/25177.mp3 화염 약점
@@ -1547,7 +1549,6 @@ Classic/Raids/AQ20/25698.mp3 폭파
 Classic/Raids/AQ20/25725.mp3 마비
 Classic/Raids/AQ20/26527.mp3 광기
 Classic/Raids/AQ20/26550.mp3 번개 구름
-Classic/Raids/AQ20/26556.mp3 역병
 Classic/Raids/AQ20/8269.mp3 광기
 Classic/Raids/AQ20/8732.mp3 천둥벼락
 Classic/Raids/AQ40/25698.mp3 폭파
@@ -1591,6 +1592,8 @@ Classic/Raids/BlackfathomDeeps/414763.mp3 타락한 번개 보호막의 토템
 Classic/Raids/BlackfathomDeeps/419636.mp3 타락한 타오르는 격노의 토템
 Classic/Raids/BlackfathomDeeps/425265.mp3 어둠의 사슬
 Classic/Raids/BlackfathomDeeps/425460.mp3 꿈 포식자
+Classic/Raids/BlackfathomDeeps/427625.mp3 부식
+Classic/Raids/BlackfathomDeeps/428482.mp3 새어 나오는 어둠
 Classic/Raids/BlackfathomDeeps/429168.mp3 부식성 폭발
 Classic/Raids/BlackfathomDeeps/429356.mp3 공허의 폭발
 Classic/Raids/BlackwingLair/14515.mp3 정신 지배
@@ -1625,21 +1628,41 @@ Classic/Raids/MoltenCore/20604.mp3 정신 지배
 Classic/Raids/MoltenCore/20619.mp3 마법 반사
 Classic/Raids/MoltenCore/21075.mp3 피해 보호막
 Classic/Raids/MoltenCore/23138.mp3 샤즈라의 문
+Classic/Raids/Naxxramas/25646.mp3 죽음의 상처
 Classic/Raids/Naxxramas/27808.mp3 냉기 작렬
+Classic/Raids/Naxxramas/27810.mp3 어둠의 균열
 Classic/Raids/Naxxramas/27819.mp3 마나 폭발
+Classic/Raids/Naxxramas/28059.mp3 양전하
+Classic/Raids/Naxxramas/28084.mp3 음전하
 Classic/Raids/Naxxramas/28089.mp3 극성 변환
 Classic/Raids/Naxxramas/28131.mp3 광기
 Classic/Raids/Naxxramas/28169.mp3 돌연변이 유발
+Classic/Raids/Naxxramas/28240.mp3 독구름
+Classic/Raids/Naxxramas/28338.mp3 자기 인력
+Classic/Raids/Naxxramas/28371.mp3 격노
+Classic/Raids/Naxxramas/28375.mp3 척살
 Classic/Raids/Naxxramas/28410.mp3 켈투자드의 굴레
+Classic/Raids/Naxxramas/28524.mp3 냉기 숨결
 Classic/Raids/Naxxramas/28542.mp3 생명력 흡수
+Classic/Raids/Naxxramas/28547.mp3 빙결
 Classic/Raids/Naxxramas/28622.mp3 거미줄 감싸기
 Classic/Raids/Naxxramas/28747.mp3 광기
 Classic/Raids/Naxxramas/28776.mp3 부패의 독
 Classic/Raids/Naxxramas/28794.mp3 불의 비
 Classic/Raids/Naxxramas/28863.mp3 공허의 지대
-Classic/Raids/Naxxramas/29185.mp3 타락한 마음
+Classic/Raids/Naxxramas/28883.mp3 신의 격노
+Classic/Raids/Naxxramas/28884.mp3 유성
+Classic/Raids/Naxxramas/29060.mp3 도발
+Classic/Raids/Naxxramas/29061.mp3 뼈 보호막
+Classic/Raids/Naxxramas/29107.mp3 분열의 외침
+Classic/Raids/Naxxramas/29184.mp3 타락한 마음
+Classic/Raids/Naxxramas/29204.mp3 피할 수 없는 파멸
 Classic/Raids/Naxxramas/29213.mp3 역병술사의 저주
+Classic/Raids/Naxxramas/29234.mp3 포자 소환
 Classic/Raids/Naxxramas/29484.mp3 거미줄 뿌리기
+Classic/Raids/Naxxramas/29685.mp3 공포의 포효
+Classic/Raids/Naxxramas/29998.mp3 노쇠의 열병
+Classic/Raids/Naxxramas/30281.mp3 저주 해제
 Classic/Raids/Onyxia/17086.mp3 화염 숨결
 Classic/Raids/Onyxia/18392.mp3 화염구
 Classic/Raids/Onyxia/18431.mp3 우레와 같은 울부짖음
@@ -2410,6 +2433,8 @@ Dragonflight/Raids/Amirdrassil/429615.mp3 다가오는 베틀
 Dragonflight/Raids/Amirdrassil/429798.mp3 신록의 분쇄
 Dragonflight/Raids/Amirdrassil/429866.mp3 암흑불길 분출
 Dragonflight/Raids/Amirdrassil/429872.mp3 아미드랏실의 불길
+Dragonflight/Raids/Amirdrassil/429903.mp3 불길붙이
+Dragonflight/Raids/Amirdrassil/429906.mp3 어둠결속
 Dragonflight/Raids/Amirdrassil/429973.mp3 이글거리는 역류
 Dragonflight/Raids/Amirdrassil/430441.mp3 어둠불꽃 망령
 Dragonflight/Raids/Amirdrassil/430563.mp3 찰나의 꽃
@@ -4149,6 +4174,7 @@ Shadowlands/Dungeons/HallsOfAtonement/323001.mp3 유리 파편
 Shadowlands/Dungeons/HallsOfAtonement/323143.mp3 염력 투척
 Shadowlands/Dungeons/HallsOfAtonement/323236.mp3 풀려난 괴로움
 Shadowlands/Dungeons/HallsOfAtonement/323437.mp3 교만의 낙인
+Shadowlands/Dungeons/HallsOfAtonement/323538.mp3 힘의 화살
 Shadowlands/Dungeons/HallsOfAtonement/323552.mp3 힘의 세례
 Shadowlands/Dungeons/HallsOfAtonement/323650.mp3 음산한 시선 집중
 Shadowlands/Dungeons/HallsOfAtonement/325523.mp3 죽음의 찌르기
@@ -4984,6 +5010,7 @@ WarlordsOfDraenor/Dungeons/Auchindoun/156975.mp3 혼돈의 화살
 WarlordsOfDraenor/Dungeons/Auchindoun/157001.mp3 혼돈의 파동
 WarlordsOfDraenor/Dungeons/Auchindoun/157039.mp3 악마의 도약
 WarlordsOfDraenor/Dungeons/Auchindoun/157168.mp3 시선 고정
+WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/150023.mp3 잿가루 강타
 WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/150038.mp3 융해 충격
 WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/150076.mp3 바위 던지기
 WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/150078.mp3 화염 던지기
@@ -4993,8 +5020,12 @@ WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/150753.mp3 거친 강타
 WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/150755.mp3 불안정한 잿가루 소환
 WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/150759.mp3 사나운 함성
 WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/150776.mp3 용암 분출
+WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/151447.mp3 으깨기
+WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/151545.mp3 무시무시한 포효
+WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/151697.mp3 복종
 WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/152940.mp3 열기의 파도
 WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/153247.mp3 불타는 바위
+WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/153679.mp3 대지 으깨기
 WarlordsOfDraenor/Dungeons/BloodmaulSlagMines/167739.mp3 이글거리는 오라
 WarlordsOfDraenor/Dungeons/GrimrailDepot/156301.mp3 검은바위 박격포
 WarlordsOfDraenor/Dungeons/GrimrailDepot/156357.mp3 검은바위 파편
@@ -5133,6 +5164,7 @@ WarlordsOfDraenor/Dungeons/TheEverbloom/427459.mp3 독한 꽃
 WarlordsOfDraenor/Dungeons/TheEverbloom/427498.mp3 몰아치는 격노
 WarlordsOfDraenor/Dungeons/TheEverbloom/427509.mp3 현세의 격노
 WarlordsOfDraenor/Dungeons/TheEverbloom/427510.mp3 맹독 돌진
+WarlordsOfDraenor/Dungeons/TheEverbloom/427513.mp3 유독한 방출
 WarlordsOfDraenor/Dungeons/TheEverbloom/427899.mp3 불씨화살 폭풍
 WarlordsOfDraenor/Dungeons/TheEverbloom/428082.mp3 빙하 융합
 WarlordsOfDraenor/Dungeons/TheEverbloom/428139.mp3 공간 압축
