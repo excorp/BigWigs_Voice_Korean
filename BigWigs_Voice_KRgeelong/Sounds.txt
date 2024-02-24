@@ -1543,7 +1543,7 @@ Classic/Raids/AQ20/25462.mp3 거대화
 Classic/Raids/AQ20/25471.mp3 공격 명령
 Classic/Raids/AQ20/25599.mp3 천둥 충돌
 Classic/Raids/AQ20/25646.mp3 죽음의 상처
-Classic/Raids/AQ20/25656.mp3 모래 함정
+Classic/Raids/AQ20/25648.mp3 모래 함정
 Classic/Raids/AQ20/25685.mp3 마력 충전
 Classic/Raids/AQ20/25698.mp3 폭파
 Classic/Raids/AQ20/25725.mp3 마비
@@ -1551,32 +1551,42 @@ Classic/Raids/AQ20/26527.mp3 광기
 Classic/Raids/AQ20/26550.mp3 번개 구름
 Classic/Raids/AQ20/8269.mp3 광기
 Classic/Raids/AQ20/8732.mp3 천둥벼락
+Classic/Raids/AQ40/20449.mp3 순간이동
+Classic/Raids/AQ40/25646.mp3 죽음의 상처
 Classic/Raids/AQ40/25698.mp3 폭파
 Classic/Raids/AQ40/25786.mp3 맹독 안개
+Classic/Raids/AQ40/25807.mp3 상급 치유
+Classic/Raids/AQ40/25812.mp3 맹독 연발
 Classic/Raids/AQ40/25832.mp3 벌레 소환
 Classic/Raids/AQ40/25989.mp3 독소
 Classic/Raids/AQ40/26051.mp3 격노
+Classic/Raids/AQ40/26079.mp3 정신 이상 유발
 Classic/Raids/AQ40/26083.mp3 소용돌이
+Classic/Raids/AQ40/26102.mp3 모래 돌풍
+Classic/Raids/AQ40/26103.mp3 휩쓸기
+Classic/Raids/AQ40/26134.mp3 안광
+Classic/Raids/AQ40/26180.mp3 비룡 쐐기
+Classic/Raids/AQ40/26476.mp3 위산
+Classic/Raids/AQ40/26554.mp3 천둥벼락
+Classic/Raids/AQ40/26555.mp3 암흑 폭풍
+Classic/Raids/AQ40/26556.mp3 역병
+Classic/Raids/AQ40/26558.mp3 유성
+Classic/Raids/AQ40/26565.mp3 형제 치유
+Classic/Raids/AQ40/26580.mp3 공포
 Classic/Raids/AQ40/26607.mp3 눈보라
 Classic/Raids/AQ40/26615.mp3 광폭화
 Classic/Raids/AQ40/720.mp3 휘감기
 Classic/Raids/AQ40/7393.mp3 형제 치유
+Classic/Raids/AQ40/747.mp3 환영 소환
+Classic/Raids/AQ40/785.mp3 예언 실현
 Classic/Raids/AQ40/800.mp3 쌍둥이 순간이동
+Classic/Raids/AQ40/802.mp3 벌레 돌연변이
+Classic/Raids/AQ40/804.mp3 벌레 폭발
 Classic/Raids/AQ40/8269.mp3 광기
-Classic/Raids/AhnQirajTemple/25698.mp3 폭파
-Classic/Raids/AhnQirajTemple/25786.mp3 맹독 안개
-Classic/Raids/AhnQirajTemple/25989.mp3 독소
-Classic/Raids/AhnQirajTemple/26051.mp3 격노
-Classic/Raids/AhnQirajTemple/26083.mp3 소용돌이
-Classic/Raids/AhnQirajTemple/26607.mp3 눈보라
-Classic/Raids/AhnQirajTemple/26615.mp3 광폭화
-Classic/Raids/AhnQirajTemple/720.mp3 휘감기
-Classic/Raids/AhnQirajTemple/7393.mp3 형제 치유
-Classic/Raids/AhnQirajTemple/800.mp3 쌍둥이 순간이동
-Classic/Raids/AhnQirajTemple/8269.mp3 광기
 Classic/Raids/BlackfathomDeeps/367741.mp3 혹한의 얼음
 Classic/Raids/BlackfathomDeeps/404806.mp3 수중 폭탄
 Classic/Raids/BlackfathomDeeps/405953.mp3 몰아치는 격류
+Classic/Raids/BlackfathomDeeps/406970.mp3 수중 껍질
 Classic/Raids/BlackfathomDeeps/407025.mp3 무방비 상태
 Classic/Raids/BlackfathomDeeps/407095.mp3 방어구 씹기
 Classic/Raids/BlackfathomDeeps/407568.mp3 얼음의 화살
@@ -1599,6 +1609,7 @@ Classic/Raids/BlackfathomDeeps/429356.mp3 공허의 폭발
 Classic/Raids/BlackwingLair/14515.mp3 정신 지배
 Classic/Raids/BlackwingLair/18173.mp3 불타는 아드레날린
 Classic/Raids/BlackwingLair/22539.mp3 암흑의 불길
+Classic/Raids/BlackwingLair/22667.mp3 어둠의 명령
 Classic/Raids/BlackwingLair/22686.mp3 우레와 같은 울부짖음
 Classic/Raids/BlackwingLair/22687.mp3 암흑의 장막
 Classic/Raids/BlackwingLair/23023.mp3 거대한 불길
@@ -1611,6 +1622,8 @@ Classic/Raids/BlackwingLair/23341.mp3 화염 강타
 Classic/Raids/BlackwingLair/23342.mp3 격노
 Classic/Raids/BlackwingLair/23620.mp3 불타는 아드레날린
 Classic/Raids/BlackwingLair/24573.mp3 필사의 일격
+Classic/Raids/Gnomeregan/436695.mp3 과열
+Classic/Raids/Gnomeregan/439956.mp3 야수 되살리기
 Classic/Raids/MoltenCore/13880.mp3 뜨거운 용암
 Classic/Raids/MoltenCore/19408.mp3 공황
 Classic/Raids/MoltenCore/19428.mp3 거대한 불길
@@ -5656,9 +5669,11 @@ WrathOfTheLichKing/Raids/RubySanctum/74453.mp3 화염 봉화
 WrathOfTheLichKing/Raids/RubySanctum/74502.mp3 무력의 낙인
 WrathOfTheLichKing/Raids/RubySanctum/74509.mp3 격퇴의 물결
 WrathOfTheLichKing/Raids/RubySanctum/74562.mp3 맹렬한 발화
+WrathOfTheLichKing/Raids/RubySanctum/74630.mp3 발화
 WrathOfTheLichKing/Raids/RubySanctum/74648.mp3 유성 충돌
 WrathOfTheLichKing/Raids/RubySanctum/74769.mp3 황혼 절단기
 WrathOfTheLichKing/Raids/RubySanctum/74792.mp3 영혼 소진
+WrathOfTheLichKing/Raids/RubySanctum/74802.mp3 소진
 WrathOfTheLichKing/Raids/RubySanctum/74826.mp3 유체
 WrathOfTheLichKing/Raids/RubySanctum/75125.mp3 칼날 폭풍
 WrathOfTheLichKing/Raids/RubySanctum/78722.mp3 격노
