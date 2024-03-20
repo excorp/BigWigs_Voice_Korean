@@ -5591,8 +5591,9 @@ WrathOfTheLichKing/Raids/Citadel/70127.mp3 신비한 강타
 WrathOfTheLichKing/Raids/Citadel/70337.mp3 괴저 역병
 WrathOfTheLichKing/Raids/Citadel/70351.mp3 불안정한 실험
 WrathOfTheLichKing/Raids/Citadel/70372.mp3 휘청거리는 괴물 소환
-WrathOfTheLichKing/Raids/Citadel/70842.mp3 마나 방벽
 WrathOfTheLichKing/Raids/Citadel/70877.mp3 광적인 피의 갈증
+WrathOfTheLichKing/Raids/Citadel/70900.mp3 어둠의 변신
+WrathOfTheLichKing/Raids/Citadel/70901.mp3 어둠의 강화
 WrathOfTheLichKing/Raids/Citadel/70911.mp3 고삐 풀린 역병
 WrathOfTheLichKing/Raids/Citadel/70981.mp3 피의 기원
 WrathOfTheLichKing/Raids/Citadel/71001.mp3 죽음과 부패
@@ -5600,6 +5601,7 @@ WrathOfTheLichKing/Raids/Citadel/71022.mp3 분열의 외침
 WrathOfTheLichKing/Raids/Citadel/71086.mp3 마나 공허
 WrathOfTheLichKing/Raids/Citadel/71127.mp3 죽음의 상처
 WrathOfTheLichKing/Raids/Citadel/71289.mp3 정신 지배
+WrathOfTheLichKing/Raids/Citadel/71426.mp3 영혼 소환
 WrathOfTheLichKing/Raids/Citadel/71772.mp3 핏빛 화살 소용돌이
 WrathOfTheLichKing/Raids/Citadel/72039.mp3 강력한 충격의 소용돌이
 WrathOfTheLichKing/Raids/Citadel/72040.mp3 강력한 불꽃 창조
@@ -5607,6 +5609,7 @@ WrathOfTheLichKing/Raids/Citadel/72052.mp3 요동치는 폭탄
 WrathOfTheLichKing/Raids/Citadel/72143.mp3 격노
 WrathOfTheLichKing/Raids/Citadel/72262.mp3 지진
 WrathOfTheLichKing/Raids/Citadel/72293.mp3 타락한 용사의 징표
+WrathOfTheLichKing/Raids/Citadel/72410.mp3 피의 룬
 WrathOfTheLichKing/Raids/Citadel/72451.mp3 돌연변이 역병
 WrathOfTheLichKing/Raids/Citadel/72737.mp3 광기
 WrathOfTheLichKing/Raids/Citadel/72762.mp3 파멸
@@ -5623,12 +5626,15 @@ WrathOfTheLichKing/Raids/Coliseum/67574.mp3 아눕아락의 추격
 WrathOfTheLichKing/Raids/Coliseum/68335.mp3 격노
 WrathOfTheLichKing/Raids/Naxxramas/27808.mp3 냉기 작렬
 WrathOfTheLichKing/Raids/Naxxramas/27819.mp3 마나 폭발
+WrathOfTheLichKing/Raids/Naxxramas/28059.mp3 양전하
+WrathOfTheLichKing/Raids/Naxxramas/28084.mp3 음전하
 WrathOfTheLichKing/Raids/Naxxramas/28089.mp3 극성 변환
 WrathOfTheLichKing/Raids/Naxxramas/28131.mp3 광기
-WrathOfTheLichKing/Raids/Naxxramas/28157.mp3 독액 뿌리기
 WrathOfTheLichKing/Raids/Naxxramas/28169.mp3 돌연변이 유발
+WrathOfTheLichKing/Raids/Naxxramas/28240.mp3 독구름
+WrathOfTheLichKing/Raids/Naxxramas/28338.mp3 자기 인력
 WrathOfTheLichKing/Raids/Naxxramas/28371.mp3 격노
-WrathOfTheLichKing/Raids/Naxxramas/28374.mp3 척살
+WrathOfTheLichKing/Raids/Naxxramas/28375.mp3 척살
 WrathOfTheLichKing/Raids/Naxxramas/28410.mp3 켈투자드의 굴레
 WrathOfTheLichKing/Raids/Naxxramas/28524.mp3 냉기 숨결
 WrathOfTheLichKing/Raids/Naxxramas/28542.mp3 생명력 흡수
@@ -5641,9 +5647,9 @@ WrathOfTheLichKing/Raids/Naxxramas/28794.mp3 불의 비
 WrathOfTheLichKing/Raids/Naxxramas/28798.mp3 광기
 WrathOfTheLichKing/Raids/Naxxramas/29060.mp3 도발
 WrathOfTheLichKing/Raids/Naxxramas/29204.mp3 피할 수 없는 파멸
-WrathOfTheLichKing/Raids/Naxxramas/29210.mp3 점멸
-WrathOfTheLichKing/Raids/Naxxramas/29212.mp3 신경 마비
+WrathOfTheLichKing/Raids/Naxxramas/29208.mp3 점멸
 WrathOfTheLichKing/Raids/Naxxramas/29213.mp3 역병술사의 저주
+WrathOfTheLichKing/Raids/Naxxramas/29214.mp3 역병술사의 천벌
 WrathOfTheLichKing/Raids/Naxxramas/29484.mp3 거미줄 뿌리기
 WrathOfTheLichKing/Raids/Naxxramas/29865.mp3 죽음의 꽃
 WrathOfTheLichKing/Raids/Naxxramas/29998.mp3 노쇠의 열병
