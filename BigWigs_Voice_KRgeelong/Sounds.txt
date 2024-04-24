@@ -1336,6 +1336,7 @@ Cataclysm/Dungeons/ThroneTides/429037.mp3 세찬 폭풍 토템
 Cataclysm/Dungeons/ThroneTides/429048.mp3 화염 충격
 Cataclysm/Dungeons/ThroneTides/429051.mp3 대지격노
 Cataclysm/Dungeons/ThroneTides/429172.mp3 공포의 환영
+Cataclysm/Dungeons/ThroneTides/429878.mp3 떨쳐내기
 Cataclysm/Dungeons/ThroneTides/75683.mp3 만조
 Cataclysm/Dungeons/ThroneTides/75992.mp3 번개 쇄도
 Cataclysm/Dungeons/ThroneTides/76207.mp3 노예 만들기
@@ -1680,6 +1681,47 @@ Classic/Raids/Onyxia/17086.mp3 화염 숨결
 Classic/Raids/Onyxia/18392.mp3 화염구
 Classic/Raids/Onyxia/18431.mp3 우레와 같은 울부짖음
 Classic/Raids/Onyxia/18435.mp3 화염 숨결
+Classic/Raids/SunkenTemple/23511.mp3 사기의 외침
+Classic/Raids/SunkenTemple/3391.mp3 난타
+Classic/Raids/SunkenTemple/437301.mp3 깊은 잠
+Classic/Raids/SunkenTemple/437324.mp3 깊은 잠
+Classic/Raids/SunkenTemple/437353.mp3 부식의 숨결
+Classic/Raids/SunkenTemple/437390.mp3 무기력의 독
+Classic/Raids/SunkenTemple/437398.mp3 생생한 악몽
+Classic/Raids/SunkenTemple/437416.mp3 꿈나그네
+Classic/Raids/SunkenTemple/437503.mp3 힘의 기둥
+Classic/Raids/SunkenTemple/437597.mp3 파쇄 강타
+Classic/Raids/SunkenTemple/437809.mp3 신성한 불꽃
+Classic/Raids/SunkenTemple/437817.mp3 신성한 폭발
+Classic/Raids/SunkenTemple/437847.mp3 필멸의 채찍
+Classic/Raids/SunkenTemple/437868.mp3 고통스러운 약점
+Classic/Raids/SunkenTemple/437921.mp3 대규모 회개
+Classic/Raids/SunkenTemple/437927.mp3 어둠의 설교: 고통
+Classic/Raids/SunkenTemple/437928.mp3 영혼의 절규
+Classic/Raids/SunkenTemple/437930.mp3 신의 권능: 보호막
+Classic/Raids/SunkenTemple/438136.mp3 구토 가스
+Classic/Raids/SunkenTemple/438142.mp3 오물
+Classic/Raids/SunkenTemple/438335.mp3 치유의 수호물
+Classic/Raids/SunkenTemple/438341.mp3 소생
+Classic/Raids/SunkenTemple/438350.mp3 연발 어둠의 화살
+Classic/Raids/SunkenTemple/442622.mp3 산성 숨결
+Classic/Raids/SunkenTemple/443766.mp3 폭풍 날개
+Classic/Raids/SunkenTemple/443856.mp3 부식성 분출괴물
+Classic/Raids/SunkenTemple/443953.mp3 부글거리는 피
+Classic/Raids/SunkenTemple/443990.mp3 섬찟한 울음소리
+Classic/Raids/SunkenTemple/444039.mp3 광기
+Classic/Raids/SunkenTemple/444046.mp3 언어의 저주
+Classic/Raids/SunkenTemple/444132.mp3 피 빼기
+Classic/Raids/SunkenTemple/445289.mp3 회전하는 도끼
+Classic/Raids/SunkenTemple/445498.mp3 우레와 같은 울부짖음
+Classic/Raids/SunkenTemple/446338.mp3 연쇄 번개
+Classic/Raids/SunkenTemple/446360.mp3 후쿠의 수호물
+Classic/Raids/SunkenTemple/446364.mp3 약화
+Classic/Raids/SunkenTemple/446372.mp3 타락한 강타
+Classic/Raids/SunkenTemple/446468.mp3 꿈꾸는 자의 비탄
+Classic/Raids/SunkenTemple/446487.mp3 타락한 숨결
+Classic/Raids/SunkenTemple/446489.mp3 역화
+Classic/Raids/SunkenTemple/446661.mp3 불꽃 되살리기
 Classic/Raids/World/21056.mp3 카자크의 징표
 Classic/Raids/World/21063.mp3 어긋난 반사
 Classic/Raids/World/22067.mp3 반사
@@ -1757,7 +1799,6 @@ Dragonflight/Dungeons/AlgetharAcademy/388623.mp3 가지 뻗기
 Dragonflight/Dungeons/AlgetharAcademy/388796.mp3 발아
 Dragonflight/Dungeons/AlgetharAcademy/388822.mp3 힘의 공백
 Dragonflight/Dungeons/AlgetharAcademy/388863.mp3 마나 공허
-Dragonflight/Dungeons/AlgetharAcademy/388886.mp3 비전의 비
 Dragonflight/Dungeons/AlgetharAcademy/388901.mp3 비전 균열
 Dragonflight/Dungeons/AlgetharAcademy/388911.mp3 절단 베기
 Dragonflight/Dungeons/AlgetharAcademy/388923.mp3 밀려드는 분출
@@ -1777,6 +1818,7 @@ Dragonflight/Dungeons/AlgetharAcademy/391977.mp3 과잉 쇄도
 Dragonflight/Dungeons/AlgetharAcademy/396640.mp3 치유의 손길
 Dragonflight/Dungeons/AlgetharAcademy/396721.mp3 풍요
 Dragonflight/Dungeons/AlgetharAcademy/396812.mp3 신비한 작렬
+Dragonflight/Dungeons/AlgetharAcademy/439488.mp3 마력 방출
 Dragonflight/Dungeons/BrackenhideHollow/367484.mp3 흉포한 발톱난타
 Dragonflight/Dungeons/BrackenhideHollow/367500.mp3 흉측한 폭소
 Dragonflight/Dungeons/BrackenhideHollow/367503.mp3 메마른 폭발
@@ -1809,7 +1851,6 @@ Dragonflight/Dungeons/BrackenhideHollow/378208.mp3 도살의 표적
 Dragonflight/Dungeons/BrackenhideHollow/381444.mp3 흉포한 돌진
 Dragonflight/Dungeons/BrackenhideHollow/381470.mp3 기만의 사술 토템
 Dragonflight/Dungeons/BrackenhideHollow/381694.mp3 부패한 감각
-Dragonflight/Dungeons/BrackenhideHollow/382435.mp3 부패부여의 토템
 Dragonflight/Dungeons/BrackenhideHollow/382555.mp3 분노의 폭풍
 Dragonflight/Dungeons/BrackenhideHollow/382712.mp3 괴저 숨결
 Dragonflight/Dungeons/BrackenhideHollow/383087.mp3 메마른 전염
@@ -1824,7 +1865,6 @@ Dragonflight/Dungeons/BrackenhideHollow/384847.mp3 갓 잡은 물고기
 Dragonflight/Dungeons/BrackenhideHollow/384854.mp3 물고기 때리기!
 Dragonflight/Dungeons/BrackenhideHollow/384974.mp3 냄새가 진동하는 고기
 Dragonflight/Dungeons/BrackenhideHollow/385029.mp3 비명
-Dragonflight/Dungeons/BrackenhideHollow/385058.mp3 부패의 독
 Dragonflight/Dungeons/BrackenhideHollow/385359.mp3 덩굴 덫
 Dragonflight/Dungeons/BrackenhideHollow/385827.mp3 피의 분노
 Dragonflight/Dungeons/BrackenhideHollow/385832.mp3 피에 굶주린 돌진
@@ -1938,7 +1978,6 @@ Dragonflight/Dungeons/HallsOfInfusion/383840.mp3 용해식 방벽
 Dragonflight/Dungeons/HallsOfInfusion/384014.mp3 전하 쇄도
 Dragonflight/Dungeons/HallsOfInfusion/384351.mp3 불꽃 세례
 Dragonflight/Dungeons/HallsOfInfusion/384524.mp3 티탄의 주먹
-Dragonflight/Dungeons/HallsOfInfusion/385141.mp3 천둥폭풍
 Dragonflight/Dungeons/HallsOfInfusion/385187.mp3 제압의 개굴개굴
 Dragonflight/Dungeons/HallsOfInfusion/385442.mp3 맹독 부패물
 Dragonflight/Dungeons/HallsOfInfusion/385531.mp3 복부 격돌
@@ -1961,6 +2000,7 @@ Dragonflight/Dungeons/HallsOfInfusion/391471.mp3 정화의 포자
 Dragonflight/Dungeons/HallsOfInfusion/391634.mp3 극심한 한기
 Dragonflight/Dungeons/HallsOfInfusion/393432.mp3 질풍창
 Dragonflight/Dungeons/HallsOfInfusion/395694.mp3 정기의 집중
+Dragonflight/Dungeons/HallsOfInfusion/437719.mp3 천둥의 일격
 Dragonflight/Dungeons/Neltharus/372201.mp3 그을리는 숨결
 Dragonflight/Dungeons/Neltharus/372223.mp3 치유의 점토
 Dragonflight/Dungeons/Neltharus/372225.mp3 용뼈 도끼
@@ -2071,6 +2111,7 @@ Dragonflight/Dungeons/TheAzureVault/387151.mp3 얼음의 압도자
 Dragonflight/Dungeons/TheAzureVault/387564.mp3 신비한 증기
 Dragonflight/Dungeons/TheAzureVault/388008.mp3 절대 영점
 Dragonflight/Dungeons/TheAzureVault/391118.mp3 비전냉기 숨결
+Dragonflight/Dungeons/TheAzureVault/391136.mp3 어깨 격돌
 Dragonflight/Dungeons/TheAzureVault/396991.mp3 야수의 포효
 Dragonflight/Dungeons/TheAzureVault/397726.mp3 울음
 Dragonflight/Dungeons/TheNokhudOffensive/334610.mp3 먹잇감 사냥
@@ -2115,7 +2156,6 @@ Dragonflight/Dungeons/TheNokhudOffensive/387411.mp3 연발 죽음의 화살
 Dragonflight/Dungeons/TheNokhudOffensive/387440.mp3 더럽혀진 포효
 Dragonflight/Dungeons/TheNokhudOffensive/387596.mp3 돌풍
 Dragonflight/Dungeons/TheNokhudOffensive/387614.mp3 망자의 찬가
-Dragonflight/Dungeons/TheNokhudOffensive/387629.mp3 부패하는 바람
 Dragonflight/Dungeons/TheNokhudOffensive/388283.mp3 분출
 Dragonflight/Dungeons/TheNokhudOffensive/388817.mp3 바위 조각
 Dragonflight/Dungeons/TheNokhudOffensive/392198.mp3 선조의 유대
@@ -2123,6 +2163,7 @@ Dragonflight/Dungeons/TheNokhudOffensive/394875.mp3 마력의 쇄도
 Dragonflight/Dungeons/TheNokhudOffensive/395035.mp3 영혼 붕괴
 Dragonflight/Dungeons/TheNokhudOffensive/395669.mp3 여진
 Dragonflight/Dungeons/TheNokhudOffensive/397394.mp3 죽음의 천둥
+Dragonflight/Dungeons/TheNokhudOffensive/436841.mp3 부패하는 바람
 Dragonflight/Dungeons/UldamanLegacyOfTyr/368990.mp3 정화의 불길
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369038.mp3 티탄 수호물
 Dragonflight/Dungeons/UldamanLegacyOfTyr/369043.mp3 주입
@@ -3818,8 +3859,11 @@ MistsOfPandaria/Dungeons/ScarletMonastery/423626.mp3 뜨거운 머리
 MistsOfPandaria/Dungeons/ShadoPanMonastery/102573.mp3 번개 숨결
 MistsOfPandaria/Dungeons/ShadoPanMonastery/106434.mp3 선풍각
 MistsOfPandaria/Dungeons/ShadoPanMonastery/106872.mp3 혼란의 강타
+MistsOfPandaria/Dungeons/ShadoPanMonastery/106942.mp3 파괴의 그림자
 MistsOfPandaria/Dungeons/ShadoPanMonastery/107087.mp3 아른거리는 증오
+MistsOfPandaria/Dungeons/ShadoPanMonastery/107140.mp3 자기력 장막
 MistsOfPandaria/Dungeons/ShadoPanMonastery/107356.mp3 차오르는 증오
+MistsOfPandaria/Dungeons/ShadoPanMonastery/111690.mp3 정화 의식
 MistsOfPandaria/Dungeons/ShadoPanMonastery/115002.mp3 옭아매는 증오 소환
 MistsOfPandaria/Dungeons/ShadoPanMonastery/118961.mp3 추격
 MistsOfPandaria/Dungeons/SiegeOfNiuzaoTemple/119875.mp3 돌개바람

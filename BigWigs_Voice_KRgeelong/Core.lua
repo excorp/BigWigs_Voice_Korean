@@ -66,6 +66,7 @@ zonetable[309]   = "Classic\\Raids\\ZulGurub"
 zonetable[48]    = "Classic\\Raids\\BlackfathomDeeps"
 zonetable[509]   = "Classic\\Raids\\AQ20"
 zonetable[90]    = "Classic\\Raids\\Gnomeregan"
+zonetable[109]   = "Classic\\Raids\\SunkenTemple"
 
 zonetable[1676]  = "Legion\\Raids\\TombOfSargeras"
 zonetable[-650]  = "Legion\\Raids\\BrokenIsles"
