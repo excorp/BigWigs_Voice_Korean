@@ -1088,6 +1088,7 @@ BurningCrusade/Dungeons/ManaTombs/32365.mp3 얼음 회오리
 BurningCrusade/Dungeons/ManaTombs/33871.mp3 방패 가격
 BurningCrusade/Dungeons/ManaTombs/34322.mp3 영혼의 절규
 BurningCrusade/Dungeons/ManaTombs/34922.mp3 어둠의 은총
+BurningCrusade/Dungeons/ManaTombs/34925.mp3 무기력의 저주
 BurningCrusade/Dungeons/ManaTombs/36405.mp3 발구르기
 BurningCrusade/Dungeons/ManaTombs/38361.mp3 거대한 숨결
 BurningCrusade/Dungeons/OldHillsbradFoothills/13005.mp3 심판의 망치
@@ -1361,6 +1362,7 @@ Cataclysm/Dungeons/VortexPinnacle/413385.mp3 마법 흡수장 과부하
 Cataclysm/Dungeons/VortexPinnacle/413387.mp3 돌 부수기
 Cataclysm/Dungeons/VortexPinnacle/413562.mp3 치명적인 전류
 Cataclysm/Dungeons/VortexPinnacle/86292.mp3 회오리 방패
+Cataclysm/Dungeons/VortexPinnacle/86340.mp3 폭풍우 소환
 Cataclysm/Dungeons/VortexPinnacle/86911.mp3 불안정한 마법 흡수장
 Cataclysm/Dungeons/VortexPinnacle/86930.mp3 우월자의 폭풍
 Cataclysm/Dungeons/VortexPinnacle/87618.mp3 전하 응집
@@ -1377,6 +1379,7 @@ Cataclysm/Dungeons/VortexPinnacle/88194.mp3 한기의 강풍
 Cataclysm/Dungeons/VortexPinnacle/88282.mp3 알타이루스의 역풍
 Cataclysm/Dungeons/VortexPinnacle/88286.mp3 알타이루스의 순풍
 Cataclysm/Dungeons/VortexPinnacle/88308.mp3 싸늘한 숨결
+Cataclysm/Dungeons/VortexPinnacle/96260.mp3 하늘붕괴 신성 소환
 Cataclysm/Dungeons/WellOfEternity/105442.mp3 쇠약
 Cataclysm/Dungeons/WellOfEternity/105493.mp3 쉬운 사냥감
 Cataclysm/Dungeons/WellOfEternity/105544.mp3 지옥의 쇠약
@@ -2074,6 +2077,7 @@ Dragonflight/Dungeons/RubyLifePools/381602.mp3 화염액
 Dragonflight/Dungeons/RubyLifePools/381862.mp3 지옥핵
 Dragonflight/Dungeons/RubyLifePools/385313.mp3 불행한 일격
 Dragonflight/Dungeons/RubyLifePools/385536.mp3 불꽃의 춤
+Dragonflight/Dungeons/RubyLifePools/391050.mp3 거센 폭풍우의 보호막
 Dragonflight/Dungeons/RubyLifePools/391723.mp3 화염 숨결
 Dragonflight/Dungeons/RubyLifePools/391726.mp3 폭풍 숨결
 Dragonflight/Dungeons/RubyLifePools/392394.mp3 화염 아귀
