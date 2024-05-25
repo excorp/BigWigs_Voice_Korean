@@ -1715,6 +1715,7 @@ Classic/Raids/SunkenTemple/443990.mp3 섬찟한 울음소리
 Classic/Raids/SunkenTemple/444039.mp3 광기
 Classic/Raids/SunkenTemple/444046.mp3 언어의 저주
 Classic/Raids/SunkenTemple/444132.mp3 피 빼기
+Classic/Raids/SunkenTemple/444255.mp3 오염된 피
 Classic/Raids/SunkenTemple/445289.mp3 회전하는 도끼
 Classic/Raids/SunkenTemple/445498.mp3 우레와 같은 울부짖음
 Classic/Raids/SunkenTemple/446338.mp3 연쇄 번개
@@ -3846,7 +3847,10 @@ MistsOfPandaria/Dungeons/MogushanPalace/118963.mp3 강타
 MistsOfPandaria/Dungeons/MogushanPalace/118988.mp3 무모한 감응
 MistsOfPandaria/Dungeons/MogushanPalace/119684.mp3 땅 울리기
 MistsOfPandaria/Dungeons/MogushanPalace/119922.mp3 충격파
+MistsOfPandaria/Dungeons/MogushanPalace/119981.mp3 소용돌이의 춤
+MistsOfPandaria/Dungeons/MogushanPalace/120100.mp3 자기장
 MistsOfPandaria/Dungeons/MogushanPalace/120195.mp3 유성
+MistsOfPandaria/Dungeons/MogushanPalace/123655.mp3 필사의 일격
 MistsOfPandaria/Dungeons/ScarletHalls/113364.mp3 책 불태우기
 MistsOfPandaria/Dungeons/ScarletHalls/113641.mp3 거대 용의 숨결
 MistsOfPandaria/Dungeons/ScarletHalls/113682.mp3 사고 촉진
@@ -3860,8 +3864,27 @@ MistsOfPandaria/Dungeons/ScarletMonastery/415262.mp3 음험한 폭소
 MistsOfPandaria/Dungeons/ScarletMonastery/415864.mp3 버들 인간의 어둠
 MistsOfPandaria/Dungeons/ScarletMonastery/418228.mp3 버들 인간의 보호
 MistsOfPandaria/Dungeons/ScarletMonastery/423626.mp3 뜨거운 머리
+MistsOfPandaria/Dungeons/Scholomance/111209.mp3 냉랭한 손아귀
+MistsOfPandaria/Dungeons/Scholomance/111441.mp3 성물함 채우기
+MistsOfPandaria/Dungeons/Scholomance/111570.mp3 망자의 손아귀
+MistsOfPandaria/Dungeons/Scholomance/111610.mp3 냉혹한 분노
+MistsOfPandaria/Dungeons/Scholomance/111631.mp3 영혼 파멸
+MistsOfPandaria/Dungeons/Scholomance/111775.mp3 그림자 비수
+MistsOfPandaria/Dungeons/Scholomance/111854.mp3 얼음 파도
+MistsOfPandaria/Dungeons/Scholomance/113143.mp3 일어나라!
+MistsOfPandaria/Dungeons/Scholomance/113395.mp3 혹독한 가르침
+MistsOfPandaria/Dungeons/Scholomance/113765.mp3 녹
+MistsOfPandaria/Dungeons/Scholomance/113996.mp3 뼈 갑옷
+MistsOfPandaria/Dungeons/Scholomance/113999.mp3 뼈 쐐기
+MistsOfPandaria/Dungeons/Scholomance/114059.mp3 중력 이상
+MistsOfPandaria/Dungeons/Scholomance/114062.mp3 불가사의한 속도
+MistsOfPandaria/Dungeons/Scholomance/115350.mp3 분노 집중
 MistsOfPandaria/Dungeons/ShadoPanMonastery/102573.mp3 번개 숨결
 MistsOfPandaria/Dungeons/ShadoPanMonastery/106434.mp3 선풍각
+MistsOfPandaria/Dungeons/ShadoPanMonastery/106454.mp3 막기 자세
+MistsOfPandaria/Dungeons/ShadoPanMonastery/106747.mp3 음영파 환영 복제
+MistsOfPandaria/Dungeons/ShadoPanMonastery/106826.mp3 연기의 칼날
+MistsOfPandaria/Dungeons/ShadoPanMonastery/106853.mp3 염화의 주먹
 MistsOfPandaria/Dungeons/ShadoPanMonastery/106872.mp3 혼란의 강타
 MistsOfPandaria/Dungeons/ShadoPanMonastery/106942.mp3 파괴의 그림자
 MistsOfPandaria/Dungeons/ShadoPanMonastery/107087.mp3 아른거리는 증오
@@ -3870,6 +3893,8 @@ MistsOfPandaria/Dungeons/ShadoPanMonastery/107356.mp3 차오르는 증오
 MistsOfPandaria/Dungeons/ShadoPanMonastery/111690.mp3 정화 의식
 MistsOfPandaria/Dungeons/ShadoPanMonastery/115002.mp3 옭아매는 증오 소환
 MistsOfPandaria/Dungeons/ShadoPanMonastery/118961.mp3 추격
+MistsOfPandaria/Dungeons/ShadoPanMonastery/131521.mp3 악의의 고리
+MistsOfPandaria/Dungeons/ShadoPanMonastery/38166.mp3 격노
 MistsOfPandaria/Dungeons/SiegeOfNiuzaoTemple/119875.mp3 돌개바람
 MistsOfPandaria/Dungeons/SiegeOfNiuzaoTemple/120778.mp3 부식성 기름찌끼
 MistsOfPandaria/Dungeons/SiegeOfNiuzaoTemple/120789.mp3 질주의 일격

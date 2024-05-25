@@ -228,6 +228,7 @@ zonetable[962]   = "MistsOfPandaria\\Dungeons\\GateOfTheSettingSun"
 zonetable[1011]  = "MistsOfPandaria\\Dungeons\\SiegeOfNiuzaoTemple"
 zonetable[961]   = "MistsOfPandaria\\Dungeons\\StormstoutBrewery"
 zonetable[1001]  = "MistsOfPandaria\\Dungeons\\ScarletHalls"
+zonetable[1007]  = "MistsOfPandaria\\Dungeons\\Scholomance"
 
 zonetable[938]   = "Cataclysm\\Dungeons\\EndTime"
 zonetable[645]   = "Cataclysm\\Dungeons\\BlackrockCaverns"
