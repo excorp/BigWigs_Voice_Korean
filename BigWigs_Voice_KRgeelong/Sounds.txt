@@ -1274,6 +1274,23 @@ Cataclysm/Dungeons/BlackrockCaverns/75842.mp3 수은 갑옷
 Cataclysm/Dungeons/BlackrockCaverns/75846.mp3 과열된 수은 갑옷
 Cataclysm/Dungeons/BlackrockCaverns/76188.mp3 황혼의 타락
 Cataclysm/Dungeons/BlackrockCaverns/76628.mp3 용암 방울
+Cataclysm/Dungeons/Deadmines/87859.mp3 불꽃 주먹
+Cataclysm/Dungeons/Deadmines/87861.mp3 얼음 주먹
+Cataclysm/Dungeons/Deadmines/88009.mp3 비전 마력
+Cataclysm/Dungeons/Deadmines/88300.mp3 미련한 강타
+Cataclysm/Dungeons/Deadmines/88352.mp3 가슴 폭탄
+Cataclysm/Dungeons/Deadmines/88481.mp3 증속
+Cataclysm/Dungeons/Deadmines/88495.mp3 수확
+Cataclysm/Dungeons/Deadmines/88522.mp3 안전 제한 작동 정지
+Cataclysm/Dungeons/Deadmines/88836.mp3 숨통 노리기
+Cataclysm/Dungeons/Deadmines/88840.mp3 소멸
+Cataclysm/Dungeons/Deadmines/89263.mp3 음식 던지기
+Cataclysm/Dungeons/Deadmines/89267.mp3 배부름
+Cataclysm/Dungeons/Deadmines/89732.mp3 울렁거림
+Cataclysm/Dungeons/Deadmines/90932.mp3 분노의 영역
+Cataclysm/Dungeons/Deadmines/92042.mp3 합치기
+Cataclysm/Dungeons/Deadmines/92614.mp3 회피
+Cataclysm/Dungeons/Deadmines/95542.mp3 밴클리프의 복수
 Cataclysm/Dungeons/GrimBatol/74670.mp3 대공세
 Cataclysm/Dungeons/GrimBatol/74853.mp3 광기
 Cataclysm/Dungeons/GrimBatol/74908.mp3 개인 밀집
@@ -1297,11 +1314,31 @@ Cataclysm/Dungeons/HallsOfOrigination/76043.mp3 부패
 Cataclysm/Dungeons/HallsOfOrigination/76184.mp3 알파 광선
 Cataclysm/Dungeons/HallsOfOrigination/76355.mp3 태양의 축복
 Cataclysm/Dungeons/HallsOfOrigination/80968.mp3 생명 에너지 흡수
+Cataclysm/Dungeons/HourOfTwilight/102582.mp3 냉기 사슬
+Cataclysm/Dungeons/HourOfTwilight/102726.mp3 침묵의 징표
+Cataclysm/Dungeons/HourOfTwilight/103151.mp3 정의로운 절단
+Cataclysm/Dungeons/HourOfTwilight/103252.mp3 얼음 무덤
+Cataclysm/Dungeons/HourOfTwilight/103363.mp3 황혼 절단
+Cataclysm/Dungeons/HourOfTwilight/103419.mp3 칼날 보호막
+Cataclysm/Dungeons/HourOfTwilight/103558.mp3 숨막히는 연막탄
+Cataclysm/Dungeons/HourOfTwilight/103565.mp3 정화의 빛
+Cataclysm/Dungeons/HourOfTwilight/103678.mp3 선의 물결
+Cataclysm/Dungeons/HourOfTwilight/103767.mp3 타락의 황혼
+Cataclysm/Dungeons/HourOfTwilight/103780.mp3 황혼의 물결
+Cataclysm/Dungeons/HourOfTwilight/104050.mp3 냉기 격류
 Cataclysm/Dungeons/LostCity/81690.mp3 피의 향기
 Cataclysm/Dungeons/LostCity/82622.mp3 시대의 역병
 Cataclysm/Dungeons/LostCity/83113.mp3 악한 의도
 Cataclysm/Dungeons/LostCity/83445.mp3 충격파
 Cataclysm/Dungeons/LostCity/91263.mp3 덫 폭발
+Cataclysm/Dungeons/ShadowfangKeep/93520.mp3 총알 포화
+Cataclysm/Dungeons/ShadowfangKeep/93617.mp3 독 응고제
+Cataclysm/Dungeons/ShadowfangKeep/93629.mp3 저주받은 탄환
+Cataclysm/Dungeons/ShadowfangKeep/93687.mp3 모독
+Cataclysm/Dungeons/ShadowfangKeep/93689.mp3 독 촉매
+Cataclysm/Dungeons/ShadowfangKeep/93707.mp3 피에 굶주린 구울 소환
+Cataclysm/Dungeons/ShadowfangKeep/93757.mp3 어둠의 대천사 형상
+Cataclysm/Dungeons/ShadowfangKeep/93844.mp3 부정의 권능
 Cataclysm/Dungeons/Stonecore/78903.mp3 땅 울리기
 Cataclysm/Dungeons/Stonecore/78939.mp3 엘레멘티움 보루방패
 Cataclysm/Dungeons/Stonecore/79050.mp3 에너지 보호막
@@ -1416,7 +1453,10 @@ Cataclysm/Dungeons/ZulGurub/96914.mp3 잔질의 불꽃
 Cataclysm/Dungeons/ZulGurub/97170.mp3 사각지대
 Cataclysm/Dungeons/ZulGurub/97172.mp3 학카르의 어둠
 Cataclysm/Raids/Baradin/105784.mp3 칼춤
+Cataclysm/Raids/Baradin/88942.mp3 유성 베기
+Cataclysm/Raids/Baradin/88954.mp3 삼키는 어둠
 Cataclysm/Raids/Baradin/88972.mp3 지옥 화염폭풍
+Cataclysm/Raids/Baradin/89000.mp3 지옥 불길
 Cataclysm/Raids/Baradin/96920.mp3 오큐타르의 눈
 Cataclysm/Raids/Bastion/81538.mp3 불꽃
 Cataclysm/Raids/Bastion/81685.mp3 타락의 충돌
@@ -1429,8 +1469,12 @@ Cataclysm/Raids/Bastion/82762.mp3 물에 젖음
 Cataclysm/Raids/Bastion/83067.mp3 천둥충격
 Cataclysm/Raids/Bastion/83099.mp3 벼락 막대
 Cataclysm/Raids/Bastion/83565.mp3 지진
+Cataclysm/Raids/Bastion/83703.mp3 암흑 회오리
+Cataclysm/Raids/Bastion/83706.mp3 화염구 포화
+Cataclysm/Raids/Bastion/83707.mp3 그을리는 숨결
+Cataclysm/Raids/Bastion/83710.mp3 사나운 포효
 Cataclysm/Raids/Bastion/83718.mp3 단단한 가죽
-Cataclysm/Raids/Bastion/83908.mp3 악의의 일격
+Cataclysm/Raids/Bastion/84030.mp3 마비
 Cataclysm/Raids/Bastion/84948.mp3 중력 붕괴
 Cataclysm/Raids/Bastion/86059.mp3 깊은 숨
 Cataclysm/Raids/Bastion/86369.mp3 황혼 폭발
@@ -1455,10 +1499,15 @@ Cataclysm/Raids/Blackwing/77912.mp3 치유
 Cataclysm/Raids/Blackwing/77991.mp3 실험체 모두 해방
 Cataclysm/Raids/Blackwing/78006.mp3 불꽃의 기둥
 Cataclysm/Raids/Blackwing/78092.mp3 추적
+Cataclysm/Raids/Blackwing/78740.mp3 작동됨
 Cataclysm/Raids/Blackwing/78941.mp3 기생 감염
 Cataclysm/Raids/Blackwing/79011.mp3 무방비 지점
+Cataclysm/Raids/Blackwing/79023.mp3 소각 안전 장치
+Cataclysm/Raids/Blackwing/79318.mp3 지배
 Cataclysm/Raids/Blackwing/79339.mp3 폭발하는 잿더미
 Cataclysm/Raids/Blackwing/79501.mp3 목표 설정
+Cataclysm/Raids/Blackwing/79624.mp3 동력 증폭장
+Cataclysm/Raids/Blackwing/79710.mp3 비전 파괴자
 Cataclysm/Raids/Blackwing/79888.mp3 번개 전도체
 Cataclysm/Raids/Blackwing/80053.mp3 독성 작동규약
 Cataclysm/Raids/Blackwing/80094.mp3 시선 고정
@@ -1468,6 +1517,10 @@ Cataclysm/Raids/Blackwing/81272.mp3 감전
 Cataclysm/Raids/Blackwing/82890.mp3 치명상
 Cataclysm/Raids/Blackwing/88853.mp3 시스템 오류
 Cataclysm/Raids/Blackwing/89773.mp3 짓이기기
+Cataclysm/Raids/Blackwing/91879.mp3 비전 역류
+Cataclysm/Raids/Blackwing/92048.mp3 암흑 주입
+Cataclysm/Raids/Blackwing/92134.mp3 점화
+Cataclysm/Raids/Blackwing/92177.mp3 아마겟돈
 Cataclysm/Raids/Blackwing/92677.mp3 불쾌함
 Cataclysm/Raids/DragonSoul/103434.mp3 교란의 그림자
 Cataclysm/Raids/DragonSoul/103851.mp3 대지의 검은 피
@@ -1518,19 +1571,6 @@ Cataclysm/Raids/Throne/86307.mp3 힘 모으기
 Cataclysm/Raids/Throne/87770.mp3 바람 폭발
 Cataclysm/Raids/Throne/89588.mp3 번개 구름
 Cataclysm/Raids/Throne/89668.mp3 벼락 막대
-Classic/Dungeons/Deadmines/88352.mp3 가슴 폭탄
-Classic/Dungeons/Deadmines/88481.mp3 증속
-Classic/Dungeons/Deadmines/88495.mp3 수확
-Classic/Dungeons/Deadmines/88522.mp3 안전 제한 작동 정지
-Classic/Dungeons/Deadmines/95542.mp3 밴클리프의 복수
-Classic/Dungeons/ShadowfangKeep/93520.mp3 총알 포화
-Classic/Dungeons/ShadowfangKeep/93617.mp3 독 응고제
-Classic/Dungeons/ShadowfangKeep/93629.mp3 저주받은 탄환
-Classic/Dungeons/ShadowfangKeep/93687.mp3 모독
-Classic/Dungeons/ShadowfangKeep/93689.mp3 독 촉매
-Classic/Dungeons/ShadowfangKeep/93707.mp3 피에 굶주린 구울 소환
-Classic/Dungeons/ShadowfangKeep/93757.mp3 어둠의 대천사 형상
-Classic/Dungeons/ShadowfangKeep/93844.mp3 부정의 권능
 Classic/Raids/AQ20/14297.mp3 암흑 폭풍
 Classic/Raids/AQ20/17742.mp3 질병 구름
 Classic/Raids/AQ20/22997.mp3 역병

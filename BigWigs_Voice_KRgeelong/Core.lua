@@ -1,13 +1,14 @@
 local _, addon = ...
 
 
-addon.isVanilla  = WOW_PROJECT_ID == WOW_PROJECT_CLASSIC
-addon.isWrath    = WOW_PROJECT_ID == WOW_PROJECT_WRATH_CLASSIC
-addon.isTBC      = WOW_PROJECT_ID == WOW_PROJECT_BURNING_CRUSADE_CLASSIC
-addon.isClassic  = addon.isVanilla or addon.isWrath or addon.isTBC
-addon.isRetail   = WOW_PROJECT_ID == WOW_PROJECT_MAINLINE
+addon.isVanilla = WOW_PROJECT_ID == WOW_PROJECT_CLASSIC
+addon.isWrath   = WOW_PROJECT_ID == WOW_PROJECT_WRATH_CLASSIC
+addon.isTBC     = WOW_PROJECT_ID == WOW_PROJECT_BURNING_CRUSADE_CLASSIC
+addon.isClassic = addon.isVanilla or addon.isWrath or addon.isTBC
+addon.isRetail  = WOW_PROJECT_ID == WOW_PROJECT_MAINLINE
 
-local zonetable  = {}
+local zonetable = {}
+
 
 -- 클래식/리테일에 따라 다름
 zonetable[533]   = addon.isVanilla and "Classic\\Raids\\Naxxramas" or "WrathOfTheLichKing\\Raids\\Naxxramas"
@@ -158,9 +159,9 @@ zonetable[2451]  = "Dragonflight\\Dungeons\\UldamanLegacyOfTyr"
 zonetable[2521]  = "Dragonflight\\Dungeons\\RubyLifePools"
 zonetable[2579]  = "Dragonflight\\Dungeons\\DawnOfTheInfinite"
 
-zonetable[36]    = "Classic\\Dungeons\\Deadmines"
-zonetable[756]   = "Classic\\Dungeons\\Deadmines"
-zonetable[33]    = "Classic\\Dungeons\\ShadowfangKeep"
+zonetable[36]    = "Cataclysm\\Dungeons\\Deadmines"
+zonetable[756]   = "Cataclysm\\Dungeons\\Deadmines"
+zonetable[33]    = "Cataclysm\\Dungeons\\ShadowfangKeep"
 
 zonetable[1877]  = "BattleForAzeroth\\Dungeons\\TempleOfSethraliss"
 zonetable[2213]  = "BattleForAzeroth\\Dungeons\\HorrificVisionOfStormwind"
