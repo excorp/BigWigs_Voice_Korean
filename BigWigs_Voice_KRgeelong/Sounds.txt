@@ -5333,6 +5333,7 @@ WarWithin/Dungeons/DarkflameCleft/427157.mp3 어둠살이 부르기
 WarWithin/Dungeons/DarkflameCleft/427176.mp3 빛 흡수
 WarWithin/Dungeons/DarkflameCleft/440652.mp3 몰아치는 밀랍
 WarWithin/Dungeons/DarkflameCleft/443835.mp3 타오르는 폭풍
+WarWithin/Dungeons/DarkflameCleft/minecart.mp3 광산 카트 미니게임
 WarWithin/Dungeons/Delves/372529.mp3 흉측한 웃음
 WarWithin/Dungeons/Delves/398749.mp3 해골 분쇄자
 WarWithin/Dungeons/Delves/400335.mp3 쐐기 덫
