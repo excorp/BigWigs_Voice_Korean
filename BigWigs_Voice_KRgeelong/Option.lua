@@ -101,7 +101,12 @@ local function CreateOptionsPanel()
     UIDropDownMenu_SetWidth(dropdown, 160)
     UIDropDownMenu_Initialize(dropdown, Dropdown_Initialize)
     optionsPanel.dropdown = dropdown
-    InterfaceOptions_AddCategory(optionsPanel)
+    if InterfaceOptions_AddCategory then
+        InterfaceOptions_AddCategory(optionsPanel)
+    else
+        local category, layout = _G.Settings.RegisterCanvasLayoutCategory(optionsPanel, optionsPanel.name)
+        _G.Settings.RegisterAddOnCategory(category)
+    end
 
     Dropdown_OnValueChanged(dropdown, BigWigs_Voice_DB.channel.value)
 
