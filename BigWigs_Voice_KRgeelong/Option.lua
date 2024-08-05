@@ -85,7 +85,12 @@ end
 
 SlashCmdList["BIGWIGS_VOICE_CONF"] = function(msg)
     if msg == "" then
-        InterfaceOptionsFrame_OpenToCategory(optionsPanel)
+        if InterfaceOptionsFrame_OpenToCategory then
+            InterfaceOptionsFrame_OpenToCategory(optionsPanel)
+        else
+            print(optionsPanel.ID)
+            Settings.OpenToCategory(optionsPanel.ID)
+        end
     else
         Dropdown_OnValueChanged(dropdown, msg)
     end
@@ -104,8 +109,9 @@ local function CreateOptionsPanel()
     if InterfaceOptions_AddCategory then
         InterfaceOptions_AddCategory(optionsPanel)
     else
-        local category, layout = _G.Settings.RegisterCanvasLayoutCategory(optionsPanel, optionsPanel.name)
-        _G.Settings.RegisterAddOnCategory(category)
+        local category, layout = Settings.RegisterCanvasLayoutCategory(optionsPanel, optionsPanel.name)
+        Settings.RegisterAddOnCategory(category)
+        optionsPanel.ID = category.ID
     end
 
     Dropdown_OnValueChanged(dropdown, BigWigs_Voice_DB.channel.value)
