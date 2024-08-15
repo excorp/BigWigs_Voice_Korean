@@ -323,11 +323,7 @@ BattleForAzeroth/Dungeons/ShrineOfTheStorm/276292.mp3 소용돌이 격돌
 BattleForAzeroth/Dungeons/ShrineOfTheStorm/276297.mp3 공허의 씨앗
 BattleForAzeroth/Dungeons/SiegeOfBoralus/256627.mp3 격렬한 충돌
 BattleForAzeroth/Dungeons/SiegeOfBoralus/256640.mp3 불타는 타르
-BattleForAzeroth/Dungeons/SiegeOfBoralus/256673.mp3 제물화
-BattleForAzeroth/Dungeons/SiegeOfBoralus/256866.mp3 강철 매복
-BattleForAzeroth/Dungeons/SiegeOfBoralus/256897.mp3 물어뜯는 주둥이
 BattleForAzeroth/Dungeons/SiegeOfBoralus/256957.mp3 방수 껍질
-BattleForAzeroth/Dungeons/SiegeOfBoralus/257036.mp3 야성의 돌진
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257169.mp3 공포의 포효
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257170.mp3 맹렬한 폭풍우
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257288.mp3 묵직한 베기
@@ -354,10 +350,8 @@ BattleForAzeroth/Dungeons/SiegeOfBoralus/272421.mp3 발견된 대포
 BattleForAzeroth/Dungeons/SiegeOfBoralus/272546.mp3 바나나 광란
 BattleForAzeroth/Dungeons/SiegeOfBoralus/272571.mp3 숨막히는 물
 BattleForAzeroth/Dungeons/SiegeOfBoralus/272711.mp3 분쇄의 격돌
-BattleForAzeroth/Dungeons/SiegeOfBoralus/272827.mp3 끈적이는 침
 BattleForAzeroth/Dungeons/SiegeOfBoralus/273470.mp3 복부 사격
 BattleForAzeroth/Dungeons/SiegeOfBoralus/273721.mp3 묵직한 폭탄
-BattleForAzeroth/Dungeons/SiegeOfBoralus/274569.mp3 활력의 안개
 BattleForAzeroth/Dungeons/SiegeOfBoralus/275014.mp3 썩은 물
 BattleForAzeroth/Dungeons/SiegeOfBoralus/275826.mp3 강화의 외침
 BattleForAzeroth/Dungeons/SiegeOfBoralus/275835.mp3 따가운 독 칠하기
@@ -1315,6 +1309,8 @@ Cataclysm/Dungeons/GrimBatol/451391.mp3 정신 꿰뚫기
 Cataclysm/Dungeons/GrimBatol/451613.mp3 황혼의 불길
 Cataclysm/Dungeons/GrimBatol/451871.mp3 대규모 진동
 Cataclysm/Dungeons/GrimBatol/451939.mp3 암영의 바람
+Cataclysm/Dungeons/GrimBatol/451965.mp3 용암의 자취
+Cataclysm/Dungeons/GrimBatol/451971.mp3 용암 주먹
 Cataclysm/Dungeons/GrimBatol/456696.mp3 흑요석 발구르기
 Cataclysm/Dungeons/GrimBatol/456711.mp3 암흑용암 작렬
 Cataclysm/Dungeons/GrimBatol/456713.mp3 어둠 분출
@@ -1741,6 +1737,7 @@ Classic/Raids/MoltenCore/13880.mp3 뜨거운 용암
 Classic/Raids/MoltenCore/19408.mp3 공황
 Classic/Raids/MoltenCore/19428.mp3 거대한 불길
 Classic/Raids/MoltenCore/19451.mp3 격노
+Classic/Raids/MoltenCore/19492.mp3 대마법의 파동
 Classic/Raids/MoltenCore/19659.mp3 마나 점화
 Classic/Raids/MoltenCore/19695.mp3 불지옥
 Classic/Raids/MoltenCore/19702.mp3 파멸의 예언
@@ -1749,20 +1746,27 @@ Classic/Raids/MoltenCore/19713.mp3 샤즈라의 저주
 Classic/Raids/MoltenCore/19714.mp3 마법 접지
 Classic/Raids/MoltenCore/19715.mp3 마법 차단
 Classic/Raids/MoltenCore/19717.mp3 불의 비
+Classic/Raids/MoltenCore/19775.mp3 암흑의 치유
+Classic/Raids/MoltenCore/19778.mp3 사기의 외침
+Classic/Raids/MoltenCore/19779.mp3 전의
 Classic/Raids/MoltenCore/20475.mp3 살아있는 폭탄
 Classic/Raids/MoltenCore/20478.mp3 아마겟돈
 Classic/Raids/MoltenCore/20566.mp3 라그나로스의 징벌
 Classic/Raids/MoltenCore/20619.mp3 마법 반사
 Classic/Raids/MoltenCore/21075.mp3 피해 보호막
 Classic/Raids/MoltenCore/23138.mp3 샤즈라의 문
+Classic/Raids/MoltenCore/364895.mp3 연발 화염구
+Classic/Raids/MoltenCore/364908.mp3 암흑의 치유
 Classic/Raids/MoltenCore/460856.mp3 마법 반사
 Classic/Raids/MoltenCore/460885.mp3 심판날
 Classic/Raids/MoltenCore/460887.mp3 조화의 전율
 Classic/Raids/MoltenCore/460895.mp3 불씨의 심장
 Classic/Raids/MoltenCore/460898.mp3 재의 심장
 Classic/Raids/MoltenCore/461056.mp3 분노한 섬광
+Classic/Raids/MoltenCore/461062.mp3 화염 웅덩이
 Classic/Raids/MoltenCore/461103.mp3 살아 움직이는 폐기물
 Classic/Raids/MoltenCore/461131.mp3 심장부 사냥개 소환
+Classic/Raids/MoltenCore/461463.mp3 낙석
 Classic/Raids/Naxxramas/25646.mp3 죽음의 상처
 Classic/Raids/Naxxramas/27808.mp3 냉기 작렬
 Classic/Raids/Naxxramas/27810.mp3 어둠의 균열
@@ -4690,6 +4694,7 @@ Shadowlands/Dungeons/TheNecroticWake/338456.mp3 육체 절단
 Shadowlands/Dungeons/TheNecroticWake/338606.mp3 병독의 집착
 Shadowlands/Dungeons/TheNecroticWake/343470.mp3 기골분쇄 보호막
 Shadowlands/Dungeons/TheNecroticWake/343556.mp3 병독의 집착
+Shadowlands/Dungeons/TheNecroticWake/345623.mp3 죽음의 폭발
 Shadowlands/Dungeons/TheaterOfPain/317231.mp3 분쇄의 격돌
 Shadowlands/Dungeons/TheaterOfPain/317605.mp3 소용돌이
 Shadowlands/Dungeons/TheaterOfPain/318406.mp3 다지기 강타
@@ -5225,12 +5230,14 @@ WarWithin/Dungeons/AraKara/433766.mp3 무리의 눈
 WarWithin/Dungeons/AraKara/433841.mp3 맹독 연사
 WarWithin/Dungeons/AraKara/433845.mp3 분출하는 그물
 WarWithin/Dungeons/AraKara/434252.mp3 거대한 격돌
+WarWithin/Dungeons/AraKara/434793.mp3 공명의 탄막
 WarWithin/Dungeons/AraKara/434802.mp3 섬뜩한 괴성
 WarWithin/Dungeons/AraKara/434824.mp3 거미줄 뿌리기
 WarWithin/Dungeons/AraKara/435012.mp3 꿰뚫기
 WarWithin/Dungeons/AraKara/438471.mp3 탐식의 이빨
 WarWithin/Dungeons/AraKara/438473.mp3 비단 맹공
 WarWithin/Dungeons/AraKara/438476.mp3 경고의 괴성
+WarWithin/Dungeons/AraKara/438622.mp3 독성 파열
 WarWithin/Dungeons/AraKara/438826.mp3 유독성 구름
 WarWithin/Dungeons/AraKara/438877.mp3 무리의 부름
 WarWithin/Dungeons/AraKara/439208.mp3 비단 감싸기
@@ -5476,6 +5483,7 @@ WarWithin/Dungeons/TheDawnbreaker/431309.mp3 옭아매는 어둠
 WarWithin/Dungeons/TheDawnbreaker/431349.mp3 고통스러운 분출
 WarWithin/Dungeons/TheDawnbreaker/431494.mp3 검은 칼날
 WarWithin/Dungeons/TheDawnbreaker/432448.mp3 저승의 씨앗
+WarWithin/Dungeons/TheDawnbreaker/432520.mp3 암영 방벽
 WarWithin/Dungeons/TheDawnbreaker/432565.mp3 검은 우박
 WarWithin/Dungeons/TheDawnbreaker/434089.mp3 방적 돌기 가닥
 WarWithin/Dungeons/TheDawnbreaker/434407.mp3 몰아치는 산성
@@ -5532,7 +5540,6 @@ WarWithin/Dungeons/TheRookery/450628.mp3 혼돈의 보호막
 WarWithin/Dungeons/TheRookery/458082.mp3 폭풍기수의 돌진
 WarWithin/Dungeons/TheStonevault/422233.mp3 결정 강타
 WarWithin/Dungeons/TheStonevault/423200.mp3 되찾기
-WarWithin/Dungeons/TheStonevault/423228.mp3 바스러지는 보호막
 WarWithin/Dungeons/TheStonevault/423538.mp3 불안정한 충돌
 WarWithin/Dungeons/TheStonevault/423572.mp3 공허의 강화
 WarWithin/Dungeons/TheStonevault/424795.mp3 굴절 광선
