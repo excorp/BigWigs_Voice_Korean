@@ -1,3 +1,4 @@
+
 BattleForAzeroth/Dungeons/AtalDazar/249919.mp3 꼬챙이 꿰기
 BattleForAzeroth/Dungeons/AtalDazar/250036.mp3 어둠의 유해
 BattleForAzeroth/Dungeons/AtalDazar/250050.mp3 샤드라의 메아리
@@ -2641,6 +2642,14 @@ Dragonflight/Raids/DragonIsles/389960.mp3 속박의 얼음
 Dragonflight/Raids/DragonIsles/390635.mp3 파괴의 비
 Dragonflight/Raids/DragonIsles/391026.mp3 동결
 Dragonflight/Raids/DragonIsles/391247.mp3 화염 주입
+Dragonflight/Raids/DragonIsles/402793.mp3 불타는 일격
+Dragonflight/Raids/DragonIsles/402824.mp3 불타는 손길
+Dragonflight/Raids/DragonIsles/402983.mp3 소각
+Dragonflight/Raids/DragonIsles/402985.mp3 용암 분출
+Dragonflight/Raids/DragonIsles/403384.mp3 타오르는 웅덩이
+Dragonflight/Raids/DragonIsles/403772.mp3 암영 강타
+Dragonflight/Raids/DragonIsles/403779.mp3 불타는 어둠
+Dragonflight/Raids/DragonIsles/404171.mp3 휘감는 어둠
 Dragonflight/Raids/DragonIsles/420895.mp3 혼미한 강타
 Dragonflight/Raids/DragonIsles/420925.mp3 파쇄의 폭발
 Dragonflight/Raids/DragonIsles/421059.mp3 심술 가득한 발광
