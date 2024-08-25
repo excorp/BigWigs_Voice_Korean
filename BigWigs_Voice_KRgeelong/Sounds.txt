@@ -360,8 +360,8 @@ BattleForAzeroth/Dungeons/SiegeOfBoralus/276068.mp3 굽이치는 파도
 BattleForAzeroth/Dungeons/SiegeOfBoralus/277965.mp3 묵직한 폭탄
 BattleForAzeroth/Dungeons/SiegeOfBoralus/279761.mp3 묵직한 베기
 BattleForAzeroth/Dungeons/SiegeOfBoralus/454437.mp3 아제라이트 폭약
-BattleForAzeroth/Dungeons/SiegeOfBoralus/463182.mp3 Fiery Ricochet
-BattleForAzeroth/Dungeons/SiegeOfBoralus/463185.mp3 Mass Bombardment
+BattleForAzeroth/Dungeons/SiegeOfBoralus/463182.mp3 불타는 유탄
+BattleForAzeroth/Dungeons/SiegeOfBoralus/463185.mp3 대규모 폭격
 BattleForAzeroth/Dungeons/TempleOfSethraliss/258908.mp3 폭풍의 칼날
 BattleForAzeroth/Dungeons/TempleOfSethraliss/263246.mp3 번개 보호막
 BattleForAzeroth/Dungeons/TempleOfSethraliss/263257.mp3 전하 충격
@@ -2627,7 +2627,7 @@ Dragonflight/Raids/Amirdrassil/429906.mp3 어둠결속
 Dragonflight/Raids/Amirdrassil/429973.mp3 이글거리는 역류
 Dragonflight/Raids/Amirdrassil/430441.mp3 어둠불꽃 망령
 Dragonflight/Raids/Amirdrassil/430563.mp3 찰나의 꽃
-Dragonflight/Raids/Amirdrassil/430583.mp3 Germinating Aura
+Dragonflight/Raids/Amirdrassil/430583.mp3 싹트는 오라
 Dragonflight/Raids/Amirdrassil/agonizing_claws_debuff.mp3 고통의 발톱 디버프
 Dragonflight/Raids/DragonIsles/383496.mp3 강화 폭풍
 Dragonflight/Raids/DragonIsles/385137.mp3 바위 숨결
@@ -4467,10 +4467,10 @@ Shadowlands/Dungeons/MistsOfTirnaScithe/340304.mp3 독성 분비물
 Shadowlands/Dungeons/MistsOfTirnaScithe/340305.mp3 분쇄의 도약
 Shadowlands/Dungeons/MistsOfTirnaScithe/340544.mp3 재생 촉진
 Shadowlands/Dungeons/MistsOfTirnaScithe/341709.mp3 얼음땡
-Shadowlands/Dungeons/MistsOfTirnaScithe/463217.mp3 Anima Slash
-Shadowlands/Dungeons/MistsOfTirnaScithe/463248.mp3 Expel
-Shadowlands/Dungeons/MistsOfTirnaScithe/463256.mp3 Mist Ward
-Shadowlands/Dungeons/MistsOfTirnaScithe/463602.mp3 Coalescing Poison
+Shadowlands/Dungeons/MistsOfTirnaScithe/463217.mp3 령 베기
+Shadowlands/Dungeons/MistsOfTirnaScithe/463248.mp3 방출
+Shadowlands/Dungeons/MistsOfTirnaScithe/463256.mp3 안개 수호물
+Shadowlands/Dungeons/MistsOfTirnaScithe/463602.mp3 응축 독
 Shadowlands/Dungeons/Plaguefall/318949.mp3 부패한 트림
 Shadowlands/Dungeons/Plaguefall/319898.mp3 썩은 타액
 Shadowlands/Dungeons/Plaguefall/320512.mp3 부식된 발톱
@@ -5284,7 +5284,7 @@ WarWithin/Dungeons/CinderbrewMeadery/442525.mp3 즐거운 시간
 WarWithin/Dungeons/CinderbrewMeadery/442589.mp3 벌 밀랍
 WarWithin/Dungeons/CinderbrewMeadery/442995.mp3 무리의 급습
 WarWithin/Dungeons/CinderbrewMeadery/448619.mp3 무모한 배달
-WarWithin/Dungeons/CinderbrewMeadery/463206.mp3 Tenderize
+WarWithin/Dungeons/CinderbrewMeadery/463206.mp3 방망이질
 WarWithin/Dungeons/CityOfThreads/434137.mp3 맹독 분사
 WarWithin/Dungeons/CityOfThreads/434722.mp3 복종
 WarWithin/Dungeons/CityOfThreads/434779.mp3 공포심
