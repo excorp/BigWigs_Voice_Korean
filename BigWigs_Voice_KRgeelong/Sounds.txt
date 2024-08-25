@@ -1291,6 +1291,7 @@ Cataclysm/Dungeons/Deadmines/92614.mp3 회피
 Cataclysm/Dungeons/Deadmines/95542.mp3 밴클리프의 복수
 Cataclysm/Dungeons/GrimBatol/447261.mp3 해골 쪼개기
 Cataclysm/Dungeons/GrimBatol/447395.mp3 불타는 회전베기
+Cataclysm/Dungeons/GrimBatol/447966.mp3 암흑불길 화살
 Cataclysm/Dungeons/GrimBatol/448013.mp3 암흑불길의 기원
 Cataclysm/Dungeons/GrimBatol/448057.mp3 심연의 타락
 Cataclysm/Dungeons/GrimBatol/448105.mp3 파멸의 불길
@@ -1301,6 +1302,7 @@ Cataclysm/Dungeons/GrimBatol/449474.mp3 불타는 불꽃
 Cataclysm/Dungeons/GrimBatol/449687.mp3 불타는 철퇴
 Cataclysm/Dungeons/GrimBatol/449939.mp3 암흑 돌풍
 Cataclysm/Dungeons/GrimBatol/450077.mp3 공허의 쇄도
+Cataclysm/Dungeons/GrimBatol/450087.mp3 심연의 손아귀
 Cataclysm/Dungeons/GrimBatol/450088.mp3 공허 주입
 Cataclysm/Dungeons/GrimBatol/450095.mp3 혼돈의 저주
 Cataclysm/Dungeons/GrimBatol/450100.mp3 분쇄
@@ -1759,6 +1761,7 @@ Classic/Raids/MoltenCore/23138.mp3 샤즈라의 문
 Classic/Raids/MoltenCore/364895.mp3 연발 화염구
 Classic/Raids/MoltenCore/364908.mp3 암흑의 치유
 Classic/Raids/MoltenCore/460856.mp3 마법 반사
+Classic/Raids/MoltenCore/460883.mp3 유성
 Classic/Raids/MoltenCore/460885.mp3 심판날
 Classic/Raids/MoltenCore/460887.mp3 조화의 전율
 Classic/Raids/MoltenCore/460895.mp3 불씨의 심장
@@ -4453,12 +4456,7 @@ Shadowlands/Dungeons/MistsOfTirnaScithe/326021.mp3 산성 방울
 Shadowlands/Dungeons/MistsOfTirnaScithe/326046.mp3 저항 촉진
 Shadowlands/Dungeons/MistsOfTirnaScithe/326309.mp3 부패의 산
 Shadowlands/Dungeons/MistsOfTirnaScithe/328756.mp3 혐오스러운 형상
-Shadowlands/Dungeons/MistsOfTirnaScithe/331718.mp3 질풍창
-Shadowlands/Dungeons/MistsOfTirnaScithe/331743.mp3 날뛰는 광란
 Shadowlands/Dungeons/MistsOfTirnaScithe/336499.mp3 알아맞히기
-Shadowlands/Dungeons/MistsOfTirnaScithe/337235.mp3 기생성 평정화
-Shadowlands/Dungeons/MistsOfTirnaScithe/337249.mp3 기생성 무력화
-Shadowlands/Dungeons/MistsOfTirnaScithe/337255.mp3 신경 지배
 Shadowlands/Dungeons/MistsOfTirnaScithe/340160.mp3 빛나는 숨결
 Shadowlands/Dungeons/MistsOfTirnaScithe/340189.mp3 광휘의 웅덩이
 Shadowlands/Dungeons/MistsOfTirnaScithe/340208.mp3 방어구 찢기
@@ -5487,6 +5485,7 @@ WarWithin/Dungeons/TheDawnbreaker/426735.mp3 불타는 어둠
 WarWithin/Dungeons/TheDawnbreaker/426787.mp3 암흑 부패
 WarWithin/Dungeons/TheDawnbreaker/426860.mp3 암흑의 보주
 WarWithin/Dungeons/TheDawnbreaker/427001.mp3 공포를 부르는 격돌
+WarWithin/Dungeons/TheDawnbreaker/428086.mp3 어둠의 화살
 WarWithin/Dungeons/TheDawnbreaker/431304.mp3 어둠의 유빙
 WarWithin/Dungeons/TheDawnbreaker/431309.mp3 옭아매는 어둠
 WarWithin/Dungeons/TheDawnbreaker/431349.mp3 고통스러운 분출
