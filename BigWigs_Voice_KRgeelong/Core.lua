@@ -257,30 +257,6 @@ zonetable[2662]  = "WarWithin\\Dungeons\\TheDawnbreaker"
 zonetable[2648]  = "WarWithin\\Dungeons\\TheRookery"
 zonetable[2652]  = "WarWithin\\Dungeons\\TheStonevault"
 
-zonetable[2680]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2664]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2681]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2679]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2686]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2685]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2689]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2684]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2687]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2688]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2690]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2683]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2664]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2679]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2685]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2686]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2681]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2683]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2687]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2689]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2680]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2684]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2685]  = "WarWithin\\Dungeons\\Delves"
-zonetable[2688]  = "WarWithin\\Dungeons\\Delves"
 zonetable[2664]  = "WarWithin\\Dungeons\\Delves"
 zonetable[2679]  = "WarWithin\\Dungeons\\Delves"
 zonetable[2680]  = "WarWithin\\Dungeons\\Delves"
@@ -293,7 +269,6 @@ zonetable[2687]  = "WarWithin\\Dungeons\\Delves"
 zonetable[2688]  = "WarWithin\\Dungeons\\Delves"
 zonetable[2689]  = "WarWithin\\Dungeons\\Delves"
 zonetable[2690]  = "WarWithin\\Dungeons\\Delves"
-
 
 
 local currentZone = ""
@@ -338,7 +313,6 @@ local function handler(event, module, key, sound, isOnMe)
 	if isPlay == nil then
 		isPlay = playSoundType.etc
 	end
-	-- DevTool:AddData({ event = event, module = module, key = key, sound = sound, isplay = isPlay, isplay2 = playSoundType[sound], conf = playSoundType })
 	if isPlay == false then
 		addon:SendMessage("BigWigs_Sound", module, key, sound)
 		return
@@ -390,6 +364,14 @@ addon.RegisterEvent("PLAYER_ENTERING_WORLD", function(self, event, ...)
 end)
 
 addon.RegisterEvent("ZONE_CHANGED", function(self, event)
+	getCurrentZone()
+end)
+
+addon.RegisterEvent("ZONE_CHANGED_NEW_AREA", function(self, event)
+	getCurrentZone()
+end)
+
+addon.RegisterEvent("ZONE_CHANGED_INDOORS", function(self, event)
 	getCurrentZone()
 end)
 
