@@ -270,6 +270,8 @@ zonetable[2688]  = "WarWithin\\Dungeons\\Delves"
 zonetable[2689]  = "WarWithin\\Dungeons\\Delves"
 zonetable[2690]  = "WarWithin\\Dungeons\\Delves"
 
+zonetable[2710]  = "WarWithin\\Dungeons\\Scenarios"
+
 
 local currentZone = ""
 addon.EventFrame  = CreateFrame("frame", "EventFrame")
