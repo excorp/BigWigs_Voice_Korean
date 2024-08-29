@@ -5479,6 +5479,14 @@ WarWithin/Dungeons/PrioryOfTheSacredFlame/448485.mp3 방패 밀쳐내기
 WarWithin/Dungeons/PrioryOfTheSacredFlame/448492.mp3 천둥벼락
 WarWithin/Dungeons/PrioryOfTheSacredFlame/448515.mp3 천상의 심판
 WarWithin/Dungeons/PrioryOfTheSacredFlame/451605.mp3 신성한 불길
+WarWithin/Dungeons/Scenarios/462802.mp3 정화의 불길
+WarWithin/Dungeons/Scenarios/462826.mp3 자폭
+WarWithin/Dungeons/Scenarios/462856.mp3 무효화의 장벽
+WarWithin/Dungeons/Scenarios/462892.mp3 위험한 광선
+WarWithin/Dungeons/Scenarios/462936.mp3 일상적인 유지보수
+WarWithin/Dungeons/Scenarios/462983.mp3 불안정한 용암
+WarWithin/Dungeons/Scenarios/463052.mp3 날뛰는 격돌
+WarWithin/Dungeons/Scenarios/463081.mp3 지축붕괴 돌진
 WarWithin/Dungeons/TheDawnbreaker/425264.mp3 흑요석 작렬
 WarWithin/Dungeons/TheDawnbreaker/426735.mp3 불타는 어둠
 WarWithin/Dungeons/TheDawnbreaker/426787.mp3 암흑 부패
