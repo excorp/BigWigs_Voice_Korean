@@ -1751,6 +1751,7 @@ Classic/Raids/MoltenCore/19717.mp3 불의 비
 Classic/Raids/MoltenCore/19775.mp3 암흑의 치유
 Classic/Raids/MoltenCore/19778.mp3 사기의 외침
 Classic/Raids/MoltenCore/19779.mp3 전의
+Classic/Raids/MoltenCore/20228.mp3 불덩이 작렬
 Classic/Raids/MoltenCore/20475.mp3 살아있는 폭탄
 Classic/Raids/MoltenCore/20478.mp3 아마겟돈
 Classic/Raids/MoltenCore/20566.mp3 라그나로스의 징벌
@@ -5239,7 +5240,9 @@ WarWithin/Dungeons/AraKara/434252.mp3 거대한 격돌
 WarWithin/Dungeons/AraKara/434793.mp3 공명의 탄막
 WarWithin/Dungeons/AraKara/434802.mp3 섬뜩한 괴성
 WarWithin/Dungeons/AraKara/434824.mp3 거미줄 뿌리기
+WarWithin/Dungeons/AraKara/434830.mp3 썩은 거미줄
 WarWithin/Dungeons/AraKara/435012.mp3 꿰뚫기
+WarWithin/Dungeons/AraKara/436614.mp3 거미줄 감싸기
 WarWithin/Dungeons/AraKara/438471.mp3 탐식의 이빨
 WarWithin/Dungeons/AraKara/438473.mp3 비단 맹공
 WarWithin/Dungeons/AraKara/438476.mp3 경고의 괴성
@@ -5323,6 +5326,7 @@ WarWithin/Dungeons/DarkflameCleft/420659.mp3 음산한 거푸집
 WarWithin/Dungeons/DarkflameCleft/421817.mp3 심지점화 세례
 WarWithin/Dungeons/DarkflameCleft/422116.mp3 무모한 돌진
 WarWithin/Dungeons/DarkflameCleft/422245.mp3 바위 부수기
+WarWithin/Dungeons/DarkflameCleft/422393.mp3 숨막히는 암흑
 WarWithin/Dungeons/DarkflameCleft/422414.mp3 암흑 강타
 WarWithin/Dungeons/DarkflameCleft/422541.mp3 빛 흡수
 WarWithin/Dungeons/DarkflameCleft/422648.mp3 어둠불꽃 곡괭이
@@ -5339,11 +5343,13 @@ WarWithin/Dungeons/DarkflameCleft/426260.mp3 불꽃 난타
 WarWithin/Dungeons/DarkflameCleft/426261.mp3 멈추지 않는 불길
 WarWithin/Dungeons/DarkflameCleft/426295.mp3 불타는 사슬
 WarWithin/Dungeons/DarkflameCleft/426619.mp3 한손 머리 조르기
+WarWithin/Dungeons/DarkflameCleft/426883.mp3 머리 강타!
 WarWithin/Dungeons/DarkflameCleft/426943.mp3 치솟는 암운
 WarWithin/Dungeons/DarkflameCleft/427015.mp3 암흑돌풍
 WarWithin/Dungeons/DarkflameCleft/427025.mp3 암영 베기
 WarWithin/Dungeons/DarkflameCleft/427157.mp3 어둠살이 부르기
 WarWithin/Dungeons/DarkflameCleft/427176.mp3 빛 흡수
+WarWithin/Dungeons/DarkflameCleft/428650.mp3 불타는 반발력
 WarWithin/Dungeons/DarkflameCleft/440652.mp3 몰아치는 밀랍
 WarWithin/Dungeons/DarkflameCleft/443835.mp3 타오르는 폭풍
 WarWithin/Dungeons/DarkflameCleft/minecart.mp3 광산 카트 미니게임
@@ -5496,6 +5502,7 @@ WarWithin/Dungeons/TheDawnbreaker/428086.mp3 어둠의 화살
 WarWithin/Dungeons/TheDawnbreaker/431304.mp3 어둠의 유빙
 WarWithin/Dungeons/TheDawnbreaker/431309.mp3 옭아매는 어둠
 WarWithin/Dungeons/TheDawnbreaker/431349.mp3 고통스러운 분출
+WarWithin/Dungeons/TheDawnbreaker/431364.mp3 고통의 광선
 WarWithin/Dungeons/TheDawnbreaker/431494.mp3 검은 칼날
 WarWithin/Dungeons/TheDawnbreaker/432448.mp3 저승의 씨앗
 WarWithin/Dungeons/TheDawnbreaker/432520.mp3 암영 방벽
@@ -5587,6 +5594,7 @@ WarWithin/Dungeons/TheStonevault/449130.mp3 용암포
 WarWithin/Dungeons/TheStonevault/449154.mp3 용암 박격포
 WarWithin/Dungeons/TheStonevault/449167.mp3 용암 분출
 WarWithin/Dungeons/TheStonevault/449455.mp3 공포의 울부짖음
+WarWithin/Dungeons/TheStonevault/462500.mp3 마력 깃든 강철 마력
 WarWithin/Raids/NerubarPalace/432969.mp3 위상 달려들기
 WarWithin/Raids/NerubarPalace/434697.mp3 무자비한 으깨기
 WarWithin/Raids/NerubarPalace/434705.mp3 연질화
