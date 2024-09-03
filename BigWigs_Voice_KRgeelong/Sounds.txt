@@ -5280,6 +5280,7 @@ WarWithin/Dungeons/CinderbrewMeadery/440147.mp3 가득이요
 WarWithin/Dungeons/CinderbrewMeadery/440687.mp3 꿀 연발 공격
 WarWithin/Dungeons/CinderbrewMeadery/440876.mp3 꿀의 비
 WarWithin/Dungeons/CinderbrewMeadery/441119.mp3 벌 대포
+WarWithin/Dungeons/CinderbrewMeadery/441179.mp3 흘러내리는 꿀
 WarWithin/Dungeons/CinderbrewMeadery/441434.mp3 실패작
 WarWithin/Dungeons/CinderbrewMeadery/441627.mp3 회복의 꿀
 WarWithin/Dungeons/CinderbrewMeadery/442525.mp3 즐거운 시간
@@ -5345,7 +5346,7 @@ WarWithin/Dungeons/DarkflameCleft/426295.mp3 불타는 사슬
 WarWithin/Dungeons/DarkflameCleft/426619.mp3 한손 머리 조르기
 WarWithin/Dungeons/DarkflameCleft/426883.mp3 머리 강타!
 WarWithin/Dungeons/DarkflameCleft/426943.mp3 치솟는 암운
-WarWithin/Dungeons/DarkflameCleft/427015.mp3 암흑돌풍
+WarWithin/Dungeons/DarkflameCleft/427011.mp3 암흑돌풍
 WarWithin/Dungeons/DarkflameCleft/427025.mp3 암영 베기
 WarWithin/Dungeons/DarkflameCleft/427157.mp3 어둠살이 부르기
 WarWithin/Dungeons/DarkflameCleft/427176.mp3 빛 흡수
@@ -5388,6 +5389,7 @@ WarWithin/Dungeons/Delves/443840.mp3 황폐의 쇄도
 WarWithin/Dungeons/Delves/443908.mp3 발사!
 WarWithin/Dungeons/Delves/444408.mp3 대변자의 분노
 WarWithin/Dungeons/Delves/444479.mp3 어둠불꽃 연발 사격
+WarWithin/Dungeons/Delves/445191.mp3 심지점화 연발 공격
 WarWithin/Dungeons/Delves/445210.mp3 불꽃의 돌진
 WarWithin/Dungeons/Delves/445252.mp3 괴저의 최후
 WarWithin/Dungeons/Delves/445407.mp3 피의 갈증
@@ -5461,6 +5463,7 @@ WarWithin/Dungeons/PrioryOfTheSacredFlame/424414.mp3 방어구 관통
 WarWithin/Dungeons/PrioryOfTheSacredFlame/424419.mp3 전투의 함성
 WarWithin/Dungeons/PrioryOfTheSacredFlame/424420.mp3 불씨 작렬
 WarWithin/Dungeons/PrioryOfTheSacredFlame/424423.mp3 도약의 일격
+WarWithin/Dungeons/PrioryOfTheSacredFlame/424429.mp3 신성화
 WarWithin/Dungeons/PrioryOfTheSacredFlame/424431.mp3 신성한 광휘
 WarWithin/Dungeons/PrioryOfTheSacredFlame/424462.mp3 불씨 폭풍
 WarWithin/Dungeons/PrioryOfTheSacredFlame/424621.mp3 무자비한 강타

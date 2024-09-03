@@ -1,4 +1,4 @@
-local _, addon = ...
+local addonName, addon = ...
 
 
 addon.isVanilla = WOW_PROJECT_ID == WOW_PROJECT_CLASSIC
@@ -293,7 +293,7 @@ end
 addon.SendMessage   = BigWigsLoader.SendMessage
 
 local modname       = "KRgeelong"
-local basepath      = "Interface\\AddOns\\BigWigs_Voice_" .. modname .. "\\Sounds\\"
+local basepath      = "Interface\\AddOns\\" .. addonName .. "\\Sounds\\"
 local path          = basepath .. "%s\\%s.mp3"
 local pathCommon    = basepath .. "Common\\%s.mp3"
 local pathYou       = basepath .. "Common\\you.mp3"
@@ -308,6 +308,8 @@ local playSoundType = {
 	["etc"]     = true,
 }
 
+local lastPlayed    = {}
+
 local function handler(event, module, key, sound, isOnMe)
 	local success = false
 
@@ -319,6 +321,12 @@ local function handler(event, module, key, sound, isOnMe)
 		addon:SendMessage("BigWigs_Sound", module, key, sound)
 		return
 	end
+
+	local now = GetTime()
+	if lastPlayed[key] and now - lastPlayed[key] < 2 then
+		return
+	end
+	lastPlayed[key] = now
 
 	if isOnMe then
 		success = PlaySoundFile(pathYou, channel)
