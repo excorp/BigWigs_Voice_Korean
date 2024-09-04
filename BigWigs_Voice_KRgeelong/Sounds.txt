@@ -5851,7 +5851,7 @@ WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/submerge.mp3 위치 재배치
 WarlordsOfDraenor/Dungeons/ShadowmoonBurialGrounds/summon_worms.mp3 청소부 벌레 소환
 WarlordsOfDraenor/Dungeons/Skyreach/153794.mp3 방어구 관통
 WarlordsOfDraenor/Dungeons/Skyreach/153810.mp3 태양의 섬광 소환
-WarlordsOfDraenor/Dungeons/Skyreach/153954.mp3 Cast Down
+WarlordsOfDraenor/Dungeons/Skyreach/153954.mp3 아래로 던지기
 WarlordsOfDraenor/Dungeons/Skyreach/154055.mp3 보호막
 WarlordsOfDraenor/Dungeons/Skyreach/154110.mp3 강타
 WarlordsOfDraenor/Dungeons/Skyreach/154135.mp3 폭발
