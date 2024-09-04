@@ -5607,17 +5607,24 @@ WarWithin/Raids/NerubarPalace/435136.mp3 맹독의 채찍
 WarWithin/Raids/NerubarPalace/435138.mp3 위산
 WarWithin/Raids/NerubarPalace/435405.mp3 칠흑의 밤
 WarWithin/Raids/NerubarPalace/436200.mp3 압도적인 돌진
+WarWithin/Raids/NerubarPalace/437078.mp3 산성
+WarWithin/Raids/NerubarPalace/437093.mp3 잔치
 WarWithin/Raids/NerubarPalace/437343.mp3 여왕의 파멸
+WarWithin/Raids/NerubarPalace/437417.mp3 맹독 회오리
+WarWithin/Raids/NerubarPalace/437592.mp3 반응성 독소
 WarWithin/Raids/NerubarPalace/437620.mp3 황천의 균열
 WarWithin/Raids/NerubarPalace/438012.mp3 굶주린 고함
 WarWithin/Raids/NerubarPalace/438245.mp3 황혼의 대학살
 WarWithin/Raids/NerubarPalace/438355.mp3 대격변의 혼돈
+WarWithin/Raids/NerubarPalace/438481.mp3 독성 파도
 WarWithin/Raids/NerubarPalace/438656.mp3 맹독의 비
 WarWithin/Raids/NerubarPalace/438657.mp3 육중한 내장
 WarWithin/Raids/NerubarPalace/438677.mp3 독침벌레 떼
 WarWithin/Raids/NerubarPalace/438696.mp3 검은 피고름
 WarWithin/Raids/NerubarPalace/438801.mp3 무리의 부름
+WarWithin/Raids/NerubarPalace/438976.mp3 군주의 규탄
 WarWithin/Raids/NerubarPalace/439037.mp3 할복
+WarWithin/Raids/NerubarPalace/439299.mp3 거미줄 칼날
 WarWithin/Raids/NerubarPalace/439419.mp3 추적자 그물망
 WarWithin/Raids/NerubarPalace/439511.mp3 대장의 속임수 동작
 WarWithin/Raids/NerubarPalace/439559.mp3 화살의 비
@@ -5629,6 +5636,7 @@ WarWithin/Raids/NerubarPalace/439787.mp3 산성 혼절
 WarWithin/Raids/NerubarPalace/439792.mp3 엉성한 폭발
 WarWithin/Raids/NerubarPalace/439795.mp3 거미줄 약탈
 WarWithin/Raids/NerubarPalace/439811.mp3 부식성 분사
+WarWithin/Raids/NerubarPalace/439814.mp3 비단 무덤
 WarWithin/Raids/NerubarPalace/440001.mp3 속박의 그물
 WarWithin/Raids/NerubarPalace/440177.mp3 포식 준비
 WarWithin/Raids/NerubarPalace/440178.mp3 무모한 충돌
@@ -5638,10 +5646,14 @@ WarWithin/Raids/NerubarPalace/440377.mp3 공허 분쇄술
 WarWithin/Raids/NerubarPalace/440504.mp3 꿰뚫는 분출
 WarWithin/Raids/NerubarPalace/440576.mp3 균열의 베기
 WarWithin/Raids/NerubarPalace/440849.mp3 경멸에 찬 분노
+WarWithin/Raids/NerubarPalace/440899.mp3 액화
 WarWithin/Raids/NerubarPalace/441362.mp3 휘발성 혼합물
 WarWithin/Raids/NerubarPalace/441452.mp3 추적자 거미줄
+WarWithin/Raids/NerubarPalace/441556.mp3 반응 증기
 WarWithin/Raids/NerubarPalace/441626.mp3 거미줄 소용돌이
 WarWithin/Raids/NerubarPalace/441782.mp3 현실의 가닥
+WarWithin/Raids/NerubarPalace/441791.mp3 잠복 분출
+WarWithin/Raids/NerubarPalace/441958.mp3 휘감는 비단
 WarWithin/Raids/NerubarPalace/442250.mp3 시선 고정
 WarWithin/Raids/NerubarPalace/442257.mp3 감염
 WarWithin/Raids/NerubarPalace/442277.mp3 영원한 밤
@@ -5655,29 +5667,47 @@ WarWithin/Raids/NerubarPalace/442994.mp3 방출된 무리벌레
 WarWithin/Raids/NerubarPalace/443042.mp3 저 너머의 손아귀
 WarWithin/Raids/NerubarPalace/443068.mp3 쐐기 분출
 WarWithin/Raids/NerubarPalace/443203.mp3 붉은 비
+WarWithin/Raids/NerubarPalace/443325.mp3 감염
+WarWithin/Raids/NerubarPalace/443336.mp3 포식
+WarWithin/Raids/NerubarPalace/443403.mp3 암울
 WarWithin/Raids/NerubarPalace/443612.mp3 원한에 찬 변화
+WarWithin/Raids/NerubarPalace/443726.mp3 새끼 암영거미
 WarWithin/Raids/NerubarPalace/443842.mp3 삼키는 어둠
+WarWithin/Raids/NerubarPalace/443888.mp3 심연의 주입
 WarWithin/Raids/NerubarPalace/444363.mp3 섬뜩한 쏟아내기
 WarWithin/Raids/NerubarPalace/444687.mp3 맹렬한 공격
+WarWithin/Raids/NerubarPalace/444829.mp3 여왕의 부름
+WarWithin/Raids/NerubarPalace/445021.mp3 무효화 폭발
 WarWithin/Raids/NerubarPalace/445052.mp3 딸깍거리는 무리
 WarWithin/Raids/NerubarPalace/445123.mp3 무차별 분쇄
+WarWithin/Raids/NerubarPalace/445152.mp3 수행사제의 정수
+WarWithin/Raids/NerubarPalace/445422.mp3 거품 이는 식탐
 WarWithin/Raids/NerubarPalace/445518.mp3 검은 피
 WarWithin/Raids/NerubarPalace/445570.mp3 괴이의 역병
+WarWithin/Raids/NerubarPalace/445880.mp3 거품 증기
 WarWithin/Raids/NerubarPalace/445936.mp3 뿜어내는 출혈
 WarWithin/Raids/NerubarPalace/446349.mp3 불안정한 거미줄
 WarWithin/Raids/NerubarPalace/446351.mp3 거미줄 분출
 WarWithin/Raids/NerubarPalace/446700.mp3 독 확산
+WarWithin/Raids/NerubarPalace/447411.mp3 힘싸움
+WarWithin/Raids/NerubarPalace/447456.mp3 마비시키는 독
+WarWithin/Raids/NerubarPalace/447950.mp3 암흑돌풍
+WarWithin/Raids/NerubarPalace/448147.mp3 축출
+WarWithin/Raids/NerubarPalace/449236.mp3 부식성 송곳니
 WarWithin/Raids/NerubarPalace/449857.mp3 관통당함
 WarWithin/Raids/NerubarPalace/450129.mp3 혼돈의 황폐
 WarWithin/Raids/NerubarPalace/450661.mp3 부식성 반응
 WarWithin/Raids/NerubarPalace/450980.mp3 존재 파쇄
 WarWithin/Raids/NerubarPalace/451277.mp3 쐐기 폭풍
+WarWithin/Raids/NerubarPalace/451278.mp3 농축된 독소
 WarWithin/Raids/NerubarPalace/451288.mp3 검은 보루
+WarWithin/Raids/NerubarPalace/451600.mp3 배출 광선
 WarWithin/Raids/NerubarPalace/452237.mp3 피의 분리
 WarWithin/Raids/NerubarPalace/452806.mp3 산성 분출
 WarWithin/Raids/NerubarPalace/454989.mp3 휘감는 그물
 WarWithin/Raids/NerubarPalace/455287.mp3 들끓는 이빨
 WarWithin/Raids/NerubarPalace/455373.mp3 감염된 자손
+WarWithin/Raids/NerubarPalace/455387.mp3 심연의 반향
 WarWithin/Raids/NerubarPalace/455849.mp3 망상의 징표
 WarWithin/Raids/NerubarPalace/455850.mp3 분노의 징표
 WarWithin/Raids/NerubarPalace/455863.mp3 죽음의 징표
@@ -5690,6 +5720,8 @@ WarWithin/Raids/NerubarPalace/459273.mp3 우주의 파편
 WarWithin/Raids/NerubarPalace/459444.mp3 내장 과다출혈
 WarWithin/Raids/NerubarPalace/460281.mp3 불타는 분노
 WarWithin/Raids/NerubarPalace/460359.mp3 공허 퇴화
+WarWithin/Raids/NerubarPalace/464056.mp3 암운의 손길
+WarWithin/Raids/NerubarPalace/464638.mp3 거품 독소
 WarlordsOfDraenor/Dungeons/Auchindoun/153002.mp3 신성한 방패
 WarlordsOfDraenor/Dungeons/Auchindoun/153006.mp3 눈부신 광휘
 WarlordsOfDraenor/Dungeons/Auchindoun/153392.mp3 화염의 장막
