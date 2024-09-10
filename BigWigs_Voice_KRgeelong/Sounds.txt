@@ -1556,6 +1556,7 @@ Cataclysm/Raids/Blackwing/80094.mp3 시선 고정
 Cataclysm/Raids/Blackwing/80161.mp3 화학 구름
 Cataclysm/Raids/Blackwing/80734.mp3 파열의 회오리
 Cataclysm/Raids/Blackwing/81007.mp3 암흑불꽃
+Cataclysm/Raids/Blackwing/81031.mp3 암흑불꽃 불똥
 Cataclysm/Raids/Blackwing/81272.mp3 감전
 Cataclysm/Raids/Blackwing/82848.mp3 대학살
 Cataclysm/Raids/Blackwing/88253.mp3 거대 충돌
@@ -5427,8 +5428,13 @@ WarWithin/Dungeons/Delves/449965.mp3 늪지 화살
 WarWithin/Dungeons/Delves/450128.mp3 맹독 가스
 WarWithin/Dungeons/Delves/450142.mp3 불사르기
 WarWithin/Dungeons/Delves/450197.mp3 쏜살 돌진
+WarWithin/Dungeons/Delves/450451.mp3 발톱 강타
+WarWithin/Dungeons/Delves/450492.mp3 끔찍한 포효
+WarWithin/Dungeons/Delves/450505.mp3 약화의 타액
 WarWithin/Dungeons/Delves/450509.mp3 크게 휘둘러치기
+WarWithin/Dungeons/Delves/450519.mp3 낚시꾼의 거미줄
 WarWithin/Dungeons/Delves/450546.mp3 거미줄 아이기스
+WarWithin/Dungeons/Delves/450568.mp3 거미줄 괴물 부르기
 WarWithin/Dungeons/Delves/450637.mp3 착취의 무리
 WarWithin/Dungeons/Delves/450714.mp3 날카로운 가시
 WarWithin/Dungeons/Delves/451913.mp3 암울매듭 보주
