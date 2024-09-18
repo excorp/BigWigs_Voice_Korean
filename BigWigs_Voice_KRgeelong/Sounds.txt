@@ -331,6 +331,7 @@ BattleForAzeroth/Dungeons/SiegeOfBoralus/257326.mp3 피투성이 충돌
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257348.mp3 고기 갈고리
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257459.mp3 갈고리 걸기
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257585.mp3 대포 포화
+BattleForAzeroth/Dungeons/SiegeOfBoralus/257732.mp3 분쇄의 고함
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257882.mp3 부서지는 물살
 BattleForAzeroth/Dungeons/SiegeOfBoralus/260924.mp3 무쇠 폭풍
 BattleForAzeroth/Dungeons/SiegeOfBoralus/260954.mp3 강철의 시선
@@ -352,6 +353,7 @@ BattleForAzeroth/Dungeons/SiegeOfBoralus/272571.mp3 숨막히는 물
 BattleForAzeroth/Dungeons/SiegeOfBoralus/272711.mp3 분쇄의 격돌
 BattleForAzeroth/Dungeons/SiegeOfBoralus/273470.mp3 복부 사격
 BattleForAzeroth/Dungeons/SiegeOfBoralus/273721.mp3 묵직한 폭탄
+BattleForAzeroth/Dungeons/SiegeOfBoralus/274002.mp3 무쇠파도 부르기
 BattleForAzeroth/Dungeons/SiegeOfBoralus/275014.mp3 썩은 물
 BattleForAzeroth/Dungeons/SiegeOfBoralus/275826.mp3 강화의 외침
 BattleForAzeroth/Dungeons/SiegeOfBoralus/275835.mp3 따가운 독 칠하기
@@ -1308,7 +1310,9 @@ Cataclysm/Dungeons/GrimBatol/450100.mp3 분쇄
 Cataclysm/Dungeons/GrimBatol/451224.mp3 뒤덮는 암흑불길
 Cataclysm/Dungeons/GrimBatol/451387.mp3 승천
 Cataclysm/Dungeons/GrimBatol/451391.mp3 정신 꿰뚫기
+Cataclysm/Dungeons/GrimBatol/451395.mp3 타락
 Cataclysm/Dungeons/GrimBatol/451613.mp3 황혼의 불길
+Cataclysm/Dungeons/GrimBatol/451614.mp3 황혼의 불씨
 Cataclysm/Dungeons/GrimBatol/451871.mp3 대규모 진동
 Cataclysm/Dungeons/GrimBatol/451939.mp3 암영의 바람
 Cataclysm/Dungeons/GrimBatol/451965.mp3 용암의 자취
@@ -5369,6 +5373,7 @@ WarWithin/Dungeons/Delves/415499.mp3 현기증
 WarWithin/Dungeons/Delves/418295.mp3 암영 베기
 WarWithin/Dungeons/Delves/418297.mp3 혹독
 WarWithin/Dungeons/Delves/424704.mp3 흉악한 찌르기
+WarWithin/Dungeons/Delves/424750.mp3 감염성 포자
 WarWithin/Dungeons/Delves/424773.mp3 포자의 발생
 WarWithin/Dungeons/Delves/424798.mp3 팽창 분출
 WarWithin/Dungeons/Delves/424891.mp3 덩굴 창
@@ -5431,6 +5436,8 @@ WarWithin/Dungeons/Delves/449339.mp3 들끓는 울화통
 WarWithin/Dungeons/Delves/450128.mp3 맹독 가스
 WarWithin/Dungeons/Delves/450142.mp3 불사르기
 WarWithin/Dungeons/Delves/450197.mp3 쏜살 돌진
+WarWithin/Dungeons/Delves/450330.mp3 밀랍 던지기
+WarWithin/Dungeons/Delves/450449.mp3 재생하는 갑각
 WarWithin/Dungeons/Delves/450451.mp3 발톱 강타
 WarWithin/Dungeons/Delves/450492.mp3 끔찍한 포효
 WarWithin/Dungeons/Delves/450505.mp3 약화의 타액
@@ -5438,11 +5445,17 @@ WarWithin/Dungeons/Delves/450509.mp3 크게 휘둘러치기
 WarWithin/Dungeons/Delves/450519.mp3 낚시꾼의 거미줄
 WarWithin/Dungeons/Delves/450546.mp3 거미줄 아이기스
 WarWithin/Dungeons/Delves/450568.mp3 거미줄 괴물 부르기
+WarWithin/Dungeons/Delves/450597.mp3 거미줄 작렬
 WarWithin/Dungeons/Delves/450637.mp3 착취의 무리
 WarWithin/Dungeons/Delves/450714.mp3 날카로운 가시
+WarWithin/Dungeons/Delves/450872.mp3 무한한 가시
+WarWithin/Dungeons/Delves/450914.mp3 혈기 주입 갑각
+WarWithin/Dungeons/Delves/451003.mp3 검은 피
+WarWithin/Dungeons/Delves/451782.mp3 무한의 공포
 WarWithin/Dungeons/Delves/451913.mp3 암울매듭 보주
 WarWithin/Dungeons/Delves/453149.mp3 비단실 그물
 WarWithin/Dungeons/Delves/453897.mp3 포자의 노래
+WarWithin/Dungeons/Delves/453937.mp3 부화 중...
 WarWithin/Dungeons/Delves/454213.mp3 진흙 돌진
 WarWithin/Dungeons/Delves/454762.mp3 어둠의 경감
 WarWithin/Dungeons/Delves/455932.mp3 모독의 숨결
@@ -5462,6 +5475,7 @@ WarWithin/Dungeons/Delves/458879.mp3 황혼의 축복
 WarWithin/Dungeons/Delves/459421.mp3 성스러운 빛
 WarWithin/Dungeons/Delves/461741.mp3 신성화
 WarWithin/Dungeons/Delves/462686.mp3 해골 분쇄자
+WarWithin/Dungeons/Delves/470582.mp3 [Swamp Bolt]
 WarWithin/Dungeons/PrioryOfTheSacredFlame/422969.mp3 응징의 천벌
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423015.mp3 징벌자의 보호막
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423051.mp3 타오르는 빛
@@ -5515,6 +5529,7 @@ WarWithin/Dungeons/TheDawnbreaker/431304.mp3 어둠의 유빙
 WarWithin/Dungeons/TheDawnbreaker/431309.mp3 옭아매는 어둠
 WarWithin/Dungeons/TheDawnbreaker/431349.mp3 고통스러운 분출
 WarWithin/Dungeons/TheDawnbreaker/431364.mp3 고통의 광선
+WarWithin/Dungeons/TheDawnbreaker/431491.mp3 오염된 베기
 WarWithin/Dungeons/TheDawnbreaker/431494.mp3 검은 칼날
 WarWithin/Dungeons/TheDawnbreaker/432448.mp3 저승의 씨앗
 WarWithin/Dungeons/TheDawnbreaker/432520.mp3 암영 방벽
@@ -5663,6 +5678,7 @@ WarWithin/Raids/NerubarPalace/441452.mp3 추적자 거미줄
 WarWithin/Raids/NerubarPalace/441556.mp3 반응 증기
 WarWithin/Raids/NerubarPalace/441626.mp3 거미줄 소용돌이
 WarWithin/Raids/NerubarPalace/441782.mp3 현실의 가닥
+WarWithin/Raids/NerubarPalace/441865.mp3 군주의 족쇄
 WarWithin/Raids/NerubarPalace/441958.mp3 휘감는 비단
 WarWithin/Raids/NerubarPalace/442250.mp3 시선 고정
 WarWithin/Raids/NerubarPalace/442257.mp3 감염
@@ -5701,6 +5717,7 @@ WarWithin/Raids/NerubarPalace/446351.mp3 거미줄 분출
 WarWithin/Raids/NerubarPalace/446700.mp3 독 확산
 WarWithin/Raids/NerubarPalace/447411.mp3 힘싸움
 WarWithin/Raids/NerubarPalace/447950.mp3 암흑돌풍
+WarWithin/Raids/NerubarPalace/447967.mp3 암운의 손길
 WarWithin/Raids/NerubarPalace/448147.mp3 축출
 WarWithin/Raids/NerubarPalace/448458.mp3 우주의 대재앙
 WarWithin/Raids/NerubarPalace/449236.mp3 부식성 송곳니
@@ -5734,7 +5751,6 @@ WarWithin/Raids/NerubarPalace/459444.mp3 내장 과다출혈
 WarWithin/Raids/NerubarPalace/460281.mp3 불타는 분노
 WarWithin/Raids/NerubarPalace/460359.mp3 공허 퇴화
 WarWithin/Raids/NerubarPalace/462558.mp3 우주의 파열
-WarWithin/Raids/NerubarPalace/464056.mp3 암운의 손길
 WarWithin/Raids/NerubarPalace/464638.mp3 거품 독소
 WarlordsOfDraenor/Dungeons/Auchindoun/153002.mp3 신성한 방패
 WarlordsOfDraenor/Dungeons/Auchindoun/153006.mp3 눈부신 광휘
