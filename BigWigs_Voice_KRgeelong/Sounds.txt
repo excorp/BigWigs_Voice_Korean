@@ -5475,7 +5475,7 @@ WarWithin/Dungeons/Delves/458879.mp3 황혼의 축복
 WarWithin/Dungeons/Delves/459421.mp3 성스러운 빛
 WarWithin/Dungeons/Delves/461741.mp3 신성화
 WarWithin/Dungeons/Delves/462686.mp3 해골 분쇄자
-WarWithin/Dungeons/Delves/470582.mp3 [Swamp Bolt]
+WarWithin/Dungeons/Delves/470582.mp3 늪지 화살
 WarWithin/Dungeons/PrioryOfTheSacredFlame/422969.mp3 응징의 천벌
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423015.mp3 징벌자의 보호막
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423051.mp3 타오르는 빛
@@ -5623,6 +5623,10 @@ WarWithin/Dungeons/TheStonevault/449167.mp3 용암 분출
 WarWithin/Dungeons/TheStonevault/449455.mp3 공포의 울부짖음
 WarWithin/Dungeons/TheStonevault/459210.mp3 어둠의 발톱
 WarWithin/Dungeons/TheStonevault/462500.mp3 마력 깃든 강철 마력
+WarWithin/Raids/KhazAlgar/452205.mp3 수정 포화
+WarWithin/Raids/KhazAlgar/452980.mp3 공허지진
+WarWithin/Raids/KhazAlgar/453271.mp3 어둠의 각성
+WarWithin/Raids/KhazAlgar/453294.mp3 수정의 일격
 WarWithin/Raids/NerubarPalace/432969.mp3 위상 달려들기
 WarWithin/Raids/NerubarPalace/434697.mp3 무자비한 으깨기
 WarWithin/Raids/NerubarPalace/434705.mp3 연질화
