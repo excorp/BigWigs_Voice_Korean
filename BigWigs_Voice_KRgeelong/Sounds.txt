@@ -5627,6 +5627,10 @@ WarWithin/Raids/KhazAlgar/452205.mp3 수정 포화
 WarWithin/Raids/KhazAlgar/452980.mp3 공허지진
 WarWithin/Raids/KhazAlgar/453271.mp3 어둠의 각성
 WarWithin/Raids/KhazAlgar/453294.mp3 수정의 일격
+WarWithin/Raids/KhazAlgar/453618.mp3 심연의 일격
+WarWithin/Raids/KhazAlgar/453733.mp3 소금물 구토
+WarWithin/Raids/KhazAlgar/453875.mp3 영혼 역류
+WarWithin/Raids/KhazAlgar/455275.mp3 검은 해일
 WarWithin/Raids/NerubarPalace/432969.mp3 위상 달려들기
 WarWithin/Raids/NerubarPalace/434697.mp3 무자비한 으깨기
 WarWithin/Raids/NerubarPalace/434705.mp3 연질화
