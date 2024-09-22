@@ -5266,6 +5266,7 @@ WarWithin/Dungeons/AraKara/448248.mp3 불쾌한 연발 공격
 WarWithin/Dungeons/AraKara/453161.mp3 꿰뚫기
 WarWithin/Dungeons/AraKara/461487.mp3 배양된 독
 WarWithin/Dungeons/AraKara/465012.mp3 격돌
+WarWithin/Dungeons/AraKara/bloodstained_webmage.mp3 피로 물든 거미줄마법사 소환
 WarWithin/Dungeons/CinderbrewMeadery/431895.mp3 잿불맥주 운반
 WarWithin/Dungeons/CinderbrewMeadery/432179.mp3 잿불맥주 던지기
 WarWithin/Dungeons/CinderbrewMeadery/432198.mp3 이글거리는 트림
@@ -5331,6 +5332,7 @@ WarWithin/Dungeons/CityOfThreads/451423.mp3 비단실 세례
 WarWithin/Dungeons/CityOfThreads/451543.mp3 무위의 격돌
 WarWithin/Dungeons/CityOfThreads/452162.mp3 치유의 거미줄
 WarWithin/Dungeons/CityOfThreads/458741.mp3 꽁꽁 얼리기
+WarWithin/Dungeons/CityOfThreads/461825.mp3 검은 피
 WarWithin/Dungeons/CityOfThreads/461842.mp3 수액의 강타
 WarWithin/Dungeons/CityOfThreads/461880.mp3 피 분출
 WarWithin/Dungeons/DarkflameCleft/420659.mp3 음산한 거푸집
@@ -5478,6 +5480,7 @@ WarWithin/Dungeons/Delves/458879.mp3 황혼의 축복
 WarWithin/Dungeons/Delves/459421.mp3 성스러운 빛
 WarWithin/Dungeons/Delves/461741.mp3 신성화
 WarWithin/Dungeons/Delves/462686.mp3 해골 분쇄자
+WarWithin/Dungeons/Delves/463408.mp3 냉기 주입
 WarWithin/Dungeons/Delves/470582.mp3 늪지 화살
 WarWithin/Dungeons/PrioryOfTheSacredFlame/422969.mp3 응징의 천벌
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423015.mp3 징벌자의 보호막
