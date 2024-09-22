@@ -1308,6 +1308,7 @@ Cataclysm/Dungeons/GrimBatol/450088.mp3 공허 주입
 Cataclysm/Dungeons/GrimBatol/450095.mp3 혼돈의 저주
 Cataclysm/Dungeons/GrimBatol/450100.mp3 분쇄
 Cataclysm/Dungeons/GrimBatol/451224.mp3 뒤덮는 암흑불길
+Cataclysm/Dungeons/GrimBatol/451241.mp3 암흑불길 베기
 Cataclysm/Dungeons/GrimBatol/451387.mp3 승천
 Cataclysm/Dungeons/GrimBatol/451391.mp3 정신 꿰뚫기
 Cataclysm/Dungeons/GrimBatol/451395.mp3 타락
@@ -4457,6 +4458,7 @@ Shadowlands/Dungeons/MistsOfTirnaScithe/324923.mp3 가시나무 파열
 Shadowlands/Dungeons/MistsOfTirnaScithe/325021.mp3 안개장막의 틈새
 Shadowlands/Dungeons/MistsOfTirnaScithe/325224.mp3 령의 주입
 Shadowlands/Dungeons/MistsOfTirnaScithe/325418.mp3 휘발성 산
+Shadowlands/Dungeons/MistsOfTirnaScithe/326017.mp3 부패의 산
 Shadowlands/Dungeons/MistsOfTirnaScithe/326021.mp3 산성 방울
 Shadowlands/Dungeons/MistsOfTirnaScithe/326046.mp3 저항 촉진
 Shadowlands/Dungeons/MistsOfTirnaScithe/326309.mp3 부패의 산
@@ -4472,6 +4474,7 @@ Shadowlands/Dungeons/MistsOfTirnaScithe/340304.mp3 독성 분비물
 Shadowlands/Dungeons/MistsOfTirnaScithe/340305.mp3 분쇄의 도약
 Shadowlands/Dungeons/MistsOfTirnaScithe/340544.mp3 재생 촉진
 Shadowlands/Dungeons/MistsOfTirnaScithe/341709.mp3 얼음땡
+Shadowlands/Dungeons/MistsOfTirnaScithe/460092.mp3 산 회오리
 Shadowlands/Dungeons/MistsOfTirnaScithe/463217.mp3 령 베기
 Shadowlands/Dungeons/MistsOfTirnaScithe/463248.mp3 방출
 Shadowlands/Dungeons/MistsOfTirnaScithe/463256.mp3 안개 수호물
