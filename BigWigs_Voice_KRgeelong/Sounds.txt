@@ -350,6 +350,7 @@ BattleForAzeroth/Dungeons/SiegeOfBoralus/270590.mp3 선체 분쇄자
 BattleForAzeroth/Dungeons/SiegeOfBoralus/272421.mp3 발견된 대포
 BattleForAzeroth/Dungeons/SiegeOfBoralus/272546.mp3 바나나 광란
 BattleForAzeroth/Dungeons/SiegeOfBoralus/272571.mp3 숨막히는 물
+BattleForAzeroth/Dungeons/SiegeOfBoralus/272662.mp3 쇠 갈고리
 BattleForAzeroth/Dungeons/SiegeOfBoralus/272711.mp3 분쇄의 격돌
 BattleForAzeroth/Dungeons/SiegeOfBoralus/273470.mp3 복부 사격
 BattleForAzeroth/Dungeons/SiegeOfBoralus/273721.mp3 묵직한 폭탄
@@ -4669,6 +4670,7 @@ Shadowlands/Dungeons/TheNecroticWake/320200.mp3 바늘땀
 Shadowlands/Dungeons/TheNecroticWake/320358.mp3 피조물 깨우기
 Shadowlands/Dungeons/TheNecroticWake/320359.mp3 탈출
 Shadowlands/Dungeons/TheNecroticWake/320376.mp3 육체 절단
+Shadowlands/Dungeons/TheNecroticWake/320464.mp3 어둠샘
 Shadowlands/Dungeons/TheNecroticWake/320596.mp3 들썩이는 구토
 Shadowlands/Dungeons/TheNecroticWake/320630.mp3 피 포식
 Shadowlands/Dungeons/TheNecroticWake/320637.mp3 고약한 가스
@@ -5603,6 +5605,7 @@ WarWithin/Dungeons/TheStonevault/424888.mp3 지진 강타
 WarWithin/Dungeons/TheStonevault/424889.mp3 지진의 반향
 WarWithin/Dungeons/TheStonevault/424903.mp3 불안정한 쐐기
 WarWithin/Dungeons/TheStonevault/425027.mp3 지진파
+WarWithin/Dungeons/TheStonevault/425974.mp3 지면 강타
 WarWithin/Dungeons/TheStonevault/426308.mp3 공허 감염
 WarWithin/Dungeons/TheStonevault/426345.mp3 수정 연사
 WarWithin/Dungeons/TheStonevault/426771.mp3 공허의 폭풍
@@ -5629,6 +5632,9 @@ WarWithin/Dungeons/TheStonevault/449167.mp3 용암 분출
 WarWithin/Dungeons/TheStonevault/449455.mp3 공포의 울부짖음
 WarWithin/Dungeons/TheStonevault/459210.mp3 어둠의 발톱
 WarWithin/Dungeons/TheStonevault/462500.mp3 마력 깃든 강철 마력
+WarWithin/Raids/KhazAlgar/450407.mp3 육중한 격돌
+WarWithin/Raids/KhazAlgar/450454.mp3 지층 포효
+WarWithin/Raids/KhazAlgar/450677.mp3 파열하는 룬
 WarWithin/Raids/KhazAlgar/452205.mp3 수정 포화
 WarWithin/Raids/KhazAlgar/452980.mp3 공허지진
 WarWithin/Raids/KhazAlgar/453271.mp3 어둠의 각성
@@ -5709,7 +5715,6 @@ WarWithin/Raids/NerubarPalace/443203.mp3 붉은 비
 WarWithin/Raids/NerubarPalace/443325.mp3 감염
 WarWithin/Raids/NerubarPalace/443336.mp3 포식
 WarWithin/Raids/NerubarPalace/443403.mp3 암울
-WarWithin/Raids/NerubarPalace/443598.mp3 통제할 수 없는 분노
 WarWithin/Raids/NerubarPalace/443612.mp3 원한에 찬 변화
 WarWithin/Raids/NerubarPalace/443726.mp3 새끼 암영거미
 WarWithin/Raids/NerubarPalace/443842.mp3 삼키는 어둠
