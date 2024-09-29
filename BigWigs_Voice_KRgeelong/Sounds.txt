@@ -1740,6 +1740,19 @@ Classic/Raids/BlackwingLair/23341.mp3 화염 강타
 Classic/Raids/BlackwingLair/23342.mp3 격노
 Classic/Raids/BlackwingLair/23620.mp3 불타는 아드레날린
 Classic/Raids/BlackwingLair/24573.mp3 필사의 일격
+Classic/Raids/BlackwingLair/366305.mp3 전자기장
+Classic/Raids/BlackwingLair/368515.mp3 암흑의 낙인
+Classic/Raids/BlackwingLair/368521.mp3 불길의 낙인
+Classic/Raids/BlackwingLair/466357.mp3 신비의 폭탄
+Classic/Raids/BlackwingLair/466435.mp3 자연의 격노
+Classic/Raids/BlackwingLair/467732.mp3 그만!
+Classic/Raids/BlackwingLair/467764.mp3 출발!
+Classic/Raids/BlackwingLair/468195.mp3 전복!
+Classic/Raids/CrystalVale/11642.mp3 치유
+Classic/Raids/CrystalVale/465700.mp3 연쇄 번개
+Classic/Raids/CrystalVale/466211.mp3 바람의 덩굴
+Classic/Raids/CrystalVale/466774.mp3 태풍의 바람
+Classic/Raids/CrystalVale/470866.mp3 먹구름
 Classic/Raids/Gnomeregan/436695.mp3 과열
 Classic/Raids/Gnomeregan/439956.mp3 야수 되살리기
 Classic/Raids/MoltenCore/13880.mp3 뜨거운 용암
@@ -4696,6 +4709,7 @@ Shadowlands/Dungeons/TheNecroticWake/327100.mp3 맹독 안개
 Shadowlands/Dungeons/TheNecroticWake/327130.mp3 육신 수복
 Shadowlands/Dungeons/TheNecroticWake/327240.mp3 가시 분쇄
 Shadowlands/Dungeons/TheNecroticWake/327396.mp3 암울한 운명
+Shadowlands/Dungeons/TheNecroticWake/328181.mp3 혹한의 냉기
 Shadowlands/Dungeons/TheNecroticWake/328667.mp3 연발 얼음 화살
 Shadowlands/Dungeons/TheNecroticWake/333477.mp3 내장 절단
 Shadowlands/Dungeons/TheNecroticWake/333479.mp3 질병 분출
@@ -5562,6 +5576,7 @@ WarWithin/Dungeons/TheDawnbreaker/451098.mp3 엉성한 회오리
 WarWithin/Dungeons/TheDawnbreaker/451102.mp3 암흑 부패
 WarWithin/Dungeons/TheDawnbreaker/451107.mp3 폭발하는 고치
 WarWithin/Dungeons/TheDawnbreaker/451117.mp3 공포를 부르는 격돌
+WarWithin/Dungeons/TheDawnbreaker/451119.mp3 심연 작렬
 WarWithin/Dungeons/TheDawnbreaker/452127.mp3 그림자 되살리기
 WarWithin/Dungeons/TheDawnbreaker/453140.mp3 무너지는 밤
 WarWithin/Dungeons/TheDawnbreaker/453212.mp3 흑요석 광선
