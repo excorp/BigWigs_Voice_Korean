@@ -1726,6 +1726,7 @@ Classic/Raids/BlackfathomDeeps/429168.mp3 부식성 폭발
 Classic/Raids/BlackfathomDeeps/429356.mp3 공허의 폭발
 Classic/Raids/BlackwingLair/14515.mp3 정신 지배
 Classic/Raids/BlackwingLair/18173.mp3 불타는 아드레날린
+Classic/Raids/BlackwingLair/18670.mp3 날려버리기
 Classic/Raids/BlackwingLair/22539.mp3 암흑의 불길
 Classic/Raids/BlackwingLair/22667.mp3 어둠의 명령
 Classic/Raids/BlackwingLair/22686.mp3 우레와 같은 울부짖음
@@ -1741,6 +1742,10 @@ Classic/Raids/BlackwingLair/23342.mp3 격노
 Classic/Raids/BlackwingLair/23620.mp3 불타는 아드레날린
 Classic/Raids/BlackwingLair/24573.mp3 필사의 일격
 Classic/Raids/BlackwingLair/366305.mp3 전자기장
+Classic/Raids/BlackwingLair/366909.mp3 루비 불꽃
+Classic/Raids/BlackwingLair/367369.mp3 전략적 돌격
+Classic/Raids/BlackwingLair/367740.mp3 잠식의 한기
+Classic/Raids/BlackwingLair/367873.mp3 실명의 재
 Classic/Raids/BlackwingLair/368515.mp3 암흑의 낙인
 Classic/Raids/BlackwingLair/368521.mp3 불길의 낙인
 Classic/Raids/BlackwingLair/466357.mp3 신비의 폭탄
@@ -5784,7 +5789,6 @@ WarWithin/Raids/NerubarPalace/459273.mp3 우주의 파편
 WarWithin/Raids/NerubarPalace/459444.mp3 내장 과다출혈
 WarWithin/Raids/NerubarPalace/460281.mp3 불타는 분노
 WarWithin/Raids/NerubarPalace/460359.mp3 공허 퇴화
-WarWithin/Raids/NerubarPalace/462558.mp3 우주의 파열
 WarWithin/Raids/NerubarPalace/464638.mp3 거품 독소
 WarlordsOfDraenor/Dungeons/Auchindoun/153002.mp3 신성한 방패
 WarlordsOfDraenor/Dungeons/Auchindoun/153006.mp3 눈부신 광휘
