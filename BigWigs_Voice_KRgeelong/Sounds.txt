@@ -5775,6 +5775,7 @@ WarWithin/Raids/NerubarPalace/452806.mp3 산성 분출
 WarWithin/Raids/NerubarPalace/454989.mp3 휘감는 그물
 WarWithin/Raids/NerubarPalace/455287.mp3 들끓는 이빨
 WarWithin/Raids/NerubarPalace/455373.mp3 감염된 자손
+WarWithin/Raids/NerubarPalace/455374.mp3 암흑 폭파
 WarWithin/Raids/NerubarPalace/455387.mp3 심연의 반향
 WarWithin/Raids/NerubarPalace/455831.mp3 경화된 그물
 WarWithin/Raids/NerubarPalace/455849.mp3 망상의 징표
