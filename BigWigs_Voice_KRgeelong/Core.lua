@@ -30,6 +30,7 @@ zonetable[90]    = "Classic\\Raids\\Gnomeregan"
 zonetable[109]   = "Classic\\Raids\\SunkenTemple"
 zonetable[2791]  = "Classic\\Raids\\StormCliffs"
 zonetable[2789]  = "Classic\\Raids\\TheTaintedScar"
+zonetable[2804]  = "Classic\\Raids\\CrystalVale"
 
 zonetable[580]   = "BurningCrusade\\Raids\\Sunwell"
 zonetable[564]   = "BurningCrusade\\Raids\\BlackTemple"
@@ -120,7 +121,9 @@ zonetable[2569]  = "Dragonflight\\Raids\\Aberrus"
 zonetable[2549]  = "Dragonflight\\Raids\\Amirdrassil"
 
 zonetable[2657]  = "WarWithin\\Raids\\NerubarPalace"
+zonetable[-2213] = "WarWithin\\Raids\\KhazAlgar"
 zonetable[-2214] = "WarWithin\\Raids\\KhazAlgar"
+zonetable[-2215] = "WarWithin\\Raids\\KhazAlgar"
 
 
 zonetable[36]   = "Classic\\Dungeons\\Deadmines"
