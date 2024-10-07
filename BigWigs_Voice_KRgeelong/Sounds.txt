@@ -4464,6 +4464,7 @@ Shadowlands/Dungeons/MistsOfTirnaScithe/322569.mp3 트로스의 손
 Shadowlands/Dungeons/MistsOfTirnaScithe/322614.mp3 정신의 연결
 Shadowlands/Dungeons/MistsOfTirnaScithe/322654.mp3 산성 배출
 Shadowlands/Dungeons/MistsOfTirnaScithe/322938.mp3 정수 수확
+Shadowlands/Dungeons/MistsOfTirnaScithe/322968.mp3 죽음의 숨결
 Shadowlands/Dungeons/MistsOfTirnaScithe/323057.mp3 영혼의 화살
 Shadowlands/Dungeons/MistsOfTirnaScithe/323059.mp3 수풀사령관의 분노
 Shadowlands/Dungeons/MistsOfTirnaScithe/323137.mp3 혼란의 꽃가루
@@ -4480,6 +4481,7 @@ Shadowlands/Dungeons/MistsOfTirnaScithe/325418.mp3 휘발성 산
 Shadowlands/Dungeons/MistsOfTirnaScithe/326017.mp3 부패의 산
 Shadowlands/Dungeons/MistsOfTirnaScithe/326021.mp3 산성 방울
 Shadowlands/Dungeons/MistsOfTirnaScithe/326046.mp3 저항 촉진
+Shadowlands/Dungeons/MistsOfTirnaScithe/326090.mp3 독침 맹공
 Shadowlands/Dungeons/MistsOfTirnaScithe/326309.mp3 부패의 산
 Shadowlands/Dungeons/MistsOfTirnaScithe/328756.mp3 혐오스러운 형상
 Shadowlands/Dungeons/MistsOfTirnaScithe/336499.mp3 알아맞히기
@@ -5342,6 +5344,7 @@ WarWithin/Dungeons/CityOfThreads/441795.mp3 페로몬 장막
 WarWithin/Dungeons/CityOfThreads/443430.mp3 비단 결속
 WarWithin/Dungeons/CityOfThreads/443437.mp3 의심의 그림자
 WarWithin/Dungeons/CityOfThreads/443500.mp3 대지분쇄
+WarWithin/Dungeons/CityOfThreads/443507.mp3 굶주린 무리벌레
 WarWithin/Dungeons/CityOfThreads/445813.mp3 어둠의 포화
 WarWithin/Dungeons/CityOfThreads/446086.mp3 공허의 파동
 WarWithin/Dungeons/CityOfThreads/446717.mp3 암영 직조물
