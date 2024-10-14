@@ -124,7 +124,7 @@ zonetable[2657]  = "WarWithin\\Raids\\NerubarPalace"
 zonetable[-2213] = "WarWithin\\Raids\\KhazAlgar"
 zonetable[-2214] = "WarWithin\\Raids\\KhazAlgar"
 zonetable[-2215] = "WarWithin\\Raids\\KhazAlgar"
-
+zonetable[-2248] = "WarWithin\\Raids\\KhazAlgar"
 
 zonetable[36]   = "Classic\\Dungeons\\Deadmines"
 zonetable[229]  = "Classic\\Dungeons\\BlackrockSpire"

@@ -362,6 +362,7 @@ BattleForAzeroth/Dungeons/SiegeOfBoralus/276068.mp3 굽이치는 파도
 BattleForAzeroth/Dungeons/SiegeOfBoralus/277965.mp3 묵직한 폭탄
 BattleForAzeroth/Dungeons/SiegeOfBoralus/279761.mp3 묵직한 베기
 BattleForAzeroth/Dungeons/SiegeOfBoralus/454437.mp3 아제라이트 폭약
+BattleForAzeroth/Dungeons/SiegeOfBoralus/454440.mp3 고약한 구토
 BattleForAzeroth/Dungeons/SiegeOfBoralus/463182.mp3 불타는 유탄
 BattleForAzeroth/Dungeons/SiegeOfBoralus/463185.mp3 대규모 폭격
 BattleForAzeroth/Dungeons/TempleOfSethraliss/258908.mp3 폭풍의 칼날
@@ -1313,7 +1314,7 @@ Cataclysm/Dungeons/GrimBatol/451241.mp3 암흑불길 베기
 Cataclysm/Dungeons/GrimBatol/451387.mp3 승천
 Cataclysm/Dungeons/GrimBatol/451391.mp3 정신 꿰뚫기
 Cataclysm/Dungeons/GrimBatol/451395.mp3 타락
-Cataclysm/Dungeons/GrimBatol/451613.mp3 황혼의 불길
+Cataclysm/Dungeons/GrimBatol/451612.mp3 황혼의 불길
 Cataclysm/Dungeons/GrimBatol/451614.mp3 황혼의 불씨
 Cataclysm/Dungeons/GrimBatol/451871.mp3 대규모 진동
 Cataclysm/Dungeons/GrimBatol/451939.mp3 암영의 바람
@@ -1727,6 +1728,8 @@ Classic/Raids/BlackfathomDeeps/429356.mp3 공허의 폭발
 Classic/Raids/BlackwingLair/14515.mp3 정신 지배
 Classic/Raids/BlackwingLair/18173.mp3 불타는 아드레날린
 Classic/Raids/BlackwingLair/18670.mp3 날려버리기
+Classic/Raids/BlackwingLair/19717.mp3 불의 비
+Classic/Raids/BlackwingLair/22291.mp3 혈족의 힘: 청동
 Classic/Raids/BlackwingLair/22539.mp3 암흑의 불길
 Classic/Raids/BlackwingLair/22667.mp3 어둠의 명령
 Classic/Raids/BlackwingLair/22686.mp3 우레와 같은 울부짖음
@@ -1748,6 +1751,7 @@ Classic/Raids/BlackwingLair/367740.mp3 잠식의 한기
 Classic/Raids/BlackwingLair/367873.mp3 실명의 재
 Classic/Raids/BlackwingLair/368515.mp3 암흑의 낙인
 Classic/Raids/BlackwingLair/368521.mp3 불길의 낙인
+Classic/Raids/BlackwingLair/369330.mp3 불의 비
 Classic/Raids/BlackwingLair/466357.mp3 신비의 폭탄
 Classic/Raids/BlackwingLair/466435.mp3 자연의 격노
 Classic/Raids/BlackwingLair/467732.mp3 그만!
@@ -4705,7 +4709,6 @@ Shadowlands/Dungeons/TheNecroticWake/321780.mp3 망자 되살리기
 Shadowlands/Dungeons/TheNecroticWake/321894.mp3 어둠의 추방
 Shadowlands/Dungeons/TheNecroticWake/322681.mp3 고기 갈고리
 Shadowlands/Dungeons/TheNecroticWake/322756.mp3 조르라무스의 분노
-Shadowlands/Dungeons/TheNecroticWake/323190.mp3 고기 방패
 Shadowlands/Dungeons/TheNecroticWake/323347.mp3 들붙는 어둠
 Shadowlands/Dungeons/TheNecroticWake/323471.mp3 식칼 투척
 Shadowlands/Dungeons/TheNecroticWake/324293.mp3 신경을 긁는 절규
@@ -5327,6 +5330,7 @@ WarWithin/Dungeons/CityOfThreads/434722.mp3 복종
 WarWithin/Dungeons/CityOfThreads/434779.mp3 공포심
 WarWithin/Dungeons/CityOfThreads/434829.mp3 시끄러운 세뇌
 WarWithin/Dungeons/CityOfThreads/434926.mp3 잔존하는 영향력
+WarWithin/Dungeons/CityOfThreads/436205.mp3 매서운 발구르기
 WarWithin/Dungeons/CityOfThreads/437700.mp3 지진의 격돌
 WarWithin/Dungeons/CityOfThreads/438860.mp3 암영 직조물
 WarWithin/Dungeons/CityOfThreads/439341.mp3 접목
@@ -5350,8 +5354,10 @@ WarWithin/Dungeons/CityOfThreads/446086.mp3 공허의 파동
 WarWithin/Dungeons/CityOfThreads/446717.mp3 암영 직조물
 WarWithin/Dungeons/CityOfThreads/447271.mp3 지진의 격돌
 WarWithin/Dungeons/CityOfThreads/448047.mp3 거미줄 올가미
+WarWithin/Dungeons/CityOfThreads/448305.mp3 훔쳐낸 힘
 WarWithin/Dungeons/CityOfThreads/448561.mp3 의심의 그림자
 WarWithin/Dungeons/CityOfThreads/450784.mp3 향수 던지기
+WarWithin/Dungeons/CityOfThreads/451222.mp3 공허 질주
 WarWithin/Dungeons/CityOfThreads/451423.mp3 비단실 세례
 WarWithin/Dungeons/CityOfThreads/451543.mp3 무위의 격돌
 WarWithin/Dungeons/CityOfThreads/452162.mp3 치유의 거미줄
@@ -5488,6 +5494,8 @@ WarWithin/Dungeons/Delves/453937.mp3 부화 중...
 WarWithin/Dungeons/Delves/454213.mp3 진흙 돌진
 WarWithin/Dungeons/Delves/454762.mp3 어둠의 경감
 WarWithin/Dungeons/Delves/455932.mp3 모독의 숨결
+WarWithin/Dungeons/Delves/457448.mp3 암흑 분출
+WarWithin/Dungeons/Delves/457880.mp3 승천
 WarWithin/Dungeons/Delves/458090.mp3 공허 베기
 WarWithin/Dungeons/Delves/458099.mp3 휘감는 어둠
 WarWithin/Dungeons/Delves/458104.mp3 맹독 연사
@@ -5506,6 +5514,7 @@ WarWithin/Dungeons/Delves/461741.mp3 신성화
 WarWithin/Dungeons/Delves/462686.mp3 해골 분쇄자
 WarWithin/Dungeons/Delves/463408.mp3 냉기 주입
 WarWithin/Dungeons/Delves/470582.mp3 늪지 화살
+WarWithin/Dungeons/Delves/zekvir_breach.mp3 제크비르 등장
 WarWithin/Dungeons/PrioryOfTheSacredFlame/422969.mp3 응징의 천벌
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423015.mp3 징벌자의 보호막
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423051.mp3 타오르는 빛
@@ -5658,6 +5667,7 @@ WarWithin/Dungeons/TheStonevault/462500.mp3 마력 깃든 강철 마력
 WarWithin/Raids/KhazAlgar/450407.mp3 육중한 격돌
 WarWithin/Raids/KhazAlgar/450454.mp3 지층 포효
 WarWithin/Raids/KhazAlgar/450677.mp3 파열하는 룬
+WarWithin/Raids/KhazAlgar/450929.mp3 산의 손아귀
 WarWithin/Raids/KhazAlgar/452205.mp3 수정 포화
 WarWithin/Raids/KhazAlgar/452980.mp3 공허지진
 WarWithin/Raids/KhazAlgar/453271.mp3 어둠의 각성
@@ -5666,6 +5676,11 @@ WarWithin/Raids/KhazAlgar/453618.mp3 심연의 일격
 WarWithin/Raids/KhazAlgar/453733.mp3 소금물 구토
 WarWithin/Raids/KhazAlgar/453875.mp3 영혼 역류
 WarWithin/Raids/KhazAlgar/455275.mp3 검은 해일
+WarWithin/Raids/KhazAlgar/458329.mp3 티탄의 강타
+WarWithin/Raids/KhazAlgar/458423.mp3 비전 폭격
+WarWithin/Raids/KhazAlgar/458695.mp3 과충전된 레이저
+WarWithin/Raids/KhazAlgar/458799.mp3 과충전된 대지
+WarWithin/Raids/KhazAlgar/458838.mp3 억압의 파열
 WarWithin/Raids/NerubarPalace/432969.mp3 위상 달려들기
 WarWithin/Raids/NerubarPalace/434697.mp3 무자비한 으깨기
 WarWithin/Raids/NerubarPalace/434705.mp3 연질화
