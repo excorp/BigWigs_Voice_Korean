@@ -5346,6 +5346,7 @@ WarWithin/Dungeons/CityOfThreads/441384.mp3 협응보
 WarWithin/Dungeons/CityOfThreads/441395.mp3 암흑 파동
 WarWithin/Dungeons/CityOfThreads/441795.mp3 페로몬 장막
 WarWithin/Dungeons/CityOfThreads/443430.mp3 비단 결속
+WarWithin/Dungeons/CityOfThreads/443433.mp3 생각 뒤틀기
 WarWithin/Dungeons/CityOfThreads/443437.mp3 의심의 그림자
 WarWithin/Dungeons/CityOfThreads/443500.mp3 대지분쇄
 WarWithin/Dungeons/CityOfThreads/443507.mp3 굶주린 무리벌레
