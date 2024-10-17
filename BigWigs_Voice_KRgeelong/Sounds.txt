@@ -326,6 +326,7 @@ BattleForAzeroth/Dungeons/SiegeOfBoralus/256640.mp3 불타는 타르
 BattleForAzeroth/Dungeons/SiegeOfBoralus/256957.mp3 방수 껍질
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257169.mp3 공포의 포효
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257170.mp3 맹렬한 폭풍우
+BattleForAzeroth/Dungeons/SiegeOfBoralus/257270.mp3 강철 매복
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257288.mp3 묵직한 베기
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257326.mp3 피투성이 충돌
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257348.mp3 고기 갈고리
