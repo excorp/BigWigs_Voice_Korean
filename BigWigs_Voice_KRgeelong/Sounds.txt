@@ -5398,8 +5398,10 @@ WarWithin/Dungeons/DarkflameCleft/428650.mp3 불타는 반발력
 WarWithin/Dungeons/DarkflameCleft/440652.mp3 몰아치는 밀랍
 WarWithin/Dungeons/DarkflameCleft/443835.mp3 타오르는 폭풍
 WarWithin/Dungeons/DarkflameCleft/minecart.mp3 광산 카트 미니게임
+WarWithin/Dungeons/Delves/359016.mp3 날렵함
 WarWithin/Dungeons/Delves/372529.mp3 흉측한 웃음
 WarWithin/Dungeons/Delves/374898.mp3 격노
+WarWithin/Dungeons/Delves/390943.mp3 전기 재앙
 WarWithin/Dungeons/Delves/400335.mp3 쐐기 덫
 WarWithin/Dungeons/Delves/414944.mp3 전투의 포효
 WarWithin/Dungeons/Delves/415250.mp3 진균 꽃송이
@@ -5516,6 +5518,7 @@ WarWithin/Dungeons/Delves/461741.mp3 신성화
 WarWithin/Dungeons/Delves/462686.mp3 해골 분쇄자
 WarWithin/Dungeons/Delves/463408.mp3 냉기 주입
 WarWithin/Dungeons/Delves/470582.mp3 늪지 화살
+WarWithin/Dungeons/Delves/470612.mp3 부식 담즙
 WarWithin/Dungeons/Delves/zekvir_breach.mp3 제크비르 등장
 WarWithin/Dungeons/PrioryOfTheSacredFlame/422969.mp3 응징의 천벌
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423015.mp3 징벌자의 보호막
