@@ -4698,8 +4698,10 @@ Shadowlands/Dungeons/TheNecroticWake/320376.mp3 육체 절단
 Shadowlands/Dungeons/TheNecroticWake/320464.mp3 어둠샘
 Shadowlands/Dungeons/TheNecroticWake/320596.mp3 들썩이는 구토
 Shadowlands/Dungeons/TheNecroticWake/320630.mp3 피 포식
+Shadowlands/Dungeons/TheNecroticWake/320631.mp3 오물 분출
 Shadowlands/Dungeons/TheNecroticWake/320637.mp3 고약한 가스
 Shadowlands/Dungeons/TheNecroticWake/320655.mp3 와그작
+Shadowlands/Dungeons/TheNecroticWake/320696.mp3 뼈다귀 발톱
 Shadowlands/Dungeons/TheNecroticWake/320772.mp3 혜성 폭풍
 Shadowlands/Dungeons/TheNecroticWake/320788.mp3 얼어붙은 구속
 Shadowlands/Dungeons/TheNecroticWake/320822.mp3 마지막 거래
@@ -4713,6 +4715,7 @@ Shadowlands/Dungeons/TheNecroticWake/322756.mp3 조르라무스의 분노
 Shadowlands/Dungeons/TheNecroticWake/323347.mp3 들붙는 어둠
 Shadowlands/Dungeons/TheNecroticWake/323471.mp3 식칼 투척
 Shadowlands/Dungeons/TheNecroticWake/324293.mp3 신경을 긁는 절규
+Shadowlands/Dungeons/TheNecroticWake/324323.mp3 소름 끼치는 회전베기
 Shadowlands/Dungeons/TheNecroticWake/324372.mp3 수확의 바람
 Shadowlands/Dungeons/TheNecroticWake/324387.mp3 혹한의 가시
 Shadowlands/Dungeons/TheNecroticWake/324394.mp3 분쇄
@@ -5268,8 +5271,10 @@ WarWithin/Dungeons/AraKara/432117.mp3 우주의 특이점
 WarWithin/Dungeons/AraKara/432130.mp3 분출하는 그물
 WarWithin/Dungeons/AraKara/432227.mp3 맹독 연사
 WarWithin/Dungeons/AraKara/432967.mp3 경고의 괴성
+WarWithin/Dungeons/AraKara/433002.mp3 적출의 일격
 WarWithin/Dungeons/AraKara/433740.mp3 들끓는 해충
 WarWithin/Dungeons/AraKara/433766.mp3 무리의 눈
+WarWithin/Dungeons/AraKara/433785.mp3 휘감는 칼날
 WarWithin/Dungeons/AraKara/433841.mp3 맹독 연사
 WarWithin/Dungeons/AraKara/433845.mp3 분출하는 그물
 WarWithin/Dungeons/AraKara/434252.mp3 거대한 격돌
@@ -5362,6 +5367,7 @@ WarWithin/Dungeons/CityOfThreads/450784.mp3 향수 던지기
 WarWithin/Dungeons/CityOfThreads/451222.mp3 공허 질주
 WarWithin/Dungeons/CityOfThreads/451423.mp3 비단실 세례
 WarWithin/Dungeons/CityOfThreads/451543.mp3 무위의 격돌
+WarWithin/Dungeons/CityOfThreads/452151.mp3 강건한 지르기
 WarWithin/Dungeons/CityOfThreads/452162.mp3 치유의 거미줄
 WarWithin/Dungeons/CityOfThreads/458741.mp3 꽁꽁 얼리기
 WarWithin/Dungeons/CityOfThreads/461825.mp3 검은 피
@@ -5597,6 +5603,7 @@ WarWithin/Dungeons/TheDawnbreaker/451097.mp3 비단 껍질
 WarWithin/Dungeons/TheDawnbreaker/451098.mp3 엉성한 회오리
 WarWithin/Dungeons/TheDawnbreaker/451102.mp3 암흑 부패
 WarWithin/Dungeons/TheDawnbreaker/451107.mp3 폭발하는 고치
+WarWithin/Dungeons/TheDawnbreaker/451112.mp3 전술가의 분노
 WarWithin/Dungeons/TheDawnbreaker/451117.mp3 공포를 부르는 격돌
 WarWithin/Dungeons/TheDawnbreaker/451119.mp3 심연 작렬
 WarWithin/Dungeons/TheDawnbreaker/452127.mp3 그림자 되살리기
