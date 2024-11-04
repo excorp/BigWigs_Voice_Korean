@@ -1647,6 +1647,29 @@ Classic/Dungeons/DemonFallCanyon/460756.mp3 수면
 Classic/Dungeons/DemonFallCanyon/460766.mp3 광전사 돌진
 Classic/Dungeons/DemonFallCanyon/462226.mp3 파괴자의 황폐
 Classic/Dungeons/DemonFallCanyon/462250.mp3 고통의 저주
+Classic/Dungeons/ZulFarrak/11020.mp3 석화
+Classic/Dungeons/ZulFarrak/11086.mp3 줌라의 수호물
+Classic/Dungeons/ZulFarrak/11836.mp3 꽁꽁 얼리기
+Classic/Dungeons/ZulFarrak/11894.mp3 안투술의 종복
+Classic/Dungeons/ZulFarrak/11895.mp3 안투술의 치유의 물결
+Classic/Dungeons/ZulFarrak/11899.mp3 치유의 수호물
+Classic/Dungeons/ZulFarrak/11902.mp3 가즈릴라 격돌
+Classic/Dungeons/ZulFarrak/12039.mp3 치유
+Classic/Dungeons/ZulFarrak/12491.mp3 치유의 물결
+Classic/Dungeons/ZulFarrak/13704.mp3 영혼의 절규
+Classic/Dungeons/ZulFarrak/15245.mp3 연발 어둠의 화살
+Classic/Dungeons/ZulFarrak/15496.mp3 회전베기
+Classic/Dungeons/ZulFarrak/15654.mp3 어둠의 권능: 고통
+Classic/Dungeons/ZulFarrak/15982.mp3 치유의 물결
+Classic/Dungeons/ZulFarrak/16006.mp3 연쇄 번개
+Classic/Dungeons/ZulFarrak/17228.mp3 연발 어둠의 화살
+Classic/Dungeons/ZulFarrak/450933.mp3 희생의 저주
+Classic/Dungeons/ZulFarrak/454632.mp3 격노
+Classic/Dungeons/ZulFarrak/78802.mp3 밀어닥치는 파도
+Classic/Dungeons/ZulFarrak/8269.mp3 광기
+Classic/Dungeons/ZulFarrak/8362.mp3 소생
+Classic/Dungeons/ZulFarrak/8376.mp3 구속의 토템
+Classic/Dungeons/ZulFarrak/8600.mp3 고열의 역병
 Classic/Raids/AQ20/14297.mp3 암흑 폭풍
 Classic/Raids/AQ20/17742.mp3 질병 구름
 Classic/Raids/AQ20/22997.mp3 역병
@@ -5581,6 +5604,7 @@ WarWithin/Dungeons/TheDawnbreaker/431349.mp3 고통스러운 분출
 WarWithin/Dungeons/TheDawnbreaker/431364.mp3 고통의 광선
 WarWithin/Dungeons/TheDawnbreaker/431491.mp3 오염된 베기
 WarWithin/Dungeons/TheDawnbreaker/431494.mp3 검은 칼날
+WarWithin/Dungeons/TheDawnbreaker/431637.mp3 암영의 질주
 WarWithin/Dungeons/TheDawnbreaker/432448.mp3 저승의 씨앗
 WarWithin/Dungeons/TheDawnbreaker/432520.mp3 암영 방벽
 WarWithin/Dungeons/TheDawnbreaker/432565.mp3 검은 우박
