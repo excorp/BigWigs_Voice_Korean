@@ -1151,8 +1151,8 @@ BurningCrusade/Dungeons/TheSteamvault/36453.mp3 장군의 분노
 BurningCrusade/Dungeons/TheUnderbog/15716.mp3 격노
 BurningCrusade/Dungeons/TheUnderbog/31429.mp3 울려퍼지는 고함
 BurningCrusade/Dungeons/TheUnderbog/31615.mp3 사냥꾼의 징표
-BurningCrusade/Dungeons/TheUnderbog/31689.mp3 포자 구름
 BurningCrusade/Dungeons/TheUnderbog/31715.mp3 전하 충전
+BurningCrusade/Dungeons/TheUnderbog/34168.mp3 포자 구름
 BurningCrusade/Dungeons/TheUnderbog/34268.mp3 산성 숨결
 BurningCrusade/Dungeons/TheUnderbog/34971.mp3 광기
 BurningCrusade/Dungeons/TheUnderbog/38737.mp3 꼬리 휩쓸기
