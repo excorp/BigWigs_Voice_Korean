@@ -1647,6 +1647,50 @@ Classic/Dungeons/DemonFallCanyon/460756.mp3 수면
 Classic/Dungeons/DemonFallCanyon/460766.mp3 광전사 돌진
 Classic/Dungeons/DemonFallCanyon/462226.mp3 파괴자의 황폐
 Classic/Dungeons/DemonFallCanyon/462250.mp3 고통의 저주
+Classic/Dungeons/Stratholme/10101.mp3 날려버리기
+Classic/Dungeons/Stratholme/10887.mp3 고철 압축
+Classic/Dungeons/Stratholme/110762.mp3 날려버리기
+Classic/Dungeons/Stratholme/12021.mp3 시선 고정
+Classic/Dungeons/Stratholme/12098.mp3 수면
+Classic/Dungeons/Stratholme/122832.mp3 무자비한 고뇌
+Classic/Dungeons/Stratholme/12734.mp3 지표 붕괴
+Classic/Dungeons/Stratholme/12741.mp3 무력화 저주
+Classic/Dungeons/Stratholme/13704.mp3 영혼의 절규
+Classic/Dungeons/Stratholme/14099.mp3 강력한 일격
+Classic/Dungeons/Stratholme/14907.mp3 얼음 회오리
+Classic/Dungeons/Stratholme/15493.mp3 성스러운 빛
+Classic/Dungeons/Stratholme/16172.mp3 머리 강타
+Classic/Dungeons/Stratholme/16244.mp3 사기의 외침
+Classic/Dungeons/Stratholme/16791.mp3 휘몰아치는 분노
+Classic/Dungeons/Stratholme/16798.mp3 마법의 자장가
+Classic/Dungeons/Stratholme/16867.mp3 밴시의 저주
+Classic/Dungeons/Stratholme/16869.mp3 얼음 무덤
+Classic/Dungeons/Stratholme/17228.mp3 연발 어둠의 화살
+Classic/Dungeons/Stratholme/17235.mp3 언데드 쇠똥구리 불러내기
+Classic/Dungeons/Stratholme/17244.mp3 빙의
+Classic/Dungeons/Stratholme/17274.mp3 불덩이 작렬
+Classic/Dungeons/Stratholme/17279.mp3 되살아난 소총병 소환
+Classic/Dungeons/Stratholme/17286.mp3 십자군의 망치
+Classic/Dungeons/Stratholme/17287.mp3 정신 분열
+Classic/Dungeons/Stratholme/17293.mp3 불타는 바람
+Classic/Dungeons/Stratholme/17307.mp3 밀쳐내기
+Classic/Dungeons/Stratholme/17366.mp3 불꽃 회오리
+Classic/Dungeons/Stratholme/17405.mp3 지배
+Classic/Dungeons/Stratholme/17434.mp3 암흑 폭탄
+Classic/Dungeons/Stratholme/17470.mp3 탐욕의 발톱
+Classic/Dungeons/Stratholme/17473.mp3 시체 되살리기
+Classic/Dungeons/Stratholme/17620.mp3 생명력 흡수
+Classic/Dungeons/Stratholme/18327.mp3 침묵
+Classic/Dungeons/Stratholme/33975.mp3 불덩이 작렬
+Classic/Dungeons/Stratholme/452927.mp3 암흑 충격
+Classic/Dungeons/Stratholme/452928.mp3 수면
+Classic/Dungeons/Stratholme/455596.mp3 강력한 돌격
+Classic/Dungeons/Stratholme/4962.mp3 거미줄 휘감기
+Classic/Dungeons/Stratholme/5568.mp3 밟아 뭉개기
+Classic/Dungeons/Stratholme/6016.mp3 방어구 관통
+Classic/Dungeons/Stratholme/6253.mp3 손등치기
+Classic/Dungeons/Stratholme/80750.mp3 정신 분열
+Classic/Dungeons/Stratholme/8599.mp3 격노
 Classic/Dungeons/ZulFarrak/11020.mp3 석화
 Classic/Dungeons/ZulFarrak/11086.mp3 줌라의 수호물
 Classic/Dungeons/ZulFarrak/11836.mp3 꽁꽁 얼리기
