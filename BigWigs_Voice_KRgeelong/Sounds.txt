@@ -321,9 +321,11 @@ BattleForAzeroth/Dungeons/ShrineOfTheStorm/276265.mp3 신속함
 BattleForAzeroth/Dungeons/ShrineOfTheStorm/276268.mp3 융기의 강타
 BattleForAzeroth/Dungeons/ShrineOfTheStorm/276292.mp3 소용돌이 격돌
 BattleForAzeroth/Dungeons/ShrineOfTheStorm/276297.mp3 공허의 씨앗
+BattleForAzeroth/Dungeons/SiegeOfBoralus/256616.mp3 이빨 분쇄자
 BattleForAzeroth/Dungeons/SiegeOfBoralus/256627.mp3 격렬한 충돌
 BattleForAzeroth/Dungeons/SiegeOfBoralus/256640.mp3 불타는 타르
 BattleForAzeroth/Dungeons/SiegeOfBoralus/256957.mp3 방수 껍질
+BattleForAzeroth/Dungeons/SiegeOfBoralus/257168.mp3 저주받은 베기
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257169.mp3 공포의 포효
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257170.mp3 맹렬한 폭풍우
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257270.mp3 강철 매복
@@ -1312,6 +1314,7 @@ Cataclysm/Dungeons/GrimBatol/450095.mp3 혼돈의 저주
 Cataclysm/Dungeons/GrimBatol/450100.mp3 분쇄
 Cataclysm/Dungeons/GrimBatol/451224.mp3 뒤덮는 암흑불길
 Cataclysm/Dungeons/GrimBatol/451241.mp3 암흑불길 베기
+Cataclysm/Dungeons/GrimBatol/451378.mp3 쪼개기
 Cataclysm/Dungeons/GrimBatol/451387.mp3 승천
 Cataclysm/Dungeons/GrimBatol/451391.mp3 정신 꿰뚫기
 Cataclysm/Dungeons/GrimBatol/451395.mp3 타락
@@ -4776,6 +4779,7 @@ Shadowlands/Dungeons/TheNecroticWake/321226.mp3 망자의 땅
 Shadowlands/Dungeons/TheNecroticWake/321247.mp3 마지막 수확
 Shadowlands/Dungeons/TheNecroticWake/321368.mp3 얼음결속 아이기스
 Shadowlands/Dungeons/TheNecroticWake/321780.mp3 망자 되살리기
+Shadowlands/Dungeons/TheNecroticWake/321807.mp3 뼈 채찍
 Shadowlands/Dungeons/TheNecroticWake/321894.mp3 어둠의 추방
 Shadowlands/Dungeons/TheNecroticWake/322681.mp3 고기 갈고리
 Shadowlands/Dungeons/TheNecroticWake/322756.mp3 조르라무스의 분노
