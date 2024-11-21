@@ -5786,6 +5786,7 @@ WarWithin/Raids/NerubarPalace/437417.mp3 맹독 회오리
 WarWithin/Raids/NerubarPalace/437592.mp3 반응성 독소
 WarWithin/Raids/NerubarPalace/437620.mp3 황천의 균열
 WarWithin/Raids/NerubarPalace/438012.mp3 굶주린 고함
+WarWithin/Raids/NerubarPalace/438218.mp3 관통의 일격
 WarWithin/Raids/NerubarPalace/438245.mp3 황혼의 대학살
 WarWithin/Raids/NerubarPalace/438355.mp3 대격변의 혼돈
 WarWithin/Raids/NerubarPalace/438481.mp3 독성 파도
