@@ -1314,6 +1314,7 @@ Cataclysm/Dungeons/GrimBatol/450095.mp3 혼돈의 저주
 Cataclysm/Dungeons/GrimBatol/450100.mp3 분쇄
 Cataclysm/Dungeons/GrimBatol/451224.mp3 뒤덮는 암흑불길
 Cataclysm/Dungeons/GrimBatol/451241.mp3 암흑불길 베기
+Cataclysm/Dungeons/GrimBatol/451364.mp3 무자비한 일격
 Cataclysm/Dungeons/GrimBatol/451378.mp3 쪼개기
 Cataclysm/Dungeons/GrimBatol/451387.mp3 승천
 Cataclysm/Dungeons/GrimBatol/451391.mp3 정신 꿰뚫기
@@ -5422,6 +5423,7 @@ WarWithin/Dungeons/CityOfThreads/441298.mp3 얼어붙는 피
 WarWithin/Dungeons/CityOfThreads/441384.mp3 협응보
 WarWithin/Dungeons/CityOfThreads/441395.mp3 암흑 파동
 WarWithin/Dungeons/CityOfThreads/441795.mp3 페로몬 장막
+WarWithin/Dungeons/CityOfThreads/443397.mp3 맹독 일격
 WarWithin/Dungeons/CityOfThreads/443430.mp3 비단 결속
 WarWithin/Dungeons/CityOfThreads/443433.mp3 생각 뒤틀기
 WarWithin/Dungeons/CityOfThreads/443437.mp3 의심의 그림자
@@ -5733,6 +5735,7 @@ WarWithin/Dungeons/TheStonevault/428508.mp3 해체 작업
 WarWithin/Dungeons/TheStonevault/428703.mp3 화강암 분출
 WarWithin/Dungeons/TheStonevault/428711.mp3 타오르는 망치
 WarWithin/Dungeons/TheStonevault/428879.mp3 바위 강타
+WarWithin/Dungeons/TheStonevault/428894.mp3 바위파괴자 강타
 WarWithin/Dungeons/TheStonevault/429109.mp3 금속 복원
 WarWithin/Dungeons/TheStonevault/429427.mp3 대지 파열 토템
 WarWithin/Dungeons/TheStonevault/429545.mp3 장비 검열
@@ -5790,6 +5793,7 @@ WarWithin/Raids/NerubarPalace/438656.mp3 맹독의 비
 WarWithin/Raids/NerubarPalace/438657.mp3 육중한 내장
 WarWithin/Raids/NerubarPalace/438677.mp3 독침벌레 떼
 WarWithin/Raids/NerubarPalace/438696.mp3 검은 피고름
+WarWithin/Raids/NerubarPalace/438749.mp3 딱정벌레 시선 고정
 WarWithin/Raids/NerubarPalace/438801.mp3 무리의 부름
 WarWithin/Raids/NerubarPalace/438976.mp3 군주의 규탄
 WarWithin/Raids/NerubarPalace/439037.mp3 할복
