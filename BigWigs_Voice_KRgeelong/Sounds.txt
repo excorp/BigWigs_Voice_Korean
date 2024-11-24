@@ -324,6 +324,7 @@ BattleForAzeroth/Dungeons/ShrineOfTheStorm/276297.mp3 공허의 씨앗
 BattleForAzeroth/Dungeons/SiegeOfBoralus/256616.mp3 이빨 분쇄자
 BattleForAzeroth/Dungeons/SiegeOfBoralus/256627.mp3 격렬한 충돌
 BattleForAzeroth/Dungeons/SiegeOfBoralus/256640.mp3 불타는 타르
+BattleForAzeroth/Dungeons/SiegeOfBoralus/256709.mp3 노래하는 강철
 BattleForAzeroth/Dungeons/SiegeOfBoralus/256957.mp3 방수 껍질
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257168.mp3 저주받은 베기
 BattleForAzeroth/Dungeons/SiegeOfBoralus/257169.mp3 공포의 포효
@@ -353,6 +354,7 @@ BattleForAzeroth/Dungeons/SiegeOfBoralus/270590.mp3 선체 분쇄자
 BattleForAzeroth/Dungeons/SiegeOfBoralus/272421.mp3 발견된 대포
 BattleForAzeroth/Dungeons/SiegeOfBoralus/272546.mp3 바나나 광란
 BattleForAzeroth/Dungeons/SiegeOfBoralus/272571.mp3 숨막히는 물
+BattleForAzeroth/Dungeons/SiegeOfBoralus/272588.mp3 썩어가는 상처
 BattleForAzeroth/Dungeons/SiegeOfBoralus/272662.mp3 쇠 갈고리
 BattleForAzeroth/Dungeons/SiegeOfBoralus/272711.mp3 분쇄의 격돌
 BattleForAzeroth/Dungeons/SiegeOfBoralus/273470.mp3 복부 사격
