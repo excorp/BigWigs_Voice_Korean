@@ -6411,9 +6411,9 @@ WrathOfTheLichKing/Dungeons/Gundrak/59451.mp3 모조 웅덩이
 WrathOfTheLichKing/Dungeons/Gundrak/59825.mp3 소용돌이 베기
 WrathOfTheLichKing/Dungeons/Gundrak/59827.mp3 관통의 돌진
 WrathOfTheLichKing/Dungeons/Gundrak/59842.mp3 독 회오리
+WrathOfTheLichKing/Dungeons/HallsOfLightning/52658.mp3 전하 과부하
 WrathOfTheLichKing/Dungeons/HallsOfLightning/52770.mp3 분산
 WrathOfTheLichKing/Dungeons/HallsOfLightning/59165.mp3 수면
-WrathOfTheLichKing/Dungeons/HallsOfLightning/59795.mp3 전하 과부하
 WrathOfTheLichKing/Dungeons/HallsOfLightning/59835.mp3 번개 회오리
 WrathOfTheLichKing/Dungeons/HallsOfLightning/61581.mp3 충만한 질풍
 WrathOfTheLichKing/Dungeons/HallsOfReflection/72426.mp3 임박한 절망
