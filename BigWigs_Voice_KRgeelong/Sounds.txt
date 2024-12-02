@@ -1653,6 +1653,49 @@ Classic/Dungeons/DemonFallCanyon/460756.mp3 수면
 Classic/Dungeons/DemonFallCanyon/460766.mp3 광전사 돌진
 Classic/Dungeons/DemonFallCanyon/462226.mp3 파괴자의 황폐
 Classic/Dungeons/DemonFallCanyon/462250.mp3 고통의 저주
+Classic/Dungeons/DireMaul/10101.mp3 날려버리기
+Classic/Dungeons/DireMaul/11962.mp3 제물
+Classic/Dungeons/DireMaul/11972.mp3 방패 가격
+Classic/Dungeons/DireMaul/13338.mp3 언어의 저주
+Classic/Dungeons/DireMaul/14516.mp3 일격
+Classic/Dungeons/DireMaul/15572.mp3 방어구 가르기
+Classic/Dungeons/DireMaul/15578.mp3 소용돌이
+Classic/Dungeons/DireMaul/15744.mp3 화염 폭풍
+Classic/Dungeons/DireMaul/15749.mp3 방패 돌격
+Classic/Dungeons/DireMaul/16247.mp3 가시의 저주
+Classic/Dungeons/DireMaul/16727.mp3 전투 발구르기
+Classic/Dungeons/DireMaul/16740.mp3 전투 발구르기
+Classic/Dungeons/DireMaul/16856.mp3 필사의 일격
+Classic/Dungeons/DireMaul/17228.mp3 연발 어둠의 화살
+Classic/Dungeons/DireMaul/22415.mp3 휘감는 뿌리
+Classic/Dungeons/DireMaul/22419.mp3 성난 해일
+Classic/Dungeons/DireMaul/22421.mp3 용천수
+Classic/Dungeons/DireMaul/22478.mp3 격렬한 고통
+Classic/Dungeons/DireMaul/22651.mp3 희생
+Classic/Dungeons/DireMaul/22661.mp3 무기력
+Classic/Dungeons/DireMaul/22662.mp3 부패
+Classic/Dungeons/DireMaul/22689.mp3 짓이기기
+Classic/Dungeons/DireMaul/22710.mp3 거대화
+Classic/Dungeons/DireMaul/22713.mp3 화염 강타
+Classic/Dungeons/DireMaul/22714.mp3 하급 물의 정령 소환
+Classic/Dungeons/DireMaul/22833.mp3 위액 뱉기
+Classic/Dungeons/DireMaul/22835.mp3 술 취한 분노
+Classic/Dungeons/DireMaul/22886.mp3 광전사 돌진
+Classic/Dungeons/DireMaul/22899.mp3 이몰타르의 눈
+Classic/Dungeons/DireMaul/22910.mp3 제물의 덫
+Classic/Dungeons/DireMaul/22911.mp3 돌진
+Classic/Dungeons/DireMaul/22914.mp3 충격포
+Classic/Dungeons/DireMaul/22917.mp3 어둠의 형상
+Classic/Dungeons/DireMaul/22924.mp3 휘감는 덩굴
+Classic/Dungeons/DireMaul/22950.mp3 이몰타르의 문
+Classic/Dungeons/DireMaul/22994.mp3 휘감기
+Classic/Dungeons/DireMaul/22995.mp3 소환
+Classic/Dungeons/DireMaul/30933.mp3 연발 사격
+Classic/Dungeons/DireMaul/451127.mp3 이몰타르의 눈
+Classic/Dungeons/DireMaul/67037.mp3 소용돌이치는 일격
+Classic/Dungeons/DireMaul/7645.mp3 정신 지배
+Classic/Dungeons/DireMaul/7948.mp3 야생의 회복력
+Classic/Dungeons/DireMaul/8269.mp3 광기
 Classic/Dungeons/Stratholme/10101.mp3 날려버리기
 Classic/Dungeons/Stratholme/10887.mp3 고철 압축
 Classic/Dungeons/Stratholme/110762.mp3 날려버리기
@@ -5475,7 +5518,10 @@ WarWithin/Dungeons/DarkflameCleft/427011.mp3 암흑돌풍
 WarWithin/Dungeons/DarkflameCleft/427025.mp3 암영 베기
 WarWithin/Dungeons/DarkflameCleft/427157.mp3 어둠살이 부르기
 WarWithin/Dungeons/DarkflameCleft/427176.mp3 빛 흡수
+WarWithin/Dungeons/DarkflameCleft/428019.mp3 발화점
+WarWithin/Dungeons/DarkflameCleft/428066.mp3 제압의 포효
 WarWithin/Dungeons/DarkflameCleft/428650.mp3 불타는 반발력
+WarWithin/Dungeons/DarkflameCleft/430171.mp3 담금질 작렬
 WarWithin/Dungeons/DarkflameCleft/440652.mp3 몰아치는 밀랍
 WarWithin/Dungeons/DarkflameCleft/443835.mp3 타오르는 폭풍
 WarWithin/Dungeons/DarkflameCleft/minecart.mp3 광산 카트 미니게임
@@ -5615,6 +5661,7 @@ WarWithin/Dungeons/PrioryOfTheSacredFlame/424429.mp3 신성화
 WarWithin/Dungeons/PrioryOfTheSacredFlame/424431.mp3 신성한 광휘
 WarWithin/Dungeons/PrioryOfTheSacredFlame/424462.mp3 불씨 폭풍
 WarWithin/Dungeons/PrioryOfTheSacredFlame/424621.mp3 무자비한 강타
+WarWithin/Dungeons/PrioryOfTheSacredFlame/426964.mp3 필사의 일격
 WarWithin/Dungeons/PrioryOfTheSacredFlame/427342.mp3 방어
 WarWithin/Dungeons/PrioryOfTheSacredFlame/427346.mp3 내면의 빛
 WarWithin/Dungeons/PrioryOfTheSacredFlame/427356.mp3 상급 치유
@@ -5636,6 +5683,7 @@ WarWithin/Dungeons/PrioryOfTheSacredFlame/448485.mp3 방패 밀쳐내기
 WarWithin/Dungeons/PrioryOfTheSacredFlame/448492.mp3 천둥벼락
 WarWithin/Dungeons/PrioryOfTheSacredFlame/448515.mp3 천상의 심판
 WarWithin/Dungeons/PrioryOfTheSacredFlame/451605.mp3 신성한 불길
+WarWithin/Dungeons/PrioryOfTheSacredFlame/453458.mp3 마름쇠 덫
 WarWithin/Dungeons/Scenarios/462802.mp3 정화의 불길
 WarWithin/Dungeons/Scenarios/462826.mp3 자폭
 WarWithin/Dungeons/Scenarios/462856.mp3 무효화의 장벽
