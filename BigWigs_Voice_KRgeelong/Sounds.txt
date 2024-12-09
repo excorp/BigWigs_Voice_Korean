@@ -1787,6 +1787,7 @@ Classic/Raids/AQ20/26527.mp3 광기
 Classic/Raids/AQ20/26550.mp3 번개 구름
 Classic/Raids/AQ20/8269.mp3 광기
 Classic/Raids/AQ20/8732.mp3 천둥벼락
+Classic/Raids/AQ40/1215744.mp3 맹목적인 추종
 Classic/Raids/AQ40/20449.mp3 순간이동
 Classic/Raids/AQ40/25646.mp3 죽음의 상처
 Classic/Raids/AQ40/25698.mp3 폭파
@@ -1952,6 +1953,17 @@ Classic/Raids/Naxxramas/29484.mp3 거미줄 뿌리기
 Classic/Raids/Naxxramas/29685.mp3 공포의 포효
 Classic/Raids/Naxxramas/29998.mp3 노쇠의 열병
 Classic/Raids/Naxxramas/30281.mp3 저주 해제
+Classic/Raids/NightmareGrove/1213155.mp3 급성 전염병
+Classic/Raids/NightmareGrove/1213169.mp3 포자 구름
+Classic/Raids/NightmareGrove/1213170.mp3 산성 숨결
+Classic/Raids/NightmareGrove/1214002.mp3 정령 유인
+Classic/Raids/NightmareGrove/1214008.mp3 타에라의 망령 소환
+Classic/Raids/NightmareGrove/1214136.mp3 분리되는 번개
+Classic/Raids/NightmareGrove/24795.mp3 실성한 드루이드 영혼 소환
+Classic/Raids/NightmareGrove/24814.mp3 졸음 안개
+Classic/Raids/NightmareGrove/24818.mp3 산성 숨결
+Classic/Raids/NightmareGrove/24821.mp3 어둠의 화살 소용돌이
+Classic/Raids/NightmareGrove/24910.mp3 대지의 오염
 Classic/Raids/Onyxia/17086.mp3 화염 숨결
 Classic/Raids/Onyxia/18392.mp3 화염구
 Classic/Raids/Onyxia/18431.mp3 우레와 같은 울부짖음
