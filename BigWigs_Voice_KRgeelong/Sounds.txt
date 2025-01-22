@@ -403,12 +403,14 @@ BattleForAzeroth/Dungeons/TheMotherlode/257337.mp3 충격 발톱
 BattleForAzeroth/Dungeons/TheMotherlode/257582.mp3 분노의 시선
 BattleForAzeroth/Dungeons/TheMotherlode/257593.mp3 대지전복자 부르기
 BattleForAzeroth/Dungeons/TheMotherlode/258622.mp3 공명의 파동
-BattleForAzeroth/Dungeons/TheMotherlode/259853.mp3 화학 화상
+BattleForAzeroth/Dungeons/TheMotherlode/259856.mp3 화학 화상
+BattleForAzeroth/Dungeons/TheMotherlode/259940.mp3 압축가스 작렬
 BattleForAzeroth/Dungeons/TheMotherlode/260280.mp3 개틀링 기관총
-BattleForAzeroth/Dungeons/TheMotherlode/260669.mp3 압축가스 작렬
 BattleForAzeroth/Dungeons/TheMotherlode/260829.mp3 추적 미사일
 BattleForAzeroth/Dungeons/TheMotherlode/262092.mp3 증기 흡입
 BattleForAzeroth/Dungeons/TheMotherlode/262347.mp3 전하 파동
+BattleForAzeroth/Dungeons/TheMotherlode/262377.mp3 수색과 섬멸
+BattleForAzeroth/Dungeons/TheMotherlode/262383.mp3 거미 지뢰 설치
 BattleForAzeroth/Dungeons/TheMotherlode/262540.mp3 과충전
 BattleForAzeroth/Dungeons/TheMotherlode/262554.mp3 수리
 BattleForAzeroth/Dungeons/TheMotherlode/262947.mp3 아제라이트 주입
@@ -418,12 +420,14 @@ BattleForAzeroth/Dungeons/TheMotherlode/263202.mp3 바위 창
 BattleForAzeroth/Dungeons/TheMotherlode/263215.mp3 대지 보호막
 BattleForAzeroth/Dungeons/TheMotherlode/263601.mp3 궁여지책
 BattleForAzeroth/Dungeons/TheMotherlode/263628.mp3 충전된 집게손
+BattleForAzeroth/Dungeons/TheMotherlode/267354.mp3 빗발치는 파편화살
 BattleForAzeroth/Dungeons/TheMotherlode/267433.mp3 기계 활성화
 BattleForAzeroth/Dungeons/TheMotherlode/268129.mp3 카자콜라 청량음료
 BattleForAzeroth/Dungeons/TheMotherlode/268362.mp3 채광 폭약
 BattleForAzeroth/Dungeons/TheMotherlode/268415.mp3 강행 돌파
 BattleForAzeroth/Dungeons/TheMotherlode/268702.mp3 분노의 지진
 BattleForAzeroth/Dungeons/TheMotherlode/268709.mp3 대지의 보호막
+BattleForAzeroth/Dungeons/TheMotherlode/268712.mp3 폭탄 가방
 BattleForAzeroth/Dungeons/TheMotherlode/268797.mp3 변환: 적을 점액으로
 BattleForAzeroth/Dungeons/TheMotherlode/268846.mp3 메아리 칼날
 BattleForAzeroth/Dungeons/TheMotherlode/268865.mp3 강력 대포
@@ -432,11 +436,12 @@ BattleForAzeroth/Dungeons/TheMotherlode/269302.mp3 맹독의 칼날
 BattleForAzeroth/Dungeons/TheMotherlode/269313.mp3 최후의 공격
 BattleForAzeroth/Dungeons/TheMotherlode/269429.mp3 충전 사격
 BattleForAzeroth/Dungeons/TheMotherlode/269493.mp3 축구탄 발사기
-BattleForAzeroth/Dungeons/TheMotherlode/270028.mp3 아제라이트 촉매
+BattleForAzeroth/Dungeons/TheMotherlode/270042.mp3 아제라이트 촉매
 BattleForAzeroth/Dungeons/TheMotherlode/271456.mp3 천공기 강타
 BattleForAzeroth/Dungeons/TheMotherlode/271698.mp3 아제라이트 주입
 BattleForAzeroth/Dungeons/TheMotherlode/271784.mp3 동전 던지기
 BattleForAzeroth/Dungeons/TheMotherlode/271867.mp3 돈으로 산 승리
+BattleForAzeroth/Dungeons/TheMotherlode/271903.mp3 동전 자석
 BattleForAzeroth/Dungeons/TheMotherlode/275907.mp3 지층 강타
 BattleForAzeroth/Dungeons/TheMotherlode/276229.mp3 초소형 미사일
 BattleForAzeroth/Dungeons/TheMotherlode/280604.mp3 얼린 음료
@@ -5688,6 +5693,48 @@ WarWithin/Dungeons/Delves/463408.mp3 냉기 주입
 WarWithin/Dungeons/Delves/470582.mp3 늪지 화살
 WarWithin/Dungeons/Delves/470612.mp3 부식 담즙
 WarWithin/Dungeons/Delves/zekvir_breach.mp3 제크비르 등장
+WarWithin/Dungeons/OperationFloodgate/1214337.mp3 폭탄 설치
+WarWithin/Dungeons/OperationFloodgate/1214468.mp3 곡예 사격
+WarWithin/Dungeons/OperationFloodgate/1214780.mp3 최대 왜곡
+WarWithin/Dungeons/OperationFloodgate/1216039.mp3 R.P.G.G.
+WarWithin/Dungeons/OperationFloodgate/1217496.mp3 유출물 물보라
+WarWithin/Dungeons/OperationFloodgate/1217653.mp3 B.B.B.F.G.
+WarWithin/Dungeons/OperationFloodgate/459779.mp3 날쌘 돌진
+WarWithin/Dungeons/OperationFloodgate/459799.mp3 맹타
+WarWithin/Dungeons/OperationFloodgate/460156.mp3 시동
+WarWithin/Dungeons/OperationFloodgate/460867.mp3 쿵 콰광 펑!
+WarWithin/Dungeons/OperationFloodgate/462771.mp3 조사 광선
+WarWithin/Dungeons/OperationFloodgate/463058.mp3 피에 굶주린 폭소
+WarWithin/Dungeons/OperationFloodgate/465408.mp3 신속 건설
+WarWithin/Dungeons/OperationFloodgate/465463.mp3 터보 충전
+WarWithin/Dungeons/OperationFloodgate/465666.mp3 불꽃격돌
+WarWithin/Dungeons/OperationFloodgate/465682.mp3 불심 검문
+WarWithin/Dungeons/OperationFloodgate/465754.mp3 화염방사기
+WarWithin/Dungeons/OperationFloodgate/465813.mp3 무기력의 맹독
+WarWithin/Dungeons/OperationFloodgate/465827.mp3 피 왜곡
+WarWithin/Dungeons/OperationFloodgate/466190.mp3 천둥 정권
+WarWithin/Dungeons/OperationFloodgate/468723.mp3 물 감전
+WarWithin/Dungeons/OperationFloodgate/468726.mp3 시포리움 폭약 설치
+WarWithin/Dungeons/OperationFloodgate/468813.mp3 기가 감전
+WarWithin/Dungeons/OperationFloodgate/468841.mp3 도약하는 불꽃
+WarWithin/Dungeons/OperationFloodgate/469478.mp3 오물 발톱
+WarWithin/Dungeons/OperationFloodgate/469721.mp3 파도 역류
+WarWithin/Dungeons/OperationFloodgate/469799.mp3 과충전
+WarWithin/Dungeons/OperationFloodgate/469818.mp3 방울 토하기
+WarWithin/Dungeons/OperationFloodgate/469981.mp3 살상 차단 방벽
+WarWithin/Dungeons/OperationFloodgate/470039.mp3 칼날질식 덩굴
+WarWithin/Dungeons/OperationFloodgate/470090.mp3 분열된 2인조
+WarWithin/Dungeons/OperationFloodgate/471585.mp3 기계 무인기 동원
+WarWithin/Dungeons/OperationFloodgate/471733.mp3 회복의 해초
+WarWithin/Dungeons/OperationFloodgate/471736.mp3 물풀 떨쳐내기
+WarWithin/Dungeons/OperationFloodgate/472452.mp3 파멸의 폭풍
+WarWithin/Dungeons/OperationFloodgate/473070.mp3 늪지에서 깨어나
+WarWithin/Dungeons/OperationFloodgate/473114.mp3 산사태
+WarWithin/Dungeons/OperationFloodgate/473220.mp3 음파 폭발
+WarWithin/Dungeons/OperationFloodgate/473287.mp3 전기 과잉
+WarWithin/Dungeons/OperationFloodgate/473351.mp3 전기 분쇄
+WarWithin/Dungeons/OperationFloodgate/473690.mp3 충격 폭발젤
+WarWithin/Dungeons/OperationFloodgate/474337.mp3 벌목
 WarWithin/Dungeons/PrioryOfTheSacredFlame/422969.mp3 응징의 천벌
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423015.mp3 징벌자의 보호막
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423051.mp3 타오르는 빛
@@ -5781,6 +5828,11 @@ WarWithin/Dungeons/TheDawnbreaker/451119.mp3 심연 작렬
 WarWithin/Dungeons/TheDawnbreaker/452127.mp3 그림자 되살리기
 WarWithin/Dungeons/TheDawnbreaker/453140.mp3 무너지는 밤
 WarWithin/Dungeons/TheDawnbreaker/453212.mp3 흑요석 광선
+WarWithin/Dungeons/TheRookery/1214320.mp3 접지의 화살
+WarWithin/Dungeons/TheRookery/1214325.mp3 몰아치는 천둥
+WarWithin/Dungeons/TheRookery/1214523.mp3 공허의 포식
+WarWithin/Dungeons/TheRookery/1214546.mp3 암영 파장
+WarWithin/Dungeons/TheRookery/1214628.mp3 암흑 방출
 WarWithin/Dungeons/TheRookery/419870.mp3 번개 질주
 WarWithin/Dungeons/TheRookery/423305.mp3 무효화의 지각 변동
 WarWithin/Dungeons/TheRookery/423393.mp3 무질서
@@ -5812,6 +5864,10 @@ WarWithin/Dungeons/TheRookery/445262.mp3 공허의 너울
 WarWithin/Dungeons/TheRookery/445457.mp3 망각의 파도
 WarWithin/Dungeons/TheRookery/450628.mp3 혼돈의 보호막
 WarWithin/Dungeons/TheRookery/458082.mp3 폭풍기수의 돌진
+WarWithin/Dungeons/TheRookery/472764.mp3 공허 추출
+WarWithin/Dungeons/TheRookery/474018.mp3 날뛰는 번개
+WarWithin/Dungeons/TheRookery/474031.mp3 공허 분쇄
+WarWithin/Dungeons/TheRookery/474044.mp3 잔류 공허 마력
 WarWithin/Dungeons/TheStonevault/422233.mp3 결정 강타
 WarWithin/Dungeons/TheStonevault/423200.mp3 되찾기
 WarWithin/Dungeons/TheStonevault/423538.mp3 불안정한 충돌
