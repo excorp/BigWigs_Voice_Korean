@@ -5758,6 +5758,7 @@ WarWithin/Dungeons/OperationFloodgate/473287.mp3 전기 과잉
 WarWithin/Dungeons/OperationFloodgate/473351.mp3 전기 분쇄
 WarWithin/Dungeons/OperationFloodgate/473690.mp3 충격 폭발젤
 WarWithin/Dungeons/OperationFloodgate/474337.mp3 벌목
+WarWithin/Dungeons/OperationFloodgate/weapons_stockpiles_pilfered.mp3 무기 비축품 도난
 WarWithin/Dungeons/PrioryOfTheSacredFlame/422969.mp3 응징의 천벌
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423015.mp3 징벌자의 보호막
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423051.mp3 타오르는 빛
