@@ -190,6 +190,14 @@ BattleForAzeroth/Dungeons/KingsRest/271555.mp3 매장
 BattleForAzeroth/Dungeons/KingsRest/271564.mp3 방부 체액
 BattleForAzeroth/Dungeons/KingsRest/271640.mp3 어둠의 계시
 BattleForAzeroth/Dungeons/KingsRest/healing_tide_totem.mp3 치유의 해일 토템 깨세요
+BattleForAzeroth/Dungeons/Mechagon/1215065.mp3 백금 강타
+BattleForAzeroth/Dungeons/Mechagon/1215102.mp3 지면 강타
+BattleForAzeroth/Dungeons/Mechagon/1215409.mp3 초강력 드릴
+BattleForAzeroth/Dungeons/Mechagon/1215411.mp3 꿰뚫기
+BattleForAzeroth/Dungeons/Mechagon/1215412.mp3 부식성 오물
+BattleForAzeroth/Dungeons/Mechagon/1216431.mp3 B.4.T.T.L.3 지뢰
+BattleForAzeroth/Dungeons/Mechagon/1216443.mp3 전하 폭풍
+BattleForAzeroth/Dungeons/Mechagon/1217819.mp3 불타는 턱
 BattleForAzeroth/Dungeons/Mechagon/282801.mp3 백금 장갑
 BattleForAzeroth/Dungeons/Mechagon/283422.mp3 최대 추진
 BattleForAzeroth/Dungeons/Mechagon/283551.mp3 자기력 로켓팔
@@ -398,6 +406,11 @@ BattleForAzeroth/Dungeons/TempleOfSethraliss/272700.mp3 상급 치유 물약
 BattleForAzeroth/Dungeons/TempleOfSethraliss/273563.mp3 신경독
 BattleForAzeroth/Dungeons/TempleOfSethraliss/273995.mp3 희생의 폭발
 BattleForAzeroth/Dungeons/TempleOfSethraliss/274149.mp3 생명의 힘
+BattleForAzeroth/Dungeons/TheMotherlode/1213139.mp3 추가 시간!
+BattleForAzeroth/Dungeons/TheMotherlode/1214754.mp3 거대한 격돌
+BattleForAzeroth/Dungeons/TheMotherlode/1215411.mp3 꿰뚫기
+BattleForAzeroth/Dungeons/TheMotherlode/1217279.mp3 올려치기
+BattleForAzeroth/Dungeons/TheMotherlode/1217294.mp3 충격 발톱
 BattleForAzeroth/Dungeons/TheMotherlode/256493.mp3 타오르는 아제라이트
 BattleForAzeroth/Dungeons/TheMotherlode/257337.mp3 충격 발톱
 BattleForAzeroth/Dungeons/TheMotherlode/257582.mp3 분노의 시선
@@ -447,6 +460,7 @@ BattleForAzeroth/Dungeons/TheMotherlode/276229.mp3 초소형 미사일
 BattleForAzeroth/Dungeons/TheMotherlode/280604.mp3 얼린 음료
 BattleForAzeroth/Dungeons/TheMotherlode/280605.mp3 두뇌 빙결
 BattleForAzeroth/Dungeons/TheMotherlode/281621.mp3 발파용 폭약
+BattleForAzeroth/Dungeons/TheMotherlode/473168.mp3 신속 추출
 BattleForAzeroth/Dungeons/TolDagor/256038.mp3 백발백중
 BattleForAzeroth/Dungeons/TolDagor/256083.mp3 교차 점화
 BattleForAzeroth/Dungeons/TolDagor/256105.mp3 폭발적인 분출
@@ -4890,6 +4904,11 @@ Shadowlands/Dungeons/TheNecroticWake/338606.mp3 병독의 집착
 Shadowlands/Dungeons/TheNecroticWake/343470.mp3 기골분쇄 보호막
 Shadowlands/Dungeons/TheNecroticWake/343556.mp3 병독의 집착
 Shadowlands/Dungeons/TheNecroticWake/345623.mp3 죽음의 폭발
+Shadowlands/Dungeons/TheaterOfPain/1215600.mp3 메말리는 손길
+Shadowlands/Dungeons/TheaterOfPain/1215738.mp3 부식성 숨결
+Shadowlands/Dungeons/TheaterOfPain/1215741.mp3 강력한 강타
+Shadowlands/Dungeons/TheaterOfPain/1215787.mp3 Death Spiral
+Shadowlands/Dungeons/TheaterOfPain/1215850.mp3 대지파괴자
 Shadowlands/Dungeons/TheaterOfPain/317231.mp3 분쇄의 격돌
 Shadowlands/Dungeons/TheaterOfPain/317605.mp3 소용돌이
 Shadowlands/Dungeons/TheaterOfPain/318406.mp3 다지기 강타
@@ -4957,6 +4976,10 @@ Shadowlands/Dungeons/TheaterOfPain/342125.mp3 잔혹한 도약
 Shadowlands/Dungeons/TheaterOfPain/342135.mp3 봉쇄의 포효
 Shadowlands/Dungeons/TheaterOfPain/342139.mp3 전투 무아지경
 Shadowlands/Dungeons/TheaterOfPain/342675.mp3 뼈 창
+Shadowlands/Dungeons/TheaterOfPain/473513.mp3 저주받은 자의 연회
+Shadowlands/Dungeons/TheaterOfPain/473959.mp3 영혼 끌어내기
+Shadowlands/Dungeons/TheaterOfPain/474087.mp3 Necrotic Eruption
+Shadowlands/Dungeons/TheaterOfPain/474431.mp3 환상의 기생충
 Shadowlands/Raids/CastleNathria/-21952.mp3 추악한 사술사
 Shadowlands/Raids/CastleNathria/-21953.mp3 영혼 주입사
 Shadowlands/Raids/CastleNathria/-21954.mp3 돌갑옷 제압자
