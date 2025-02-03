@@ -460,7 +460,9 @@ BattleForAzeroth/Dungeons/TheMotherlode/276229.mp3 초소형 미사일
 BattleForAzeroth/Dungeons/TheMotherlode/280604.mp3 얼린 음료
 BattleForAzeroth/Dungeons/TheMotherlode/280605.mp3 두뇌 빙결
 BattleForAzeroth/Dungeons/TheMotherlode/281621.mp3 발파용 폭약
+BattleForAzeroth/Dungeons/TheMotherlode/472041.mp3 최루 가스
 BattleForAzeroth/Dungeons/TheMotherlode/473168.mp3 신속 추출
+BattleForAzeroth/Dungeons/TheMotherlode/473304.mp3 두뇌의 폭풍
 BattleForAzeroth/Dungeons/TolDagor/256038.mp3 백발백중
 BattleForAzeroth/Dungeons/TolDagor/256083.mp3 교차 점화
 BattleForAzeroth/Dungeons/TolDagor/256105.mp3 폭발적인 분출
@@ -1014,6 +1016,7 @@ BattleForAzeroth/Raids/Nyalotha/318449.mp3 영원한 고통
 BattleForAzeroth/Raids/Nyalotha/318459.mp3 파멸
 BattleForAzeroth/Raids/Nyalotha/318971.mp3 암흑 물질
 BattleForAzeroth/Raids/Nyalotha/318976.mp3 충격의 시선
+BattleForAzeroth/Raids/Nyalotha/essences.mp3 정수
 BattleForAzeroth/Raids/Uldir/-18109.mp3 동력 매트릭스
 BattleForAzeroth/Raids/Uldir/-18390.mp3 네루비안 공허술사
 BattleForAzeroth/Raids/Uldir/-18397.mp3 퀴라지 전사
@@ -1097,6 +1100,10 @@ BattleForAzeroth/Raids/Uldir/278990.mp3 혈안의 분노
 BattleForAzeroth/Raids/Uldir/279013.mp3 정수 조각내기
 BattleForAzeroth/Raids/Uldir/279157.mp3 공허의 메아리
 BattleForAzeroth/Raids/Uldir/279662.mp3 풍토병 바이러스
+BattleForAzeroth/Raids/Uldir/bloodhexer.mp3 나즈마니 혈사술사
+BattleForAzeroth/Raids/Uldir/breath.mp3 썩어가는 토사
+BattleForAzeroth/Raids/Uldir/crawg.mp3 피에 굶주린 크로그
+BattleForAzeroth/Raids/Uldir/mythic_adds.mp3 신화 쫄 생성
 BurningCrusade/Dungeons/HellfireRamparts/12039.mp3 치유
 BurningCrusade/Dungeons/HellfireRamparts/8362.mp3 소생
 BurningCrusade/Dungeons/MagistersTerrace/36819.mp3 불덩이 작렬
@@ -1164,7 +1171,6 @@ BurningCrusade/Dungeons/TheSlavePens/33787.mp3 신경 마비
 BurningCrusade/Dungeons/TheSlavePens/34984.mp3 정신적 두려움
 BurningCrusade/Dungeons/TheSlavePens/39378.mp3 치유
 BurningCrusade/Dungeons/TheSlavePens/45954.mp3 아훈의 보호막
-BurningCrusade/Dungeons/TheSlavePens/warmup.mp3 신왕 스코발드 활성화
 BurningCrusade/Dungeons/TheSteamvault/16172.mp3 머리 강타
 BurningCrusade/Dungeons/TheSteamvault/25033.mp3 번개 구름
 BurningCrusade/Dungeons/TheSteamvault/31481.mp3 허파 파열
@@ -4909,6 +4915,7 @@ Shadowlands/Dungeons/TheaterOfPain/1215738.mp3 부식성 숨결
 Shadowlands/Dungeons/TheaterOfPain/1215741.mp3 강력한 강타
 Shadowlands/Dungeons/TheaterOfPain/1215787.mp3 Death Spiral
 Shadowlands/Dungeons/TheaterOfPain/1215850.mp3 대지파괴자
+Shadowlands/Dungeons/TheaterOfPain/1223803.mp3 Well of Darkness
 Shadowlands/Dungeons/TheaterOfPain/317231.mp3 분쇄의 격돌
 Shadowlands/Dungeons/TheaterOfPain/317605.mp3 소용돌이
 Shadowlands/Dungeons/TheaterOfPain/318406.mp3 다지기 강타
@@ -4972,14 +4979,13 @@ Shadowlands/Dungeons/TheaterOfPain/341902.mp3 부정한 열정
 Shadowlands/Dungeons/TheaterOfPain/341949.mp3 메마른 역병
 Shadowlands/Dungeons/TheaterOfPain/341969.mp3 메마른 방출
 Shadowlands/Dungeons/TheaterOfPain/341977.mp3 고기 방패
+Shadowlands/Dungeons/TheaterOfPain/342103.mp3 고약한 담즙
 Shadowlands/Dungeons/TheaterOfPain/342125.mp3 잔혹한 도약
 Shadowlands/Dungeons/TheaterOfPain/342135.mp3 봉쇄의 포효
 Shadowlands/Dungeons/TheaterOfPain/342139.mp3 전투 무아지경
 Shadowlands/Dungeons/TheaterOfPain/342675.mp3 뼈 창
 Shadowlands/Dungeons/TheaterOfPain/473513.mp3 저주받은 자의 연회
-Shadowlands/Dungeons/TheaterOfPain/473959.mp3 영혼 끌어내기
-Shadowlands/Dungeons/TheaterOfPain/474087.mp3 Necrotic Eruption
-Shadowlands/Dungeons/TheaterOfPain/474431.mp3 환상의 기생충
+Shadowlands/Dungeons/TheaterOfPain/474298.mp3 영혼 끌어내기
 Shadowlands/Raids/CastleNathria/-21952.mp3 추악한 사술사
 Shadowlands/Raids/CastleNathria/-21953.mp3 영혼 주입사
 Shadowlands/Raids/CastleNathria/-21954.mp3 돌갑옷 제압자
@@ -5506,6 +5512,8 @@ WarWithin/Dungeons/CinderbrewMeadery/440687.mp3 꿀 연발 공격
 WarWithin/Dungeons/CinderbrewMeadery/440876.mp3 꿀의 비
 WarWithin/Dungeons/CinderbrewMeadery/441119.mp3 벌 대포
 WarWithin/Dungeons/CinderbrewMeadery/441179.mp3 흘러내리는 꿀
+WarWithin/Dungeons/CinderbrewMeadery/441242.mp3 무료 시식?
+WarWithin/Dungeons/CinderbrewMeadery/441351.mp3 야성적인 벌의 분노
 WarWithin/Dungeons/CinderbrewMeadery/441434.mp3 실패작
 WarWithin/Dungeons/CinderbrewMeadery/441627.mp3 회복의 꿀
 WarWithin/Dungeons/CinderbrewMeadery/442525.mp3 즐거운 시간
@@ -5513,6 +5521,7 @@ WarWithin/Dungeons/CinderbrewMeadery/442589.mp3 벌 밀랍
 WarWithin/Dungeons/CinderbrewMeadery/442995.mp3 무리의 급습
 WarWithin/Dungeons/CinderbrewMeadery/448619.mp3 무모한 배달
 WarWithin/Dungeons/CinderbrewMeadery/463206.mp3 방망이질
+WarWithin/Dungeons/CinderbrewMeadery/463218.mp3 휘발성 맥주통
 WarWithin/Dungeons/CityOfThreads/434137.mp3 맹독 분사
 WarWithin/Dungeons/CityOfThreads/434722.mp3 복종
 WarWithin/Dungeons/CityOfThreads/434779.mp3 공포심
@@ -5736,6 +5745,7 @@ WarWithin/Dungeons/OperationFloodgate/465754.mp3 화염방사기
 WarWithin/Dungeons/OperationFloodgate/465813.mp3 무기력의 맹독
 WarWithin/Dungeons/OperationFloodgate/465827.mp3 피 왜곡
 WarWithin/Dungeons/OperationFloodgate/466190.mp3 천둥 정권
+WarWithin/Dungeons/OperationFloodgate/468631.mp3 작살
 WarWithin/Dungeons/OperationFloodgate/468723.mp3 물 감전
 WarWithin/Dungeons/OperationFloodgate/468726.mp3 시포리움 폭약 설치
 WarWithin/Dungeons/OperationFloodgate/468813.mp3 기가 감전
@@ -5787,7 +5797,6 @@ WarWithin/Dungeons/PrioryOfTheSacredFlame/427900.mp3 타오르는 웅덩이
 WarWithin/Dungeons/PrioryOfTheSacredFlame/427950.mp3 화염의 문장
 WarWithin/Dungeons/PrioryOfTheSacredFlame/428150.mp3 반사의 보호막
 WarWithin/Dungeons/PrioryOfTheSacredFlame/428169.mp3 눈부신 빛
-WarWithin/Dungeons/PrioryOfTheSacredFlame/429091.mp3 내면의 빛
 WarWithin/Dungeons/PrioryOfTheSacredFlame/435088.mp3 신성한 불꽃의 축복
 WarWithin/Dungeons/PrioryOfTheSacredFlame/435165.mp3 타오르는 일격
 WarWithin/Dungeons/PrioryOfTheSacredFlame/444546.mp3 정화의 빛
@@ -5948,6 +5957,101 @@ WarWithin/Raids/KhazAlgar/458423.mp3 비전 폭격
 WarWithin/Raids/KhazAlgar/458695.mp3 과충전된 레이저
 WarWithin/Raids/KhazAlgar/458799.mp3 과충전된 대지
 WarWithin/Raids/KhazAlgar/458838.mp3 억압의 파열
+WarWithin/Raids/LiberationOfUndermine/-31712.mp3 Mk. II 전기 충격기 죽음
+WarWithin/Raids/LiberationOfUndermine/1213690.mp3 타오르는 가래
+WarWithin/Raids/LiberationOfUndermine/1213994.mp3 전격의 환영
+WarWithin/Raids/LiberationOfUndermine/1214039.mp3 타오르는 웅덩이
+WarWithin/Raids/LiberationOfUndermine/1214164.mp3 즐거움
+WarWithin/Raids/LiberationOfUndermine/1214190.mp3 분출의 땅 울리긴
+WarWithin/Raids/LiberationOfUndermine/1214598.mp3 홀림
+WarWithin/Raids/LiberationOfUndermine/1214623.mp3 격노
+WarWithin/Raids/LiberationOfUndermine/1214878.mp3 신형 불꽃 축제 꾸러미
+WarWithin/Raids/LiberationOfUndermine/1215595.mp3 결함 있는 전선 배열
+WarWithin/Raids/LiberationOfUndermine/1215898.mp3 전하 충전
+WarWithin/Raids/LiberationOfUndermine/1216142.mp3 이중 분노
+WarWithin/Raids/LiberationOfUndermine/1216509.mp3 치솟는 굴착기
+WarWithin/Raids/LiberationOfUndermine/1217122.mp3 잔존하는 전압
+WarWithin/Raids/LiberationOfUndermine/1217231.mp3 발밑 폭렬 장치
+WarWithin/Raids/LiberationOfUndermine/1217954.mp3 용해
+WarWithin/Raids/LiberationOfUndermine/1217975.mp3 파멸폭발
+WarWithin/Raids/LiberationOfUndermine/1218319.mp3 공허 폭발
+WarWithin/Raids/LiberationOfUndermine/1218342.mp3 불안정한 파편
+WarWithin/Raids/LiberationOfUndermine/1218418.mp3 전선 이전
+WarWithin/Raids/LiberationOfUndermine/1219384.mp3 고철 로켓
+WarWithin/Raids/LiberationOfUndermine/459678.mp3 기름 분출
+WarWithin/Raids/LiberationOfUndermine/459683.mp3 미끄러운 기름
+WarWithin/Raids/LiberationOfUndermine/459943.mp3 폭주족 부르기
+WarWithin/Raids/LiberationOfUndermine/459978.mp3 전율적인 작별!
+WarWithin/Raids/LiberationOfUndermine/460116.mp3 조율
+WarWithin/Raids/LiberationOfUndermine/460181.mp3 당첨선
+WarWithin/Raids/LiberationOfUndermine/460444.mp3 큰손 도박꾼!
+WarWithin/Raids/LiberationOfUndermine/460472.mp3 큰 거 한 방
+WarWithin/Raids/LiberationOfUndermine/460582.mp3 과부하!
+WarWithin/Raids/LiberationOfUndermine/461060.mp3 당첨 기원!
+WarWithin/Raids/LiberationOfUndermine/461068.mp3 사기 적발!
+WarWithin/Raids/LiberationOfUndermine/461536.mp3 구르는 잔해
+WarWithin/Raids/LiberationOfUndermine/463900.mp3 천둥 북 난사
+WarWithin/Raids/LiberationOfUndermine/463925.mp3 잔류하는 전기
+WarWithin/Raids/LiberationOfUndermine/463967.mp3 피의 욕망
+WarWithin/Raids/LiberationOfUndermine/464112.mp3 파괴
+WarWithin/Raids/LiberationOfUndermine/464149.mp3 소각자
+WarWithin/Raids/LiberationOfUndermine/464248.mp3 뜨거운 쓰레기
+WarWithin/Raids/LiberationOfUndermine/464399.mp3 전자기력 분류
+WarWithin/Raids/LiberationOfUndermine/464518.mp3 이명 현상
+WarWithin/Raids/LiberationOfUndermine/464705.mp3 금빛 표
+WarWithin/Raids/LiberationOfUndermine/464854.mp3 쓰레기 더미
+WarWithin/Raids/LiberationOfUndermine/465009.mp3 폭발적인 시선
+WarWithin/Raids/LiberationOfUndermine/465232.mp3 음파 폭파
+WarWithin/Raids/LiberationOfUndermine/465322.mp3 뜨겁디뜨거운 열기
+WarWithin/Raids/LiberationOfUndermine/465432.mp3 연결된 기계
+WarWithin/Raids/LiberationOfUndermine/465580.mp3 흩어진 지출금
+WarWithin/Raids/LiberationOfUndermine/465587.mp3 폭발적인 횡재
+WarWithin/Raids/LiberationOfUndermine/465611.mp3 굴림!
+WarWithin/Raids/LiberationOfUndermine/465833.mp3 거대한 격돌
+WarWithin/Raids/LiberationOfUndermine/465865.mp3 전차 타격기
+WarWithin/Raids/LiberationOfUndermine/465917.mp3 중력 오물
+WarWithin/Raids/LiberationOfUndermine/466178.mp3 번개 가격
+WarWithin/Raids/LiberationOfUndermine/466476.mp3 냉기분쇄 장화
+WarWithin/Raids/LiberationOfUndermine/466509.mp3 폭풍격노 손가락총
+WarWithin/Raids/LiberationOfUndermine/466518.mp3 녹아내린 황금 너클
+WarWithin/Raids/LiberationOfUndermine/466545.mp3 마구잡이
+WarWithin/Raids/LiberationOfUndermine/466615.mp3 방호 장갑
+WarWithin/Raids/LiberationOfUndermine/466748.mp3 이빨 감염
+WarWithin/Raids/LiberationOfUndermine/466765.mp3 베타 버전 출시
+WarWithin/Raids/LiberationOfUndermine/466860.mp3 최첨단
+WarWithin/Raids/LiberationOfUndermine/466866.mp3 메아리치는 찬가
+WarWithin/Raids/LiberationOfUndermine/466979.mp3 결함투성이 감전
+WarWithin/Raids/LiberationOfUndermine/467109.mp3 쓰레기 압축기
+WarWithin/Raids/LiberationOfUndermine/467117.mp3 과출력
+WarWithin/Raids/LiberationOfUndermine/467202.mp3 황금 방울
+WarWithin/Raids/LiberationOfUndermine/467380.mp3 고블린 유도 로켓
+WarWithin/Raids/LiberationOfUndermine/467606.mp3 음향 대포
+WarWithin/Raids/LiberationOfUndermine/468119.mp3 공명의 메아리
+WarWithin/Raids/LiberationOfUndermine/468791.mp3 확고한 죽음
+WarWithin/Raids/LiberationOfUndermine/469043.mp3 작열하는 산탄 파편
+WarWithin/Raids/LiberationOfUndermine/469391.mp3 관통상
+WarWithin/Raids/LiberationOfUndermine/469491.mp3 2중 장애 사격
+WarWithin/Raids/LiberationOfUndermine/469993.mp3 오염된 배출
+WarWithin/Raids/LiberationOfUndermine/470910.mp3 감옥 탈출
+WarWithin/Raids/LiberationOfUndermine/471403.mp3 무자비한 자동차 대학살
+WarWithin/Raids/LiberationOfUndermine/471557.mp3 학살의 왕
+WarWithin/Raids/LiberationOfUndermine/471574.mp3 총알 세례
+WarWithin/Raids/LiberationOfUndermine/471660.mp3 수비 중점
+WarWithin/Raids/LiberationOfUndermine/471927.mp3 옮아매는 불길
+WarWithin/Raids/LiberationOfUndermine/472222.mp3 끓어오르는 원한
+WarWithin/Raids/LiberationOfUndermine/472225.mp3 전류가 흐르는 원한
+WarWithin/Raids/LiberationOfUndermine/472233.mp3 작렬연소 포효포
+WarWithin/Raids/LiberationOfUndermine/472306.mp3 불꽃작렬 점화
+WarWithin/Raids/LiberationOfUndermine/472631.mp3 대지진 감옥
+WarWithin/Raids/LiberationOfUndermine/472782.mp3 경의 표하기
+WarWithin/Raids/LiberationOfUndermine/472893.mp3 소각
+WarWithin/Raids/LiberationOfUndermine/473260.mp3 요란스러운 투하
+WarWithin/Raids/LiberationOfUndermine/473276.mp3 발명품 활성화!
+WarWithin/Raids/LiberationOfUndermine/473650.mp3 고철 폭탄
+WarWithin/Raids/LiberationOfUndermine/473748.mp3 증폭!
+WarWithin/Raids/LiberationOfUndermine/474159.mp3 전하 충전
+WarWithin/Raids/LiberationOfUndermine/474665.mp3 동전 자석
+WarWithin/Raids/LiberationOfUndermine/rewards.mp3 화려한 상품
 WarWithin/Raids/NerubarPalace/432969.mp3 위상 달려들기
 WarWithin/Raids/NerubarPalace/434697.mp3 무자비한 으깨기
 WarWithin/Raids/NerubarPalace/434705.mp3 연질화
