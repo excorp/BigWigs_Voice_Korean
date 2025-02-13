@@ -419,7 +419,7 @@ BattleForAzeroth/Dungeons/TheMotherlode/258622.mp3 공명의 파동
 BattleForAzeroth/Dungeons/TheMotherlode/259856.mp3 화학 화상
 BattleForAzeroth/Dungeons/TheMotherlode/259940.mp3 압축가스 작렬
 BattleForAzeroth/Dungeons/TheMotherlode/260280.mp3 개틀링 기관총
-BattleForAzeroth/Dungeons/TheMotherlode/260829.mp3 추적 미사일
+BattleForAzeroth/Dungeons/TheMotherlode/260811.mp3 추적 미사일
 BattleForAzeroth/Dungeons/TheMotherlode/262092.mp3 증기 흡입
 BattleForAzeroth/Dungeons/TheMotherlode/262347.mp3 전하 파동
 BattleForAzeroth/Dungeons/TheMotherlode/262377.mp3 수색과 섬멸
@@ -1737,6 +1737,35 @@ Classic/Dungeons/DireMaul/67037.mp3 소용돌이치는 일격
 Classic/Dungeons/DireMaul/7645.mp3 정신 지배
 Classic/Dungeons/DireMaul/7948.mp3 야생의 회복력
 Classic/Dungeons/DireMaul/8269.mp3 광기
+Classic/Dungeons/KarazhanCrypts/1217694.mp3 붉은 죽음
+Classic/Dungeons/KarazhanCrypts/1217952.mp3 섬뜩한 형상
+Classic/Dungeons/KarazhanCrypts/1218038.mp3 매장
+Classic/Dungeons/KarazhanCrypts/1218089.mp3 영원한 지배
+Classic/Dungeons/KarazhanCrypts/1219387.mp3 화염의 소용돌이
+Classic/Dungeons/KarazhanCrypts/1219420.mp3 저주받은 자의 잡아당기기
+Classic/Dungeons/KarazhanCrypts/1219814.mp3 붙잡는 영혼
+Classic/Dungeons/KarazhanCrypts/1220853.mp3 연발 얼음 화살
+Classic/Dungeons/KarazhanCrypts/1220855.mp3 얼음 회오리
+Classic/Dungeons/KarazhanCrypts/1220862.mp3 눈보라
+Classic/Dungeons/KarazhanCrypts/1220927.mp3 불지옥
+Classic/Dungeons/KarazhanCrypts/1220939.mp3 실체 없는 돌격
+Classic/Dungeons/KarazhanCrypts/1221325.mp3 불타는 중
+Classic/Dungeons/KarazhanCrypts/1221577.mp3 파멸
+Classic/Dungeons/KarazhanCrypts/1221578.mp3 특화의 징표
+Classic/Dungeons/KarazhanCrypts/1222563.mp3 공포
+Classic/Dungeons/KarazhanCrypts/1222564.mp3 피의 욕망
+Classic/Dungeons/KarazhanCrypts/1222567.mp3 전투 발구르기
+Classic/Dungeons/KarazhanCrypts/1222570.mp3 암영 베기
+Classic/Dungeons/KarazhanCrypts/1222578.mp3 수면
+Classic/Dungeons/KarazhanCrypts/1222775.mp3 불타는 충돌
+Classic/Dungeons/KarazhanCrypts/1223264.mp3 암흑 기수의 질주
+Classic/Dungeons/KarazhanCrypts/1223456.mp3 넘실대는 어둠
+Classic/Dungeons/KarazhanCrypts/1223459.mp3 전투 발구르기
+Classic/Dungeons/KarazhanCrypts/1223460.mp3 성난 주먹
+Classic/Dungeons/KarazhanCrypts/1223462.mp3 화염방사기
+Classic/Dungeons/KarazhanCrypts/16170.mp3 피의 욕망
+Classic/Dungeons/KarazhanCrypts/27758.mp3 전투 발구르기
+Classic/Dungeons/KarazhanCrypts/744.mp3 독
 Classic/Dungeons/Stratholme/10101.mp3 날려버리기
 Classic/Dungeons/Stratholme/10887.mp3 고철 압축
 Classic/Dungeons/Stratholme/110762.mp3 날려버리기
@@ -5565,6 +5594,8 @@ WarWithin/Dungeons/CityOfThreads/458741.mp3 꽁꽁 얼리기
 WarWithin/Dungeons/CityOfThreads/461825.mp3 검은 피
 WarWithin/Dungeons/CityOfThreads/461842.mp3 수액의 강타
 WarWithin/Dungeons/CityOfThreads/461880.mp3 피 분출
+WarWithin/Dungeons/DarkflameCleft/1218117.mp3 거대한 발구르기
+WarWithin/Dungeons/DarkflameCleft/1218131.mp3 타오르는 양초
 WarWithin/Dungeons/DarkflameCleft/420659.mp3 음산한 거푸집
 WarWithin/Dungeons/DarkflameCleft/421067.mp3 타오르는 밀랍
 WarWithin/Dungeons/DarkflameCleft/421653.mp3 저주받은 밀랍
@@ -5887,6 +5918,7 @@ WarWithin/Dungeons/TheRookery/430013.mp3 천둥의 일격
 WarWithin/Dungeons/TheRookery/430179.mp3 스며나오는 타락
 WarWithin/Dungeons/TheRookery/430288.mp3 짓이기는 어둠
 WarWithin/Dungeons/TheRookery/430754.mp3 공허의 너울
+WarWithin/Dungeons/TheRookery/430805.mp3 굽이치는 공허
 WarWithin/Dungeons/TheRookery/430812.mp3 끌어당기는 어둠
 WarWithin/Dungeons/TheRookery/432781.mp3 공허의 포용
 WarWithin/Dungeons/TheRookery/432959.mp3 공허의 연발 사격
@@ -5900,7 +5932,6 @@ WarWithin/Dungeons/TheRookery/458082.mp3 폭풍기수의 돌진
 WarWithin/Dungeons/TheRookery/472764.mp3 공허 추출
 WarWithin/Dungeons/TheRookery/474018.mp3 날뛰는 번개
 WarWithin/Dungeons/TheRookery/474031.mp3 공허 분쇄
-WarWithin/Dungeons/TheRookery/474044.mp3 잔류 공허 마력
 WarWithin/Dungeons/TheStonevault/422233.mp3 결정 강타
 WarWithin/Dungeons/TheStonevault/423200.mp3 되찾기
 WarWithin/Dungeons/TheStonevault/423538.mp3 불안정한 충돌
