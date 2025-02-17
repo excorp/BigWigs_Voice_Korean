@@ -215,6 +215,7 @@ BattleForAzeroth/Dungeons/Mechagon/291928.mp3 초강력 감전
 BattleForAzeroth/Dungeons/Mechagon/291930.mp3 공중 투하
 BattleForAzeroth/Dungeons/Mechagon/291946.mp3 불꽃 배출
 BattleForAzeroth/Dungeons/Mechagon/291973.mp3 폭발 도약
+BattleForAzeroth/Dungeons/Mechagon/292264.mp3 초강력 감전
 BattleForAzeroth/Dungeons/Mechagon/292290.mp3 프로토콜: 99
 BattleForAzeroth/Dungeons/Mechagon/293670.mp3 사슬칼날
 BattleForAzeroth/Dungeons/Mechagon/293683.mp3 보호막 생성기
@@ -1744,9 +1745,18 @@ Classic/Dungeons/KarazhanCrypts/1218089.mp3 영원한 지배
 Classic/Dungeons/KarazhanCrypts/1219387.mp3 화염의 소용돌이
 Classic/Dungeons/KarazhanCrypts/1219420.mp3 저주받은 자의 잡아당기기
 Classic/Dungeons/KarazhanCrypts/1219814.mp3 붙잡는 영혼
+Classic/Dungeons/KarazhanCrypts/1220410.mp3 용의 숨결
+Classic/Dungeons/KarazhanCrypts/1220515.mp3  연발 어둠의 화살
+Classic/Dungeons/KarazhanCrypts/1220517.mp3  뼈 갑옷
+Classic/Dungeons/KarazhanCrypts/1220519.mp3  해골 하수인 소환
+Classic/Dungeons/KarazhanCrypts/1220836.mp3  유령 송곳니
+Classic/Dungeons/KarazhanCrypts/1220843.mp3  저주받은 거미줄
 Classic/Dungeons/KarazhanCrypts/1220853.mp3 연발 얼음 화살
 Classic/Dungeons/KarazhanCrypts/1220855.mp3 얼음 회오리
 Classic/Dungeons/KarazhanCrypts/1220862.mp3 눈보라
+Classic/Dungeons/KarazhanCrypts/1220882.mp3  얼어붙는 땅
+Classic/Dungeons/KarazhanCrypts/1220920.mp3  괴저 숨결
+Classic/Dungeons/KarazhanCrypts/1220926.mp3  부패의 저주
 Classic/Dungeons/KarazhanCrypts/1220927.mp3 불지옥
 Classic/Dungeons/KarazhanCrypts/1220939.mp3 실체 없는 돌격
 Classic/Dungeons/KarazhanCrypts/1221325.mp3 불타는 중
@@ -1758,6 +1768,8 @@ Classic/Dungeons/KarazhanCrypts/1222567.mp3 전투 발구르기
 Classic/Dungeons/KarazhanCrypts/1222570.mp3 암영 베기
 Classic/Dungeons/KarazhanCrypts/1222578.mp3 수면
 Classic/Dungeons/KarazhanCrypts/1222775.mp3 불타는 충돌
+Classic/Dungeons/KarazhanCrypts/1222942.mp3  화염 충격
+Classic/Dungeons/KarazhanCrypts/1222943.mp3  발화의 바위
 Classic/Dungeons/KarazhanCrypts/1223264.mp3 암흑 기수의 질주
 Classic/Dungeons/KarazhanCrypts/1223456.mp3 넘실대는 어둠
 Classic/Dungeons/KarazhanCrypts/1223459.mp3 전투 발구르기
@@ -5014,6 +5026,7 @@ Shadowlands/Dungeons/TheaterOfPain/342135.mp3 봉쇄의 포효
 Shadowlands/Dungeons/TheaterOfPain/342139.mp3 전투 무아지경
 Shadowlands/Dungeons/TheaterOfPain/342675.mp3 뼈 창
 Shadowlands/Dungeons/TheaterOfPain/473513.mp3 저주받은 자의 연회
+Shadowlands/Dungeons/TheaterOfPain/474087.mp3 괴저의 분출
 Shadowlands/Dungeons/TheaterOfPain/474298.mp3 영혼 끌어내기
 Shadowlands/Raids/CastleNathria/-21952.mp3 추악한 사술사
 Shadowlands/Raids/CastleNathria/-21953.mp3 영혼 주입사
@@ -5841,6 +5854,7 @@ WarWithin/Dungeons/PrioryOfTheSacredFlame/448485.mp3 방패 밀쳐내기
 WarWithin/Dungeons/PrioryOfTheSacredFlame/448492.mp3 천둥벼락
 WarWithin/Dungeons/PrioryOfTheSacredFlame/448515.mp3 천상의 심판
 WarWithin/Dungeons/PrioryOfTheSacredFlame/448787.mp3 정화
+WarWithin/Dungeons/PrioryOfTheSacredFlame/448791.mp3 신성한 종
 WarWithin/Dungeons/PrioryOfTheSacredFlame/451605.mp3 신성한 불길
 WarWithin/Dungeons/PrioryOfTheSacredFlame/453458.mp3 마름쇠 덫
 WarWithin/Dungeons/Scenarios/462802.mp3 정화의 불길
