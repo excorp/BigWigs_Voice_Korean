@@ -420,7 +420,7 @@ BattleForAzeroth/Dungeons/TheMotherlode/258622.mp3 공명의 파동
 BattleForAzeroth/Dungeons/TheMotherlode/259856.mp3 화학 화상
 BattleForAzeroth/Dungeons/TheMotherlode/259940.mp3 압축가스 작렬
 BattleForAzeroth/Dungeons/TheMotherlode/260280.mp3 개틀링 기관총
-BattleForAzeroth/Dungeons/TheMotherlode/260811.mp3 추적 미사일
+BattleForAzeroth/Dungeons/TheMotherlode/260813.mp3 추적 미사일
 BattleForAzeroth/Dungeons/TheMotherlode/262092.mp3 증기 흡입
 BattleForAzeroth/Dungeons/TheMotherlode/262347.mp3 전하 파동
 BattleForAzeroth/Dungeons/TheMotherlode/262377.mp3 수색과 섬멸
@@ -457,6 +457,7 @@ BattleForAzeroth/Dungeons/TheMotherlode/271784.mp3 동전 던지기
 BattleForAzeroth/Dungeons/TheMotherlode/271867.mp3 돈으로 산 승리
 BattleForAzeroth/Dungeons/TheMotherlode/271903.mp3 동전 자석
 BattleForAzeroth/Dungeons/TheMotherlode/275907.mp3 지층 강타
+BattleForAzeroth/Dungeons/TheMotherlode/275992.mp3 솟구치는 촉매
 BattleForAzeroth/Dungeons/TheMotherlode/276229.mp3 초소형 미사일
 BattleForAzeroth/Dungeons/TheMotherlode/280604.mp3 얼린 음료
 BattleForAzeroth/Dungeons/TheMotherlode/280605.mp3 두뇌 빙결
