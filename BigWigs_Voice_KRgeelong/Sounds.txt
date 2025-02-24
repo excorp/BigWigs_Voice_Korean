@@ -5611,11 +5611,13 @@ WarWithin/Dungeons/CityOfThreads/461880.mp3 피 분출
 WarWithin/Dungeons/DarkflameCleft/1218117.mp3 거대한 발구르기
 WarWithin/Dungeons/DarkflameCleft/1218131.mp3 타오르는 양초
 WarWithin/Dungeons/DarkflameCleft/420659.mp3 음산한 거푸집
+WarWithin/Dungeons/DarkflameCleft/420696.mp3 어둠불꽃 던지기
 WarWithin/Dungeons/DarkflameCleft/421067.mp3 타오르는 밀랍
 WarWithin/Dungeons/DarkflameCleft/421653.mp3 저주받은 밀랍
 WarWithin/Dungeons/DarkflameCleft/421817.mp3 심지점화 세례
 WarWithin/Dungeons/DarkflameCleft/421910.mp3 진화의 돌풍
 WarWithin/Dungeons/DarkflameCleft/422116.mp3 무모한 돌진
+WarWithin/Dungeons/DarkflameCleft/422163.mp3 유인의 양초불꽃
 WarWithin/Dungeons/DarkflameCleft/422245.mp3 바위 부수기
 WarWithin/Dungeons/DarkflameCleft/422393.mp3 숨막히는 암흑
 WarWithin/Dungeons/DarkflameCleft/422414.mp3 암흑 강타
@@ -5623,7 +5625,6 @@ WarWithin/Dungeons/DarkflameCleft/422541.mp3 빛 흡수
 WarWithin/Dungeons/DarkflameCleft/422648.mp3 어둠불꽃 곡괭이
 WarWithin/Dungeons/DarkflameCleft/423109.mp3 타오르는 지옥불
 WarWithin/Dungeons/DarkflameCleft/423501.mp3 날뛰는 맹타
-WarWithin/Dungeons/DarkflameCleft/423693.mp3 유인의 양초불꽃
 WarWithin/Dungeons/DarkflameCleft/424212.mp3 화염 촉발
 WarWithin/Dungeons/DarkflameCleft/424322.mp3 폭발의 불길
 WarWithin/Dungeons/DarkflameCleft/425394.mp3 흠뻑 적시는 숨결
@@ -5849,6 +5850,7 @@ WarWithin/Dungeons/PrioryOfTheSacredFlame/444608.mp3 내면의 빛
 WarWithin/Dungeons/PrioryOfTheSacredFlame/444743.mp3 연발 화염구
 WarWithin/Dungeons/PrioryOfTheSacredFlame/446368.mp3 희생의 장작더미
 WarWithin/Dungeons/PrioryOfTheSacredFlame/446403.mp3 희생의 불꽃
+WarWithin/Dungeons/PrioryOfTheSacredFlame/446776.mp3 암습
 WarWithin/Dungeons/PrioryOfTheSacredFlame/447270.mp3 창 던지기
 WarWithin/Dungeons/PrioryOfTheSacredFlame/447439.mp3 잔인한 짓이기기
 WarWithin/Dungeons/PrioryOfTheSacredFlame/448485.mp3 방패 밀쳐내기
