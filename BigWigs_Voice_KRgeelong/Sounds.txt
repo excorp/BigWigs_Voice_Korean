@@ -4955,9 +4955,9 @@ Shadowlands/Dungeons/TheNecroticWake/345623.mp3 죽음의 폭발
 Shadowlands/Dungeons/TheaterOfPain/1215600.mp3 메말리는 손길
 Shadowlands/Dungeons/TheaterOfPain/1215738.mp3 부식성 숨결
 Shadowlands/Dungeons/TheaterOfPain/1215741.mp3 강력한 강타
-Shadowlands/Dungeons/TheaterOfPain/1215787.mp3 Death Spiral
+Shadowlands/Dungeons/TheaterOfPain/1215787.mp3 죽음의 소용돌이
 Shadowlands/Dungeons/TheaterOfPain/1215850.mp3 대지파괴자
-Shadowlands/Dungeons/TheaterOfPain/1223803.mp3 Well of Darkness
+Shadowlands/Dungeons/TheaterOfPain/1223803.mp3 어둠의 우물
 Shadowlands/Dungeons/TheaterOfPain/317231.mp3 분쇄의 격돌
 Shadowlands/Dungeons/TheaterOfPain/317605.mp3 소용돌이
 Shadowlands/Dungeons/TheaterOfPain/318406.mp3 다지기 강타
