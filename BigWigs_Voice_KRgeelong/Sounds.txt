@@ -5645,6 +5645,7 @@ WarWithin/Dungeons/Delves/1217418.mp3 대리인 부르기
 WarWithin/Dungeons/Delves/1217449.mp3 중개인 부르기
 WarWithin/Dungeons/Delves/1217452.mp3 어머니 부르기
 WarWithin/Dungeons/Delves/1217510.mp3 빠른 연락
+WarWithin/Dungeons/Delves/1217589.mp3 포자 폭발
 WarWithin/Dungeons/Delves/1217903.mp3 불화살
 WarWithin/Dungeons/Delves/1217905.mp3 굴착기 부르기
 WarWithin/Dungeons/Delves/1217913.mp3 어둠의 화상
@@ -5653,6 +5654,7 @@ WarWithin/Dungeons/Delves/1218039.mp3 내장형 수류탄
 WarWithin/Dungeons/Delves/1218061.mp3 황금 도화선
 WarWithin/Dungeons/Delves/1220869.mp3 뼈파괴자
 WarWithin/Dungeons/Delves/359016.mp3 날렵함
+WarWithin/Dungeons/Delves/363194.mp3 점액 자국
 WarWithin/Dungeons/Delves/372529.mp3 흉측한 웃음
 WarWithin/Dungeons/Delves/374898.mp3 격노
 WarWithin/Dungeons/Delves/390943.mp3 전기 재앙
@@ -5662,6 +5664,7 @@ WarWithin/Dungeons/Delves/415250.mp3 진균 꽃송이
 WarWithin/Dungeons/Delves/415253.mp3 곰팡이 숨결
 WarWithin/Dungeons/Delves/415406.mp3 버섯 폭풍
 WarWithin/Dungeons/Delves/415492.mp3 버섯 돌진
+WarWithin/Dungeons/Delves/415495.mp3 질척한 버섯
 WarWithin/Dungeons/Delves/415499.mp3 현기증
 WarWithin/Dungeons/Delves/418295.mp3 암영 베기
 WarWithin/Dungeons/Delves/418297.mp3 혹독
@@ -5673,7 +5676,6 @@ WarWithin/Dungeons/Delves/424891.mp3 덩굴 창
 WarWithin/Dungeons/Delves/425040.mp3 부패 파동 세례
 WarWithin/Dungeons/Delves/425042.mp3 포자 파동
 WarWithin/Dungeons/Delves/425315.mp3 버섯 폭발
-WarWithin/Dungeons/Delves/427710.mp3 포자 폭발
 WarWithin/Dungeons/Delves/430037.mp3 작살어
 WarWithin/Dungeons/Delves/433045.mp3 기습
 WarWithin/Dungeons/Delves/433410.mp3 공포의 절규
@@ -5801,6 +5803,7 @@ WarWithin/Dungeons/OperationFloodgate/460156.mp3 시동
 WarWithin/Dungeons/OperationFloodgate/460867.mp3 쿵 콰광 펑!
 WarWithin/Dungeons/OperationFloodgate/462771.mp3 조사 광선
 WarWithin/Dungeons/OperationFloodgate/463058.mp3 피에 굶주린 폭소
+WarWithin/Dungeons/OperationFloodgate/465120.mp3 태엽 감기
 WarWithin/Dungeons/OperationFloodgate/465408.mp3 신속 건설
 WarWithin/Dungeons/OperationFloodgate/465463.mp3 터보 충전
 WarWithin/Dungeons/OperationFloodgate/465666.mp3 불꽃격돌
