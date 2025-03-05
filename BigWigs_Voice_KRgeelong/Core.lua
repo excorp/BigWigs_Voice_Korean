@@ -134,6 +134,7 @@ zonetable[429]   = "Classic\\Dungeons\\DireMaul"
 zonetable[329]   = "Classic\\Dungeons\\Stratholme"
 zonetable[209]   = "Classic\\Dungeons\\ZulFarrak"
 zonetable[2784]  = "Classic\\Dungeons\\DemonFallCanyon"
+zonetable[2875]  = "Classic\\Dungeons\\KarazhanCrypts"
 
 zonetable[543]   = "BurningCrusade\\Dungeons\\HellfireRamparts"
 zonetable[269]   = "BurningCrusade\\Dungeons\\TheBlackMorass"
@@ -281,8 +282,12 @@ zonetable[2687]  = "WarWithin\\Dungeons\\Delves"
 zonetable[2688]  = "WarWithin\\Dungeons\\Delves"
 zonetable[2689]  = "WarWithin\\Dungeons\\Delves"
 zonetable[2690]  = "WarWithin\\Dungeons\\Delves"
+zonetable[2815]  = "WarWithin\\Dungeons\\Delves"
+zonetable[2826]  = "WarWithin\\Dungeons\\Delves"
+zonetable[2831]  = "WarWithin\\Dungeons\\Delves"
 
 zonetable[2710]  = "WarWithin\\Dungeons\\Scenarios"
+
 
 
 local currentZone = ""
