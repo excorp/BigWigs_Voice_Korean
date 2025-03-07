@@ -416,6 +416,7 @@ BattleForAzeroth/Dungeons/TheMotherlode/262347.mp3 전하 파동
 BattleForAzeroth/Dungeons/TheMotherlode/262377.mp3 수색과 섬멸
 BattleForAzeroth/Dungeons/TheMotherlode/262383.mp3 거미 지뢰 설치
 BattleForAzeroth/Dungeons/TheMotherlode/263202.mp3 바위 창
+BattleForAzeroth/Dungeons/TheMotherlode/263215.mp3 대지 보호막
 BattleForAzeroth/Dungeons/TheMotherlode/263628.mp3 충전된 집게손
 BattleForAzeroth/Dungeons/TheMotherlode/267354.mp3 빗발치는 파편화살
 BattleForAzeroth/Dungeons/TheMotherlode/267433.mp3 기계 활성화
