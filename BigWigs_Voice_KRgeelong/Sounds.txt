@@ -6010,15 +6010,14 @@ WarWithin/Raids/KhazAlgar/458423.mp3 비전 폭격
 WarWithin/Raids/KhazAlgar/458695.mp3 과충전된 레이저
 WarWithin/Raids/KhazAlgar/458799.mp3 과충전된 대지
 WarWithin/Raids/KhazAlgar/458838.mp3 억압의 파열
-WarWithin/Raids/LiberationOfUndermine/-31482.mp3 
 WarWithin/Raids/LiberationOfUndermine/-31766.mp3 Mk. II 전기 충격기 죽음
 WarWithin/Raids/LiberationOfUndermine/1213690.mp3 타오르는 가래
 WarWithin/Raids/LiberationOfUndermine/1213994.mp3 전격의 환영
 WarWithin/Raids/LiberationOfUndermine/1214039.mp3 타오르는 웅덩이
 WarWithin/Raids/LiberationOfUndermine/1214164.mp3 즐거움
 WarWithin/Raids/LiberationOfUndermine/1214190.mp3 분출의 땅 울리긴
-WarWithin/Raids/LiberationOfUndermine/1214226.mp3 분화구 만들기
 WarWithin/Raids/LiberationOfUndermine/1214229.mp3 대재앙급 장갑
+WarWithin/Raids/LiberationOfUndermine/1214369.mp3 총체적인 파괴!!!
 WarWithin/Raids/LiberationOfUndermine/1214598.mp3 홀림
 WarWithin/Raids/LiberationOfUndermine/1214607.mp3 살벌 흉악 폭탄 작렬
 WarWithin/Raids/LiberationOfUndermine/1214623.mp3 격노
@@ -6043,10 +6042,9 @@ WarWithin/Raids/LiberationOfUndermine/1218418.mp3 전선 이전
 WarWithin/Raids/LiberationOfUndermine/1218704.mp3 시험용 동력감줄
 WarWithin/Raids/LiberationOfUndermine/1219047.mp3 양극화된 재앙의 작렬
 WarWithin/Raids/LiberationOfUndermine/1219384.mp3 고철 로켓
-WarWithin/Raids/LiberationOfUndermine/1220290.mp3 교묘한 사격
 WarWithin/Raids/LiberationOfUndermine/1220761.mp3 기계복 기술자의 용기
-WarWithin/Raids/LiberationOfUndermine/1220846.mp3 제어기 용해
 WarWithin/Raids/LiberationOfUndermine/1221826.mp3 사소한 몸싸움
+WarWithin/Raids/LiberationOfUndermine/1222831.mp3 과부하된 감줄
 WarWithin/Raids/LiberationOfUndermine/459678.mp3 기름 분출
 WarWithin/Raids/LiberationOfUndermine/459683.mp3 미끄러운 기름
 WarWithin/Raids/LiberationOfUndermine/459943.mp3 폭주족 부르기
@@ -6110,13 +6108,14 @@ WarWithin/Raids/LiberationOfUndermine/468119.mp3 공명의 메아리
 WarWithin/Raids/LiberationOfUndermine/468791.mp3 확고한 죽음
 WarWithin/Raids/LiberationOfUndermine/469043.mp3 작열하는 산탄 파편
 WarWithin/Raids/LiberationOfUndermine/469286.mp3 초강력 감줄
+WarWithin/Raids/LiberationOfUndermine/469327.mp3 초강력 작렬
 WarWithin/Raids/LiberationOfUndermine/469362.mp3 충전된 초강력 폭탄
 WarWithin/Raids/LiberationOfUndermine/469391.mp3 관통상
 WarWithin/Raids/LiberationOfUndermine/469404.mp3 초강력 쾅!
 WarWithin/Raids/LiberationOfUndermine/469491.mp3 2중 장애 사격
+WarWithin/Raids/LiberationOfUndermine/469795.mp3 초강력 폭탄 폭파
 WarWithin/Raids/LiberationOfUndermine/469993.mp3 오염된 배출
 WarWithin/Raids/LiberationOfUndermine/470910.mp3 감옥 탈출
-WarWithin/Raids/LiberationOfUndermine/471352.mp3 연료 보충하기!
 WarWithin/Raids/LiberationOfUndermine/471403.mp3 무자비한 자동차 대학살
 WarWithin/Raids/LiberationOfUndermine/471557.mp3 학살의 왕
 WarWithin/Raids/LiberationOfUndermine/471574.mp3 총알 세례
