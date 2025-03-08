@@ -5618,7 +5618,6 @@ WarWithin/Dungeons/Delves/1213776.mp3 절망의 저주
 WarWithin/Dungeons/Delves/1213785.mp3 파괴 작업
 WarWithin/Dungeons/Delves/1213804.mp3 암흑 탄막
 WarWithin/Dungeons/Delves/1213852.mp3 분쇄
-WarWithin/Dungeons/Delves/1213950.mp3 군중 해산
 WarWithin/Dungeons/Delves/1214043.mp3 불타는 대포
 WarWithin/Dungeons/Delves/1214052.mp3 보호막으로 동력 전환
 WarWithin/Dungeons/Delves/1214135.mp3 비를 내리소서!
@@ -5645,6 +5644,7 @@ WarWithin/Dungeons/Delves/1216790.mp3 전방 돌진
 WarWithin/Dungeons/Delves/1216794.mp3 알파 대포
 WarWithin/Dungeons/Delves/1216805.mp3 찌릿!
 WarWithin/Dungeons/Delves/1216806.mp3 문은 저쪽에
+WarWithin/Dungeons/Delves/1216937.mp3 대지주의 화려한 입장
 WarWithin/Dungeons/Delves/1217301.mp3 마구잡이 돌진
 WarWithin/Dungeons/Delves/1217326.mp3 내 얼굴 촬영!
 WarWithin/Dungeons/Delves/1217361.mp3 무가치한 애정
@@ -5669,10 +5669,7 @@ WarWithin/Dungeons/Delves/363194.mp3 점액 자국
 WarWithin/Dungeons/Delves/372529.mp3 흉측한 웃음
 WarWithin/Dungeons/Delves/374898.mp3 격노
 WarWithin/Dungeons/Delves/390943.mp3 전기 재앙
-WarWithin/Dungeons/Delves/400335.mp3 쐐기 덫
 WarWithin/Dungeons/Delves/414944.mp3 전투의 포효
-WarWithin/Dungeons/Delves/415250.mp3 진균 꽃송이
-WarWithin/Dungeons/Delves/415253.mp3 곰팡이 숨결
 WarWithin/Dungeons/Delves/415406.mp3 버섯 폭풍
 WarWithin/Dungeons/Delves/415492.mp3 버섯 돌진
 WarWithin/Dungeons/Delves/415495.mp3 질척한 버섯
@@ -5710,10 +5707,8 @@ WarWithin/Dungeons/Delves/445210.mp3 불꽃의 돌진
 WarWithin/Dungeons/Delves/445252.mp3 괴저의 최후
 WarWithin/Dungeons/Delves/445407.mp3 피의 갈증
 WarWithin/Dungeons/Delves/445492.mp3 톱니 회전베기
-WarWithin/Dungeons/Delves/445718.mp3 용암 망치
 WarWithin/Dungeons/Delves/445771.mp3 거품 쇄도
 WarWithin/Dungeons/Delves/445774.mp3 몰아치는 광란
-WarWithin/Dungeons/Delves/445781.mp3 용암 타격
 WarWithin/Dungeons/Delves/445860.mp3 익사한 환영
 WarWithin/Dungeons/Delves/446079.mp3 심연의 부름
 WarWithin/Dungeons/Delves/446230.mp3 격퇴의 작렬
@@ -5766,24 +5761,12 @@ WarWithin/Dungeons/Delves/453937.mp3 부화 중...
 WarWithin/Dungeons/Delves/454213.mp3 진흙 돌진
 WarWithin/Dungeons/Delves/454762.mp3 어둠의 경감
 WarWithin/Dungeons/Delves/455932.mp3 모독의 숨결
-WarWithin/Dungeons/Delves/457448.mp3 암흑 분출
-WarWithin/Dungeons/Delves/457880.mp3 승천
-WarWithin/Dungeons/Delves/458090.mp3 공허 베기
-WarWithin/Dungeons/Delves/458099.mp3 휘감는 어둠
-WarWithin/Dungeons/Delves/458104.mp3 맹독 연사
-WarWithin/Dungeons/Delves/458311.mp3 맹독 물기
-WarWithin/Dungeons/Delves/458325.mp3 회피의 춤
-WarWithin/Dungeons/Delves/458369.mp3 맹독 연사
-WarWithin/Dungeons/Delves/458397.mp3 방해의 외침
 WarWithin/Dungeons/Delves/458834.mp3 어둠회전
 WarWithin/Dungeons/Delves/458849.mp3 어둠균열 강타
 WarWithin/Dungeons/Delves/458853.mp3 암흑 흡수
 WarWithin/Dungeons/Delves/458867.mp3 잠복의 부름
 WarWithin/Dungeons/Delves/458874.mp3 어둠의 물결
 WarWithin/Dungeons/Delves/458879.mp3 황혼의 축복
-WarWithin/Dungeons/Delves/459421.mp3 성스러운 빛
-WarWithin/Dungeons/Delves/461741.mp3 신성화
-WarWithin/Dungeons/Delves/462686.mp3 해골 분쇄자
 WarWithin/Dungeons/Delves/463408.mp3 냉기 주입
 WarWithin/Dungeons/Delves/470582.mp3 늪지 화살
 WarWithin/Dungeons/Delves/470612.mp3 부식 담즙
@@ -5801,7 +5784,6 @@ WarWithin/Dungeons/Delves/474228.mp3 어둠 작렬
 WarWithin/Dungeons/Delves/474325.mp3 심연의 손아귀
 WarWithin/Dungeons/Delves/474482.mp3 공허의 유혹
 WarWithin/Dungeons/Delves/474511.mp3 암흑 강타
-WarWithin/Dungeons/Delves/zekvir_breach.mp3 제크비르 등장
 WarWithin/Dungeons/OperationFloodgate/1214337.mp3 폭탄 설치
 WarWithin/Dungeons/OperationFloodgate/1214468.mp3 곡예 사격
 WarWithin/Dungeons/OperationFloodgate/1214780.mp3 최대 왜곡
