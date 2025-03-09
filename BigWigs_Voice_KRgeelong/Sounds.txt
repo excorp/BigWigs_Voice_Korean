@@ -5770,6 +5770,8 @@ WarWithin/Dungeons/Delves/458879.mp3 황혼의 축복
 WarWithin/Dungeons/Delves/463408.mp3 냉기 주입
 WarWithin/Dungeons/Delves/470582.mp3 늪지 화살
 WarWithin/Dungeons/Delves/470612.mp3 부식 담즙
+WarWithin/Dungeons/Delves/472842.mp3 파괴
+WarWithin/Dungeons/Delves/473541.mp3 주먹의 질풍
 WarWithin/Dungeons/Delves/473550.mp3 로켓 연발탄
 WarWithin/Dungeons/Delves/473684.mp3 톱니폭풍
 WarWithin/Dungeons/Delves/473696.mp3 화염병
@@ -5993,6 +5995,10 @@ WarWithin/Dungeons/TheStonevault/449455.mp3 공포의 울부짖음
 WarWithin/Dungeons/TheStonevault/457465.mp3 무질서
 WarWithin/Dungeons/TheStonevault/459210.mp3 어둠의 발톱
 WarWithin/Dungeons/TheStonevault/462500.mp3 마력 깃든 강철 마력
+WarWithin/Raids/KhazAlgar/1216505.mp3 폭탄 지대
+WarWithin/Raids/KhazAlgar/1216687.mp3 이글거리는 화염
+WarWithin/Raids/KhazAlgar/1216709.mp3 날아드는 죽음
+WarWithin/Raids/KhazAlgar/1216812.mp3 초강력 로켓 강타
 WarWithin/Raids/KhazAlgar/450407.mp3 육중한 격돌
 WarWithin/Raids/KhazAlgar/450454.mp3 지층 포효
 WarWithin/Raids/KhazAlgar/450677.mp3 파열하는 룬
@@ -6023,7 +6029,7 @@ WarWithin/Raids/LiberationOfUndermine/1214607.mp3 살벌 흉악 폭탄 작렬
 WarWithin/Raids/LiberationOfUndermine/1214623.mp3 격노
 WarWithin/Raids/LiberationOfUndermine/1214878.mp3 신형 불꽃 축제 꾸러미
 WarWithin/Raids/LiberationOfUndermine/1215209.mp3 파괴 지대
-WarWithin/Raids/LiberationOfUndermine/1215595.mp3 결함 있는 전선 배열
+WarWithin/Raids/LiberationOfUndermine/1215591.mp3
 WarWithin/Raids/LiberationOfUndermine/1215953.mp3 전하 충전
 WarWithin/Raids/LiberationOfUndermine/1216142.mp3 이중 분노
 WarWithin/Raids/LiberationOfUndermine/1216509.mp3 치솟는 굴착기
@@ -6045,6 +6051,7 @@ WarWithin/Raids/LiberationOfUndermine/1219384.mp3 고철 로켓
 WarWithin/Raids/LiberationOfUndermine/1220761.mp3 기계복 기술자의 용기
 WarWithin/Raids/LiberationOfUndermine/1221826.mp3 사소한 몸싸움
 WarWithin/Raids/LiberationOfUndermine/1222831.mp3 과부하된 감줄
+WarWithin/Raids/LiberationOfUndermine/1222948.mp3 전기 충전식 방패
 WarWithin/Raids/LiberationOfUndermine/459678.mp3 기름 분출
 WarWithin/Raids/LiberationOfUndermine/459683.mp3 미끄러운 기름
 WarWithin/Raids/LiberationOfUndermine/459943.mp3 폭주족 부르기
