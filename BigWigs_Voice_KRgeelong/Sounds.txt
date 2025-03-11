@@ -5685,6 +5685,7 @@ WarWithin/Dungeons/Delves/425040.mp3 부패 파동 세례
 WarWithin/Dungeons/Delves/425042.mp3 포자 파동
 WarWithin/Dungeons/Delves/425315.mp3 버섯 폭발
 WarWithin/Dungeons/Delves/430037.mp3 작살어
+WarWithin/Dungeons/Delves/433040.mp3 환영 발걸음
 WarWithin/Dungeons/Delves/433045.mp3 기습
 WarWithin/Dungeons/Delves/433410.mp3 공포의 절규
 WarWithin/Dungeons/Delves/433448.mp3 거미줄 발사
@@ -5760,6 +5761,7 @@ WarWithin/Dungeons/Delves/453897.mp3 포자의 노래
 WarWithin/Dungeons/Delves/453937.mp3 부화 중...
 WarWithin/Dungeons/Delves/454213.mp3 진흙 돌진
 WarWithin/Dungeons/Delves/454762.mp3 어둠의 경감
+WarWithin/Dungeons/Delves/455662.mp3 휘감는 그림자
 WarWithin/Dungeons/Delves/455932.mp3 모독의 숨결
 WarWithin/Dungeons/Delves/458834.mp3 어둠회전
 WarWithin/Dungeons/Delves/458849.mp3 어둠균열 강타
@@ -5934,7 +5936,6 @@ WarWithin/Dungeons/TheRookery/423305.mp3 무효화의 지각 변동
 WarWithin/Dungeons/TheRookery/423393.mp3 무질서
 WarWithin/Dungeons/TheRookery/424371.mp3 폭풍의 복수
 WarWithin/Dungeons/TheRookery/424737.mp3 혼돈의 타락
-WarWithin/Dungeons/TheRookery/424797.mp3 혼돈 저항력 약화
 WarWithin/Dungeons/TheRookery/424958.mp3 현실 분쇄
 WarWithin/Dungeons/TheRookery/424966.mp3 머무는 공허
 WarWithin/Dungeons/TheRookery/425048.mp3 암흑의 중력
@@ -6112,6 +6113,7 @@ WarWithin/Raids/LiberationOfUndermine/467202.mp3 황금 방울
 WarWithin/Raids/LiberationOfUndermine/467380.mp3 고블린 유도 로켓
 WarWithin/Raids/LiberationOfUndermine/467606.mp3 음향 대포
 WarWithin/Raids/LiberationOfUndermine/468119.mp3 공명의 메아리
+WarWithin/Raids/LiberationOfUndermine/468147.mp3 매연
 WarWithin/Raids/LiberationOfUndermine/468791.mp3 확고한 죽음
 WarWithin/Raids/LiberationOfUndermine/469043.mp3 작열하는 산탄 파편
 WarWithin/Raids/LiberationOfUndermine/469286.mp3 초강력 감줄
@@ -6133,6 +6135,7 @@ WarWithin/Raids/LiberationOfUndermine/472306.mp3 불꽃작렬 점화
 WarWithin/Raids/LiberationOfUndermine/472631.mp3 대지진 감옥
 WarWithin/Raids/LiberationOfUndermine/472782.mp3 경의 표하기
 WarWithin/Raids/LiberationOfUndermine/472893.mp3 소각
+WarWithin/Raids/LiberationOfUndermine/473119.mp3 짧은 도화선
 WarWithin/Raids/LiberationOfUndermine/473260.mp3 요란스러운 투하
 WarWithin/Raids/LiberationOfUndermine/473276.mp3 발명품 활성화!
 WarWithin/Raids/LiberationOfUndermine/473650.mp3 고철 폭탄
