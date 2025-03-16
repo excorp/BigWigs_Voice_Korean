@@ -6033,6 +6033,7 @@ WarWithin/Raids/LiberationOfUndermine/1215209.mp3 파괴 지대
 WarWithin/Raids/LiberationOfUndermine/1215591.mp3
 WarWithin/Raids/LiberationOfUndermine/1215953.mp3 전하 충전
 WarWithin/Raids/LiberationOfUndermine/1216142.mp3 이중 분노
+WarWithin/Raids/LiberationOfUndermine/1216406.mp3 불안정한 폭발
 WarWithin/Raids/LiberationOfUndermine/1216509.mp3 치솟는 굴착기
 WarWithin/Raids/LiberationOfUndermine/1216802.mp3 양극 생성기
 WarWithin/Raids/LiberationOfUndermine/1216845.mp3 스패너
@@ -6102,7 +6103,6 @@ WarWithin/Raids/LiberationOfUndermine/466615.mp3 방호 장갑
 WarWithin/Raids/LiberationOfUndermine/466748.mp3 이빨 감염
 WarWithin/Raids/LiberationOfUndermine/466751.mp3 열기 방출
 WarWithin/Raids/LiberationOfUndermine/466834.mp3 전격 탄막
-WarWithin/Raids/LiberationOfUndermine/466860.mp3 최첨단
 WarWithin/Raids/LiberationOfUndermine/466866.mp3 메아리치는 찬가
 WarWithin/Raids/LiberationOfUndermine/466958.mp3 자존심 견제
 WarWithin/Raids/LiberationOfUndermine/466979.mp3 결함투성이 감전
