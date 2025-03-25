@@ -4954,6 +4954,7 @@ Shadowlands/Dungeons/TheaterOfPain/323825.mp3 휘감는 균열
 Shadowlands/Dungeons/TheaterOfPain/323831.mp3 사신의 손아귀
 Shadowlands/Dungeons/TheaterOfPain/324079.mp3 수확의 낫
 Shadowlands/Dungeons/TheaterOfPain/324449.mp3 죽음의 발현
+Shadowlands/Dungeons/TheaterOfPain/330532.mp3 날카로운 불화
 Shadowlands/Dungeons/TheaterOfPain/330562.mp3 사기의 외침
 Shadowlands/Dungeons/TheaterOfPain/330565.mp3 방패 가격
 Shadowlands/Dungeons/TheaterOfPain/330586.mp3 시체 삼키기
@@ -5506,6 +5507,7 @@ WarWithin/Dungeons/CinderbrewMeadery/436644.mp3 불타는 도탄
 WarWithin/Dungeons/CinderbrewMeadery/437721.mp3 끓어오르는 불길
 WarWithin/Dungeons/CinderbrewMeadery/437956.mp3 분출하는 지옥불
 WarWithin/Dungeons/CinderbrewMeadery/438025.mp3 간식 시간
+WarWithin/Dungeons/CinderbrewMeadery/438971.mp3 분쇄 독침
 WarWithin/Dungeons/CinderbrewMeadery/439031.mp3 아랫도리 올려치기
 WarWithin/Dungeons/CinderbrewMeadery/439202.mp3 타오르는 발효
 WarWithin/Dungeons/CinderbrewMeadery/439365.mp3 용솟음치는 맥주
@@ -5610,6 +5612,7 @@ WarWithin/Dungeons/DarkflameCleft/429093.mp3 비장의 한 수
 WarWithin/Dungeons/DarkflameCleft/430171.mp3 담금질 작렬
 WarWithin/Dungeons/DarkflameCleft/440652.mp3 몰아치는 밀랍
 WarWithin/Dungeons/DarkflameCleft/443835.mp3 타오르는 폭풍
+WarWithin/Dungeons/DarkflameCleft/469620.mp3 다가오는 그림자
 WarWithin/Dungeons/DarkflameCleft/minecart.mp3 광산 카트 미니게임
 WarWithin/Dungeons/Delves/1213425.mp3 공포의 포효
 WarWithin/Dungeons/Delves/1213426.mp3 촉수 격돌

@@ -259,6 +259,7 @@ zonetable[2451]  = "Dragonflight\\Dungeons\\UldamanLegacyOfTyr"
 zonetable[2521]  = "Dragonflight\\Dungeons\\RubyLifePools"
 zonetable[2579]  = "Dragonflight\\Dungeons\\DawnOfTheInfinite"
 
+zonetable[-2346] = "WarWithin\\Raids\\KhazAlgar"
 zonetable[2660]  = "WarWithin\\Dungeons\\AraKara"
 zonetable[2661]  = "WarWithin\\Dungeons\\CinderbrewMeadery"
 zonetable[2669]  = "WarWithin\\Dungeons\\CityOfThreads"
