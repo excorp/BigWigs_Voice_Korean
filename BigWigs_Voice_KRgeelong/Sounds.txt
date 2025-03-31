@@ -5689,6 +5689,7 @@ WarWithin/Dungeons/Delves/424891.mp3 덩굴 창
 WarWithin/Dungeons/Delves/425040.mp3 부패 파동 세례
 WarWithin/Dungeons/Delves/425042.mp3 포자 파동
 WarWithin/Dungeons/Delves/425315.mp3 버섯 폭발
+WarWithin/Dungeons/Delves/427710.mp3 포자 폭발
 WarWithin/Dungeons/Delves/430037.mp3 작살어
 WarWithin/Dungeons/Delves/433040.mp3 환영 발걸음
 WarWithin/Dungeons/Delves/433045.mp3 기습
@@ -5778,6 +5779,7 @@ WarWithin/Dungeons/Delves/463408.mp3 냉기 주입
 WarWithin/Dungeons/Delves/470582.mp3 늪지 화살
 WarWithin/Dungeons/Delves/470612.mp3 부식 담즙
 WarWithin/Dungeons/Delves/472842.mp3 파괴
+WarWithin/Dungeons/Delves/473537.mp3 올려치기
 WarWithin/Dungeons/Delves/473541.mp3 주먹의 질풍
 WarWithin/Dungeons/Delves/473550.mp3 로켓 연발탄
 WarWithin/Dungeons/Delves/473684.mp3 톱니폭풍
@@ -6814,6 +6816,7 @@ WrathOfTheLichKing/Dungeons/PitOfSaron/69275.mp3 서릿발송곳니의 징표
 WrathOfTheLichKing/Dungeons/PitOfSaron/70274.mp3 독성 폐기물
 WrathOfTheLichKing/Dungeons/PitOfSaron/70381.mp3 동결
 WrathOfTheLichKing/Dungeons/TheCullingOfStratholme/52723.mp3 흡혈의 손길
+WrathOfTheLichKing/Dungeons/TheCullingOfStratholme/52772.mp3 노력의 저주
 WrathOfTheLichKing/Dungeons/TheForgeOfSouls/68839.mp3 영혼 타락
 WrathOfTheLichKing/Dungeons/TheForgeOfSouls/69051.mp3 비춰진 영혼
 WrathOfTheLichKing/Dungeons/TheNexus/30849.mp3 주문 잠금
