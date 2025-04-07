@@ -84,27 +84,37 @@ BattleForAzeroth/Dungeons/Freehold/274507.mp3 미끄러운 거품
 BattleForAzeroth/Dungeons/Freehold/274555.mp3 우둘투둘한 이빨
 BattleForAzeroth/Dungeons/Freehold/413136.mp3 단도 소용돌이
 BattleForAzeroth/Dungeons/Freehold/crusher.mp3 바위 투척
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/11641.mp3 사술
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/296492.mp3 공허 방출
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/296510.mp3 으스스한 엉금이
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/296718.mp3 어둠의 강타
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/297146.mp3 어둠의 낙인
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/297161.mp3 칼날폭풍
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/297237.mp3 끝없는 허기의 토템
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/297302.mp3 끝없는 허기
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/297315.mp3 공허 폭풍
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/297574.mp3 절망
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/297746.mp3 지진 격돌
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/297822.mp3 솟구치는 어둠
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/298033.mp3 심연의 손길
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/298074.mp3 파열
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/298502.mp3 독성 숨결
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/298510.mp3 아퀴르 정신 왜곡의 독
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/298630.mp3 충격파
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/299055.mp3 어둠의 힘
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/299110.mp3 절멸의 보주
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/300351.mp3 쇄도의 주먹
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/300388.mp3 학살포
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/300530.mp3 정신의 조각칼
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/303589.mp3 핏빛 잔류물
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/304101.mp3 광기의 포효
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/304165.mp3 극심한 구역질
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/304169.mp3 맹독 연발
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/304251.mp3 공허의 날개짓
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/304282.mp3 쇄도하는 타락
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/304976.mp3 공허의 절규
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/305236.mp3 맹독 화살
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/305369.mp3 영혼 파괴
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/305378.mp3 섬뜩한 고함
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/305875.mp3 내장 체액
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/306001.mp3 폭발 도약
@@ -113,31 +123,54 @@ BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/306583.mp3 천근 같은 다
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/306617.mp3 혼돈의 고리
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/306656.mp3 타락 방출
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/306726.mp3 더럽혀진 땅
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/306770.mp3 가열로의 숨결
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/306828.mp3 더럽혀진 땅
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/307863.mp3 공허의 격류
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/307870.mp3 이성 회복의 보주
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/308018.mp3 파열된 껍질
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/308346.mp3 숙성 맥주통
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/311390.mp3 광기: 곤충 혐오
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/311996.mp3 환영 열기
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/312584.mp3 집중된 맹독
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/319304.mp3 어둠의 낙인
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/264398.mp3 마무리 폭탄주
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/296492.mp3 공허 방출
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/296510.mp3 으스스한 엉금이
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/296537.mp3 정신 공격
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/296669.mp3 도사리는 신체 부위
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/296718.mp3 어둠의 강타
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/296911.mp3 혼돈의 숨결
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/297315.mp3 공허 폭풍
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/298033.mp3 심연의 손길
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/298074.mp3 파열
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/298584.mp3 격퇴
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/298691.mp3 예속의 사슬
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/298866.mp3 채찍의 촉수
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/305708.mp3 폭발물
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/306583.mp3 천근 같은 다리
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/306770.mp3 가열로의 숨결
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/307870.mp3 이성 회복의 보주
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308265.mp3 타락한 역병
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308278.mp3 어둠에 물든 하늘
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308305.mp3 역병 대분출
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308308.mp3 관통 사격
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308346.mp3 숙성 맥주통
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308366.mp3 극심한 고문
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308375.mp3 영혼의 절규
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308380.mp3 교화
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308406.mp3 혼돈의 도약
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308432.mp3 공허로 물든 칼날
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308481.mp3 균열의 일격
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308575.mp3 어둠의 변천
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308669.mp3 어둠의 눈길
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308681.mp3 혼돈의 눈 소환
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308801.mp3 불의 비
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308862.mp3 불안정한 대분출
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308878.mp3 뒤틀린 소환
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308967.mp3 끊임없는 구타
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/308998.mp3 사기 증진
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/309373.mp3 혼돈의 투사체
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/309451.mp3 얼음 폭풍
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/309648.mp3 오염된 변이
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/309671.mp3 강화된 가열로의 숨결
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/309819.mp3 공허 폭발
@@ -145,7 +178,9 @@ BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/309882.mp3 무자비한 강�
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/311390.mp3 광기: 곤충 혐오
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/311399.mp3 위세의 칼날
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/311456.mp3 울부짖는 작렬
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/311530.mp3 수색과 섬멸
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/311996.mp3 환영 열기
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/312260.mp3 폭발물
 BattleForAzeroth/Dungeons/KingsRest/265773.mp3 황금 뱉기
 BattleForAzeroth/Dungeons/KingsRest/265781.mp3 구불구불 돌풍
 BattleForAzeroth/Dungeons/KingsRest/265910.mp3 꼬리 난타
@@ -5777,6 +5812,8 @@ WarWithin/Dungeons/Delves/458874.mp3 어둠의 물결
 WarWithin/Dungeons/Delves/458879.mp3 황혼의 축복
 WarWithin/Dungeons/Delves/463408.mp3 냉기 주입
 WarWithin/Dungeons/Delves/470582.mp3 늪지 화살
+WarWithin/Dungeons/Delves/470592.mp3 황혼의 축복
+WarWithin/Dungeons/Delves/470593.mp3 죽음 부여
 WarWithin/Dungeons/Delves/470612.mp3 부식 담즙
 WarWithin/Dungeons/Delves/472842.mp3 파괴
 WarWithin/Dungeons/Delves/473537.mp3 올려치기
