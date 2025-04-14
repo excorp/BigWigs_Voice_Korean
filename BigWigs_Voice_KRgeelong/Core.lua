@@ -14,7 +14,6 @@ zonetable[533]  = addon.isVanilla and "Classic\\Raids\\Naxxramas" or "WrathOfThe
 zonetable[249]  = addon.isVanilla and "Classic\\Raids\\Onyxia" or "WrathOfTheLichKing\\Raids\\Northrend"
 zonetable[568]  = addon.isClassic and "BurningCrusade\\Raids\\ZulAman" or "Cataclysm\\Dungeons\\ZulAman"
 
-
 zonetable[469]   = "Classic\\Raids\\BlackwingLair"
 zonetable[409]   = "Classic\\Raids\\MoltenCore"
 zonetable[-1447] = "Classic\\Raids\\World"
@@ -32,6 +31,7 @@ zonetable[2791]  = "Classic\\Raids\\StormCliffs"
 zonetable[2789]  = "Classic\\Raids\\TheTaintedScar"
 zonetable[2804]  = "Classic\\Raids\\CrystalVale"
 zonetable[2832]  = "Classic\\Raids\\NightmareGrove"
+zonetable[2856]  = "Classic\\Raids\\ScarletEnclave"
 
 zonetable[580]   = "BurningCrusade\\Raids\\Sunwell"
 zonetable[564]   = "BurningCrusade\\Raids\\BlackTemple"

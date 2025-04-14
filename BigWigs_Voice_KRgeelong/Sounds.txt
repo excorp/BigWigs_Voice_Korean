@@ -133,6 +133,8 @@ BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/311390.mp3 광기: 곤충 �
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/311996.mp3 환영 열기
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/312584.mp3 집중된 맹독
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/319304.mp3 어둠의 낙인
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/1223111.mp3 Vicious Slice
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/1223112.mp3 Maddening Call
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/264398.mp3 마무리 폭탄주
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/296492.mp3 공허 방출
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/296510.mp3 으스스한 엉금이
@@ -181,6 +183,7 @@ BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/311456.mp3 울부짖는 작�
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/311530.mp3 수색과 섬멸
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/311996.mp3 환영 열기
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/312260.mp3 폭발물
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/86736.mp3 격노
 BattleForAzeroth/Dungeons/KingsRest/265773.mp3 황금 뱉기
 BattleForAzeroth/Dungeons/KingsRest/265781.mp3 구불구불 돌풍
 BattleForAzeroth/Dungeons/KingsRest/265910.mp3 꼬리 난타
@@ -1883,6 +1886,7 @@ Classic/Raids/AQ20/26527.mp3 광기
 Classic/Raids/AQ20/26550.mp3 번개 구름
 Classic/Raids/AQ20/8269.mp3 광기
 Classic/Raids/AQ20/8732.mp3 천둥벼락
+Classic/Raids/AQ40/1215421.mp3 맹독 웅덩이
 Classic/Raids/AQ40/1215744.mp3 맹목적인 추종
 Classic/Raids/AQ40/20449.mp3 순간이동
 Classic/Raids/AQ40/25646.mp3 죽음의 상처
@@ -2014,6 +2018,7 @@ Classic/Raids/MoltenCore/461062.mp3 화염 웅덩이
 Classic/Raids/MoltenCore/461103.mp3 살아 움직이는 폐기물
 Classic/Raids/MoltenCore/461131.mp3 심장부 사냥개 소환
 Classic/Raids/MoltenCore/461463.mp3 낙석
+Classic/Raids/Naxxramas/1225419.mp3 괴저 오라
 Classic/Raids/Naxxramas/25646.mp3 죽음의 상처
 Classic/Raids/Naxxramas/27808.mp3 냉기 작렬
 Classic/Raids/Naxxramas/27810.mp3 어둠의 균열
@@ -2065,6 +2070,30 @@ Classic/Raids/Onyxia/18392.mp3 화염구
 Classic/Raids/Onyxia/18431.mp3 우레와 같은 울부짖음
 Classic/Raids/Onyxia/18435.mp3 화염 숨결
 Classic/Raids/Onyxia/364849.mp3 오닉시아의 수호병 소환
+Classic/Raids/ScarletEnclave/1227696.mp3 성스러운 강하
+Classic/Raids/ScarletEnclave/1228063.mp3 화장
+Classic/Raids/ScarletEnclave/1228295.mp3 발 구르기
+Classic/Raids/ScarletEnclave/1229005.mp3 죽음의 상처
+Classic/Raids/ScarletEnclave/1229114.mp3 헌신자의 공물
+Classic/Raids/ScarletEnclave/1229272.mp3 신성한 불길
+Classic/Raids/ScarletEnclave/1229503.mp3 사형 선고
+Classic/Raids/ScarletEnclave/1229714.mp3 실명의 섬광
+Classic/Raids/ScarletEnclave/1230105.mp3 자연의 틈새
+Classic/Raids/ScarletEnclave/1230200.mp3 무기력
+Classic/Raids/ScarletEnclave/1230242.mp3 점화
+Classic/Raids/ScarletEnclave/1231010.mp3 고통스러운 비난
+Classic/Raids/ScarletEnclave/1231095.mp3 드러난 비밀
+Classic/Raids/ScarletEnclave/1231585.mp3 파도의 힘
+Classic/Raids/ScarletEnclave/1231592.mp3 익사의 여울
+Classic/Raids/ScarletEnclave/1231837.mp3 흡혈박쥐 떼
+Classic/Raids/ScarletEnclave/1231844.mp3 지배의 마법진
+Classic/Raids/ScarletEnclave/1231993.mp3 빛바랜 숨결
+Classic/Raids/ScarletEnclave/1233847.mp3 붉은십자군의 손아귀
+Classic/Raids/ScarletEnclave/1233849.mp3 불안정한 조합
+Classic/Raids/ScarletEnclave/1233883.mp3 열광의 맹독
+Classic/Raids/ScarletEnclave/1233901.mp3 맹독
+Classic/Raids/ScarletEnclave/1234347.mp3 살점 태우기
+Classic/Raids/ScarletEnclave/1234540.mp3 작열
 Classic/Raids/StormCliffs/21097.mp3 마나 폭풍
 Classic/Raids/StormCliffs/21099.mp3 냉기 숨결
 Classic/Raids/StormCliffs/21147.mp3 비전 진공
@@ -6128,9 +6157,7 @@ WarWithin/Raids/LiberationOfUndermine/464705.mp3 금빛 표
 WarWithin/Raids/LiberationOfUndermine/464854.mp3 쓰레기 더미
 WarWithin/Raids/LiberationOfUndermine/465009.mp3 폭발적인 시선
 WarWithin/Raids/LiberationOfUndermine/465232.mp3 음파 폭파
-WarWithin/Raids/LiberationOfUndermine/465322.mp3 뜨겁디뜨거운 열기
-WarWithin/Raids/LiberationOfUndermine/465432.mp3 연결된 기계
-WarWithin/Raids/LiberationOfUndermine/465580.mp3 흩어진 지출금
+WarWithin/Raids/LiberationOfUndermine/465309.mp3 부정한 당첨!
 WarWithin/Raids/LiberationOfUndermine/465587.mp3 폭발적인 횡재
 WarWithin/Raids/LiberationOfUndermine/465611.mp3 굴림!
 WarWithin/Raids/LiberationOfUndermine/465833.mp3 거대한 격돌
