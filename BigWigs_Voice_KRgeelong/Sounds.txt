@@ -6089,6 +6089,7 @@ WarWithin/Dungeons/PrioryOfTheSacredFlame/428150.mp3 반사의 보호막
 WarWithin/Dungeons/PrioryOfTheSacredFlame/428169.mp3 눈부신 빛
 WarWithin/Dungeons/PrioryOfTheSacredFlame/435088.mp3 신성한 불꽃의 축복
 WarWithin/Dungeons/PrioryOfTheSacredFlame/435165.mp3 타오르는 일격
+WarWithin/Dungeons/PrioryOfTheSacredFlame/444296.mp3 꿰뚫기
 WarWithin/Dungeons/PrioryOfTheSacredFlame/444546.mp3 정화의 빛
 WarWithin/Dungeons/PrioryOfTheSacredFlame/444608.mp3 내면의 빛
 WarWithin/Dungeons/PrioryOfTheSacredFlame/444728.mp3 기사단의 분노
