@@ -132,6 +132,8 @@ BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/308346.mp3 숙성 맥주통
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/311390.mp3 광기: 곤충 혐오
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/311996.mp3 환영 열기
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/312584.mp3 집중된 맹독
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/314720.mp3 소용돌이
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/314723.mp3 전투 발구르기
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/319304.mp3 어둠의 낙인
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/1223111.mp3 Vicious Slice
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/1223112.mp3 Maddening Call
@@ -437,6 +439,7 @@ BattleForAzeroth/Dungeons/TempleOfSethraliss/273563.mp3 신경독
 BattleForAzeroth/Dungeons/TempleOfSethraliss/273995.mp3 희생의 폭발
 BattleForAzeroth/Dungeons/TempleOfSethraliss/274149.mp3 생명의 힘
 BattleForAzeroth/Dungeons/TheMotherlode/1213139.mp3 추가 시간!
+BattleForAzeroth/Dungeons/TheMotherlode/1214751.mp3 잔혹한 돌진
 BattleForAzeroth/Dungeons/TheMotherlode/1214754.mp3 거대한 격돌
 BattleForAzeroth/Dungeons/TheMotherlode/1215411.mp3 꿰뚫기
 BattleForAzeroth/Dungeons/TheMotherlode/1217279.mp3 올려치기
@@ -5740,6 +5743,7 @@ WarWithin/Dungeons/CinderbrewMeadery/441179.mp3 흘러내리는 꿀
 WarWithin/Dungeons/CinderbrewMeadery/441214.mp3 음료 흘리기
 WarWithin/Dungeons/CinderbrewMeadery/441242.mp3 무료 시식?
 WarWithin/Dungeons/CinderbrewMeadery/441351.mp3 야성적인 벌의 분노
+WarWithin/Dungeons/CinderbrewMeadery/441408.mp3 목마름
 WarWithin/Dungeons/CinderbrewMeadery/441434.mp3 실패작
 WarWithin/Dungeons/CinderbrewMeadery/441627.mp3 회복의 꿀
 WarWithin/Dungeons/CinderbrewMeadery/442525.mp3 즐거운 시간
