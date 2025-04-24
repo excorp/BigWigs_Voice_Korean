@@ -2209,8 +2209,10 @@ Classic/Raids/ScarletEnclave/1229714.mp3 실명의 섬광
 Classic/Raids/ScarletEnclave/1230105.mp3 자연의 틈새
 Classic/Raids/ScarletEnclave/1230200.mp3 무기력
 Classic/Raids/ScarletEnclave/1230242.mp3 점화
-Classic/Raids/ScarletEnclave/1231010.mp3 고통스러운 비난
+Classic/Raids/ScarletEnclave/1230899.mp3 제물의 덫
+Classic/Raids/ScarletEnclave/1231027.mp3 암흑무덤의 칼날
 Classic/Raids/ScarletEnclave/1231095.mp3 드러난 비밀
+Classic/Raids/ScarletEnclave/1231264.mp3 빛의 칼날
 Classic/Raids/ScarletEnclave/1231585.mp3 파도의 힘
 Classic/Raids/ScarletEnclave/1231592.mp3 익사의 여울
 Classic/Raids/ScarletEnclave/1231837.mp3 흡혈박쥐 떼
@@ -2218,6 +2220,7 @@ Classic/Raids/ScarletEnclave/1231844.mp3 지배의 마법진
 Classic/Raids/ScarletEnclave/1231901.mp3 지옥불정령 소환
 Classic/Raids/ScarletEnclave/1231993.mp3 빛바랜 숨결
 Classic/Raids/ScarletEnclave/1232192.mp3 쇠약
+Classic/Raids/ScarletEnclave/1232389.mp3 불굴의 칼날
 Classic/Raids/ScarletEnclave/1232390.mp3 장미의 가시
 Classic/Raids/ScarletEnclave/1233847.mp3 붉은십자군의 손아귀
 Classic/Raids/ScarletEnclave/1233849.mp3 불안정한 조합
