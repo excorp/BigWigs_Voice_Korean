@@ -458,6 +458,7 @@ BattleForAzeroth/Dungeons/TheMotherlode/262092.mp3 증기 흡입
 BattleForAzeroth/Dungeons/TheMotherlode/262347.mp3 전하 파동
 BattleForAzeroth/Dungeons/TheMotherlode/262377.mp3 수색과 섬멸
 BattleForAzeroth/Dungeons/TheMotherlode/262383.mp3 거미 지뢰 설치
+BattleForAzeroth/Dungeons/TheMotherlode/262794.mp3 정신 채찍
 BattleForAzeroth/Dungeons/TheMotherlode/263202.mp3 바위 창
 BattleForAzeroth/Dungeons/TheMotherlode/263215.mp3 대지 보호막
 BattleForAzeroth/Dungeons/TheMotherlode/263628.mp3 충전된 집게손
@@ -4306,7 +4307,7 @@ MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106823.mp3 용격
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106841.mp3 옥룡격
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106856.mp3 용각
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106864.mp3 옥룡각
-MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/107110.mp3 옥의 화염
+MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/107045.mp3 옥의 화염
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/110125.mp3 무너진 결의
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/114646.mp3 음산한 응시
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/115167.mp3 타락의 물
