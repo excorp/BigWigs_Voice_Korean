@@ -1,7 +1,14 @@
-# v11.1.5-2 (2025-05-12)
+# v11.1.5-2 (2025-05-29)
 
 - 구렁 (내부전쟁)
   - 1213275 부상당함 (삭제)
+  - 1220472 Overcharge
+  - 1220665 Overcharged Slam
+  - 1227334 Maintenance
+  - 1227345 Adamant Defense
+  - 1239731 Golem Smash
+  - 455380 스프로켓 주먹질
+  - 455613 크랭크축 공세
 
 - 부화장 (내부전쟁)
   - 424797 혼돈 저항력 약화 (삭제)
@@ -16,6 +23,10 @@
   - 471660 수비 중점 (삭제)
   - 472222 끓어오르는 원한 (삭제)
   - 472225 전류가 흐르는 원한 (삭제)
+  - 465747 침묵된 파멸폭발
+  - 466615 방호 장갑 (삭제)
+  - 466765 베타 버전 출시
+  - 468216 발화의 불길
 
 - 네룹아르 궁전 (내부전쟁)
   - 433517 차원의 검 (삭제)
@@ -35,6 +46,7 @@
 
 - 잿불맥주 양조장 (내부 전쟁)
   - 434773 지독한 잔
+  - 440087 흘러내리는 꿀
 
 - 왕노다지 광산 (격전의 아제로스)
   - 262794 정신 채찍
@@ -157,6 +169,13 @@
 
 - 줄구룹 (대격변)
   - 96457 고통의 물결 (삭제)
+  - 16098 피의 저주
+  - 23953 정신의 채찍
+  - 23970 액화 불길 던지기
+  - 24262 세뇌의 토템 소환
+  - 24309 강력한 치유의 수호물
+  - 24466 추방
+  - 26044 정신의 채찍 (삭제)
 
 - 안카헤트: 고대 왕국 (리치왕의 분노)
   - 55931 화염 구슬 창조 (삭제)
@@ -325,12 +344,17 @@
   - 1231873 고해
   - 1232192 쇠약 (삭제)
   - 1232390 장미의 가시 (삭제)
+  - 1230697 중지
+  - 1231618 파멸의 재
+  - 1231651 종지부
+  - 1231654 파멸의 재
 
 - 악몽의 숲 (클래식)
   - 24818 산성 숨결 (삭제)
 
 - 낙스라마스 (클래식)
   - 1219728 밀어닥치는 빙하
+  - 1219235 과충전
 
 - 붉은십자군 초소 (클래식)
   - 1232097 진홍빛 섬광
@@ -449,6 +473,7 @@
   - 19716 게헨나스의 저주 (삭제)
   - 20534 순간이동 (삭제)
   - 20604 정신 지배 (삭제)
+  - 20228 -> 460858 불덩이 작렬
 
 - 낙스라마스스 (클래식)
   - 28134 마력의 쇄도 (삭제)
@@ -525,6 +550,9 @@
   - 308346 숙성 맥주통
   - 312584 집중된 맹독
   - 319304 어둠의 낙인
+new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/315385 그을린 발
+new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/315807 맹독 혼합물
+new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/315814 발효된 혼합물
 
 - 공포의 환영 스톰윈드 (격전의 아제로스)
   - 1223111 Vicious Slice
@@ -549,6 +577,19 @@
   - 309451 얼음 폭풍
   - 311530 수색과 섬멸
   - 312260 폭발물
+new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/250505 실성
+new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/258768 분열 베기
+new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/312355 곰의 영혼
+new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/314087 풍요로움
+new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/314165 강화됨
+new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/314203 답례의 보루
+new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/315385 그을린 발
+new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/315807 맹독 혼합물
+new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/315814 발효된 혼합물
+new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/portal_closed 
+
+
+
 
 - 구렁 (내부전쟁)
   - 1213275 부상당함
