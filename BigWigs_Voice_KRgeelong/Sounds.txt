@@ -85,6 +85,8 @@ BattleForAzeroth/Dungeons/Freehold/274555.mp3 우둘투둘한 이빨
 BattleForAzeroth/Dungeons/Freehold/413136.mp3 단도 소용돌이
 BattleForAzeroth/Dungeons/Freehold/crusher.mp3 바위 투척
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/11641.mp3 사술
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/1225675.mp3 금지
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/292240.mp3 곤충 혐오
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/296492.mp3 공허 방출
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/296510.mp3 으스스한 엉금이
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/296718.mp3 어둠의 강타
@@ -131,7 +133,11 @@ BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/308018.mp3 파열된 껍질
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/308346.mp3 숙성 맥주통
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/311390.mp3 광기: 곤충 혐오
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/311996.mp3 환영 열기
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/312456.mp3 정예 말살
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/312584.mp3 집중된 맹독
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/313670.mp3 바람의 영혼
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/313770.mp3 대장장이의 힘
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/313961.mp3 에테리얼의 정수
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/314720.mp3 소용돌이
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/314723.mp3 전투 발구르기
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/315385.mp3 그을린 발
@@ -143,6 +149,7 @@ BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/1223112.mp3 Maddening Call
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/250505.mp3 실성
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/258768.mp3 분열 베기
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/264398.mp3 마무리 폭탄주
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/292240.mp3 곤충 혐오
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/296492.mp3 공허 방출
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/296510.mp3 으스스한 엉금이
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/296537.mp3 정신 공격
@@ -191,6 +198,7 @@ BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/311530.mp3 수색과 섬멸
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/311996.mp3 환영 열기
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/312260.mp3 폭발물
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/312355.mp3 곰의 영혼
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/312456.mp3 정예 말살
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/314087.mp3 풍요로움
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/314165.mp3 강화됨
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/314203.mp3 답례의 보루
@@ -5865,6 +5873,7 @@ WarWithin/Dungeons/OperationFloodgate/1217653.mp3 B.B.B.F.G.
 WarWithin/Dungeons/OperationFloodgate/459779.mp3 날쌘 돌진
 WarWithin/Dungeons/OperationFloodgate/459799.mp3 맹타
 WarWithin/Dungeons/OperationFloodgate/460156.mp3 시동
+WarWithin/Dungeons/OperationFloodgate/460602.mp3 속사
 WarWithin/Dungeons/OperationFloodgate/460867.mp3 쿵 콰광 펑!
 WarWithin/Dungeons/OperationFloodgate/462771.mp3 조사 광선
 WarWithin/Dungeons/OperationFloodgate/463058.mp3 피에 굶주린 폭소

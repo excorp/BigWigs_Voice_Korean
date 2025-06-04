@@ -1,3 +1,21 @@
+# v11.1.5-3 (2025-06-04)
+
+- 공포의 환영 오그리마 (격전의 아제로스)
+  - 1225675 금지
+  - 292240 곤충 혐오
+  - 312456 정예 말살
+  - 313670 바람의 영혼
+  - 313770 대장장이의 힘
+  - 313961 에테리얼의 정수
+
+- 공포의 환영 스톰윈드 (격전의 아제로스)
+  - 292240 곤충 혐오
+  - 312456 정예 말살
+
+- 작전: 수문 (내부 전쟁)
+  - 460602 속사
+
+
 # v11.1.5-2 (2025-05-29)
 
 - 구렁 (내부전쟁)
@@ -550,9 +568,9 @@
   - 308346 숙성 맥주통
   - 312584 집중된 맹독
   - 319304 어둠의 낙인
-new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/315385 그을린 발
-new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/315807 맹독 혼합물
-new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/315814 발효된 혼합물
+  - 315385 그을린 발
+  - 315807 맹독 혼합물
+  - 315814 발효된 혼합물
 
 - 공포의 환영 스톰윈드 (격전의 아제로스)
   - 1223111 Vicious Slice
@@ -577,19 +595,16 @@ new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/315814 
   - 309451 얼음 폭풍
   - 311530 수색과 섬멸
   - 312260 폭발물
-new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/250505 실성
-new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/258768 분열 베기
-new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/312355 곰의 영혼
-new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/314087 풍요로움
-new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/314165 강화됨
-new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/314203 답례의 보루
-new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/315385 그을린 발
-new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/315807 맹독 혼합물
-new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/315814 발효된 혼합물
-new file:     Sounds/BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/portal_closed 
-
-
-
+  - 250505 실성
+  - 258768 분열 베기
+  - 312355 곰의 영혼
+  - 314087 풍요로움
+  - 314165 강화됨
+  - 314203 답례의 보루
+  - 315385 그을린 발
+  - 315807 맹독 혼합물
+  - 315814 발효된 혼합물
+  - portal_closed 
 
 - 구렁 (내부전쟁)
   - 1213275 부상당함
