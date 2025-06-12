@@ -135,7 +135,9 @@ BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/311390.mp3 광기: 곤충 �
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/311996.mp3 환영 열기
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/312456.mp3 정예 말살
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/312584.mp3 집중된 맹독
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/313303.mp3 불탄 교각
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/313670.mp3 바람의 영혼
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/313698.mp3 티탄의 선물
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/313770.mp3 대장장이의 힘
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/313961.mp3 에테리얼의 정수
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/314720.mp3 소용돌이
@@ -143,6 +145,9 @@ BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/314723.mp3 전투 발구르�
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/315385.mp3 그을린 발
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/315807.mp3 맹독 혼합물
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/315814.mp3 발효된 혼합물
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/315817.mp3 매운 물약
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/315845.mp3 둔화의 물약
+BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/315849.mp3 메스꺼운 물약
 BattleForAzeroth/Dungeons/HorrificVisionOfOrgrimmar/319304.mp3 어둠의 낙인
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/1223111.mp3 Vicious Slice
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/1223112.mp3 Maddening Call
@@ -199,12 +204,17 @@ BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/311996.mp3 환영 열기
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/312260.mp3 폭발물
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/312355.mp3 곰의 영혼
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/312456.mp3 정예 말살
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/313303.mp3 불탄 교각
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/313698.mp3 티탄의 선물
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/314087.mp3 풍요로움
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/314165.mp3 강화됨
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/314203.mp3 답례의 보루
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/315385.mp3 그을린 발
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/315807.mp3 맹독 혼합물
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/315814.mp3 발효된 혼합물
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/315817.mp3 매운 물약
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/315845.mp3 둔화의 물약
+BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/315849.mp3 메스꺼운 물약
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/86736.mp3 격노
 BattleForAzeroth/Dungeons/HorrificVisionOfStormwind/portal_closed.mp3 차원문 닫힘
 BattleForAzeroth/Dungeons/KingsRest/265773.mp3 황금 뱉기
@@ -485,6 +495,7 @@ BattleForAzeroth/Dungeons/TheMotherlode/263215.mp3 대지 보호막
 BattleForAzeroth/Dungeons/TheMotherlode/263628.mp3 충전된 집게손
 BattleForAzeroth/Dungeons/TheMotherlode/267354.mp3 빗발치는 파편화살
 BattleForAzeroth/Dungeons/TheMotherlode/267433.mp3 기계 활성화
+BattleForAzeroth/Dungeons/TheMotherlode/267980.mp3 기름 총
 BattleForAzeroth/Dungeons/TheMotherlode/268362.mp3 채광 폭약
 BattleForAzeroth/Dungeons/TheMotherlode/268702.mp3 분노의 지진
 BattleForAzeroth/Dungeons/TheMotherlode/268712.mp3 폭탄 가방
@@ -5877,6 +5888,7 @@ WarWithin/Dungeons/OperationFloodgate/460602.mp3 속사
 WarWithin/Dungeons/OperationFloodgate/460867.mp3 쿵 콰광 펑!
 WarWithin/Dungeons/OperationFloodgate/462771.mp3 조사 광선
 WarWithin/Dungeons/OperationFloodgate/463058.mp3 피에 굶주린 폭소
+WarWithin/Dungeons/OperationFloodgate/463169.mp3 초보자용 다이너마이트 III
 WarWithin/Dungeons/OperationFloodgate/465120.mp3 태엽 감기
 WarWithin/Dungeons/OperationFloodgate/465408.mp3 신속 건설
 WarWithin/Dungeons/OperationFloodgate/465463.mp3 터보 충전
