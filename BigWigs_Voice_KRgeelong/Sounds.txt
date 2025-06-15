@@ -1456,6 +1456,7 @@ Cataclysm/Dungeons/LostCity/82622.mp3 시대의 역병
 Cataclysm/Dungeons/LostCity/83113.mp3 악한 의도
 Cataclysm/Dungeons/LostCity/83445.mp3 충격파
 Cataclysm/Dungeons/LostCity/91263.mp3 덫 폭발
+Cataclysm/Dungeons/ShadowfangKeep/23224.mp3 암흑의 장막
 Cataclysm/Dungeons/ShadowfangKeep/93520.mp3 총알 포화
 Cataclysm/Dungeons/ShadowfangKeep/93617.mp3 독 응고제
 Cataclysm/Dungeons/ShadowfangKeep/93629.mp3 저주받은 탄환
@@ -1464,6 +1465,7 @@ Cataclysm/Dungeons/ShadowfangKeep/93689.mp3 독 촉매
 Cataclysm/Dungeons/ShadowfangKeep/93707.mp3 피에 굶주린 구울 소환
 Cataclysm/Dungeons/ShadowfangKeep/93757.mp3 어둠의 대천사 형상
 Cataclysm/Dungeons/ShadowfangKeep/93844.mp3 부정의 권능
+Cataclysm/Dungeons/ShadowfangKeep/93857.mp3 늑대인간 영혼 소환
 Cataclysm/Dungeons/Stonecore/78903.mp3 땅 울리기
 Cataclysm/Dungeons/Stonecore/78939.mp3 엘레멘티움 보루방패
 Cataclysm/Dungeons/Stonecore/79050.mp3 에너지 보호막
