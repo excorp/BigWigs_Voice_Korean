@@ -1,4 +1,4 @@
-## Interface: 110105, 110107, 110200
+## Interface: 50500
 ## Title: BigWigs Voice 한국어
 ## Version: v11.1.7-1
 ## Notes: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
