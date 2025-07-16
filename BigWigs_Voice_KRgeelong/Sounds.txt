@@ -7119,3 +7119,63 @@ WrathOfTheLichKing/Raids/Ulduar/64733.mp3 파멸의 불길
 WrathOfTheLichKing/Raids/Ulduar/64771.mp3 방어구 융해
 WrathOfTheLichKing/Raids/Ulduar/65121.mp3 타오르는 빛
 WrathOfTheLichKing/Raids/Ulduar/65133.mp3 폭풍 구름
+Shadowlands/Dungeons/HallsOfAtonement/1235060.mp3 령에 오염된 방어구
+Shadowlands/Dungeons/HallsOfAtonement/1235257.mp3 글레이브 폭풍
+Shadowlands/Dungeons/HallsOfAtonement/1235326.mp3 방해의 비명
+Shadowlands/Dungeons/HallsOfAtonement/1235762.mp3 돌로 변신
+Shadowlands/Dungeons/HallsOfAtonement/1235766.mp3 필사의 일격
+Shadowlands/Dungeons/HallsOfAtonement/1236512.mp3 불안정한 령
+Shadowlands/Dungeons/HallsOfAtonement/1236614.mp3 힘의 과시
+Shadowlands/Dungeons/HallsOfAtonement/1236973.mp3 분출하는 고통
+Shadowlands/Dungeons/HallsOfAtonement/1237071.mp3 돌주먹
+Shadowlands/Dungeons/HallsOfAtonement/1237602.mp3 상처 출혈
+Shadowlands/Dungeons/Tazavesh/1236348.mp3 충전된 베기
+Shadowlands/Dungeons/Tazavesh/1240821.mp3 충만한 격돌
+Shadowlands/Dungeons/Tazavesh/1240912.mp3 꿰뚫기
+Shadowlands/Dungeons/Tazavesh/1241032.mp3 마지막 경고
+Shadowlands/Dungeons/Tazavesh/1244443.mp3 전투력 상승기
+Shadowlands/Dungeons/Tazavesh/1245579.mp3 마수
+Shadowlands/Dungeons/Tazavesh/1245634.mp3 분단
+Shadowlands/Dungeons/Tazavesh/1245669.mp3 이단 절기
+Shadowlands/Dungeons/Tazavesh/1248209.mp3 위상 베기
+WarWithin/Dungeons/AraKara/1241693.mp3 탐식의 무리
+WarWithin/Dungeons/AraKara/1241785.mp3 오염된 피
+WarWithin/Dungeons/EcoDomeAldani/1217232.mp3 집어삼키기
+WarWithin/Dungeons/EcoDomeAldani/1217247.mp3 잔치
+WarWithin/Dungeons/EcoDomeAldani/1217327.mp3 침략하는 절규
+WarWithin/Dungeons/EcoDomeAldani/1217446.mp3 소화성 타액
+WarWithin/Dungeons/EcoDomeAldani/1217664.mp3 난타
+WarWithin/Dungeons/EcoDomeAldani/1219457.mp3 무형
+WarWithin/Dungeons/EcoDomeAldani/1219482.mp3 균열 발톱
+WarWithin/Dungeons/EcoDomeAldani/1219700.mp3 비전 공세
+WarWithin/Dungeons/EcoDomeAldani/1221152.mp3 포식의 강타
+WarWithin/Dungeons/EcoDomeAldani/1221190.mp3 걸신들린 독기
+WarWithin/Dungeons/EcoDomeAldani/1221483.mp3 아크 에너지
+WarWithin/Dungeons/EcoDomeAldani/1221532.mp3 변덕스러운 의식
+WarWithin/Dungeons/EcoDomeAldani/1222202.mp3 비전 불태우기
+WarWithin/Dungeons/EcoDomeAldani/1222341.mp3 어둠의 물어뜯기
+WarWithin/Dungeons/EcoDomeAldani/1222356.mp3 공간 이동
+WarWithin/Dungeons/EcoDomeAldani/1223000.mp3 크아레쉬의 포용
+WarWithin/Dungeons/EcoDomeAldani/1223007.mp3 잠복 폭발
+WarWithin/Dungeons/EcoDomeAldani/1224793.mp3 운명의 속삭임
+WarWithin/Dungeons/EcoDomeAldani/1224865.mp3 운명결속
+WarWithin/Dungeons/EcoDomeAldani/1225174.mp3 의식용 단검
+WarWithin/Dungeons/EcoDomeAldani/1225218.mp3 미지의 두려움
+WarWithin/Dungeons/EcoDomeAldani/1226111.mp3 순간 방출
+WarWithin/Dungeons/EcoDomeAldani/1226306.mp3 영혼 흡수
+WarWithin/Dungeons/EcoDomeAldani/1226444.mp3 상처입은 운명
+WarWithin/Dungeons/EcoDomeAldani/1227745.mp3 유독한 토악질
+WarWithin/Dungeons/EcoDomeAldani/1227918.mp3 공간 이동의 일격
+WarWithin/Dungeons/EcoDomeAldani/1229474.mp3 포식
+WarWithin/Dungeons/EcoDomeAldani/1229510.mp3 굽이치는 감전
+WarWithin/Dungeons/EcoDomeAldani/1231244.mp3 불안정한 핵
+WarWithin/Dungeons/EcoDomeAldani/1235368.mp3 비전 베기
+WarWithin/Dungeons/EcoDomeAldani/1236130.mp3 구속의 투창
+WarWithin/Dungeons/EcoDomeAldani/1236703.mp3 영원의 직조
+WarWithin/Dungeons/EcoDomeAldani/1236981.mp3 분열 수류탄
+WarWithin/Dungeons/EcoDomeAldani/1237184.mp3 운명의 파편
+WarWithin/Dungeons/EcoDomeAldani/1237195.mp3 잠복 돌진
+WarWithin/Dungeons/EcoDomeAldani/1237220.mp3 찌르는 모래폭풍
+WarWithin/Dungeons/EcoDomeAldani/1239229.mp3 크아래쉬 쇄도
+WarWithin/Dungeons/PrioryOfTheSacredFlame/1238780.mp3 대지를 가르는 창
+WarWithin/Dungeons/TheDawnbreaker/1242074.mp3 격해지는 공격성
