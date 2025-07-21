@@ -1,18 +1,18 @@
 local addonName, addon = ...
 
 
-addon.isVanilla = WOW_PROJECT_ID == WOW_PROJECT_CLASSIC
-addon.isWrath   = WOW_PROJECT_ID == WOW_PROJECT_WRATH_CLASSIC
-addon.isTBC     = WOW_PROJECT_ID == WOW_PROJECT_BURNING_CRUSADE_CLASSIC
-addon.isClassic = addon.isVanilla or addon.isWrath or addon.isTBC
-addon.isRetail  = WOW_PROJECT_ID == WOW_PROJECT_MAINLINE
+addon.isVanilla  = WOW_PROJECT_ID == WOW_PROJECT_CLASSIC
+addon.isWrath    = WOW_PROJECT_ID == WOW_PROJECT_WRATH_CLASSIC
+addon.isTBC      = WOW_PROJECT_ID == WOW_PROJECT_BURNING_CRUSADE_CLASSIC
+addon.isClassic  = addon.isVanilla or addon.isWrath or addon.isTBC
+addon.isRetail   = WOW_PROJECT_ID == WOW_PROJECT_MAINLINE
 
-local zonetable = {}
+local zonetable  = {}
 
 -- 클래식/리테일에 따라 다름
-zonetable[533]  = addon.isVanilla and "Classic\\Raids\\Naxxramas" or "WrathOfTheLichKing\\Raids\\Naxxramas"
-zonetable[249]  = addon.isVanilla and "Classic\\Raids\\Onyxia" or "WrathOfTheLichKing\\Raids\\Northrend"
-zonetable[568]  = addon.isClassic and "BurningCrusade\\Raids\\ZulAman" or "Cataclysm\\Dungeons\\ZulAman"
+zonetable[533]   = addon.isVanilla and "Classic\\Raids\\Naxxramas" or "WrathOfTheLichKing\\Raids\\Naxxramas"
+zonetable[249]   = addon.isVanilla and "Classic\\Raids\\Onyxia" or "WrathOfTheLichKing\\Raids\\Northrend"
+zonetable[568]   = addon.isClassic and "BurningCrusade\\Raids\\ZulAman" or "Cataclysm\\Dungeons\\ZulAman"
 
 zonetable[469]   = "Classic\\Raids\\BlackwingLair"
 zonetable[409]   = "Classic\\Raids\\MoltenCore"
@@ -289,6 +289,8 @@ zonetable[2690]  = "WarWithin\\Dungeons\\Delves"
 zonetable[2815]  = "WarWithin\\Dungeons\\Delves"
 zonetable[2826]  = "WarWithin\\Dungeons\\Delves"
 zonetable[2831]  = "WarWithin\\Dungeons\\Delves"
+zonetable[2803]  = "WarWithin\\Dungeons\\Delves"
+zonetable[2951]  = "WarWithin\\Dungeons\\Delves"
 
 zonetable[2710]  = "WarWithin\\Dungeons\\Scenarios"
 

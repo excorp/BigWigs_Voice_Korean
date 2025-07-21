@@ -4681,6 +4681,16 @@ Shadowlands/Dungeons/DeOtherSide/334051.mp3 분출하는 어둠
 Shadowlands/Dungeons/DeOtherSide/334970.mp3 응축
 Shadowlands/Dungeons/DeOtherSide/340026.mp3 비탄의 통곡
 Shadowlands/Dungeons/DeOtherSide/soporific_shimmerdust.mp3 최면성 반짝먼지
+Shadowlands/Dungeons/HallsOfAtonement/1235060.mp3 령에 오염된 방어구
+Shadowlands/Dungeons/HallsOfAtonement/1235257.mp3 글레이브 폭풍
+Shadowlands/Dungeons/HallsOfAtonement/1235326.mp3 방해의 비명
+Shadowlands/Dungeons/HallsOfAtonement/1235762.mp3 돌로 변신
+Shadowlands/Dungeons/HallsOfAtonement/1235766.mp3 필사의 일격
+Shadowlands/Dungeons/HallsOfAtonement/1236512.mp3 불안정한 령
+Shadowlands/Dungeons/HallsOfAtonement/1236614.mp3 힘의 과시
+Shadowlands/Dungeons/HallsOfAtonement/1236973.mp3 분출하는 고통
+Shadowlands/Dungeons/HallsOfAtonement/1237071.mp3 돌주먹
+Shadowlands/Dungeons/HallsOfAtonement/1237602.mp3 상처 출혈
 Shadowlands/Dungeons/HallsOfAtonement/319733.mp3 돌부름
 Shadowlands/Dungeons/HallsOfAtonement/319941.mp3 바위 분쇄의 도약
 Shadowlands/Dungeons/HallsOfAtonement/322711.mp3 굴절된 죄악의 빛
@@ -4871,6 +4881,17 @@ Shadowlands/Dungeons/SpiresOfAscension/331251.mp3 신실한 연대
 Shadowlands/Dungeons/SpiresOfAscension/334053.mp3 정화 작렬
 Shadowlands/Dungeons/SpiresOfAscension/334485.mp3 재충전
 Shadowlands/Dungeons/SpiresOfAscension/334625.mp3 심연의 폭발
+Shadowlands/Dungeons/Tazavesh/1236348.mp3 충전된 베기
+Shadowlands/Dungeons/Tazavesh/1240102.mp3 시한 폭탄
+Shadowlands/Dungeons/Tazavesh/1240821.mp3 충만한 격돌
+Shadowlands/Dungeons/Tazavesh/1240912.mp3 꿰뚫기
+Shadowlands/Dungeons/Tazavesh/1241032.mp3 마지막 경고
+Shadowlands/Dungeons/Tazavesh/1244443.mp3 전투력 상승기
+Shadowlands/Dungeons/Tazavesh/1244650.mp3 엄습하는 해일
+Shadowlands/Dungeons/Tazavesh/1245579.mp3 마수
+Shadowlands/Dungeons/Tazavesh/1245634.mp3 분단
+Shadowlands/Dungeons/Tazavesh/1245669.mp3 이단 절기
+Shadowlands/Dungeons/Tazavesh/1248209.mp3 위상 베기
 Shadowlands/Dungeons/Tazavesh/345770.mp3 밀수품 압수
 Shadowlands/Dungeons/Tazavesh/345990.mp3 억제장
 Shadowlands/Dungeons/Tazavesh/346116.mp3 절단의 휘두르기
@@ -4881,7 +4902,7 @@ Shadowlands/Dungeons/Tazavesh/346329.mp3 엎질러진 용액
 Shadowlands/Dungeons/Tazavesh/346742.mp3 우편 뿌리기
 Shadowlands/Dungeons/Tazavesh/346766.mp3 방역 주기
 Shadowlands/Dungeons/Tazavesh/346947.mp3 불안정한 상품
-Shadowlands/Dungeons/Tazavesh/346959.mp3 불의 정화
+Shadowlands/Dungeons/Tazavesh/346957.mp3 불의 정화
 Shadowlands/Dungeons/Tazavesh/346962.mp3 우편환
 Shadowlands/Dungeons/Tazavesh/347094.mp3 티탄 충돌
 Shadowlands/Dungeons/Tazavesh/347149.mp3 무한의 숨결
@@ -4909,6 +4930,7 @@ Shadowlands/Dungeons/Tazavesh/350101.mp3 저주의 사슬
 Shadowlands/Dungeons/Tazavesh/350517.mp3 시간 촉진
 Shadowlands/Dungeons/Tazavesh/350796.mp3 초광속 불꽃
 Shadowlands/Dungeons/Tazavesh/350804.mp3 붕괴하는 마력
+Shadowlands/Dungeons/Tazavesh/350875.mp3 초광속 충격
 Shadowlands/Dungeons/Tazavesh/350916.mp3 보안 강타
 Shadowlands/Dungeons/Tazavesh/350919.mp3 군중 제어
 Shadowlands/Dungeons/Tazavesh/350922.mp3 위협적인 고함
@@ -4917,6 +4939,7 @@ Shadowlands/Dungeons/Tazavesh/351086.mp3 압도적인 힘
 Shadowlands/Dungeons/Tazavesh/351096.mp3 마력 조각
 Shadowlands/Dungeons/Tazavesh/351119.mp3 표창 난무
 Shadowlands/Dungeons/Tazavesh/351124.mp3 암살자 소환
+Shadowlands/Dungeons/Tazavesh/351646.mp3 초광속 폭발
 Shadowlands/Dungeons/Tazavesh/352345.mp3 닻 포탄
 Shadowlands/Dungeons/Tazavesh/353312.mp3 정화의 작렬
 Shadowlands/Dungeons/Tazavesh/353635.mp3 붕괴하는 별
@@ -4924,10 +4947,13 @@ Shadowlands/Dungeons/Tazavesh/353706.mp3 난동
 Shadowlands/Dungeons/Tazavesh/353783.mp3 순간이동
 Shadowlands/Dungeons/Tazavesh/353835.mp3 억제
 Shadowlands/Dungeons/Tazavesh/354334.mp3 갈꼬리!
+Shadowlands/Dungeons/Tazavesh/355048.mp3 껍질파쇄
 Shadowlands/Dungeons/Tazavesh/355057.mp3 아옳옳그롫의 외침
 Shadowlands/Dungeons/Tazavesh/355132.mp3 원기 회복의 생선 꼬챙이
+Shadowlands/Dungeons/Tazavesh/355234.mp3 불안정한 복어
 Shadowlands/Dungeons/Tazavesh/355429.mp3 해일의 발구르기
 Shadowlands/Dungeons/Tazavesh/355438.mp3 억제의 불꽃
+Shadowlands/Dungeons/Tazavesh/355464.mp3 바위 투척
 Shadowlands/Dungeons/Tazavesh/355473.mp3 충격 지뢰
 Shadowlands/Dungeons/Tazavesh/355477.mp3 강력 발차기
 Shadowlands/Dungeons/Tazavesh/355479.mp3 치명적인 위력
@@ -4962,10 +4988,13 @@ Shadowlands/Dungeons/Tazavesh/357226.mp3 떠도는 별
 Shadowlands/Dungeons/Tazavesh/357229.mp3 시간빛 증강기
 Shadowlands/Dungeons/Tazavesh/357238.mp3 떠도는 전파 천체
 Shadowlands/Dungeons/Tazavesh/357260.mp3 불안정한 균열
+Shadowlands/Dungeons/Tazavesh/357281.mp3 마력 베기
 Shadowlands/Dungeons/Tazavesh/357284.mp3 활기 고취
 Shadowlands/Dungeons/Tazavesh/357508.mp3 마구잡이 난타
 Shadowlands/Dungeons/Tazavesh/357512.mp3 광포한 돌진
+Shadowlands/Dungeons/Tazavesh/358947.mp3 불타는 타르
 Shadowlands/Dungeons/Tazavesh/359028.mp3 보안 강타
+Shadowlands/Dungeons/Tazavesh/368661.mp3 도검 던지기
 Shadowlands/Dungeons/Tazavesh/delivery_portal.mp3 불안정한 상품 배달
 Shadowlands/Dungeons/Tazavesh/trading_game.mp3 오아시스 입장 암호
 Shadowlands/Dungeons/Tazavesh/vault_purifier.mp3 금고 정화자
@@ -5550,6 +5579,8 @@ Shadowlands/Raids/Shadowlands/338863.mp3 바위 발구르기
 Shadowlands/Raids/Shadowlands/338864.mp3 대지의 작렬
 Shadowlands/Raids/Shadowlands/338867.mp3 빗발치는 바위
 Shadowlands/Raids/Shadowlands/338868.mp3 깊은 잠
+WarWithin/Dungeons/AraKara/1241693.mp3 탐식의 무리
+WarWithin/Dungeons/AraKara/1241785.mp3 오염된 피
 WarWithin/Dungeons/AraKara/432031.mp3 옭아매는 피
 WarWithin/Dungeons/AraKara/432117.mp3 우주의 특이점
 WarWithin/Dungeons/AraKara/432130.mp3 분출하는 그물
@@ -5764,9 +5795,51 @@ WarWithin/Dungeons/Delves/1218153.mp3 불타는 잔해
 WarWithin/Dungeons/Delves/1220472.mp3 Overcharge
 WarWithin/Dungeons/Delves/1220665.mp3 Overcharged Slam
 WarWithin/Dungeons/Delves/1220869.mp3 뼈파괴자
+WarWithin/Dungeons/Delves/1225642.mp3 지배자의 어둠
 WarWithin/Dungeons/Delves/1227334.mp3 Maintenance
 WarWithin/Dungeons/Delves/1227345.mp3 Adamant Defense
+WarWithin/Dungeons/Delves/1231144.mp3 무위의 숨결
+WarWithin/Dungeons/Delves/1236229.mp3 비전 격퇴기
+WarWithin/Dungeons/Delves/1236256.mp3 아주 날카로운 회전베기
+WarWithin/Dungeons/Delves/1236354.mp3 영혼 착취
+WarWithin/Dungeons/Delves/1236428.mp3 보아라!
+WarWithin/Dungeons/Delves/1236770.mp3 비전 용천수
+WarWithin/Dungeons/Delves/1237258.mp3 열화성 웅덩이
+WarWithin/Dungeons/Delves/1237671.mp3 모래폭풍
+WarWithin/Dungeons/Delves/1238713.mp3 중력 분쇄
+WarWithin/Dungeons/Delves/1238737.mp3 정수의 회전베기
+WarWithin/Dungeons/Delves/1238892.mp3 무위의 숨결
+WarWithin/Dungeons/Delves/1238909.mp3 암영 초토화
+WarWithin/Dungeons/Delves/1238930.mp3 꿰뚫기
+WarWithin/Dungeons/Delves/1239134.mp3 우주의 평온
+WarWithin/Dungeons/Delves/1239350.mp3 전원 집합!
+WarWithin/Dungeons/Delves/1239407.mp3 돌파
+WarWithin/Dungeons/Delves/1239427.mp3 격침 명령
+WarWithin/Dungeons/Delves/1239445.mp3 측면 공격
 WarWithin/Dungeons/Delves/1239731.mp3 Golem Smash
+WarWithin/Dungeons/Delves/1241753.mp3 차원문 주입
+WarWithin/Dungeons/Delves/1241991.mp3 크아레쉬 시한폭탄
+WarWithin/Dungeons/Delves/1242142.mp3 파열
+WarWithin/Dungeons/Delves/1242469.mp3 크아레쉬의 모래
+WarWithin/Dungeons/Delves/1242521.mp3 사구비행수 부르기
+WarWithin/Dungeons/Delves/1242534.mp3 차원의 추적자 소환
+WarWithin/Dungeons/Delves/1242752.mp3 변변찮은 매개체
+WarWithin/Dungeons/Delves/1243017.mp3 모래 충돌
+WarWithin/Dungeons/Delves/1243448.mp3 복수의 서약
+WarWithin/Dungeons/Delves/1244108.mp3 공포의 비명소리
+WarWithin/Dungeons/Delves/1244249.mp3 밀고 나가기
+WarWithin/Dungeons/Delves/1244313.mp3 너울거리는 마력
+WarWithin/Dungeons/Delves/1244462.mp3 어둠 일깨우기
+WarWithin/Dungeons/Delves/1244473.mp3 그림자 진입
+WarWithin/Dungeons/Delves/1244505.mp3 흐르는 어둠
+WarWithin/Dungeons/Delves/1244600.mp3 암흑 분출
+WarWithin/Dungeons/Delves/1244601.mp3 그림자로 돌아가기
+WarWithin/Dungeons/Delves/1245035.mp3 어둠의 학살
+WarWithin/Dungeons/Delves/1245156.mp3 카이베자의 화려한 입장
+WarWithin/Dungeons/Delves/1245203.mp3 어둠의 학살
+WarWithin/Dungeons/Delves/1245240.mp3 연합의 단검
+WarWithin/Dungeons/Delves/1245582.mp3 환천의 균열
+WarWithin/Dungeons/Delves/1250050.mp3 기력 충전
 WarWithin/Dungeons/Delves/359016.mp3 날렵함
 WarWithin/Dungeons/Delves/363194.mp3 점액 자국
 WarWithin/Dungeons/Delves/372529.mp3 흉측한 웃음
@@ -5898,6 +5971,44 @@ WarWithin/Dungeons/Delves/474325.mp3 심연의 손아귀
 WarWithin/Dungeons/Delves/474482.mp3 공허의 유혹
 WarWithin/Dungeons/Delves/474511.mp3 암흑 강타
 WarWithin/Dungeons/EcoDomeAldani/1215850.mp3 대지파괴자
+WarWithin/Dungeons/EcoDomeAldani/1217232.mp3 집어삼키기
+WarWithin/Dungeons/EcoDomeAldani/1217247.mp3 잔치
+WarWithin/Dungeons/EcoDomeAldani/1217327.mp3 침략하는 절규
+WarWithin/Dungeons/EcoDomeAldani/1217446.mp3 소화성 타액
+WarWithin/Dungeons/EcoDomeAldani/1217664.mp3 난타
+WarWithin/Dungeons/EcoDomeAldani/1219457.mp3 무형
+WarWithin/Dungeons/EcoDomeAldani/1219482.mp3 균열 발톱
+WarWithin/Dungeons/EcoDomeAldani/1219700.mp3 비전 공세
+WarWithin/Dungeons/EcoDomeAldani/1221152.mp3 포식의 강타
+WarWithin/Dungeons/EcoDomeAldani/1221190.mp3 걸신들린 독기
+WarWithin/Dungeons/EcoDomeAldani/1221483.mp3 아크 에너지
+WarWithin/Dungeons/EcoDomeAldani/1221532.mp3 변덕스러운 의식
+WarWithin/Dungeons/EcoDomeAldani/1222202.mp3 비전 불태우기
+WarWithin/Dungeons/EcoDomeAldani/1222341.mp3 어둠의 물어뜯기
+WarWithin/Dungeons/EcoDomeAldani/1222356.mp3 공간 이동
+WarWithin/Dungeons/EcoDomeAldani/1223000.mp3 크아레쉬의 포용
+WarWithin/Dungeons/EcoDomeAldani/1223007.mp3 잠복 폭발
+WarWithin/Dungeons/EcoDomeAldani/1224793.mp3 운명의 속삭임
+WarWithin/Dungeons/EcoDomeAldani/1224865.mp3 운명결속
+WarWithin/Dungeons/EcoDomeAldani/1225174.mp3 의식용 단검
+WarWithin/Dungeons/EcoDomeAldani/1225218.mp3 미지의 두려움
+WarWithin/Dungeons/EcoDomeAldani/1226111.mp3 순간 방출
+WarWithin/Dungeons/EcoDomeAldani/1226444.mp3 상처입은 운명
+WarWithin/Dungeons/EcoDomeAldani/1226492.mp3 방해받은 의식
+WarWithin/Dungeons/EcoDomeAldani/1227745.mp3 유독한 토악질
+WarWithin/Dungeons/EcoDomeAldani/1227918.mp3 공간 이동의 일격
+WarWithin/Dungeons/EcoDomeAldani/1229474.mp3 포식
+WarWithin/Dungeons/EcoDomeAldani/1229510.mp3 굽이치는 감전
+WarWithin/Dungeons/EcoDomeAldani/1231244.mp3 불안정한 핵
+WarWithin/Dungeons/EcoDomeAldani/1235368.mp3 비전 베기
+WarWithin/Dungeons/EcoDomeAldani/1236130.mp3 구속의 투창
+WarWithin/Dungeons/EcoDomeAldani/1236703.mp3 영원의 직조
+WarWithin/Dungeons/EcoDomeAldani/1236981.mp3 분열 수류탄
+WarWithin/Dungeons/EcoDomeAldani/1237184.mp3 운명의 파편
+WarWithin/Dungeons/EcoDomeAldani/1237195.mp3 잠복 돌진
+WarWithin/Dungeons/EcoDomeAldani/1237220.mp3 찌르는 모래폭풍
+WarWithin/Dungeons/EcoDomeAldani/1239229.mp3 크아래쉬 쇄도
+WarWithin/Dungeons/EcoDomeAldani/1248699.mp3 영혼 흡수
 WarWithin/Dungeons/OperationFloodgate/1214337.mp3 폭탄 설치
 WarWithin/Dungeons/OperationFloodgate/1214468.mp3 곡예 사격
 WarWithin/Dungeons/OperationFloodgate/1214780.mp3 최대 왜곡
@@ -5945,6 +6056,7 @@ WarWithin/Dungeons/OperationFloodgate/473351.mp3 전기 분쇄
 WarWithin/Dungeons/OperationFloodgate/473690.mp3 충격 폭발젤
 WarWithin/Dungeons/OperationFloodgate/474337.mp3 벌목
 WarWithin/Dungeons/OperationFloodgate/weapons_stockpiles_pilfered.mp3 무기 비축품 도난
+WarWithin/Dungeons/PrioryOfTheSacredFlame/1238780.mp3 대지를 가르는 창
 WarWithin/Dungeons/PrioryOfTheSacredFlame/422969.mp3 응징의 천벌
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423015.mp3 징벌자의 보호막
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423051.mp3 타오르는 빛
@@ -6000,6 +6112,7 @@ WarWithin/Dungeons/Scenarios/462936.mp3 일상적인 유지보수
 WarWithin/Dungeons/Scenarios/462983.mp3 불안정한 용암
 WarWithin/Dungeons/Scenarios/463052.mp3 날뛰는 격돌
 WarWithin/Dungeons/Scenarios/463081.mp3 지축붕괴 돌진
+WarWithin/Dungeons/TheDawnbreaker/1242074.mp3 격해지는 공격성
 WarWithin/Dungeons/TheDawnbreaker/425264.mp3 흑요석 작렬
 WarWithin/Dungeons/TheDawnbreaker/426735.mp3 불타는 어둠
 WarWithin/Dungeons/TheDawnbreaker/426787.mp3 암흑 부패
@@ -7119,63 +7232,3 @@ WrathOfTheLichKing/Raids/Ulduar/64733.mp3 파멸의 불길
 WrathOfTheLichKing/Raids/Ulduar/64771.mp3 방어구 융해
 WrathOfTheLichKing/Raids/Ulduar/65121.mp3 타오르는 빛
 WrathOfTheLichKing/Raids/Ulduar/65133.mp3 폭풍 구름
-Shadowlands/Dungeons/HallsOfAtonement/1235060.mp3 령에 오염된 방어구
-Shadowlands/Dungeons/HallsOfAtonement/1235257.mp3 글레이브 폭풍
-Shadowlands/Dungeons/HallsOfAtonement/1235326.mp3 방해의 비명
-Shadowlands/Dungeons/HallsOfAtonement/1235762.mp3 돌로 변신
-Shadowlands/Dungeons/HallsOfAtonement/1235766.mp3 필사의 일격
-Shadowlands/Dungeons/HallsOfAtonement/1236512.mp3 불안정한 령
-Shadowlands/Dungeons/HallsOfAtonement/1236614.mp3 힘의 과시
-Shadowlands/Dungeons/HallsOfAtonement/1236973.mp3 분출하는 고통
-Shadowlands/Dungeons/HallsOfAtonement/1237071.mp3 돌주먹
-Shadowlands/Dungeons/HallsOfAtonement/1237602.mp3 상처 출혈
-Shadowlands/Dungeons/Tazavesh/1236348.mp3 충전된 베기
-Shadowlands/Dungeons/Tazavesh/1240821.mp3 충만한 격돌
-Shadowlands/Dungeons/Tazavesh/1240912.mp3 꿰뚫기
-Shadowlands/Dungeons/Tazavesh/1241032.mp3 마지막 경고
-Shadowlands/Dungeons/Tazavesh/1244443.mp3 전투력 상승기
-Shadowlands/Dungeons/Tazavesh/1245579.mp3 마수
-Shadowlands/Dungeons/Tazavesh/1245634.mp3 분단
-Shadowlands/Dungeons/Tazavesh/1245669.mp3 이단 절기
-Shadowlands/Dungeons/Tazavesh/1248209.mp3 위상 베기
-WarWithin/Dungeons/AraKara/1241693.mp3 탐식의 무리
-WarWithin/Dungeons/AraKara/1241785.mp3 오염된 피
-WarWithin/Dungeons/EcoDomeAldani/1217232.mp3 집어삼키기
-WarWithin/Dungeons/EcoDomeAldani/1217247.mp3 잔치
-WarWithin/Dungeons/EcoDomeAldani/1217327.mp3 침략하는 절규
-WarWithin/Dungeons/EcoDomeAldani/1217446.mp3 소화성 타액
-WarWithin/Dungeons/EcoDomeAldani/1217664.mp3 난타
-WarWithin/Dungeons/EcoDomeAldani/1219457.mp3 무형
-WarWithin/Dungeons/EcoDomeAldani/1219482.mp3 균열 발톱
-WarWithin/Dungeons/EcoDomeAldani/1219700.mp3 비전 공세
-WarWithin/Dungeons/EcoDomeAldani/1221152.mp3 포식의 강타
-WarWithin/Dungeons/EcoDomeAldani/1221190.mp3 걸신들린 독기
-WarWithin/Dungeons/EcoDomeAldani/1221483.mp3 아크 에너지
-WarWithin/Dungeons/EcoDomeAldani/1221532.mp3 변덕스러운 의식
-WarWithin/Dungeons/EcoDomeAldani/1222202.mp3 비전 불태우기
-WarWithin/Dungeons/EcoDomeAldani/1222341.mp3 어둠의 물어뜯기
-WarWithin/Dungeons/EcoDomeAldani/1222356.mp3 공간 이동
-WarWithin/Dungeons/EcoDomeAldani/1223000.mp3 크아레쉬의 포용
-WarWithin/Dungeons/EcoDomeAldani/1223007.mp3 잠복 폭발
-WarWithin/Dungeons/EcoDomeAldani/1224793.mp3 운명의 속삭임
-WarWithin/Dungeons/EcoDomeAldani/1224865.mp3 운명결속
-WarWithin/Dungeons/EcoDomeAldani/1225174.mp3 의식용 단검
-WarWithin/Dungeons/EcoDomeAldani/1225218.mp3 미지의 두려움
-WarWithin/Dungeons/EcoDomeAldani/1226111.mp3 순간 방출
-WarWithin/Dungeons/EcoDomeAldani/1226306.mp3 영혼 흡수
-WarWithin/Dungeons/EcoDomeAldani/1226444.mp3 상처입은 운명
-WarWithin/Dungeons/EcoDomeAldani/1227745.mp3 유독한 토악질
-WarWithin/Dungeons/EcoDomeAldani/1227918.mp3 공간 이동의 일격
-WarWithin/Dungeons/EcoDomeAldani/1229474.mp3 포식
-WarWithin/Dungeons/EcoDomeAldani/1229510.mp3 굽이치는 감전
-WarWithin/Dungeons/EcoDomeAldani/1231244.mp3 불안정한 핵
-WarWithin/Dungeons/EcoDomeAldani/1235368.mp3 비전 베기
-WarWithin/Dungeons/EcoDomeAldani/1236130.mp3 구속의 투창
-WarWithin/Dungeons/EcoDomeAldani/1236703.mp3 영원의 직조
-WarWithin/Dungeons/EcoDomeAldani/1236981.mp3 분열 수류탄
-WarWithin/Dungeons/EcoDomeAldani/1237184.mp3 운명의 파편
-WarWithin/Dungeons/EcoDomeAldani/1237195.mp3 잠복 돌진
-WarWithin/Dungeons/EcoDomeAldani/1237220.mp3 찌르는 모래폭풍
-WarWithin/Dungeons/EcoDomeAldani/1239229.mp3 크아래쉬 쇄도
-WarWithin/Dungeons/PrioryOfTheSacredFlame/1238780.mp3 대지를 가르는 창
-WarWithin/Dungeons/TheDawnbreaker/1242074.mp3 격해지는 공격성
