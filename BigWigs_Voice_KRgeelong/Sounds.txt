@@ -4271,8 +4271,8 @@ MistsOfPandaria/Dungeons/GateOfTheSettingSun/111668.mp3 단단한 박치기
 MistsOfPandaria/Dungeons/GateOfTheSettingSun/111723.mp3 시선 고정
 MistsOfPandaria/Dungeons/GateOfTheSettingSun/111728.mp3 발구르기
 MistsOfPandaria/Dungeons/GateOfTheSettingSun/115458.mp3 산성 폭탄
+MistsOfPandaria/Dungeons/MogushanPalace/118940.mp3 정화의 불꽃
 MistsOfPandaria/Dungeons/MogushanPalace/118963.mp3 강타
-MistsOfPandaria/Dungeons/MogushanPalace/118988.mp3 무모한 감응
 MistsOfPandaria/Dungeons/MogushanPalace/119684.mp3 땅 울리기
 MistsOfPandaria/Dungeons/MogushanPalace/119922.mp3 충격파
 MistsOfPandaria/Dungeons/MogushanPalace/119981.mp3 소용돌이의 춤
@@ -4697,6 +4697,7 @@ Shadowlands/Dungeons/HallsOfAtonement/322711.mp3 굴절된 죄악의 빛
 Shadowlands/Dungeons/HallsOfAtonement/322936.mp3 붕괴의 격돌
 Shadowlands/Dungeons/HallsOfAtonement/322943.mp3 잔해 내던지기
 Shadowlands/Dungeons/HallsOfAtonement/323001.mp3 유리 파편
+Shadowlands/Dungeons/HallsOfAtonement/323142.mp3 염력 투척
 Shadowlands/Dungeons/HallsOfAtonement/323143.mp3 염력 투척
 Shadowlands/Dungeons/HallsOfAtonement/323236.mp3 풀려난 괴로움
 Shadowlands/Dungeons/HallsOfAtonement/323437.mp3 교만의 낙인
