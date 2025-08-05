@@ -4682,7 +4682,6 @@ Shadowlands/Dungeons/DeOtherSide/334970.mp3 응축
 Shadowlands/Dungeons/DeOtherSide/340026.mp3 비탄의 통곡
 Shadowlands/Dungeons/DeOtherSide/soporific_shimmerdust.mp3 최면성 반짝먼지
 Shadowlands/Dungeons/HallsOfAtonement/1235060.mp3 령에 오염된 방어구
-Shadowlands/Dungeons/HallsOfAtonement/1235257.mp3 글레이브 폭풍
 Shadowlands/Dungeons/HallsOfAtonement/1235326.mp3 방해의 비명
 Shadowlands/Dungeons/HallsOfAtonement/1235762.mp3 돌로 변신
 Shadowlands/Dungeons/HallsOfAtonement/1235766.mp3 필사의 일격
@@ -4907,6 +4906,7 @@ Shadowlands/Dungeons/Tazavesh/346957.mp3 불의 정화
 Shadowlands/Dungeons/Tazavesh/346962.mp3 우편환
 Shadowlands/Dungeons/Tazavesh/347094.mp3 티탄 충돌
 Shadowlands/Dungeons/Tazavesh/347149.mp3 무한의 숨결
+Shadowlands/Dungeons/Tazavesh/347150.mp3 삼단 절기
 Shadowlands/Dungeons/Tazavesh/347151.mp3 갈고리 휩쓸기
 Shadowlands/Dungeons/Tazavesh/347249.mp3 분단
 Shadowlands/Dungeons/Tazavesh/347371.mp3 포도탄
@@ -4942,6 +4942,7 @@ Shadowlands/Dungeons/Tazavesh/351119.mp3 표창 난무
 Shadowlands/Dungeons/Tazavesh/351124.mp3 암살자 소환
 Shadowlands/Dungeons/Tazavesh/351646.mp3 초광속 폭발
 Shadowlands/Dungeons/Tazavesh/352345.mp3 닻 포탄
+Shadowlands/Dungeons/Tazavesh/352796.mp3 속임수 일격
 Shadowlands/Dungeons/Tazavesh/353312.mp3 정화의 작렬
 Shadowlands/Dungeons/Tazavesh/353635.mp3 붕괴하는 별
 Shadowlands/Dungeons/Tazavesh/353706.mp3 난동
@@ -4989,10 +4990,13 @@ Shadowlands/Dungeons/Tazavesh/357226.mp3 떠도는 별
 Shadowlands/Dungeons/Tazavesh/357229.mp3 시간빛 증강기
 Shadowlands/Dungeons/Tazavesh/357238.mp3 떠도는 전파 천체
 Shadowlands/Dungeons/Tazavesh/357260.mp3 불안정한 균열
-Shadowlands/Dungeons/Tazavesh/357281.mp3 마력 베기
 Shadowlands/Dungeons/Tazavesh/357284.mp3 활기 고취
+Shadowlands/Dungeons/Tazavesh/357404.mp3 불협의 노래
+Shadowlands/Dungeons/Tazavesh/357436.mp3 중독성 넘치는 독주
 Shadowlands/Dungeons/Tazavesh/357508.mp3 마구잡이 난타
 Shadowlands/Dungeons/Tazavesh/357512.mp3 광포한 돌진
+Shadowlands/Dungeons/Tazavesh/357542.mp3 현 튕기기
+Shadowlands/Dungeons/Tazavesh/358131.mp3 번개 회오리
 Shadowlands/Dungeons/Tazavesh/358947.mp3 불타는 타르
 Shadowlands/Dungeons/Tazavesh/359028.mp3 보안 강타
 Shadowlands/Dungeons/Tazavesh/368661.mp3 도검 던지기
@@ -6005,7 +6009,6 @@ WarWithin/Dungeons/EcoDomeAldani/1235368.mp3 비전 베기
 WarWithin/Dungeons/EcoDomeAldani/1236130.mp3 구속의 투창
 WarWithin/Dungeons/EcoDomeAldani/1236703.mp3 영원의 직조
 WarWithin/Dungeons/EcoDomeAldani/1236981.mp3 분열 수류탄
-WarWithin/Dungeons/EcoDomeAldani/1237184.mp3 운명의 파편
 WarWithin/Dungeons/EcoDomeAldani/1237195.mp3 잠복 돌진
 WarWithin/Dungeons/EcoDomeAldani/1237220.mp3 찌르는 모래폭풍
 WarWithin/Dungeons/EcoDomeAldani/1239229.mp3 크아래쉬 쇄도
