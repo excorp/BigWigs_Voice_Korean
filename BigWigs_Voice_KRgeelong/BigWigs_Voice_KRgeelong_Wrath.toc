@@ -1,4 +1,4 @@
-## Interface: 30404
+## Interface: 30405
 ## Title: BigWigs |cffff0000+|r|cffffffffVoice|r 한국어
 ## Version: v11.2.0-1
 ## Notes: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
