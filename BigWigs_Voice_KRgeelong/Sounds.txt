@@ -4891,6 +4891,7 @@ Shadowlands/Dungeons/Tazavesh/1244650.mp3 엄습하는 해일
 Shadowlands/Dungeons/Tazavesh/1245579.mp3 마수
 Shadowlands/Dungeons/Tazavesh/1245634.mp3 분단
 Shadowlands/Dungeons/Tazavesh/1245669.mp3 이단 절기
+Shadowlands/Dungeons/Tazavesh/1245752.mp3 삼단 절기
 Shadowlands/Dungeons/Tazavesh/1248209.mp3 위상 베기
 Shadowlands/Dungeons/Tazavesh/345770.mp3 밀수품 압수
 Shadowlands/Dungeons/Tazavesh/345990.mp3 억제장
@@ -5800,7 +5801,6 @@ WarWithin/Dungeons/Delves/1218153.mp3 불타는 잔해
 WarWithin/Dungeons/Delves/1220472.mp3 Overcharge
 WarWithin/Dungeons/Delves/1220665.mp3 Overcharged Slam
 WarWithin/Dungeons/Delves/1220869.mp3 뼈파괴자
-WarWithin/Dungeons/Delves/1225642.mp3 지배자의 어둠
 WarWithin/Dungeons/Delves/1227334.mp3 Maintenance
 WarWithin/Dungeons/Delves/1227345.mp3 Adamant Defense
 WarWithin/Dungeons/Delves/1231144.mp3 무위의 숨결
@@ -5835,16 +5835,11 @@ WarWithin/Dungeons/Delves/1244108.mp3 공포의 비명소리
 WarWithin/Dungeons/Delves/1244249.mp3 밀고 나가기
 WarWithin/Dungeons/Delves/1244313.mp3 너울거리는 마력
 WarWithin/Dungeons/Delves/1244462.mp3 어둠 일깨우기
-WarWithin/Dungeons/Delves/1244473.mp3 그림자 진입
-WarWithin/Dungeons/Delves/1244505.mp3 흐르는 어둠
 WarWithin/Dungeons/Delves/1244600.mp3 암흑 분출
-WarWithin/Dungeons/Delves/1244601.mp3 그림자로 돌아가기
-WarWithin/Dungeons/Delves/1245035.mp3 어둠의 학살
 WarWithin/Dungeons/Delves/1245156.mp3 카이베자의 화려한 입장
 WarWithin/Dungeons/Delves/1245203.mp3 어둠의 학살
 WarWithin/Dungeons/Delves/1245240.mp3 연합의 단검
 WarWithin/Dungeons/Delves/1245582.mp3 환천의 균열
-WarWithin/Dungeons/Delves/1250050.mp3 기력 충전
 WarWithin/Dungeons/Delves/359016.mp3 날렵함
 WarWithin/Dungeons/Delves/363194.mp3 점액 자국
 WarWithin/Dungeons/Delves/372529.mp3 흉측한 웃음
@@ -6382,6 +6377,144 @@ WarWithin/Raids/LiberationOfUndermine/474130.mp3 기계 전투복 창안자의 �
 WarWithin/Raids/LiberationOfUndermine/474159.mp3 전하 충전
 WarWithin/Raids/LiberationOfUndermine/474665.mp3 동전 자석
 WarWithin/Raids/LiberationOfUndermine/rewards.mp3 화려한 상품
+WarWithin/Raids/ManaforgeOmega/1218625.mp3 변위 매트릭스
+WarWithin/Raids/ManaforgeOmega/1219223.mp3 원자화
+WarWithin/Raids/ManaforgeOmega/1219248.mp3 비전 방사선
+WarWithin/Raids/ManaforgeOmega/1219263.mp3 소멸의 비전대포
+WarWithin/Raids/ManaforgeOmega/1219354.mp3 강력한 마나 잔류물
+WarWithin/Raids/ManaforgeOmega/1219450.mp3 매트릭스 실체화
+WarWithin/Raids/ManaforgeOmega/1219471.mp3 배출 지역
+WarWithin/Raids/ManaforgeOmega/1219607.mp3 박멸의 포화
+WarWithin/Raids/ManaforgeOmega/1220679.mp3 위상 점멸
+WarWithin/Raids/ManaforgeOmega/1221490.mp3 지옥의 그을림
+WarWithin/Raids/ManaforgeOmega/1222232.mp3 포식자의 노여움
+WarWithin/Raids/ManaforgeOmega/1222310.mp3 그치지 않는 허기
+WarWithin/Raids/ManaforgeOmega/1223859.mp3 비전 방출
+WarWithin/Raids/ManaforgeOmega/1224414.mp3 수정 충격파
+WarWithin/Raids/ManaforgeOmega/1224737.mp3 서약결속
+WarWithin/Raids/ManaforgeOmega/1224767.mp3 왕의 종복
+WarWithin/Raids/ManaforgeOmega/1224787.mp3 정복
+WarWithin/Raids/ManaforgeOmega/1224812.mp3 제압
+WarWithin/Raids/ManaforgeOmega/1224906.mp3 서약 일깨우기
+WarWithin/Raids/ManaforgeOmega/1225130.mp3 지옥칼
+WarWithin/Raids/ManaforgeOmega/1225444.mp3 원자화
+WarWithin/Raids/ManaforgeOmega/1225582.mp3 영혼의 부름
+WarWithin/Raids/ManaforgeOmega/1225616.mp3 영혼불꽃의 합일
+WarWithin/Raids/ManaforgeOmega/1225634.mp3 황혼 속의 세계
+WarWithin/Raids/ManaforgeOmega/1225645.mp3 황혼의 쐐기
+WarWithin/Raids/ManaforgeOmega/1225673.mp3 격노한 산산조각
+WarWithin/Raids/ManaforgeOmega/1226311.mp3 주입의 사슬
+WarWithin/Raids/ManaforgeOmega/1226362.mp3 황혼의 흉터
+WarWithin/Raids/ManaforgeOmega/1226366.mp3 살아있는 비단
+WarWithin/Raids/ManaforgeOmega/1226395.mp3 과잉 주입 폭발
+WarWithin/Raids/ManaforgeOmega/1226413.mp3 부서진 별
+WarWithin/Raids/ManaforgeOmega/1226493.mp3 조각난 영혼
+WarWithin/Raids/ManaforgeOmega/1226721.mp3 비단의 감속
+WarWithin/Raids/ManaforgeOmega/1226827.mp3 영혼 분리 보주
+WarWithin/Raids/ManaforgeOmega/1227048.mp3 공허칼날 매복
+WarWithin/Raids/ManaforgeOmega/1227052.mp3 공허 폭발
+WarWithin/Raids/ManaforgeOmega/1227226.mp3 몸부림치는 파동
+WarWithin/Raids/ManaforgeOmega/1227276.mp3 영혼을 찢는 파멸
+WarWithin/Raids/ManaforgeOmega/1227355.mp3 공허걸음
+WarWithin/Raids/ManaforgeOmega/1227373.mp3 산산껍질
+WarWithin/Raids/ManaforgeOmega/1227378.mp3 수정 감금
+WarWithin/Raids/ManaforgeOmega/1227470.mp3 포위공격
+WarWithin/Raids/ManaforgeOmega/1227549.mp3 추방
+WarWithin/Raids/ManaforgeOmega/1227631.mp3 비전 방출
+WarWithin/Raids/ManaforgeOmega/1227685.mp3 굶주린 베기
+WarWithin/Raids/ManaforgeOmega/1227734.mp3 공허날개 응축
+WarWithin/Raids/ManaforgeOmega/1227782.mp3 비전 격분
+WarWithin/Raids/ManaforgeOmega/1227794.mp3 비전 번개
+WarWithin/Raids/ManaforgeOmega/1227809.mp3 사냥
+WarWithin/Raids/ManaforgeOmega/1228075.mp3 연합의 광선
+WarWithin/Raids/ManaforgeOmega/1228115.mp3 황천의 파괴자
+WarWithin/Raids/ManaforgeOmega/1228163.mp3 차원의 숨결
+WarWithin/Raids/ManaforgeOmega/1228188.mp3 침묵의 돌개바람
+WarWithin/Raids/ManaforgeOmega/1228206.mp3 잉여 질량체
+WarWithin/Raids/ManaforgeOmega/1228207.mp3 공동의 중력
+WarWithin/Raids/ManaforgeOmega/1228214.mp3 천공의 수확
+WarWithin/Raids/ManaforgeOmega/1228216.mp3 비전 말살
+WarWithin/Raids/ManaforgeOmega/1228219.mp3 천공의 징표
+WarWithin/Raids/ManaforgeOmega/1228265.mp3 왕의 굶주림
+WarWithin/Raids/ManaforgeOmega/1228502.mp3 압도적인 힘
+WarWithin/Raids/ManaforgeOmega/1229038.mp3 집어삼키기
+WarWithin/Raids/ManaforgeOmega/1230087.mp3 육중한 일격
+WarWithin/Raids/ManaforgeOmega/1230168.mp3 필멸성의 취약함
+WarWithin/Raids/ManaforgeOmega/1230261.mp3 황천작렬
+WarWithin/Raids/ManaforgeOmega/1230302.mp3 자폭
+WarWithin/Raids/ManaforgeOmega/1230979.mp3 암흑 물질
+WarWithin/Raids/ManaforgeOmega/1231002.mp3 암흑 마력
+WarWithin/Raids/ManaforgeOmega/1231097.mp3 우주의 틈
+WarWithin/Raids/ManaforgeOmega/1231716.mp3 별의 소실
+WarWithin/Raids/ManaforgeOmega/1231720.mp3 수집가 불러내기
+WarWithin/Raids/ManaforgeOmega/1231871.mp3 충격파 격돌
+WarWithin/Raids/ManaforgeOmega/1232221.mp3 단말마
+WarWithin/Raids/ManaforgeOmega/1232394.mp3 중력 우물
+WarWithin/Raids/ManaforgeOmega/1232399.mp3 공포의 곡사
+WarWithin/Raids/ManaforgeOmega/1232412.mp3 집중의 눈동자
+WarWithin/Raids/ManaforgeOmega/1232590.mp3 비전 수렴
+WarWithin/Raids/ManaforgeOmega/1232973.mp3 초신성
+WarWithin/Raids/ManaforgeOmega/1233074.mp3 짓이기는 어둠
+WarWithin/Raids/ManaforgeOmega/1233105.mp3 암흑 잔류물
+WarWithin/Raids/ManaforgeOmega/1233110.mp3 맥동하는 번개
+WarWithin/Raids/ManaforgeOmega/1233292.mp3 응축 원반
+WarWithin/Raids/ManaforgeOmega/1233381.mp3 옭아매는 불길
+WarWithin/Raids/ManaforgeOmega/1233415.mp3 마나 파편
+WarWithin/Raids/ManaforgeOmega/1233416.mp3 수정 충격파
+WarWithin/Raids/ManaforgeOmega/1233539.mp3 집어삼키기
+WarWithin/Raids/ManaforgeOmega/1233672.mp3 불지옥 일격
+WarWithin/Raids/ManaforgeOmega/1233968.mp3 사건의 지평선
+WarWithin/Raids/ManaforgeOmega/1234044.mp3 어둠에 물든 하늘
+WarWithin/Raids/ManaforgeOmega/1234054.mp3 암흑 지진
+WarWithin/Raids/ManaforgeOmega/1234263.mp3 우주의 붕괴
+WarWithin/Raids/ManaforgeOmega/1234266.mp3 우주의 취약함
+WarWithin/Raids/ManaforgeOmega/1234328.mp3 광자 작렬
+WarWithin/Raids/ManaforgeOmega/1234529.mp3 우주의 아귀
+WarWithin/Raids/ManaforgeOmega/1235045.mp3 잠식하는 망각
+WarWithin/Raids/ManaforgeOmega/1235114.mp3 치솟는 레시
+WarWithin/Raids/ManaforgeOmega/1236207.mp3 천공의 쇄도
+WarWithin/Raids/ManaforgeOmega/1237084.mp3 마력 절단기
+WarWithin/Raids/ManaforgeOmega/1237097.mp3 천체의 추진력
+WarWithin/Raids/ManaforgeOmega/1237212.mp3 관통의 가닥
+WarWithin/Raids/ManaforgeOmega/1237272.mp3 소굴 엮기
+WarWithin/Raids/ManaforgeOmega/1237319.mp3 감마 폭발
+WarWithin/Raids/ManaforgeOmega/1237690.mp3 일월식
+WarWithin/Raids/ManaforgeOmega/1237694.mp3 대규모 사출
+WarWithin/Raids/ManaforgeOmega/1237695.mp3 우주진의 회오리
+WarWithin/Raids/ManaforgeOmega/1237696.mp3 잔해 지대
+WarWithin/Raids/ManaforgeOmega/1238266.mp3 상승하는 힘
+WarWithin/Raids/ManaforgeOmega/1238502.mp3 엮어낸 수호물
+WarWithin/Raids/ManaforgeOmega/1238765.mp3 멸종
+WarWithin/Raids/ManaforgeOmega/1238975.mp3 복수의 서약
+WarWithin/Raids/ManaforgeOmega/1239262.mp3 정복자의 십자가
+WarWithin/Raids/ManaforgeOmega/1239270.mp3 공허수호
+WarWithin/Raids/ManaforgeOmega/1240705.mp3 천공의 화상
+WarWithin/Raids/ManaforgeOmega/1240891.mp3 사슬의 인장
+WarWithin/Raids/ManaforgeOmega/1241100.mp3 신비의 채찍질
+WarWithin/Raids/ManaforgeOmega/1241306.mp3 칼춤
+WarWithin/Raids/ManaforgeOmega/1241833.mp3 균열
+WarWithin/Raids/ManaforgeOmega/1241946.mp3 약화
+WarWithin/Raids/ManaforgeOmega/1242086.mp3 비전 마력
+WarWithin/Raids/ManaforgeOmega/1242259.mp3 영혼 폭탄
+WarWithin/Raids/ManaforgeOmega/1242284.mp3 영혼분쇄
+WarWithin/Raids/ManaforgeOmega/1242304.mp3 추방된 영혼
+WarWithin/Raids/ManaforgeOmega/1243577.mp3 중력 역전
+WarWithin/Raids/ManaforgeOmega/1243609.mp3 체공
+WarWithin/Raids/ManaforgeOmega/1243641.mp3 공허의 쇄도
+WarWithin/Raids/ManaforgeOmega/1243690.mp3 부서진 공간
+WarWithin/Raids/ManaforgeOmega/1243699.mp3 공간의 파편
+WarWithin/Raids/ManaforgeOmega/1243702.mp3 반물질
+WarWithin/Raids/ManaforgeOmega/1243771.mp3 비전 영액
+WarWithin/Raids/ManaforgeOmega/1243901.mp3 공허 수확
+WarWithin/Raids/ManaforgeOmega/1245292.mp3 불안정화
+WarWithin/Raids/ManaforgeOmega/1246145.mp3 망각의 손길
+WarWithin/Raids/ManaforgeOmega/1246541.mp3 무위의 결속
+WarWithin/Raids/ManaforgeOmega/1246921.mp3 주입 수정탑
+WarWithin/Raids/ManaforgeOmega/1246930.mp3 항성의 핵
+WarWithin/Raids/ManaforgeOmega/1247424.mp3 무위의 흡수
+WarWithin/Raids/ManaforgeOmega/1248009.mp3 어둠의 종착지
+WarWithin/Raids/ManaforgeOmega/1248171.mp3 공허의 틈새
+WarWithin/Raids/ManaforgeOmega/1250055.mp3 공허의 손아귀
 WarWithin/Raids/NerubarPalace/432969.mp3 위상 달려들기
 WarWithin/Raids/NerubarPalace/434697.mp3 무자비한 으깨기
 WarWithin/Raids/NerubarPalace/434705.mp3 연질화
