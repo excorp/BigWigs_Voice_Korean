@@ -4697,37 +4697,27 @@ Shadowlands/Dungeons/HallsOfAtonement/322936.mp3 붕괴의 격돌
 Shadowlands/Dungeons/HallsOfAtonement/322943.mp3 잔해 내던지기
 Shadowlands/Dungeons/HallsOfAtonement/323001.mp3 유리 파편
 Shadowlands/Dungeons/HallsOfAtonement/323142.mp3 염력 투척
-Shadowlands/Dungeons/HallsOfAtonement/323143.mp3 염력 투척
 Shadowlands/Dungeons/HallsOfAtonement/323236.mp3 풀려난 괴로움
 Shadowlands/Dungeons/HallsOfAtonement/323437.mp3 교만의 낙인
 Shadowlands/Dungeons/HallsOfAtonement/323538.mp3 힘의 화살
-Shadowlands/Dungeons/HallsOfAtonement/323552.mp3 힘의 세례
 Shadowlands/Dungeons/HallsOfAtonement/323597.mp3 유령의 행렬
 Shadowlands/Dungeons/HallsOfAtonement/323650.mp3 음산한 시선 집중
-Shadowlands/Dungeons/HallsOfAtonement/325523.mp3 죽음의 찌르기
-Shadowlands/Dungeons/HallsOfAtonement/325700.mp3 죄악 수집
 Shadowlands/Dungeons/HallsOfAtonement/325701.mp3 생명력 착취
-Shadowlands/Dungeons/HallsOfAtonement/325793.mp3 속사
 Shadowlands/Dungeons/HallsOfAtonement/325876.mp3 절멸의 저주
 Shadowlands/Dungeons/HallsOfAtonement/326389.mp3 몰아치는 피
 Shadowlands/Dungeons/HallsOfAtonement/326409.mp3 난타
 Shadowlands/Dungeons/HallsOfAtonement/326441.mp3 죄악의 전율
 Shadowlands/Dungeons/HallsOfAtonement/326450.mp3 충성스러운 야수
-Shadowlands/Dungeons/HallsOfAtonement/326607.mp3 돌로 변신
 Shadowlands/Dungeons/HallsOfAtonement/326638.mp3 글레이브 던지기
 Shadowlands/Dungeons/HallsOfAtonement/326794.mp3 어둠의 교감
 Shadowlands/Dungeons/HallsOfAtonement/326847.mp3 죄악의 분산
 Shadowlands/Dungeons/HallsOfAtonement/326891.mp3 고뇌
 Shadowlands/Dungeons/HallsOfAtonement/326997.mp3 강력 휘둘러치기
-Shadowlands/Dungeons/HallsOfAtonement/327885.mp3 분출하는 고통
 Shadowlands/Dungeons/HallsOfAtonement/328206.mp3 돌의 저주
 Shadowlands/Dungeons/HallsOfAtonement/328791.mp3 비통의 의식
 Shadowlands/Dungeons/HallsOfAtonement/329104.mp3 어둠의 문
 Shadowlands/Dungeons/HallsOfAtonement/329340.mp3 령 분수
 Shadowlands/Dungeons/HallsOfAtonement/339237.mp3 죄악의 빛의 환영
-Shadowlands/Dungeons/HallsOfAtonement/342171.mp3 충직한 돌숨결
-Shadowlands/Dungeons/HallsOfAtonement/344993.mp3 톱니 휘둘러치기
-Shadowlands/Dungeons/HallsOfAtonement/346866.mp3 돌 숨결
 Shadowlands/Dungeons/MistsOfTirnaScithe/321828.mp3 손바닥치기
 Shadowlands/Dungeons/MistsOfTirnaScithe/321834.mp3 피구
 Shadowlands/Dungeons/MistsOfTirnaScithe/321891.mp3 얼음땡 시선 집중
@@ -4907,12 +4897,6 @@ Shadowlands/Dungeons/Tazavesh/346957.mp3 불의 정화
 Shadowlands/Dungeons/Tazavesh/346962.mp3 우편환
 Shadowlands/Dungeons/Tazavesh/347094.mp3 티탄 충돌
 Shadowlands/Dungeons/Tazavesh/347149.mp3 무한의 숨결
-Shadowlands/Dungeons/Tazavesh/347150.mp3 삼단 절기
-Shadowlands/Dungeons/Tazavesh/347151.mp3 갈고리 휩쓸기
-Shadowlands/Dungeons/Tazavesh/347249.mp3 분단
-Shadowlands/Dungeons/Tazavesh/347371.mp3 포도탄
-Shadowlands/Dungeons/Tazavesh/347610.mp3 마수
-Shadowlands/Dungeons/Tazavesh/347623.mp3 쾌검
 Shadowlands/Dungeons/Tazavesh/347716.mp3 편지칼
 Shadowlands/Dungeons/Tazavesh/347721.mp3 우리 열기
 Shadowlands/Dungeons/Tazavesh/347775.mp3 악성 우편 분류기
@@ -4929,14 +4913,12 @@ Shadowlands/Dungeons/Tazavesh/350037.mp3 노출된 령 핵
 Shadowlands/Dungeons/Tazavesh/350045.mp3 부식성 령
 Shadowlands/Dungeons/Tazavesh/350086.mp3 소용돌이치는 파멸
 Shadowlands/Dungeons/Tazavesh/350101.mp3 저주의 사슬
-Shadowlands/Dungeons/Tazavesh/350517.mp3 시간 촉진
 Shadowlands/Dungeons/Tazavesh/350796.mp3 초광속 불꽃
 Shadowlands/Dungeons/Tazavesh/350804.mp3 붕괴하는 마력
 Shadowlands/Dungeons/Tazavesh/350875.mp3 초광속 충격
 Shadowlands/Dungeons/Tazavesh/350916.mp3 보안 강타
 Shadowlands/Dungeons/Tazavesh/350919.mp3 군중 제어
 Shadowlands/Dungeons/Tazavesh/350922.mp3 위협적인 고함
-Shadowlands/Dungeons/Tazavesh/351047.mp3 속임수 일격
 Shadowlands/Dungeons/Tazavesh/351086.mp3 압도적인 힘
 Shadowlands/Dungeons/Tazavesh/351096.mp3 마력 조각
 Shadowlands/Dungeons/Tazavesh/351119.mp3 표창 난무
@@ -4948,8 +4930,6 @@ Shadowlands/Dungeons/Tazavesh/353312.mp3 정화의 작렬
 Shadowlands/Dungeons/Tazavesh/353635.mp3 붕괴하는 별
 Shadowlands/Dungeons/Tazavesh/353706.mp3 난동
 Shadowlands/Dungeons/Tazavesh/353783.mp3 순간이동
-Shadowlands/Dungeons/Tazavesh/353835.mp3 억제
-Shadowlands/Dungeons/Tazavesh/354334.mp3 갈꼬리!
 Shadowlands/Dungeons/Tazavesh/355048.mp3 껍질파쇄
 Shadowlands/Dungeons/Tazavesh/355057.mp3 아옳옳그롫의 외침
 Shadowlands/Dungeons/Tazavesh/355132.mp3 원기 회복의 생선 꼬챙이
@@ -4965,7 +4945,6 @@ Shadowlands/Dungeons/Tazavesh/355584.mp3 응집된 파동
 Shadowlands/Dungeons/Tazavesh/355637.mp3 진압의 일격
 Shadowlands/Dungeons/Tazavesh/355640.mp3 결사의 방진
 Shadowlands/Dungeons/Tazavesh/355642.mp3 초광속 연사
-Shadowlands/Dungeons/Tazavesh/355782.mp3 전력 승수
 Shadowlands/Dungeons/Tazavesh/355830.mp3 쾌검
 Shadowlands/Dungeons/Tazavesh/355888.mp3 빛경화 지휘봉
 Shadowlands/Dungeons/Tazavesh/355891.mp3 순간이동
@@ -4974,7 +4953,6 @@ Shadowlands/Dungeons/Tazavesh/355915.mp3 구속의 문양
 Shadowlands/Dungeons/Tazavesh/355934.mp3 빛경화 방벽
 Shadowlands/Dungeons/Tazavesh/355980.mp3 굴절 보호막
 Shadowlands/Dungeons/Tazavesh/356001.mp3 광선 절삭기
-Shadowlands/Dungeons/Tazavesh/356031.mp3 정지 광선
 Shadowlands/Dungeons/Tazavesh/356133.mp3 초강력 농주
 Shadowlands/Dungeons/Tazavesh/356404.mp3 용암 숨결
 Shadowlands/Dungeons/Tazavesh/356407.mp3 고대의 공포
@@ -4985,13 +4963,11 @@ Shadowlands/Dungeons/Tazavesh/356929.mp3 구금의 사슬
 Shadowlands/Dungeons/Tazavesh/356942.mp3 결박
 Shadowlands/Dungeons/Tazavesh/356967.mp3 초광속 손등치기
 Shadowlands/Dungeons/Tazavesh/357029.mp3 초광속 폭탄
-Shadowlands/Dungeons/Tazavesh/357188.mp3 이단 절기
 Shadowlands/Dungeons/Tazavesh/357197.mp3 빛파편 후퇴
 Shadowlands/Dungeons/Tazavesh/357226.mp3 떠도는 별
 Shadowlands/Dungeons/Tazavesh/357229.mp3 시간빛 증강기
 Shadowlands/Dungeons/Tazavesh/357238.mp3 떠도는 전파 천체
 Shadowlands/Dungeons/Tazavesh/357260.mp3 불안정한 균열
-Shadowlands/Dungeons/Tazavesh/357284.mp3 활기 고취
 Shadowlands/Dungeons/Tazavesh/357404.mp3 불협의 노래
 Shadowlands/Dungeons/Tazavesh/357436.mp3 중독성 넘치는 독주
 Shadowlands/Dungeons/Tazavesh/357508.mp3 마구잡이 난타
@@ -5595,10 +5571,8 @@ WarWithin/Dungeons/AraKara/432967.mp3 경고의 괴성
 WarWithin/Dungeons/AraKara/433002.mp3 적출의 일격
 WarWithin/Dungeons/AraKara/433740.mp3 들끓는 해충
 WarWithin/Dungeons/AraKara/433766.mp3 무리의 눈
-WarWithin/Dungeons/AraKara/433785.mp3 휘감는 칼날
 WarWithin/Dungeons/AraKara/433841.mp3 맹독 연사
 WarWithin/Dungeons/AraKara/433845.mp3 분출하는 그물
-WarWithin/Dungeons/AraKara/434252.mp3 거대한 격돌
 WarWithin/Dungeons/AraKara/434793.mp3 공명의 탄막
 WarWithin/Dungeons/AraKara/434802.mp3 섬뜩한 괴성
 WarWithin/Dungeons/AraKara/434824.mp3 거미줄 뿌리기
@@ -5617,7 +5591,6 @@ WarWithin/Dungeons/AraKara/446794.mp3 끝없는 탐식
 WarWithin/Dungeons/AraKara/448248.mp3 불쾌한 연발 공격
 WarWithin/Dungeons/AraKara/453161.mp3 꿰뚫기
 WarWithin/Dungeons/AraKara/461487.mp3 배양된 독
-WarWithin/Dungeons/AraKara/465012.mp3 격돌
 WarWithin/Dungeons/AraKara/bloodstained_webmage.mp3 피로 물든 거미줄마법사 소환
 WarWithin/Dungeons/CinderbrewMeadery/431895.mp3 잿불맥주 운반
 WarWithin/Dungeons/CinderbrewMeadery/432179.mp3 잿불맥주 던지기
@@ -5798,11 +5771,7 @@ WarWithin/Dungeons/Delves/1218017.mp3 게 폭탄 세례
 WarWithin/Dungeons/Delves/1218039.mp3 내장형 수류탄
 WarWithin/Dungeons/Delves/1218061.mp3 황금 도화선
 WarWithin/Dungeons/Delves/1218153.mp3 불타는 잔해
-WarWithin/Dungeons/Delves/1220472.mp3 Overcharge
-WarWithin/Dungeons/Delves/1220665.mp3 Overcharged Slam
 WarWithin/Dungeons/Delves/1220869.mp3 뼈파괴자
-WarWithin/Dungeons/Delves/1227334.mp3 Maintenance
-WarWithin/Dungeons/Delves/1227345.mp3 Adamant Defense
 WarWithin/Dungeons/Delves/1231144.mp3 무위의 숨결
 WarWithin/Dungeons/Delves/1236229.mp3 비전 격퇴기
 WarWithin/Dungeons/Delves/1236256.mp3 아주 날카로운 회전베기
@@ -5821,7 +5790,6 @@ WarWithin/Dungeons/Delves/1239350.mp3 전원 집합!
 WarWithin/Dungeons/Delves/1239407.mp3 돌파
 WarWithin/Dungeons/Delves/1239427.mp3 격침 명령
 WarWithin/Dungeons/Delves/1239445.mp3 측면 공격
-WarWithin/Dungeons/Delves/1239731.mp3 Golem Smash
 WarWithin/Dungeons/Delves/1241753.mp3 차원문 주입
 WarWithin/Dungeons/Delves/1241991.mp3 크아레쉬 시한폭탄
 WarWithin/Dungeons/Delves/1242142.mp3 파열
@@ -5840,6 +5808,7 @@ WarWithin/Dungeons/Delves/1245156.mp3 카이베자의 화려한 입장
 WarWithin/Dungeons/Delves/1245203.mp3 어둠의 학살
 WarWithin/Dungeons/Delves/1245240.mp3 연합의 단검
 WarWithin/Dungeons/Delves/1245582.mp3 환천의 균열
+WarWithin/Dungeons/Delves/1250052.mp3 어둠
 WarWithin/Dungeons/Delves/359016.mp3 날렵함
 WarWithin/Dungeons/Delves/363194.mp3 점액 자국
 WarWithin/Dungeons/Delves/372529.mp3 흉측한 웃음
@@ -5938,8 +5907,6 @@ WarWithin/Dungeons/Delves/453897.mp3 포자의 노래
 WarWithin/Dungeons/Delves/453937.mp3 부화 중...
 WarWithin/Dungeons/Delves/454213.mp3 진흙 돌진
 WarWithin/Dungeons/Delves/454762.mp3 어둠의 경감
-WarWithin/Dungeons/Delves/455380.mp3 스프로켓 주먹질
-WarWithin/Dungeons/Delves/455613.mp3 크랭크축 공세
 WarWithin/Dungeons/Delves/455662.mp3 휘감는 그림자
 WarWithin/Dungeons/Delves/455932.mp3 모독의 숨결
 WarWithin/Dungeons/Delves/458834.mp3 어둠회전
@@ -6012,7 +5979,6 @@ WarWithin/Dungeons/OperationFloodgate/1214337.mp3 폭탄 설치
 WarWithin/Dungeons/OperationFloodgate/1214468.mp3 곡예 사격
 WarWithin/Dungeons/OperationFloodgate/1214780.mp3 최대 왜곡
 WarWithin/Dungeons/OperationFloodgate/1216039.mp3 R.P.G.G.
-WarWithin/Dungeons/OperationFloodgate/1217496.mp3 유출물 물보라
 WarWithin/Dungeons/OperationFloodgate/1217653.mp3 B.B.B.F.G.
 WarWithin/Dungeons/OperationFloodgate/459779.mp3 날쌘 돌진
 WarWithin/Dungeons/OperationFloodgate/459799.mp3 맹타
@@ -6037,9 +6003,7 @@ WarWithin/Dungeons/OperationFloodgate/468726.mp3 시포리움 폭약 설치
 WarWithin/Dungeons/OperationFloodgate/468813.mp3 기가 감전
 WarWithin/Dungeons/OperationFloodgate/468841.mp3 도약하는 불꽃
 WarWithin/Dungeons/OperationFloodgate/469478.mp3 오물 발톱
-WarWithin/Dungeons/OperationFloodgate/469721.mp3 파도 역류
 WarWithin/Dungeons/OperationFloodgate/469799.mp3 과충전
-WarWithin/Dungeons/OperationFloodgate/469818.mp3 방울 토하기
 WarWithin/Dungeons/OperationFloodgate/469981.mp3 살상 차단 방벽
 WarWithin/Dungeons/OperationFloodgate/470039.mp3 칼날질식 덩굴
 WarWithin/Dungeons/OperationFloodgate/470090.mp3 분열된 2인조
@@ -6064,7 +6028,6 @@ WarWithin/Dungeons/PrioryOfTheSacredFlame/423588.mp3 빛의 보호막
 WarWithin/Dungeons/PrioryOfTheSacredFlame/423664.mp3 빛의 포용
 WarWithin/Dungeons/PrioryOfTheSacredFlame/424414.mp3 방어구 관통
 WarWithin/Dungeons/PrioryOfTheSacredFlame/424419.mp3 전투의 함성
-WarWithin/Dungeons/PrioryOfTheSacredFlame/424420.mp3 불씨 작렬
 WarWithin/Dungeons/PrioryOfTheSacredFlame/424423.mp3 도약의 일격
 WarWithin/Dungeons/PrioryOfTheSacredFlame/424429.mp3 신성화
 WarWithin/Dungeons/PrioryOfTheSacredFlame/424431.mp3 신성한 광휘
@@ -6085,7 +6048,6 @@ WarWithin/Dungeons/PrioryOfTheSacredFlame/428150.mp3 반사의 보호막
 WarWithin/Dungeons/PrioryOfTheSacredFlame/428169.mp3 눈부신 빛
 WarWithin/Dungeons/PrioryOfTheSacredFlame/435088.mp3 신성한 불꽃의 축복
 WarWithin/Dungeons/PrioryOfTheSacredFlame/435165.mp3 타오르는 일격
-WarWithin/Dungeons/PrioryOfTheSacredFlame/444296.mp3 꿰뚫기
 WarWithin/Dungeons/PrioryOfTheSacredFlame/444546.mp3 정화의 빛
 WarWithin/Dungeons/PrioryOfTheSacredFlame/444608.mp3 내면의 빛
 WarWithin/Dungeons/PrioryOfTheSacredFlame/444728.mp3 기사단의 분노
@@ -6093,7 +6055,6 @@ WarWithin/Dungeons/PrioryOfTheSacredFlame/444743.mp3 연발 화염구
 WarWithin/Dungeons/PrioryOfTheSacredFlame/446368.mp3 희생의 장작더미
 WarWithin/Dungeons/PrioryOfTheSacredFlame/446403.mp3 희생의 불꽃
 WarWithin/Dungeons/PrioryOfTheSacredFlame/446776.mp3 암습
-WarWithin/Dungeons/PrioryOfTheSacredFlame/447270.mp3 창 던지기
 WarWithin/Dungeons/PrioryOfTheSacredFlame/447439.mp3 잔인한 짓이기기
 WarWithin/Dungeons/PrioryOfTheSacredFlame/448485.mp3 방패 밀쳐내기
 WarWithin/Dungeons/PrioryOfTheSacredFlame/448492.mp3 천둥벼락
@@ -6118,7 +6079,6 @@ WarWithin/Dungeons/TheDawnbreaker/426787.mp3 암흑 부패
 WarWithin/Dungeons/TheDawnbreaker/426860.mp3 암흑의 보주
 WarWithin/Dungeons/TheDawnbreaker/427001.mp3 공포를 부르는 격돌
 WarWithin/Dungeons/TheDawnbreaker/428086.mp3 어둠의 화살
-WarWithin/Dungeons/TheDawnbreaker/431304.mp3 어둠의 유빙
 WarWithin/Dungeons/TheDawnbreaker/431309.mp3 옭아매는 어둠
 WarWithin/Dungeons/TheDawnbreaker/431349.mp3 고통스러운 분출
 WarWithin/Dungeons/TheDawnbreaker/431364.mp3 고통의 광선
