@@ -4698,7 +4698,6 @@ Shadowlands/Dungeons/HallsOfAtonement/322943.mp3 잔해 내던지기
 Shadowlands/Dungeons/HallsOfAtonement/323001.mp3 유리 파편
 Shadowlands/Dungeons/HallsOfAtonement/323142.mp3 염력 투척
 Shadowlands/Dungeons/HallsOfAtonement/323236.mp3 풀려난 괴로움
-Shadowlands/Dungeons/HallsOfAtonement/323437.mp3 교만의 낙인
 Shadowlands/Dungeons/HallsOfAtonement/323538.mp3 힘의 화살
 Shadowlands/Dungeons/HallsOfAtonement/323597.mp3 유령의 행렬
 Shadowlands/Dungeons/HallsOfAtonement/323650.mp3 음산한 시선 집중
@@ -5723,7 +5722,7 @@ WarWithin/Dungeons/Delves/1213656.mp3 추가 시간!
 WarWithin/Dungeons/Delves/1213700.mp3 대답 없는 부름
 WarWithin/Dungeons/Delves/1213776.mp3 절망의 저주
 WarWithin/Dungeons/Delves/1213785.mp3 파괴 작업
-WarWithin/Dungeons/Delves/1213804.mp3 암흑 탄막
+WarWithin/Dungeons/Delves/1213791.mp3 암흑 탄막
 WarWithin/Dungeons/Delves/1213852.mp3 분쇄
 WarWithin/Dungeons/Delves/1214043.mp3 불타는 대포
 WarWithin/Dungeons/Delves/1214052.mp3 보호막으로 동력 전환
@@ -6169,6 +6168,8 @@ WarWithin/Raids/KhazAlgar/1216505.mp3 폭탄 지대
 WarWithin/Raids/KhazAlgar/1216687.mp3 이글거리는 화염
 WarWithin/Raids/KhazAlgar/1216709.mp3 날아드는 죽음
 WarWithin/Raids/KhazAlgar/1216812.mp3 초강력 로켓 강타
+WarWithin/Raids/KhazAlgar/1237893.mp3 장막을 분쇄하는 포효
+WarWithin/Raids/KhazAlgar/1237905.mp3 황혼의 숨결
 WarWithin/Raids/KhazAlgar/450407.mp3 육중한 격돌
 WarWithin/Raids/KhazAlgar/450454.mp3 지층 포효
 WarWithin/Raids/KhazAlgar/450677.mp3 파열하는 룬
@@ -6321,6 +6322,7 @@ WarWithin/Raids/LiberationOfUndermine/474159.mp3 전하 충전
 WarWithin/Raids/LiberationOfUndermine/474665.mp3 동전 자석
 WarWithin/Raids/LiberationOfUndermine/rewards.mp3 화려한 상품
 WarWithin/Raids/ManaforgeOmega/1218625.mp3 변위 매트릭스
+WarWithin/Raids/ManaforgeOmega/1218668.mp3 마력 절단기
 WarWithin/Raids/ManaforgeOmega/1219223.mp3 원자화
 WarWithin/Raids/ManaforgeOmega/1219248.mp3 비전 방사선
 WarWithin/Raids/ManaforgeOmega/1219263.mp3 소멸의 비전대포
@@ -6416,7 +6418,6 @@ WarWithin/Raids/ManaforgeOmega/1234529.mp3 우주의 아귀
 WarWithin/Raids/ManaforgeOmega/1235045.mp3 잠식하는 망각
 WarWithin/Raids/ManaforgeOmega/1235114.mp3 치솟는 레시
 WarWithin/Raids/ManaforgeOmega/1236207.mp3 천공의 쇄도
-WarWithin/Raids/ManaforgeOmega/1237084.mp3 마력 절단기
 WarWithin/Raids/ManaforgeOmega/1237097.mp3 천체의 추진력
 WarWithin/Raids/ManaforgeOmega/1237212.mp3 관통의 가닥
 WarWithin/Raids/ManaforgeOmega/1237272.mp3 소굴 엮기
