@@ -4974,6 +4974,7 @@ Shadowlands/Dungeons/Tazavesh/357512.mp3 광포한 돌진
 Shadowlands/Dungeons/Tazavesh/357542.mp3 현 튕기기
 Shadowlands/Dungeons/Tazavesh/358131.mp3 번개 회오리
 Shadowlands/Dungeons/Tazavesh/358947.mp3 불타는 타르
+Shadowlands/Dungeons/Tazavesh/359019.mp3 빠른 박자!
 Shadowlands/Dungeons/Tazavesh/359028.mp3 보안 강타
 Shadowlands/Dungeons/Tazavesh/368661.mp3 도검 던지기
 Shadowlands/Dungeons/Tazavesh/delivery_portal.mp3 불안정한 상품 배달
@@ -5570,6 +5571,7 @@ WarWithin/Dungeons/AraKara/432967.mp3 경고의 괴성
 WarWithin/Dungeons/AraKara/433002.mp3 적출의 일격
 WarWithin/Dungeons/AraKara/433740.mp3 들끓는 해충
 WarWithin/Dungeons/AraKara/433766.mp3 무리의 눈
+WarWithin/Dungeons/AraKara/433781.mp3 멈추지 않는 무리벌레
 WarWithin/Dungeons/AraKara/433841.mp3 맹독 연사
 WarWithin/Dungeons/AraKara/433845.mp3 분출하는 그물
 WarWithin/Dungeons/AraKara/434793.mp3 공명의 탄막
@@ -5792,6 +5794,10 @@ WarWithin/Dungeons/Delves/1245156.mp3 카이베자의 화려한 입장
 WarWithin/Dungeons/Delves/1245203.mp3 어둠의 학살
 WarWithin/Dungeons/Delves/1245240.mp3 연합의 단검
 WarWithin/Dungeons/Delves/1245582.mp3 환천의 균열
+WarWithin/Dungeons/Delves/1245667.mp3 코볼트 게워내기
+WarWithin/Dungeons/Delves/1245746.mp3 물컹거리는 살점
+WarWithin/Dungeons/Delves/1245765.mp3 무시무시한 포효
+WarWithin/Dungeons/Delves/1245784.mp3 붕괴의 격돌
 WarWithin/Dungeons/Delves/1250052.mp3 어둠
 WarWithin/Dungeons/Delves/359016.mp3 날렵함
 WarWithin/Dungeons/Delves/363194.mp3 점액 자국
@@ -5829,7 +5835,6 @@ WarWithin/Dungeons/Delves/443292.mp3 암영 격돌
 WarWithin/Dungeons/Delves/443482.mp3 황혼의 축복
 WarWithin/Dungeons/Delves/443837.mp3 어둠의 휩쓸기
 WarWithin/Dungeons/Delves/443840.mp3 황폐의 쇄도
-WarWithin/Dungeons/Delves/443908.mp3 발사!
 WarWithin/Dungeons/Delves/444408.mp3 대변자의 분노
 WarWithin/Dungeons/Delves/444479.mp3 어둠불꽃 연발 사격
 WarWithin/Dungeons/Delves/445191.mp3 심지점화 연발 공격
@@ -6421,8 +6426,7 @@ WarWithin/Raids/ManaforgeOmega/1236207.mp3 천공의 쇄도
 WarWithin/Raids/ManaforgeOmega/1237097.mp3 천체의 추진력
 WarWithin/Raids/ManaforgeOmega/1237212.mp3 관통의 가닥
 WarWithin/Raids/ManaforgeOmega/1237272.mp3 소굴 엮기
-WarWithin/Raids/ManaforgeOmega/1237319.mp3 감마 폭발
-WarWithin/Raids/ManaforgeOmega/1237690.mp3 일월식
+WarWithin/Raids/ManaforgeOmega/1237325.mp3 감마 폭발
 WarWithin/Raids/ManaforgeOmega/1237694.mp3 대규모 사출
 WarWithin/Raids/ManaforgeOmega/1237695.mp3 우주진의 회오리
 WarWithin/Raids/ManaforgeOmega/1237696.mp3 잔해 지대
@@ -6455,6 +6459,7 @@ WarWithin/Raids/ManaforgeOmega/1246145.mp3 망각의 손길
 WarWithin/Raids/ManaforgeOmega/1246541.mp3 무위의 결속
 WarWithin/Raids/ManaforgeOmega/1246921.mp3 주입 수정탑
 WarWithin/Raids/ManaforgeOmega/1246930.mp3 항성의 핵
+WarWithin/Raids/ManaforgeOmega/1247045.mp3 초과잉 주입
 WarWithin/Raids/ManaforgeOmega/1247424.mp3 무위의 흡수
 WarWithin/Raids/ManaforgeOmega/1248009.mp3 어둠의 종착지
 WarWithin/Raids/ManaforgeOmega/1248171.mp3 공허의 틈새
