@@ -4699,7 +4699,6 @@ Shadowlands/Dungeons/HallsOfAtonement/323001.mp3 유리 파편
 Shadowlands/Dungeons/HallsOfAtonement/323142.mp3 염력 투척
 Shadowlands/Dungeons/HallsOfAtonement/323236.mp3 풀려난 괴로움
 Shadowlands/Dungeons/HallsOfAtonement/323538.mp3 힘의 화살
-Shadowlands/Dungeons/HallsOfAtonement/323597.mp3 유령의 행렬
 Shadowlands/Dungeons/HallsOfAtonement/323650.mp3 음산한 시선 집중
 Shadowlands/Dungeons/HallsOfAtonement/325701.mp3 생명력 착취
 Shadowlands/Dungeons/HallsOfAtonement/325876.mp3 절멸의 저주
@@ -7318,3 +7317,8 @@ WrathOfTheLichKing/Raids/Ulduar/64733.mp3 파멸의 불길
 WrathOfTheLichKing/Raids/Ulduar/64771.mp3 방어구 융해
 WrathOfTheLichKing/Raids/Ulduar/65121.mp3 타오르는 빛
 WrathOfTheLichKing/Raids/Ulduar/65133.mp3 폭풍 구름
+MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/110099.mp3 의심의 그림자
+Shadowlands/Dungeons/HallsOfAtonement/323743.mp3 유령의 행렬
+Shadowlands/Dungeons/HallsOfAtonement/323848.mp3 속죄의 그릇
+WarWithin/Dungeons/Delves/1230608.mp3 얼을 빼놓는 건틀릿
+WarWithin/Dungeons/Delves/1231893.mp3 분쇄의 발구르기
