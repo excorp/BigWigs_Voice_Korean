@@ -4352,6 +4352,7 @@ MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106841.mp3 옥룡격
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106856.mp3 용각
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/106864.mp3 옥룡각
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/107045.mp3 옥의 화염
+MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/110099.mp3 의심의 그림자
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/110125.mp3 무너진 결의
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/114646.mp3 음산한 응시
 MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/115167.mp3 타락의 물
@@ -4700,6 +4701,8 @@ Shadowlands/Dungeons/HallsOfAtonement/323142.mp3 염력 투척
 Shadowlands/Dungeons/HallsOfAtonement/323236.mp3 풀려난 괴로움
 Shadowlands/Dungeons/HallsOfAtonement/323538.mp3 힘의 화살
 Shadowlands/Dungeons/HallsOfAtonement/323650.mp3 음산한 시선 집중
+Shadowlands/Dungeons/HallsOfAtonement/323743.mp3 유령의 행렬
+Shadowlands/Dungeons/HallsOfAtonement/323848.mp3 속죄의 그릇
 Shadowlands/Dungeons/HallsOfAtonement/325701.mp3 생명력 착취
 Shadowlands/Dungeons/HallsOfAtonement/325876.mp3 절멸의 저주
 Shadowlands/Dungeons/HallsOfAtonement/326389.mp3 몰아치는 피
@@ -4977,6 +4980,7 @@ Shadowlands/Dungeons/Tazavesh/359019.mp3 빠른 박자!
 Shadowlands/Dungeons/Tazavesh/359028.mp3 보안 강타
 Shadowlands/Dungeons/Tazavesh/368661.mp3 도검 던지기
 Shadowlands/Dungeons/Tazavesh/delivery_portal.mp3 불안정한 상품 배달
+Shadowlands/Dungeons/Tazavesh/notes.mp3 음표 사용 가능
 Shadowlands/Dungeons/Tazavesh/trading_game.mp3 오아시스 입장 암호
 Shadowlands/Dungeons/Tazavesh/vault_purifier.mp3 금고 정화자
 Shadowlands/Dungeons/TheNecroticWake/320012.mp3 부정의 광기
@@ -5754,7 +5758,10 @@ WarWithin/Dungeons/Delves/1217903.mp3 불화살
 WarWithin/Dungeons/Delves/1217905.mp3 굴착기 부르기
 WarWithin/Dungeons/Delves/1217913.mp3 어둠의 화상
 WarWithin/Dungeons/Delves/1218153.mp3 불타는 잔해
+WarWithin/Dungeons/Delves/1230608.mp3 얼을 빼놓는 건틀릿
 WarWithin/Dungeons/Delves/1231144.mp3 무위의 숨결
+WarWithin/Dungeons/Delves/1231893.mp3 분쇄의 발구르기
+WarWithin/Dungeons/Delves/1231919.mp3 핵심불꽃 꿰뚫기
 WarWithin/Dungeons/Delves/1236229.mp3 비전 격퇴기
 WarWithin/Dungeons/Delves/1236256.mp3 아주 날카로운 회전베기
 WarWithin/Dungeons/Delves/1236354.mp3 영혼 착취
@@ -5762,6 +5769,8 @@ WarWithin/Dungeons/Delves/1236428.mp3 보아라!
 WarWithin/Dungeons/Delves/1236770.mp3 비전 용천수
 WarWithin/Dungeons/Delves/1237160.mp3 방사선 웅덩이
 WarWithin/Dungeons/Delves/1237258.mp3 열화성 웅덩이
+WarWithin/Dungeons/Delves/1237294.mp3 힘 빌리기
+WarWithin/Dungeons/Delves/1237381.mp3 비전 피조물 연사
 WarWithin/Dungeons/Delves/1237671.mp3 모래폭풍
 WarWithin/Dungeons/Delves/1238713.mp3 중력 분쇄
 WarWithin/Dungeons/Delves/1238737.mp3 정수의 회전베기
@@ -6454,6 +6463,7 @@ WarWithin/Raids/ManaforgeOmega/1243702.mp3 반물질
 WarWithin/Raids/ManaforgeOmega/1243771.mp3 비전 영액
 WarWithin/Raids/ManaforgeOmega/1243901.mp3 공허 수확
 WarWithin/Raids/ManaforgeOmega/1245292.mp3 불안정화
+WarWithin/Raids/ManaforgeOmega/1245726.mp3 박멸
 WarWithin/Raids/ManaforgeOmega/1246145.mp3 망각의 손길
 WarWithin/Raids/ManaforgeOmega/1246541.mp3 무위의 결속
 WarWithin/Raids/ManaforgeOmega/1246921.mp3 주입 수정탑
@@ -7317,8 +7327,3 @@ WrathOfTheLichKing/Raids/Ulduar/64733.mp3 파멸의 불길
 WrathOfTheLichKing/Raids/Ulduar/64771.mp3 방어구 융해
 WrathOfTheLichKing/Raids/Ulduar/65121.mp3 타오르는 빛
 WrathOfTheLichKing/Raids/Ulduar/65133.mp3 폭풍 구름
-MistsOfPandaria/Dungeons/TempleOfTheJadeSerpent/110099.mp3 의심의 그림자
-Shadowlands/Dungeons/HallsOfAtonement/323743.mp3 유령의 행렬
-Shadowlands/Dungeons/HallsOfAtonement/323848.mp3 속죄의 그릇
-WarWithin/Dungeons/Delves/1230608.mp3 얼을 빼놓는 건틀릿
-WarWithin/Dungeons/Delves/1231893.mp3 분쇄의 발구르기
