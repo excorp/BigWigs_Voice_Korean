@@ -5846,6 +5846,7 @@ WarWithin/Dungeons/Delves/443840.mp3 황폐의 쇄도
 WarWithin/Dungeons/Delves/444408.mp3 대변자의 분노
 WarWithin/Dungeons/Delves/444479.mp3 어둠불꽃 연발 사격
 WarWithin/Dungeons/Delves/445191.mp3 심지점화 연발 공격
+WarWithin/Dungeons/Delves/445193.mp3 화염 파편
 WarWithin/Dungeons/Delves/445210.mp3 불꽃의 돌진
 WarWithin/Dungeons/Delves/445252.mp3 괴저의 최후
 WarWithin/Dungeons/Delves/445407.mp3 피의 갈증
@@ -6400,6 +6401,7 @@ WarWithin/Raids/ManaforgeOmega/1230087.mp3 육중한 일격
 WarWithin/Raids/ManaforgeOmega/1230168.mp3 필멸성의 취약함
 WarWithin/Raids/ManaforgeOmega/1230261.mp3 황천작렬
 WarWithin/Raids/ManaforgeOmega/1230302.mp3 자폭
+WarWithin/Raids/ManaforgeOmega/1230674.mp3 국수 효과
 WarWithin/Raids/ManaforgeOmega/1230979.mp3 암흑 물질
 WarWithin/Raids/ManaforgeOmega/1231002.mp3 암흑 마력
 WarWithin/Raids/ManaforgeOmega/1231097.mp3 우주의 틈
@@ -6424,6 +6426,8 @@ WarWithin/Raids/ManaforgeOmega/1233672.mp3 불지옥 일격
 WarWithin/Raids/ManaforgeOmega/1233968.mp3 사건의 지평선
 WarWithin/Raids/ManaforgeOmega/1234044.mp3 어둠에 물든 하늘
 WarWithin/Raids/ManaforgeOmega/1234054.mp3 암흑 지진
+WarWithin/Raids/ManaforgeOmega/1234243.mp3 분쇄의 중력
+WarWithin/Raids/ManaforgeOmega/1234244.mp3 중력 반전
 WarWithin/Raids/ManaforgeOmega/1234263.mp3 우주의 붕괴
 WarWithin/Raids/ManaforgeOmega/1234266.mp3 우주의 취약함
 WarWithin/Raids/ManaforgeOmega/1234328.mp3 광자 작렬
@@ -6435,6 +6439,7 @@ WarWithin/Raids/ManaforgeOmega/1237097.mp3 천체의 추진력
 WarWithin/Raids/ManaforgeOmega/1237212.mp3 관통의 가닥
 WarWithin/Raids/ManaforgeOmega/1237272.mp3 소굴 엮기
 WarWithin/Raids/ManaforgeOmega/1237325.mp3 감마 폭발
+WarWithin/Raids/ManaforgeOmega/1237690.mp3 일월식
 WarWithin/Raids/ManaforgeOmega/1237694.mp3 대규모 사출
 WarWithin/Raids/ManaforgeOmega/1237695.mp3 우주진의 회오리
 WarWithin/Raids/ManaforgeOmega/1237696.mp3 잔해 지대
@@ -6472,7 +6477,9 @@ WarWithin/Raids/ManaforgeOmega/1247045.mp3 초과잉 주입
 WarWithin/Raids/ManaforgeOmega/1247424.mp3 무위의 흡수
 WarWithin/Raids/ManaforgeOmega/1248009.mp3 어둠의 종착지
 WarWithin/Raids/ManaforgeOmega/1248171.mp3 공허의 틈새
+WarWithin/Raids/ManaforgeOmega/1249423.mp3 대량 살상
 WarWithin/Raids/ManaforgeOmega/1250055.mp3 공허의 손아귀
+WarWithin/Raids/ManaforgeOmega/1251619.mp3 별조각 회오리
 WarWithin/Raids/NerubarPalace/432969.mp3 위상 달려들기
 WarWithin/Raids/NerubarPalace/434697.mp3 무자비한 으깨기
 WarWithin/Raids/NerubarPalace/434705.mp3 연질화
