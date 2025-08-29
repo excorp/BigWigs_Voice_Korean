@@ -4895,6 +4895,7 @@ Shadowlands/Dungeons/Tazavesh/346742.mp3 우편 뿌리기
 Shadowlands/Dungeons/Tazavesh/346766.mp3 방역 주기
 Shadowlands/Dungeons/Tazavesh/346947.mp3 불안정한 상품
 Shadowlands/Dungeons/Tazavesh/346957.mp3 불의 정화
+Shadowlands/Dungeons/Tazavesh/346961.mp3 정화장
 Shadowlands/Dungeons/Tazavesh/346962.mp3 우편환
 Shadowlands/Dungeons/Tazavesh/347094.mp3 티탄 충돌
 Shadowlands/Dungeons/Tazavesh/347149.mp3 무한의 숨결
@@ -5741,7 +5742,6 @@ WarWithin/Dungeons/Delves/1214680.mp3 흉측한 폭소
 WarWithin/Dungeons/Delves/1215015.mp3 이 녀석이요, 대장?
 WarWithin/Dungeons/Delves/1215033.mp3 장거리 융합 투사체
 WarWithin/Dungeons/Delves/1215084.mp3 다크퓨즈 칵테일
-WarWithin/Dungeons/Delves/1215090.mp3 회피 전술
 WarWithin/Dungeons/Delves/1215337.mp3 덜컹쇳덩이 폭탄
 WarWithin/Dungeons/Delves/1215374.mp3 충격 점검
 WarWithin/Dungeons/Delves/1215521.mp3 수하에게 신호하기
@@ -5947,6 +5947,7 @@ WarWithin/Dungeons/EcoDomeAldani/1221152.mp3 포식의 강타
 WarWithin/Dungeons/EcoDomeAldani/1221190.mp3 걸신들린 독기
 WarWithin/Dungeons/EcoDomeAldani/1221483.mp3 아크 에너지
 WarWithin/Dungeons/EcoDomeAldani/1221532.mp3 변덕스러운 의식
+WarWithin/Dungeons/EcoDomeAldani/1221679.mp3 천리추적자의 도약
 WarWithin/Dungeons/EcoDomeAldani/1222202.mp3 비전 불태우기
 WarWithin/Dungeons/EcoDomeAldani/1222341.mp3 어둠의 물어뜯기
 WarWithin/Dungeons/EcoDomeAldani/1222356.mp3 공간 이동
